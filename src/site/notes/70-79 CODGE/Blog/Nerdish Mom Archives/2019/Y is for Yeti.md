@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/Blog/Nerdish Mom Archives/2019/Y is for Yeti.md","permalink":"//blog/nerdish-mom-archives/2019/y-is-for-yeti/","title":"Y is for Yeti","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/2019/Y is for Yeti.md","permalink":"/blog/nerdish-mom-archives/2019/y-is-for-yeti/","title":"Y is for Yeti","created":"","updated":""}
 ---
 
 
