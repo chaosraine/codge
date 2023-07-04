@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/70-79-codge/learning-obsidian/zettelkasten/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"/Learning Obsidian/Zettelkasten.md","permalink":"//learning-obsidian/zettelkasten/","created":"","updated":""}
 ---
 
