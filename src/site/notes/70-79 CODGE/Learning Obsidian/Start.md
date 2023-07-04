@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/70-79-codge/learning-obsidian/start/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"/Learning Obsidian/Start.md","permalink":"//learning-obsidian/start/","created":"","updated":""}
 ---
 
 The obvious way to [[70-79 CODGE/Learning Obsidian/learn\|learn]] to use [[70-79 CODGE/Learning Obsidian/Obsidian\|Obsidian]] and the [[70-79 CODGE/Learning Obsidian/Zettelkasten\|Zettelkasten]] system is by using Obsidian and the Zettlkasten system to learn how to use it.
