@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/Blog/Nerdish Mom Archives/2019/U is for Unicorns.md","permalink":"//blog/nerdish-mom-archives/2019/u-is-for-unicorns/","title":"U is for Unicorns","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/2019/U is for Unicorns.md","permalink":"/blog/nerdish-mom-archives/2019/u-is-for-unicorns/","title":"U is for Unicorns","created":"","updated":""}
 ---
 
 
