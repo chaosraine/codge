@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/70-79-codge/learning-obsidian/learn/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"/Learning Obsidian/learn.md","permalink":"//learning-obsidian/learn/","created":"","updated":""}
 ---
 
