@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/70-79-codge/blog/nerdish-mom-archives/2019/d-is-for-dia-de-muertos/","title":"D is for Día de Muertos","created":"","updated":""}
+{"dg-publish":true,"dg-path":"/Blog/Nerdish Mom Archives/2019/D is for Día de Muertos.md","permalink":"//blog/nerdish-mom-archives/2019/d-is-for-dia-de-muertos/","title":"D is for Día de Muertos","created":"","updated":""}
 ---
 
 
