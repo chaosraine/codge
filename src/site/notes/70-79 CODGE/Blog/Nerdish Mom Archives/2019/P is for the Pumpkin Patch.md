@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/70-79-codge/blog/nerdish-mom-archives/2019/p-is-for-the-pumpkin-patch/","title":"P is for the Pumpkin Patch!","created":"","updated":""}
+{"dg-publish":true,"dg-path":"/Blog/Nerdish Mom Archives/2019/P is for the Pumpkin Patch.md","permalink":"//blog/nerdish-mom-archives/2019/p-is-for-the-pumpkin-patch/","title":"P is for the Pumpkin Patch!","created":"","updated":""}
 ---
 
 
