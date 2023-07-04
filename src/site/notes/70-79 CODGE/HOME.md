@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/70-79-codge/home/","title":"🏠 HOME","contentClasses":"dashboard","tags":["gardenEntry"],"created":"","updated":""}
+---
+
+
+![CO logo square.jpeg](/img/user/70-79%20CODGE/Assets/Attachments/CO%20logo%20square.jpeg)
+
+- ### [[70-79 CODGE/Roleplanning/Roleplanning\|70-79 CODGE/Roleplanning/Roleplanning]]
+  CORPS is a planning system that combines a traditional planner with elements from tabletop roleplaying games to allow you to level up in real life. Learn More!
+
+- ### [[70-79 CODGE/Ex-Gifted Podcast/Ex-Gifted Podcast\|Podcast]]
+  [Ex-Gifted](https://exgifted.com/)
+  If you were an exceptional child who finds yourself struggling to get by as an adult, then check out the Ex-Gifted podcast to learn how to deal with former gifted kid burnout.
+
+- ### [[70-79 CODGE/Blog/Blog\|Blog]]
+  [[70-79 CODGE/Blog/Blog\|Raine in Chaos]]
+  Find general advice about building systems to keep your mind, time, and space organized, but in a way that works for your chaotic brain.
+
