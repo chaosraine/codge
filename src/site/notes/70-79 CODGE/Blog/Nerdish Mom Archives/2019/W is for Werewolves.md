@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/70-79-codge/blog/nerdish-mom-archives/2019/w-is-for-werewolves/","title":"W is for Werewolves","created":"","updated":""}
+{"dg-publish":true,"dg-path":"/Blog/Nerdish Mom Archives/2019/W is for Werewolves.md","permalink":"//blog/nerdish-mom-archives/2019/w-is-for-werewolves/","title":"W is for Werewolves","created":"","updated":""}
 ---
 
 
