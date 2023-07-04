@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/70-79-codge/blog/nerdish-mom-archives/2019/x-is-for-x-rays/","title":"X is for X-Rays","created":"","updated":""}
+{"dg-publish":true,"dg-path":"/Blog/Nerdish Mom Archives/2019/X is for X-Rays.md","permalink":"//blog/nerdish-mom-archives/2019/x-is-for-x-rays/","title":"X is for X-Rays","created":"","updated":""}
 ---
 
 
