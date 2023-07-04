@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/70-79-codge/learning-obsidian/recursive-learning/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"/Learning Obsidian/recursive learning.md","permalink":"//learning-obsidian/recursive-learning/","created":"","updated":""}
 ---
 
