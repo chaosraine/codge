@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"podcast","permalink":"/podcast/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"/Ex-Gifted Podcast/Ex-Gifted Podcast.md","dg-permalink":"podcast","permalink":"/podcast/","created":"","updated":""}
 ---
 
 
