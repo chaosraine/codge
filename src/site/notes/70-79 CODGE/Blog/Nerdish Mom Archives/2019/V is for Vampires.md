@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/70-79-codge/blog/nerdish-mom-archives/2019/v-is-for-vampires/","title":"V is for Vampires","created":"","updated":""}
+{"dg-publish":true,"dg-path":"/Blog/Nerdish Mom Archives/2019/V is for Vampires.md","permalink":"//blog/nerdish-mom-archives/2019/v-is-for-vampires/","title":"V is for Vampires","created":"","updated":""}
 ---
 
 
