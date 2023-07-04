@@ -13,13 +13,13 @@ Submit your best designs below - especially if you trace it onto a real pumpkin 
 
 We had a busy day yesterday that ended up with us snacking in bed and each coloring our own pumpkins. I asked my gal Friday whether she wanted an orange pumpkin or white, and she answered yellow like Pikachu. So I printed off a white and she did hers DIY.
 
-![](/img/user/70-79 CODGE/Assets/Attachments/20191011_0248571100064823961703828.jpg)
+![](/img/user/80-89 Assets/82 - Photo Attachments/20191011_0248571100064823961703828.jpg)
 
 I had this idea that I’d do some fancy lettering, but I didn’t think about the fact that I’m terrible at those things. You can probably see where I found a groove along the way and then totally lost it again!
 
 Download your own pumpkin from the [chaoticorganized.com Homeschool folder](https://drive.google.com/folderview?id=1IeXjASuw4XsMoFqg1Mbo-B_11j_sHil-). Get it in pumpkin color or make it your own like MGF did with her Pika-Pumpkin.
 
-![31 posts of october day 11 J is for jack-o-lantern and the problem with printers](/img/user/70-79 CODGE/Assets/Attachments/20191011_024527_00002694101814870599166.png)
+![31 posts of october day 11 J is for jack-o-lantern and the problem with printers](/img/user/80-89 Assets/82 - Photo Attachments/20191011_024527_00002694101814870599166.png)
 
 ## The Problem with Printers
 
