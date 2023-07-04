@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/70-79-codge/roleplanning/roleplanning/","title":"Roleplanning","created":"","updated":""}
+{"dg-publish":true,"dg-path":"/Roleplanning/Roleplanning.md","permalink":"//roleplanning/roleplanning/","title":"Roleplanning","created":"","updated":""}
 ---
 
 
