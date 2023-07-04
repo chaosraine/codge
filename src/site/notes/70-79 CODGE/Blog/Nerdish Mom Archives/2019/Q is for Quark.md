@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/Blog/Nerdish Mom Archives/2019/Q is for Quark.md","permalink":"//blog/nerdish-mom-archives/2019/q-is-for-quark/","title":"Q is for Quark","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/2019/Q is for Quark.md","permalink":"/blog/nerdish-mom-archives/2019/q-is-for-quark/","title":"Q is for Quark","created":"","updated":""}
 ---
 
 
