@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/Blog/Nerdish Mom Archives/2019/S is for Samhain.md","permalink":"//blog/nerdish-mom-archives/2019/s-is-for-samhain/","title":"S is for Samhain","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/2019/S is for Samhain.md","permalink":"/blog/nerdish-mom-archives/2019/s-is-for-samhain/","title":"S is for Samhain","created":"","updated":""}
 ---
 
 
