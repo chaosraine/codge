@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/Blog/Nerdish Mom Archives/2019/T is for Trick-or-Treating.md","permalink":"//blog/nerdish-mom-archives/2019/t-is-for-trick-or-treating/","title":"T is for Trick-or-Treating","tags":["gameschooling","halloween"],"created":"","updated":""}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/2019/T is for Trick-or-Treating.md","permalink":"/blog/nerdish-mom-archives/2019/t-is-for-trick-or-treating/","title":"T is for Trick-or-Treating","tags":["gameschooling","halloween"],"created":"","updated":""}
 ---
 
 
