@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/70-79-codge/blog/nerdish-mom-archives/2019/i-is-for-igor-s-ichor/","title":"I is for Igor's Ichor (and Innards)","tags":["experiments"],"created":"","updated":""}
+{"dg-publish":true,"dg-path":"/Blog/Nerdish Mom Archives/2019/I is for Igor's Ichor.md","permalink":"//blog/nerdish-mom-archives/2019/i-is-for-igor-s-ichor/","title":"I is for Igor's Ichor (and Innards)","tags":["experiments"],"created":"","updated":""}
 ---
 
 
