@@ -3,7 +3,7 @@
 ---
 
 
-![CO logo square.jpeg](/img/user/70-79%20CODGE/Assets/Attachments/CO%20logo%20square.jpeg)
+![CO logo square.jpeg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/CO%20logo%20square.jpeg)
 
 - ### [[70-79 CODGE/Roleplanning/Roleplanning\|70-79 CODGE/Roleplanning/Roleplanning]]
   CORPS is a planning system that combines a traditional planner with elements from tabletop roleplaying games to allow you to level up in real life. Learn More!

@@ -9,7 +9,7 @@ Many of my posts will delve deeper into the Halloween homeschool ideas listed be
 
 ## 31 Halloween Homeschool ideas/activities 
 
-![31 posts of october - advertising the 31 halloween homeschool ideas](/img/user/70-79 CODGE/Assets/Attachments/Copy-of-31-posts-of-October.png)
+![31 posts of october - advertising the 31 halloween homeschool ideas](/img/user/80-89 Assets/82 - Photo Attachments/Copy-of-31-posts-of-October.png)
 
 ### 1. [[70-79 CODGE/Blog/Nerdish Mom Archives/2019/A is For All Hallows Eve\|All Hallow's Eve]]
 

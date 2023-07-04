@@ -7,7 +7,7 @@ _If you use make a purchase using any of the links in this post, I’ll earn a s
 
 **Check out [Rocketbook](https://bit.ly/3hwFZh4) bundles to save some cash anytime!**
 
-![](/img/user/70-79 CODGE/Assets/Attachments/20200828_214106_00004866567604143944930.png)
+![](/img/user/80-89 Assets/82 - Photo Attachments/20200828_214106_00004866567604143944930.png)
 
 ## Why make a custom planner?
 
@@ -19,7 +19,7 @@ Of course the benefit to the freestyle bullet journal is that you don’t waste 
 
 A better way to save paper without going fully digital is to make a custom planner with Rocketbook.
 
-[![Text overlay: Make a custom planner with rocketbook core. Image: Two hands writing in a Rocketbook reusable notebook with another in the background as well as a computer and book](/img/user/70-79 CODGE/Assets/Attachments/wp-15986653799136623640287468980636.png)](https://bit.ly/3hwFZh4)
+[![Text overlay: Make a custom planner with rocketbook core. Image: Two hands writing in a Rocketbook reusable notebook with another in the background as well as a computer and book](/img/user/80-89 Assets/82 - Photo Attachments/wp-15986653799136623640287468980636.png)](https://bit.ly/3hwFZh4)
 
 Rocketbook is a physical notebook with coated pages. It writes like paper, but when you use a certain type of pen (anything from the Pilot Frixion line of erasable pens, which is fairly extensive), it wipes off easily with water. But before erasing all your hard work, open up the Rocketbook app, line up a page in the camera viewer, and instantly beam your pages to email, Google Drive, or straight into Trello (there are other integrations as well – these are the ones I use) and take them with you anywhere.
 
@@ -37,30 +37,30 @@ You can customize the [Rocketbook Core](https://getrocketbook.com/products/rock
 
 Here’s some samples from my journal:
 
-- ![](/img/user/70-79 CODGE/Assets/Attachments/wp-15986640733635803599592410936797.jpg)
+- ![](/img/user/80-89 Assets/82 - Photo Attachments/wp-15986640733635803599592410936797.jpg)
     
-- ![](/img/user/70-79 CODGE/Assets/Attachments/wp-15986641553804709728079495819580.jpg)
+- ![](/img/user/80-89 Assets/82 - Photo Attachments/wp-15986641553804709728079495819580.jpg)
     
-- ![](/img/user/70-79 CODGE/Assets/Attachments/wp-15986642195076899026522907495468.jpg)
+- ![](/img/user/80-89 Assets/82 - Photo Attachments/wp-15986642195076899026522907495468.jpg)
     
-- ![](/img/user/70-79 CODGE/Assets/Attachments/wp-15986642101786824290194595343594.jpg)
+- ![](/img/user/80-89 Assets/82 - Photo Attachments/wp-15986642101786824290194595343594.jpg)
     
 
 Please forgive that there is a lot of white space. I am still working on my habits! lol
 
 And this is what the scans look like:
 
-- ![](/img/user/70-79 CODGE/Assets/Attachments/wp-15986639094749003025397620419484.jpg)
+- ![](/img/user/80-89 Assets/82 - Photo Attachments/wp-15986639094749003025397620419484.jpg)
     
-- ![](/img/user/70-79 CODGE/Assets/Attachments/wp-15986637953025460114024904676724.jpg)
+- ![](/img/user/80-89 Assets/82 - Photo Attachments/wp-15986637953025460114024904676724.jpg)
     
-- ![](/img/user/70-79 CODGE/Assets/Attachments/wp-15986638648745532453357194909488.jpg)
+- ![](/img/user/80-89 Assets/82 - Photo Attachments/wp-15986638648745532453357194909488.jpg)
     
-- ![](/img/user/70-79 CODGE/Assets/Attachments/wp-15986638550135372124915224436687.jpg)
+- ![](/img/user/80-89 Assets/82 - Photo Attachments/wp-15986638550135372124915224436687.jpg)
     
-- ![](/img/user/70-79 CODGE/Assets/Attachments/wp-1598663898032124569829263245012.jpg)
+- ![](/img/user/80-89 Assets/82 - Photo Attachments/wp-1598663898032124569829263245012.jpg)
     
-- ![](/img/user/70-79 CODGE/Assets/Attachments/wp-15986638835396396562294242806127.jpg)
+- ![](/img/user/80-89 Assets/82 - Photo Attachments/wp-15986638835396396562294242806127.jpg)
     
 
 Note that some colors don’t come through as well, but that’s not a huge problem for decorative elements.

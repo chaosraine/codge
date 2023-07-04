@@ -13,7 +13,7 @@ Not only do I feel tons of mom-guilt for having missed several festivals and tru
 
 We may just be going as a bunch of hot messes this year… In other words no costumes at all.   
 
-![t is for trick-or-treating](/img/user/70-79 CODGE/Assets/Attachments/20191024_025046_0000.png)
+![t is for trick-or-treating](/img/user/80-89 Assets/82 - Photo Attachments/20191024_025046_0000.png)
 
 ## **T is for Trick-or-Treating**
 

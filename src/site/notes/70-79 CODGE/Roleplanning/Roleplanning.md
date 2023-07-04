@@ -9,7 +9,7 @@ What is Roleplanning?
 
 [Learn More](#what-is-roleplanning)
 
-![](/img/user/70-79 CODGE/Assets/Attachments/IMG_0639-1024x773.jpg)
+![](/img/user/80-89 Assets/82 - Photo Attachments/IMG_0639-1024x773.jpg)
 
 ### [[70-79 CODGE/Roleplanning/Roleplanning#Frequently asked questions\|FAQ]]
 Everything you've been wondering about Roleplanning

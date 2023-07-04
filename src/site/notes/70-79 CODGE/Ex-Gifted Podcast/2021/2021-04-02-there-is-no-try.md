@@ -3,7 +3,7 @@
 ---
 
 
-![Episode 1: There is no Try. A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Ren Eliza from chaoticorganized.com](/img/user/70-79 CODGE/Assets/Attachments/Images-3-e1616908232273-1024x568.png)
+![Episode 1: There is no Try. A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Ren Eliza from chaoticorganized.com](/img/user/80-89 Assets/82 - Photo Attachments/Images-3-e1616908232273-1024x568.png)
 
 <script src="https://www.buzzsprout.com/1675732/8222918-there-is-no-try.js?container_id=buzzsprout-player-8222918&amp;player=small" type="text/javascript" charset="utf-8"></script>
 
@@ -47,7 +47,7 @@ This included things like learning to play an instrument. If I couldn't play a s
 
 Slowly I began to move away from things if I didn't have a good reason to think that I would be immediately successful, I was always supposed to just do a thing without effort. You know the meme dog? No try, only succeed. Do. Or do not right? I shouldn't have to try.
 
-![the no take only throw meme. In the first panel the dog says pls success. In the second panel he scowls and says "no try!!" in the final panel he says "only success"](/img/user/70-79 CODGE/Assets/Attachments/no try comic.jpg)
+![the no take only throw meme. In the first panel the dog says pls success. In the second panel he scowls and says "no try!!" in the final panel he says "only success"](/img/user/80-89 Assets/82 - Photo Attachments/no try comic.jpg)
 
 Now, if you thought about it a lot here, you’re probably shaking your head and saying “that's not what Yoda meant!” or “of course he's right. Come on, he's Yoda.” I asked my partner about this right before recording the episode and he said “Yoda would never say something like that,” referring to the way that I used to think he meant it. And yes, actually, Master Yoda is right. I just didn't understand what he meant. 
 

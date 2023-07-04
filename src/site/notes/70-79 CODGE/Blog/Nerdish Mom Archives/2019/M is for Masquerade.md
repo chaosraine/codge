@@ -9,7 +9,7 @@ It's a two-fer
 
 So I couldn't really think of something to do for N that's explicitly Halloweeny. Probably I'm missing something really obvious. So since both of these are short, and I have a non-explicitly Halloweeny post lined up for tomorrow, I decided to combine these two. They're kinda of a theme so hopefully it'll work! 
 
-![M is for masquerade/n is for noir](/img/user/70-79 CODGE/Assets/Attachments/Copy-of-Untitled-Design.png)
+![M is for masquerade/n is for noir](/img/user/80-89 Assets/82 - Photo Attachments/Copy-of-Untitled-Design.png)
 
 ## **M is for Masquerade**
 
