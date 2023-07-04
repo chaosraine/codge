@@ -47,7 +47,7 @@ There's a bunch of tutorials out there, but they would all require I actually le
 - A drill if you use a hard lid as a top and need to make holes
 - Cornstarch (optional)
 
-![](/img/user/70-79 CODGE/Assets/Attachments/20191006_1925366277966026130103377.jpg)
+![](/img/user/80-89 Assets/82 - Photo Attachments/20191006_1925366277966026130103377.jpg)
 
 ### Directions
 
@@ -68,7 +68,7 @@ If you wanna get really detailed with it you gotta give [the Pakistan Science Cl
 
 Here's a mask printable of today's little monster. It's about 6 inches by default so resize as necessary. You can [modify it on Canva](https://canva.me/CSJp57sFy0) to ensure a proper pupil-to-pupil distance for your little monster!
 
-![](/img/user/70-79 CODGE/Assets/Attachments/20191006_022643_00008192212787017220970.png)
+![](/img/user/80-89 Assets/82 - Photo Attachments/20191006_022643_00008192212787017220970.png)
 
 ## Advice? 
 
