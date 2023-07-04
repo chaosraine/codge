@@ -5,7 +5,7 @@
 
 Join us again in Dr. Frankenstein’s lab where his assistant Igor (pronounced eye-gore, of course!) is running things and letting us stick our hands into everything squishy.
 
-![I is for Igor's Ichor and Innards](/img/user/70-79 CODGE/Assets/Attachments/Untitled-design-2.png)
+![I is for Igor's Ichor and Innards](/img/user/80-89 Assets/82 - Photo Attachments/Untitled-design-2.png)
 
 Yesterday didn't work out for the [Haunted House food tricks](https://www.foodnetwork.ca/archives/blog/10-easy-haunted-house-food-tricks/13829/) but hey look, today works just as well. In addition to Igor's Ichor we can play around with some squishy eyeballs and smoosh our hands into a brain.
 
@@ -29,11 +29,11 @@ Dump your cornstarch into a medium/small bowl
 
 Add any additives to make it extra pretty - we used 4 drops of green food coloring and 2 of blue
 
-![](/img/user/70-79 CODGE/Assets/Attachments/20191009_1506351430982382025047924-1-1024x768.jpg)
+![](/img/user/80-89 Assets/82 - Photo Attachments/20191009_1506351430982382025047924-1-1024x768.jpg)
 
 Add the water _one tablespoon at a time_ and mix thoroughly. It’s easy to add too much water. (If you do though, just add another tablespoon of cornstarch)
 
-![](/img/user/70-79 CODGE/Assets/Attachments/20191009_1512224059008075365397963-1-1024x768.jpg)
+![](/img/user/80-89 Assets/82 - Photo Attachments/20191009_1512224059008075365397963-1-1024x768.jpg)
 
 It’s very hard to mix. That’s normal, and, in fact, is part of the point. Go slowly until you’ve got an oozy gloop without too many lumps. The food coloring will help you ensure that it’s mixed through!
 
@@ -41,7 +41,7 @@ It should be very goopy, not watery. Too much water will break the slime.
 
 Play around with it - what do you see? Compare how it looks with how it moves. Turn the whole thing upside down (with another bowl underneath it - this isn’t Dairy Queen!) and see what happens!
 
-![](/img/user/70-79 CODGE/Assets/Attachments/20191009_1518588398544954308962332-1024x768.jpg)
+![](/img/user/80-89 Assets/82 - Photo Attachments/20191009_1518588398544954308962332-1024x768.jpg)
 
 This particular ooze is my favorite to make at home because a) it’s dead easy b) it’s what’s known to us scientists as a non-Newtonian fluid. What that means is that it has a viscosity that changes depending on how hard/fast you touch it. Water moves easily and has a low viscosity - honey is thick and moves slowly so it has a high viscosity. Igor’s Ichor (commonly called “oobleck”) offers resistance similar to a solid when you’re trying to stir it or grab a handful, then drips right off your fingers like a liquid.  
 Watch a [video explanation](https://www.youtube.com/watch?v=Fnd-2jetT1w) from Crash Course Kids!
@@ -52,7 +52,7 @@ Find more slimy recipes at [Home Science Tools](https://www.homesciencetools.com
 
 In addition to Igor's ichor, he let us get our hands on some eyeballs, a brain, and of course intestines! Peeled grapes are an absolute classic, but I loved trying out the marshmallow intestines. Because MGF loves eating marshmallows as a snack, it was something we actually had around the house.
 
-![](/img/user/70-79 CODGE/Assets/Attachments/20191010_0006118378000407447317032-1024x768.jpg)
+![](/img/user/80-89 Assets/82 - Photo Attachments/20191010_0006118378000407447317032-1024x768.jpg)
 
 We used the "recipes" found at Food Network Canada - link above.
 
@@ -67,7 +67,7 @@ We used the "recipes" found at Food Network Canada - link above.
       
     I eyeballed these but if you make entirely too much oatmeal like I did just save some for breakfast (assuming you notice before mixing it all together)
 
-![](/img/user/70-79 CODGE/Assets/Attachments/20191009_2302312996092008076529433-1024x768.jpg)
+![](/img/user/80-89 Assets/82 - Photo Attachments/20191009_2302312996092008076529433-1024x768.jpg)
 
 #### Steps:
 
@@ -79,7 +79,7 @@ We used the "recipes" found at Food Network Canada - link above.
 6. Shake out the colander and get it pretty well drained out
 7. Place the colander-bowl apparatus in the refrigerator to set for at least an hour or two. We cooked up all this stuff at night to play with in the morning.
 
-![](/img/user/70-79 CODGE/Assets/Attachments/20191009_2304357727625306379467961-1024x768.jpg)
+![](/img/user/80-89 Assets/82 - Photo Attachments/20191009_2304357727625306379467961-1024x768.jpg)
 
 ### Igor's Innards
 
@@ -103,7 +103,7 @@ We used the "recipes" found at Food Network Canada - link above.
 4. Cover with just a bit of water and kind of toss to coat - of course making sure you don't get food coloring all over everywhere
 5. I let this sit overnight as well, tossing it a few times to make sure that it was really getting good and soaked in and sloppy
 
-![](/img/user/70-79 CODGE/Assets/Attachments/20191009_2339016544210084199468939-768x1024.jpg)
+![](/img/user/80-89 Assets/82 - Photo Attachments/20191009_2339016544210084199468939-768x1024.jpg)
 
 ### Igor's Eye Gore
 
@@ -114,7 +114,7 @@ We used the "recipes" found at Food Network Canada - link above.
       
     I used smallish red grapes because they were what we had that were already nearing end of life, but if you have any giant globe grapes even better! Red are nice because the bits of red skin look like blood vessels, but any are fine.
 
-![](/img/user/70-79 CODGE/Assets/Attachments/20191009_234105570287085292765587-1024x768.jpg)
+![](/img/user/80-89 Assets/82 - Photo Attachments/20191009_234105570287085292765587-1024x768.jpg)
 
 #### Steps:
 
@@ -123,7 +123,7 @@ We used the "recipes" found at Food Network Canada - link above.
 3. Allow them to come to room temperature (optional but they will feel a little bit more realistic temperature vs at cool temperature.)
 4. You might even want to toss them in a little bit of the pink gloop from either your marshmallows or brain. You don't want them dripping in blood but having a little bit of extra slime and just a hint of the food coloring could be a nice touch
 
-![](/img/user/70-79 CODGE/Assets/Attachments/20191010_0003361729850493415323818-768x1024.jpg)
+![](/img/user/80-89 Assets/82 - Photo Attachments/20191010_0003361729850493415323818-768x1024.jpg)
 
 I'll provide an update tomorrow when we actually get up and play with these things and we'll see how MGF reacts to the gross haunted house stuff.
 
