@@ -3,6 +3,10 @@
 ---
 
 
+
+![80-89 Assets/82 - Photo Attachments/IMG_1356.jpeg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/IMG_1356.jpeg)
+
+![IMG_1356.jpeg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/IMG_1356.jpeg)
 ## Productivity Advice Sucks
 
 Have you studied tons of productivity methods or time management tricks only to find that they don’t work for you at all, or only work for a little while, leaving you feeling like the failure? (Here’s a secret in advance: it’s okay if a method only works for a while.) 
@@ -586,10 +590,11 @@ Don't have time to get started right now? Join the mailing list and the first em
 
 ### Apps I use
 
-[Tiimo](https://www.tiimoapp.com) - a visual daily planner designed by members of the neurodiversity community specifically for ND people. ($4.49/month paid to ND developers or about $2/month if paid annually!) They also have apps for Android and Apple smartwatches (none for my Fitbit sadly!)
+[Tiimo](https://www.tiimoapp.com) - a visual daily planner designed by members of the neurodiversity community specifically for ND people. ($4.49/month paid to ND developers or about $3/month if paid annually!) They also have apps for Android and Apple smartwatches (none for Fitbit sadly!)
 
 These rest of these are free apps: (some of the following will be affiliate links which means if you do make an account or sign up for a paid upgraded version I may receive a commission at no cost to you. Thanks!)
 
+- [Obsidian](https://obsidian.md) - in 2023, I use [[70-79 CODGE/Learning Obsidian/Obsidian\|Obsidian]] for all my digital note-taking, task management, project organization, and even writing and publishing this website. 
 - [Trello](https://trello.com/laurenreese7/recommend) - A kanban app - a system with organized cards laid out in a visual manner (this is my go-to app for everything because I love being able to see everything)
 - [Todoist](https://todoist.com/r/lauren_reese_eugpzq) - a to-do app with natural language input. Supports several different views, recurring tasks, reminders, etc…
 - [Tody](http://todyapp.com) - for household cleaning management
@@ -651,7 +656,7 @@ This is a [method from Mark Forster](https://lifehacker.com/the-autofocus-produc
 
 In an approximate breakdown:
 
-- List your to-do items in a notebook. 
+- List your to-do items in a notebook (or [[70-79 CODGE/Learning Obsidian/Obsidian\|Obsidian]]). 
 - Scan quickly over each item
 - Look over the list again, more carefully, and watch for what jumps out at you.
 - Work on that as long as you can then cross it off the list
