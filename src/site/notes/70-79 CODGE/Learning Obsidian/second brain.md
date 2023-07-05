@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Learning Obsidian/second brain.md","permalink":"/learning-obsidian/second-brain/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Learning Obsidian/second brain.md","permalink":"/learning-obsidian/second-brain/","noteIcon":"","created":"","updated":""}
 ---
 
 A second brain is any repository of [[information\|information]] that allows you to store the [[contents of your mind\|contents of your mind]] and all of your [[insight\|insight]], [[ideas\|ideas]], and [[questions\|questions]] somewhere externally so you can easily [[find it later\|find it later]]
