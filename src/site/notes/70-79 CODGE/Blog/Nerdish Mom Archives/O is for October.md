@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/O is for October.md","permalink":"/blog/nerdish-mom-archives/o-is-for-october/","title":"O is for October and other oddities","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/O is for October.md","permalink":"/blog/nerdish-mom-archives/o-is-for-october/","title":"O is for October and other oddities","noteIcon":"","created":"","updated":""}
 ---
 
 
