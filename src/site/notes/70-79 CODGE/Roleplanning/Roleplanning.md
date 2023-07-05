@@ -9,7 +9,7 @@ What is Roleplanning?
 
 [Learn More](#what-is-roleplanning)
 
-![](/img/user/80-89 Assets/82 - Photo Attachments/IMG_0639-1024x773.jpg)
+![IMG_0639-1024x773.jpg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/IMG_0639-1024x773.jpg)
 
 ### [[70-79 CODGE/Roleplanning/Roleplanning#Frequently asked questions\|FAQ]]
 Everything you've been wondering about Roleplanning
@@ -22,11 +22,7 @@ Watch my session zero, learn how to level up, learn how to use the system in you
 
 ### [Shop](https://ko-fi.com/reneliza/shop)
 
-Pre-order the Roleplanning starter bundle for 2022.
 
-
-
-](https://ko-fi.com/reneliza/shop/)
 
 ## What is Roleplanning?
 
