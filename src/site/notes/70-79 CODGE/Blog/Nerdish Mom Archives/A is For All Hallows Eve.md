@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/A is For All Hallows Eve.md","permalink":"/blog/nerdish-mom-archives/a-is-for-all-hallows-eve/","title":"A is For All Hallows Eve","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/A is For All Hallows Eve.md","permalink":"/blog/nerdish-mom-archives/a-is-for-all-hallows-eve/","title":"A is For All Hallows Eve","noteIcon":"","created":"","updated":""}
 ---
 
 
