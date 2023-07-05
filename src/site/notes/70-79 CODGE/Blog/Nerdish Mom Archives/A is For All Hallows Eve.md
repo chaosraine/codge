@@ -7,7 +7,7 @@
 
 A is for All Hallows Eve! It's the first day of October so that means the start of Halloween season and the [31 Posts of October](https://chaoticorganized.com/2019/09/22/31-halloween-homeschool-ideas/)! Today let's learn a bit of Halloween history.
 
-![A-is-for-All-Hallows-Eve.png](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/A-is-for-All-Hallows-Eve.png)A-is-for-All-Hallows-Eve.png
+![A-is-for-All-Hallows-Eve.png](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/A-is-for-All-Hallows-Eve.png)
 
 ## A is for All Hallows Eve
 
