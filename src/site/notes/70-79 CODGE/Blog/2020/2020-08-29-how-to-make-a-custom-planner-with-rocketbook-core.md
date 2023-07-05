@@ -81,6 +81,8 @@ My absolute favorite thing about Rocketbook – they let you [try the app and b
 
 Don’t try for too long though, the [20% off sale](https://bit.ly/3hwFZh4) only lasts until Tuesday, September 1st! I’m getting myself a few executive sized notebooks and one of the Flip books for my kindergartener to manage her homeschool lessons. The free mini notebook is great for throwing in the purse for keeping the kids entertained when out and about and is perfect for making GIFs!
 
+![[rocketbook\|rocketbook]]
+
 [![](images/Rocketbook-Planner-Pin-2-683x1024.png)](http://www.pinterest.com/pin/89509111333990292)
 
 Do you have a Rocketbook yet? Do you use a paper planner? How could a Rocketbook help you? What are your favorite journal modules? I always need more! Hit up the comments!
