@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/X is for X-Rays.md","permalink":"/blog/nerdish-mom-archives/x-is-for-x-rays/","title":"X is for X-Rays","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/X is for X-Rays.md","permalink":"/blog/nerdish-mom-archives/x-is-for-x-rays/","title":"X is for X-Rays","noteIcon":"","created":"","updated":""}
 ---
 
 
