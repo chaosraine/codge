@@ -7,7 +7,7 @@
 
 - blog at [[70-79 CODGE/Blog/Blog\|Raine in Chaos]]
 - email list: sign up here -->
-- podcast [[70-79 CODGE/Ex-Gifted Podcast/Ex-Gifted Podcast\|Ex-Gifted Podcast]]
+- podcast [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|16 Podcast]]
 
 ## I also offer support if you contact me directly at:
 
