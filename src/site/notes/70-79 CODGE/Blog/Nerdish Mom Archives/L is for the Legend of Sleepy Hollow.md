@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/L is for the Legend of Sleepy Hollow.md","permalink":"/blog/nerdish-mom-archives/l-is-for-the-legend-of-sleepy-hollow/","title":"L is for the Legend of Sleepy Hollow","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/L is for the Legend of Sleepy Hollow.md","permalink":"/blog/nerdish-mom-archives/l-is-for-the-legend-of-sleepy-hollow/","title":"L is for the Legend of Sleepy Hollow","noteIcon":"","created":"","updated":""}
 ---
 
 
