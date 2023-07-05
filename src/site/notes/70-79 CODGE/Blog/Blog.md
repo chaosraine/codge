@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Blog.md","dg-permalink":"blog","permalink":"/blog/","contentClasses":"dashboard cards","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Blog/Blog.md","dg-permalink":"blog","permalink":"/blog/","contentClasses":"cards","noteIcon":"","created":"","updated":""}
 ---
-
 
 | Cover                                                                                    | Title                                                                                                                                                                               | Published  |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
