@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/I is for Igor's Ichor.md","permalink":"/blog/nerdish-mom-archives/i-is-for-igor-s-ichor/","title":"I is for Igor's Ichor (and Innards)","tags":["experiments"],"created":"","updated":""}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/I is for Igor's Ichor.md","permalink":"/blog/nerdish-mom-archives/i-is-for-igor-s-ichor/","title":"I is for Igor's Ichor (and Innards)","tags":["experiments"],"noteIcon":"","created":"","updated":""}
 ---
 
 
