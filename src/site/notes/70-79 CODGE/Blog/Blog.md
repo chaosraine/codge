@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Blog.md","dg-permalink":"blog","permalink":"/blog/","contentClasses":"cards","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Blog/Blog.md","dg-permalink":"blog","permalink":"/blog/","contentClasses":"cards cards-2-1","noteIcon":"","created":"","updated":""}
 ---
 
 | Cover                                                                                    | Title                                                                                                                                                                               | Published  |
