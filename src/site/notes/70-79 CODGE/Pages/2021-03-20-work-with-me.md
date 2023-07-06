@@ -5,7 +5,7 @@
 
 ## I offer all my best ideas for free on my:
 
-- blog at [[70-79 CODGE/Blog/Blog\|Raine in Chaos]]
+- blog at [[10-19 💢 Bardacht/14 Blog/14 Blog\|Raine in Chaos]]
 - email list: sign up here -->
 - podcast [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|16 Podcast]]
 
