@@ -9,16 +9,13 @@ Today we play a classic Halloween game and turn it into a Very Serious science e
 
 ## Update: Results
 
-obsidian://open?vault=Chaotic%20Organized&file=Assets%2F20191002_122211-e1570077046218-1024x839.jpg
-
-
-![](/img/user/80-89 Assets/82 - Photo Attachments/20191002_122211-e1570077046218-1024x839.jpg)
+![20191002-bobbing-for-apples.jpg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/20191002-bobbing-for-apples.jpg)
 
 Bobbing for apples was a success of fun, if not of apple bobbing.
 
 We definitely had a lot of fun, and a little bit of butting heads ("Noooo! You have to guess if it'll sink *before* you put it in the water!") doing our experiment today. We do primarily child-led play so I think it was a little bit different for her to have to follow my instructions. What ended up helping was telling MGF that she was a robot and had to wait for a command from me - a variation on Simon says!
 
-![will it float results](/img/user/80-89 Assets/82 - Photo Attachments/20191002_125643-e1570077274256-1024x625.jpg)
+![20191002_125643-e1570077274256-1024x625.jpg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/20191002_125643-e1570077274256-1024x625.jpg)
 
 Luckily she was done going face first into the water before filling the bowl with mulch
 
@@ -38,7 +35,7 @@ Bobbing for apples is like palming a basketball but with your mouth. First of al
 
 Bobbing for apples could be its own science experiment. How could we make it easier? What would happen if the apple was in a shallow bowl instead of a large tub? What if they were sliced? Would another fruit be easier? Why?
 
-![B is for bobbing for apples or will it float](/img/user/80-89 Assets/82 - Photo Attachments/B-is-for-Bobbing-for-Apples-2.png)
+![B-is-for-Bobbing-for-Apples-2.png](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/B-is-for-Bobbing-for-Apples-2.png)
 
 ## Will it Float?
 

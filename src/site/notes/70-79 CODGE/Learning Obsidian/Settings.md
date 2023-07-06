@@ -3,3 +3,7 @@
 ---
 
 ## My preferred settings
+
+[[60-69 〰️ Dialann/Using Obsidian/plugins\|Plugins]]
+
+[[Themes\|Themes]]
