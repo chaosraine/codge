@@ -5,7 +5,7 @@
 
 ![Episode 1: There is no Try. A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Ren Eliza from chaoticorganized.com](/img/user/80-89 Assets/82 - Photo Attachments/Images-3-e1616908232273-1024x568.png) 
 
-<script src="https://www.buzzsprout.com/1675732/8222918-there-is-no-try.js?container_id=buzzsprout-player-8222918&amp;player=small" type="text/javascript" charset="utf-8"></script>
+
 
 Synopsis: Yoda says "there is no try" and he's right. I spent 25 years believing that if something didn't come naturally to me then it wasn't meant for me at all. I learned that I was using "try" as an avoidance tactic. There's no secret cure to this, the only way out is through. Commit to doing something even if it doesn't come easy, and even if it leaves you vulnerable. If you fail along the way, don't take that as a sign that you should stop.
 
@@ -132,5 +132,4 @@ Join me again in two weeks for the next Ex-Gifted. 
 
 We're going to be talking about Adulting.
 
-<script type="text/javascript" charset="utf-8" src="https://www.buzzsprout.com/1675732.js?container_id=buzzsprout-large-player-1675732&amp;player=large"></script>
 
