@@ -3,7 +3,7 @@
 ---
 
 
-![Episode 1: There is no Try. A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Ren Eliza from chaoticorganized.com](/img/user/80-89 Assets/82 - Photo Attachments/Images-3-e1616908232273-1024x568.png)
+![Episode 1: There is no Try. A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Ren Eliza from chaoticorganized.com](/img/user/80-89 Assets/82 - Photo Attachments/Images-3-e1616908232273-1024x568.png) 
 
 <script src="https://www.buzzsprout.com/1675732/8222918-there-is-no-try.js?container_id=buzzsprout-player-8222918&amp;player=small" type="text/javascript" charset="utf-8"></script>
 
