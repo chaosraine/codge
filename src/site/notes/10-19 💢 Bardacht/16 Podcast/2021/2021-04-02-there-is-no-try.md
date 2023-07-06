@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-bardacht/16-podcast/2021/2021-04-02-there-is-no-try/","title":"There is No Try","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":" Ex-Gifted Podcast2021/2021-04-02-there-is-no-try.md","permalink":"/ex-gifted-podcast2021/2021-04-02-there-is-no-try/","title":"There is No Try","noteIcon":"","created":"","updated":""}
 ---
 
 
