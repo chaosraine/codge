@@ -24,6 +24,7 @@ Jump ahead to the [quick wins](#quick-wins) for some things you can put into act
 
 Even better - join the mailing list to have these things broken down and sent to you in a less overwhelming fashion. I’ll send you this whole post (well, the gist), except broken down into small, actionable chunks, beginning with six quick wins you can start working on right away.  
 
+```
 <style type="text/css">
   @import url(https://static.mailerlite.com/assets/plugins/groot/modules/includes/groot_fonts/import.css?version=1648728);
 </style>
@@ -80,6 +81,7 @@ Even better - join the mailing list to have these things broken down and sent to
 </script>
 <img src="https://track.mailerlite.com/webforms/o/5633608/m7n3u2?v1648845143" width="1" height="1" style="max-width:1px;max-height:1px;visibility:hidden;padding:0;margin:0;display:block" alt="." border="0">
 <script src="https://static.mailerlite.com/js/w/webforms.min.js?v9b62042f798751c8de86a784eab23614" type="text/javascript"></script>
+```
 
 ### It never seems to work
 
