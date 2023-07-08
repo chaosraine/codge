@@ -23,6 +23,12 @@ It can be hard for someone with executive dysfunction to read through a long pos
 Jump ahead to the [quick wins](#quick-wins) for some things you can put into action immediately. You can read through the rest later.
 
 Even better - join the mailing list to have these things broken down and sent to you in a less overwhelming fashion. I’ll send you this whole post (well, the gist), except broken down into small, actionable chunks, beginning with six quick wins you can start working on right away.  
+```
+<div class="ml-form-embed"
+  data-account="3858341:r6o9h5i8l8"
+  data-form="5633608:m7n3u2">
+</div>
+```
 
 ### It never seems to work
 
