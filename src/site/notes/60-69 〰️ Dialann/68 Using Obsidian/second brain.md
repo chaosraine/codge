@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/60-69-dialann/68-using-obsidian/second-brain/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Using Obsidian/second brain.md","permalink":"/using-obsidian/second-brain/","noteIcon":"","created":"","updated":""}
 ---
 
 A second brain is a system that allows you to enhance memory, creativity, and other mental processes by externalizing them.
