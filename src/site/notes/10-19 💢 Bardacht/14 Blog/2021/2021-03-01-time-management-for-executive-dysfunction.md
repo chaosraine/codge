@@ -73,7 +73,7 @@ The executive functions are somewhat ill defined, as they are interconnected so 
 
 You may already be able to see how _every single one of these skills_ is needed to use your time intentionally. And given that _so many_ adults struggle with these skills, Executive Dysfunction in adults is something that really needs to be talked about more. We’re talking a substantial chunk of our population who is probably struggling in some areas of executive function without even knowing these skills exist.
 
-![Infographic on purple background with seven heads each relating to an aspect of executive dysfunction. Text reads Chaotic Organized presents  ADULT EXECUTIVE  DYSFUNCTION (EXD)  Do you have any of the signs below?:  TROUBLE PLANNING OR  BREAKING DOWN TASKS  You may not recognize the  smaller steps you can take  towards achieving your goals.  LOW SELF- MOTIVATION  You may often procrastinate  or forget tasks entirely if  they don't have obvious  external consequences or  rewards. No, you're not lazy!  POOR WORKING MEMORY  Working memory is how we  keep things in our head, if you  have exD you may often lose  your keys or forget why you  walked into a room.  DIFFICULTY CONVERSING  Working memory extends to  verbal concepts too. You may  forget your train of thought  or struggle to talk with  people in real time. LITTLE TIME AWARENESS  Are you always running  behind? When you're focused  on a task does it seem like time  stops altogether?  EMOTIONAL REACTIVITY  Your emotional responses may  be extreme or make it hard to  reach your goals, or you  might not be able to regulate  your emotions.  LACK OF INHIBITION  ExD makes you want instant  gratification, so it's hard to  say "not now" to something  you want - especially when  you have strong feelings.  *THIS IS NOT MEDICAL ADVICE  I am not a physician or mental health professional.This post is meant for informational purposes only and is not Diagnostic. If you suspect you may have clinical executive function disorder please consult a doctor for diagnosis or treatment. ](/img/user/80-89 Assets/82 - Photo Attachments/signs of exd purple.jpg)
+![signs of exd purple.jpg|Infographic on purple background with seven heads each relating to an aspect of executive dysfunction. Text reads Chaotic Organized presents  ADULT EXECUTIVE  DYSFUNCTION (EXD)  Do you have any of the signs below?:  TROUBLE PLANNING OR  BREAKING DOWN TASKS  You may not recognize the  smaller steps you can take  towards achieving your goals.  LOW SELF- MOTIVATION  You may often procrastinate  or forget tasks entirely if  they don't have obvious  external consequences or  rewards. No, you're not lazy!  POOR WORKING MEMORY  Working memory is how we  keep things in our head, if you  have exD you may often lose  your keys or forget why you  walked into a room.  DIFFICULTY CONVERSING  Working memory extends to  verbal concepts too. You may  forget your train of thought  or struggle to talk with  people in real time. LITTLE TIME AWARENESS  Are you always running  behind? When you're focused  on a task does it seem like time  stops altogether?  EMOTIONAL REACTIVITY  Your emotional responses may  be extreme or make it hard to  reach your goals, or you  might not be able to regulate  your emotions.  LACK OF INHIBITION  ExD makes you want instant  gratification, so it's hard to  say "not now" to something  you want - especially when  you have strong feelings.  *THIS IS NOT MEDICAL ADVICE  I am not a physician or mental health professional.This post is meant for informational purposes only and is not Diagnostic. If you suspect you may have clinical executive function disorder please consult a doctor for diagnosis or treatment.](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/signs%20of%20exd%20purple.jpg)
 
 Have you ever seen an ADHD meme on Facebook and thought, “Well yeah but that’s how everyone’s brain is…”
 
@@ -105,7 +105,7 @@ It’s the same for you. When your executive dysfunction means you forget a meet
 
 This is wonderful because it means _you_ don’t need to be fixed. Only your tools do.
 
-![A page from a planner help up with tape and the words "take back your time" written on it. Headline says Take Back Your Time the Ultimate Guide to Time Management for adults with executive dysfunction from chaoticorganized.com](/img/user/80-89 Assets/82 - Photo Attachments/ultimate guide to time management.jpg)
+![ultimate guide to time management.jpg|A page from a planner help up with tape and the words "take back your time" written on it. Headline says Take Back Your Time the Ultimate Guide to Time Management for adults with executive dysfunction from chaoticorganized.com](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/ultimate%20guide%20to%20time%20management.jpg)
 
 ## ABCs of Intentional Time Management for Adults with Executive Dysfunction
 
@@ -125,7 +125,7 @@ Whoever you are, I’ve got you covered! 
 
 It’s crucial to note that **these “steps” are actually a cycle**. You will need to periodically reevaluate your baseline and refine your plan when you find your behavior is no longer what you want it to be. So it’s okay if a process only works for a while because _that’s part of the plan_. This method accommodates that. It’s not about one tool or method, but an overall process to help you develop the specific system you need when you need it.
 
-![An infographic on a green background with text that reads The ABCs of  Mindful Time Management for adults with  Executive Dysfunction  ASSESS  How can you know which way to go if you  don't know where you're starting? Track  your time, using a tool like RescueTime.  How would you spend your time if it were  up to you? (Spoilers: it actually is!)  BLOCK  Break your goals into smaller tasks  (hint: ask for help!) and break your  days into 3-4 hour blocks. Add only 1-2  tasks to each block. Go slow - adding  one new habit at a time. Another pro  tip: add in time to go over your  schedule as well, or it won't get done.  CARRY OUT  Time management doesn't stop with  making a plan. Set a timer so you don't  get lost scrolling social media (ahem...)  and find an accountability partner to  bounce ideas off of so you can both  help keep each other on track to meet  your goals.  BONUS TIP:  IT'S A CYCLE  One plan isn't going to last you forever, so  don't expect it to. When things aren't working  anymore, start over with a reassessment and  retool your plan when necessary.. Chaotic Organized ](/img/user/80-89 Assets/82 - Photo Attachments/Stage-1_-Butterfly-Eggs-6-512x1024.jpg)
+![Stage-1_-Butterfly-Eggs-6-scaled.jpg|An infographic on a green background with text that reads The ABCs of  Mindful Time Management for adults with  Executive Dysfunction  ASSESS  How can you know which way to go if you  don't know where you're starting? Track  your time, using a tool like RescueTime.  How would you spend your time if it were  up to you? (Spoilers: it actually is!)  BLOCK  Break your goals into smaller tasks  (hint: ask for help!) and break your  days into 3-4 hour blocks. Add only 1-2  tasks to each block. Go slow - adding  one new habit at a time. Another pro  tip: add in time to go over your  schedule as well, or it won't get done.  CARRY OUT  Time management doesn't stop with  making a plan. Set a timer so you don't  get lost scrolling social media (ahem...)  and find an accountability partner to  bounce ideas off of so you can both  help keep each other on track to meet  your goals.  BONUS TIP:  IT'S A CYCLE  One plan isn't going to last you forever, so  don't expect it to. When things aren't working  anymore, start over with a reassessment and  retool your plan when necessary.. Chaotic Organized](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/Stage-1_-Butterfly-Eggs-6-scaled.jpg)
 
 ### Assess your life
 
@@ -177,6 +177,12 @@ If you’re a parent, also make a note of when the kids need attention so you kn
 Maybe it’s an hour, but maybe it’s only 15 minutes. Or maybe it’s 15 minutes before nap time but an hour afterwards. _Look for patterns_ because that will be crucial information once you actually go to the time blocking step.  Make sure you keep reading because there’s a tip in the carry through section about how to stretch this out a little bit.
 
 You can also sign up for my email list. I’ll break all this stuff down into easy to digest pieces, plus your first email will include a time tracking workbook to help you through these first steps!
+```
+<div class="ml-form-embed"
+  data-account="3858341:r6o9h5i8l8"
+  data-form="5633608:m7n3u2">
+</div>
+```
 
 ##### What are your time sinks?
 
@@ -304,7 +310,7 @@ _This schedule is not your calendar._ That’s important to remember. This is a 
 
 But it’s also important to make sure it’s not actually impossible. Like don’t schedule yourself for twenty-six hours in a day. Don’t plan on two hours of sleep. Make it something that you could realistically hope to strive for in the very long run.
 
-![A time blocked ideal daily schedule with the hours from 7AM to 10 PM. The schedule is as follows: Early morning: 7 - plan/mindset, 7:30 - work for an hour, 8:30 - morning routine. Breakfast at 9. Late morning block: 9:30 - Play/learn, 10 - work/play for 2 hours, 12 - clean. Lunch at 12:30. Afternoon block: 1 - work/learn for 2 hours while baby naps, 3:30 - play. Snack at 4. Evening time block: 4:30 - family fun time for 2 hours, 6:30 - cooking. Dinner at 7. Night time block: 7:30 - wind down, 8 - bedtime routine for kids for an hour, 9 - cleaning, 10 - adult time.](/img/user/80-89 Assets/82 - Photo Attachments/View-recent-photos-2-317x1024.png)
+![View-recent-photos-2.png|A time blocked ideal daily schedule with the hours from 7AM to 10 PM. The schedule is as follows: Early morning: 7 - plan/mindset, 7:30 - work for an hour, 8:30 - morning routine. Breakfast at 9. Late morning block: 9:30 - Play/learn, 10 - work/play for 2 hours, 12 - clean. Lunch at 12:30. Afternoon block: 1 - work/learn for 2 hours while baby naps, 3:30 - play. Snack at 4. Evening time block: 4:30 - family fun time for 2 hours, 6:30 - cooking. Dinner at 7. Night time block: 7:30 - wind down, 8 - bedtime routine for kids for an hour, 9 - cleaning, 10 - adult time.](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/View-recent-photos-2.png)
 
 I wish!
 
@@ -368,7 +374,7 @@ You can use time boxing and time blocking separately or together. I have persona
 
 You may have already heard of habit stacking. It’s a specific type of implementation intention where you develop more robust routines by adding a new task to an already established routine. Habits are most easily formed when they are associated with a strong cue that won’t be missed. That’s why your current habits are such a perfect foundation. 
 
-![](/img/user/80-89 Assets/82 - Photo Attachments/Screen-Shot-2021-02-26-at-11.57.05-PM.png)
+![Screen-Shot-2021-02-26-at-11.57.05-PM.png](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/Screen-Shot-2021-02-26-at-11.57.05-PM.png)
 
 Here's a few from my planner.
 
@@ -441,7 +447,7 @@ And you cannot imagine how proud you’ll feel once you start getting used to it
 
 You have some choices for timers. Ideally you would not use your phone, since that requires dealing with the temptation for distraction. Voice assistants are a great option for timers, but my absolute favorite are visual kitchen timers. 
 
-![A square timer in front of a pegboard. The timer goes up to 60 minutes but it is set to 10 minutes with a yellow sector showing the time remaining. Also Pikachu is peeking over the corner!](/img/user/80-89 Assets/82 - Photo Attachments/IMG_0601-2.jpg)
+![IMG_0601-2.jpg|A square timer in front of a pegboard. The timer goes up to 60 minutes but it is set to 10 minutes with a yellow sector showing the time remaining. Also Pikachu is peeking over the corner!](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/IMG_0601-2.jpg)
 
 My daughter's timer
 
@@ -592,6 +598,12 @@ Next you’re going to put them in order - for this moment. Your top focuses wil
 Finally, brainstorm things you could do to support your focus, but - this is important - _include the things you’re already doing_. Hint: focus on things that would be enjoyable and achievable - I wouldn’t put “run a marathon” under health because I hate running and haven’t even run a mile in 20 years, but I like vegetables and yoga. Take credit where it’s due!
 
 Don't have time to get started right now? Join the mailing list and the first email you get will be the six quick wins above. (Plus one bonus you might want to check out first!)
+```
+<div class="ml-form-embed"
+  data-account="3858341:r6o9h5i8l8"
+  data-form="5633608:m7n3u2">
+</div>
+```
 
 ### Apps I use
 
@@ -680,5 +692,11 @@ Wow, that was a lot. For anyone keeping track, this post is over 10,000 words! I
 And the really wild thing is that I cut a ton out. Some things will be repurposed into full posts of their own, and some I will use in the email breakdown of this post. 
 
 Don’t forget to sign up for the email list so I can get the condensed, more actionable version of this post to you, along with a bunch of bonus content to make it easier to take action on these tools. My newsletter is full of that kind of exclusive content, along with offers and tips, and you don’t even need to use your working memory because I send it straight to you.
+```
+<div class="ml-form-embed"
+  data-account="3858341:r6o9h5i8l8"
+  data-form="5633608:m7n3u2">
+</div>
+```
 
 If you only remember two things from this article I hope it’s these two: use your time how you’ve intentionally chosen to do so, and above all else, be kind to your mind. It’s the only one you’ve got!
