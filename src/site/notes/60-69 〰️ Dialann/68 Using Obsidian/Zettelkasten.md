@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/60-69-dialann/68-using-obsidian/zettelkasten/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Using Obsidian/Zettelkasten.md","permalink":"/using-obsidian/zettelkasten/","noteIcon":"","created":"","updated":""}
 ---
 
 
