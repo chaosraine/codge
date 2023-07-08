@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"HOME.md","permalink":"/home/","title":"🏠 HOME","pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/70-79-codge/home/","title":"🏠 HOME","pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"","updated":""}
 ---
 
 
