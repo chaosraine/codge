@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/60-69-dialann/68-using-obsidian/settings/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Using Obsidian/Settings.md","permalink":"/using-obsidian/settings/","noteIcon":"","created":"","updated":""}
 ---
 
 ## My preferred settings
