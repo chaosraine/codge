@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/90-99-inbox-unsorted/sign-up-for-the-mailing-list/","noteIcon":"","created":"","updated":""}
 ---
 
-
+```
 <style type="text/css">
   @import url(https://static.mailerlite.com/assets/plugins/groot/modules/includes/groot_fonts/import.css?version=1649419);
 </style>
@@ -60,5 +60,5 @@
 <img src="https://track.mailerlite.com/webforms/o/5641905/v8c2c2?v1649439128" width="1" height="1" style="max-width:1px;max-height:1px;visibility:hidden;padding:0;margin:0;display:block" alt="." border="0">
 <script src="https://static.mailerlite.com/js/w/webforms.min.js?v9b62042f798751c8de86a784eab23614" type="text/javascript"></script>
 
-
+```
 
