@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/60-69-dialann/68-using-obsidian/shortcuts/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Using Obsidian/Shortcuts.md","permalink":"/using-obsidian/shortcuts/","noteIcon":"","created":"","updated":""}
 ---
 
 ## Known Shortcuts
