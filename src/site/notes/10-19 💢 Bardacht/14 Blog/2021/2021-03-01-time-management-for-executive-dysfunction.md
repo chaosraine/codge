@@ -23,12 +23,11 @@ It can be hard for someone with executive dysfunction to read through a long pos
 Jump ahead to the [quick wins](#quick-wins) for some things you can put into action immediately. You can read through the rest later.
 
 Even better - join the mailing list to have these things broken down and sent to you in a less overwhelming fashion. I’ll send you this whole post (well, the gist), except broken down into small, actionable chunks, beginning with six quick wins you can start working on right away.  
-```
 <div class="ml-form-embed"
   data-account="3858341:r6o9h5i8l8"
   data-form="5633608:m7n3u2">
 </div>
-```
+
 
 ### It never seems to work
 
@@ -177,12 +176,12 @@ If you’re a parent, also make a note of when the kids need attention so you kn
 Maybe it’s an hour, but maybe it’s only 15 minutes. Or maybe it’s 15 minutes before nap time but an hour afterwards. _Look for patterns_ because that will be crucial information once you actually go to the time blocking step.  Make sure you keep reading because there’s a tip in the carry through section about how to stretch this out a little bit.
 
 You can also sign up for my email list. I’ll break all this stuff down into easy to digest pieces, plus your first email will include a time tracking workbook to help you through these first steps!
-```
+
 <div class="ml-form-embed"
   data-account="3858341:r6o9h5i8l8"
   data-form="5633608:m7n3u2">
 </div>
-```
+
 
 ##### What are your time sinks?
 
@@ -310,7 +309,7 @@ _This schedule is not your calendar._ That’s important to remember. This is a 
 
 But it’s also important to make sure it’s not actually impossible. Like don’t schedule yourself for twenty-six hours in a day. Don’t plan on two hours of sleep. Make it something that you could realistically hope to strive for in the very long run.
 
-![View-recent-photos-2.png|A time blocked ideal daily schedule with the hours from 7AM to 10 PM. The schedule is as follows: Early morning: 7 - plan/mindset, 7:30 - work for an hour, 8:30 - morning routine. Breakfast at 9. Late morning block: 9:30 - Play/learn, 10 - work/play for 2 hours, 12 - clean. Lunch at 12:30. Afternoon block: 1 - work/learn for 2 hours while baby naps, 3:30 - play. Snack at 4. Evening time block: 4:30 - family fun time for 2 hours, 6:30 - cooking. Dinner at 7. Night time block: 7:30 - wind down, 8 - bedtime routine for kids for an hour, 9 - cleaning, 10 - adult time.](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/View-recent-photos-2.png)
+![View-recent-photos-2-317x1024.png|A time blocked ideal daily schedule with the hours from 7AM to 10 PM. The schedule is as follows: Early morning: 7 - plan/mindset, 7:30 - work for an hour, 8:30 - morning routine. Breakfast at 9. Late morning block: 9:30 - Play/learn, 10 - work/play for 2 hours, 12 - clean. Lunch at 12:30. Afternoon block: 1 - work/learn for 2 hours while baby naps, 3:30 - play. Snack at 4. Evening time block: 4:30 - family fun time for 2 hours, 6:30 - cooking. Dinner at 7. Night time block: 7:30 - wind down, 8 - bedtime routine for kids for an hour, 9 - cleaning, 10 - adult time.](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/View-recent-photos-2-317x1024.png)
 
 I wish!
 
@@ -350,7 +349,7 @@ To make progress on your goals, you need implementation intentions.
 
 To get started with actually getting your plan onto paper, you’re going to need, well, paper.
 
-![the words Digital or Paper over two triangles: one showing a person writing on an ipad planner with a stylus, the other writing on a traditional paper planner](/img/user/80-89 Assets/82 - Photo Attachments/digital-vs-paper-planner-1-1024x1024.png)
+![digital-vs-paper-planner-1-1024x1024.png|the words Digital or Paper over two triangles: one showing a person writing on an ipad planner with a stylus, the other writing on a traditional paper planner](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/digital-vs-paper-planner-1-1024x1024.png)
 
 Or a digital planner, or a planning app. Whatever you like to use is fine, because this isn’t about the specific tools. Google Calendar is particularly good for time blocking, but personally Trello is my favorite for an app-based option right now.
 
@@ -598,12 +597,12 @@ Next you’re going to put them in order - for this moment. Your top focuses wil
 Finally, brainstorm things you could do to support your focus, but - this is important - _include the things you’re already doing_. Hint: focus on things that would be enjoyable and achievable - I wouldn’t put “run a marathon” under health because I hate running and haven’t even run a mile in 20 years, but I like vegetables and yoga. Take credit where it’s due!
 
 Don't have time to get started right now? Join the mailing list and the first email you get will be the six quick wins above. (Plus one bonus you might want to check out first!)
-```
+
 <div class="ml-form-embed"
   data-account="3858341:r6o9h5i8l8"
   data-form="5633608:m7n3u2">
 </div>
-```
+
 
 ### Apps I use
 
@@ -692,11 +691,11 @@ Wow, that was a lot. For anyone keeping track, this post is over 10,000 words! I
 And the really wild thing is that I cut a ton out. Some things will be repurposed into full posts of their own, and some I will use in the email breakdown of this post. 
 
 Don’t forget to sign up for the email list so I can get the condensed, more actionable version of this post to you, along with a bunch of bonus content to make it easier to take action on these tools. My newsletter is full of that kind of exclusive content, along with offers and tips, and you don’t even need to use your working memory because I send it straight to you.
-```
+
 <div class="ml-form-embed"
   data-account="3858341:r6o9h5i8l8"
   data-form="5633608:m7n3u2">
 </div>
-```
+
 
 If you only remember two things from this article I hope it’s these two: use your time how you’ve intentionally chosen to do so, and above all else, be kind to your mind. It’s the only one you’ve got!
