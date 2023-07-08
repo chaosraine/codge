@@ -610,7 +610,7 @@ Don't have time to get started right now? Join the mailing list and the first em
 
 These rest of these are free apps: (some of the following will be affiliate links which means if you do make an account or sign up for a paid upgraded version I may receive a commission at no cost to you. Thanks!)
 
-- [Obsidian](https://obsidian.md) - in 2023, I use [[70-79 CODGE/Learning Obsidian/Obsidian\|Obsidian]] for all my digital note-taking, task management, project organization, and even writing and publishing this website. 
+- [Obsidian](https://obsidian.md) - in 2023, I use [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]] for all my digital note-taking, task management, project organization, and even writing and publishing this website. 
 - [Trello](https://trello.com/laurenreese7/recommend) - A kanban app - a system with organized cards laid out in a visual manner (this is my go-to app for everything because I love being able to see everything)
 - [Todoist](https://todoist.com/r/lauren_reese_eugpzq) - a to-do app with natural language input. Supports several different views, recurring tasks, reminders, etc…
 - [Tody](http://todyapp.com) - for household cleaning management
@@ -672,7 +672,7 @@ This is a [method from Mark Forster](https://lifehacker.com/the-autofocus-produc
 
 In an approximate breakdown:
 
-- List your to-do items in a notebook (or [[70-79 CODGE/Learning Obsidian/Obsidian\|Obsidian]]). 
+- List your to-do items in a notebook (or [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]]). 
 - Scan quickly over each item
 - Look over the list again, more carefully, and watch for what jumps out at you.
 - Work on that as long as you can then cross it off the list
