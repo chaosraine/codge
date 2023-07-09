@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/60-69-dialann/68-using-obsidian/aliases/","noteIcon":"","created":"","updated":"2023-07-08T21:17:20.000-04:00"}
+{"dg-publish":true,"dg-path":"Using Obsidian/Aliases.md","permalink":"/using-obsidian/aliases/","noteIcon":"","created":"2023-07-08","updated":"2023-07-08T21:17:20.609-04:00"}
 ---
 
 
