@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Using Obsidian/second brain.md","permalink":"/using-obsidian/second-brain/","title":"second brain","noteIcon":"","created":"2023-07-05 18:45:21","updated":"2023-07-09T10:41:41.100-04:00"}
+{"dg-publish":true,"dg-path":"Using Obsidian/second brain.md","permalink":"/using-obsidian/second-brain/","title":"second brain","noteIcon":"","created":"2023-07-05 18:45:21","updated":"2023-07-09T10:53:20.502-04:00"}
 ---
 
 ![CO logo jpg.jpeg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/CO%20logo%20jpg.jpeg)
