@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Using Obsidian/Zettelkasten.md","permalink":"/using-obsidian/zettelkasten/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Using Obsidian/Zettelkasten.md","permalink":"/using-obsidian/zettelkasten/","noteIcon":"","created":"","updated":"2023-07-05T17:30:05.000-04:00"}
 ---
 
 
