@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/15 Blog.md","dg-permalink":"blog","permalink":"/blog/","title":"Blog","pinned":true,"contentClasses":"cards cards-2-1","tags":["blog"],"noteIcon":"","created":"","updated":"2023-07-08T13:30:30.916-04:00"}
+{"dg-publish":true,"dg-path":"15 Blog/15 Blog.md","dg-permalink":"blog","permalink":"/blog/","title":"Blog","pinned":true,"contentClasses":"cards cards-2-1","tags":["blog"],"noteIcon":"","created":"","updated":"2023-07-08T13:30:30.000-04:00"}
 ---
 
 | Cover                                                                                  | Title                                                                                                                                                                                        | Published  |
