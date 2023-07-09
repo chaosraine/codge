@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"15 Blog/Nerdish Mom Archives/B is for Bobbing for Apples.md","permalink":"/15-blog/nerdish-mom-archives/b-is-for-bobbing-for-apples/","title":"B is for Bobbing for Apples - free printable","noteIcon":"","created":"","updated":"2023-07-05T17:03:49.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/B is for Bobbing for Apples.md","permalink":"/blog/nerdish-mom-archives/b-is-for-bobbing-for-apples/","title":"B is for Bobbing for Apples - free printable","noteIcon":"","created":"","updated":"2023-07-05T17:03:49.000-04:00"}
 ---
 
 
