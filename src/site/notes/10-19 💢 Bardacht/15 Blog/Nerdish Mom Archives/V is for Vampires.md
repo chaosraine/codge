@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"15 Blog/Nerdish Mom Archives/V is for Vampires.md","permalink":"/15-blog/nerdish-mom-archives/v-is-for-vampires/","title":"V is for Vampires","noteIcon":"","created":"","updated":"2023-07-04T22:00:29.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/V is for Vampires.md","permalink":"/blog/nerdish-mom-archives/v-is-for-vampires/","title":"V is for Vampires","noteIcon":"","created":"","updated":"2023-07-04T22:00:29.310-04:00"}
 ---
 
 
