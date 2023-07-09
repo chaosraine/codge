@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"HOME.md","permalink":"/home/","title":"🏠 HOME","pinned":true,"contentClasses":"dashboard","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-07-09T09:03:51.000-04:00"}
+{"dg-publish":true,"dg-path":"HOME.md","permalink":"/home/","title":"🏠 HOME","pinned":true,"contentClasses":"dashboard","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-07-09T09:42:09.091-04:00"}
 ---
 
 
-![CO logo jpg.jpeg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/CO%20logo%20jpg.jpeg)
+![CO logo jpg.jpeg|scaled](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/CO%20logo%20jpg.jpeg)
 ![CO logo square.jpeg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/CO%20logo%20square.jpeg)
 
 - ## [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|Podcast]]
