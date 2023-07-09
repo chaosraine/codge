@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"2021-03-20-work-with-me.md","dg-permalink":"work-with-me","permalink":"/work-with-me/","title":"Work with me","noteIcon":"","created":"","updated":"2023-07-08T18:21:44.334-04:00"}
+{"dg-publish":true,"dg-path":"2021-03-20-work-with-me.md","dg-permalink":"work-with-me","permalink":"/work-with-me/","title":"Work with me","noteIcon":"","created":"","updated":"2023-07-09T10:05:01.177-04:00"}
 ---
 
 
 ## I offer all my best ideas for free on my:
 
-- blog at [[10-19 💢 Bardacht/15 Blog/15 Blog\|Raine in Chaos]]
+- blog at [[10-19 💢 Bardacht/15 📌 Blog/15 📌 Blog\|Raine in Chaos]]
 - email list: sign up here -->
 - podcast [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|16 Podcast]]
 
