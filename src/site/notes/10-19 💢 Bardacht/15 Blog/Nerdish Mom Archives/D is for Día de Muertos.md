@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"15 Blog/Nerdish Mom Archives/D is for Día de Muertos.md","permalink":"/15-blog/nerdish-mom-archives/d-is-for-dia-de-muertos/","title":"D is for Día de Muertos","noteIcon":"","created":"","updated":"2023-07-04T22:00:28.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/D is for Día de Muertos.md","permalink":"/blog/nerdish-mom-archives/d-is-for-dia-de-muertos/","title":"D is for Día de Muertos","noteIcon":"","created":"","updated":"2023-07-04T22:00:28.271-04:00"}
 ---
 
 
