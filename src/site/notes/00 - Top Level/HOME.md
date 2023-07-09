@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"HOME.md","permalink":"/home/","title":"🏠 HOME","pinned":true,"contentClasses":"dashboard","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-07-08T21:07:00.744-04:00"}
+{"dg-publish":true,"permalink":"/00-top-level/home/","title":"🏠 HOME","pinned":true,"contentClasses":"dashboard","tags":["gardenEntry"],"noteIcon":"","created":"","updated":"2023-07-09T09:03:51.098-04:00"}
 ---
 
 
 ![CO logo jpg.jpeg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/CO%20logo%20jpg.jpeg)
-
+![CO logo square.jpeg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/CO%20logo%20square.jpeg)
 
 - ## [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|Podcast]]
   [Ex-Gifted](https://exgifted.com/)
