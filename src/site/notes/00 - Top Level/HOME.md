@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"HOME.md","permalink":"/home/","title":"🏠 HOME","pinned":true,"contentClasses":"card","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-07-09T10:06:12.065-04:00"}
+{"dg-publish":true,"dg-path":"HOME.md","permalink":"/home/","title":"🏠 HOME","pinned":true,"contentClasses":"card","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-07-09T10:08:21.139-04:00"}
 ---
 
 
@@ -10,8 +10,8 @@
   [Ex-Gifted](https://exgifted.com/)
   If you were an exceptional child who finds yourself struggling to get by as an adult, then check out the Ex-Gifted podcast to learn how to deal with former gifted kid burnout.
 
-- ## [[10-19 💢 Bardacht/15 📌 Blog/15 📌 Blog\|Blog]]
-  [[10-19 💢 Bardacht/15 📌 Blog/15 📌 Blog\|Raine in Chaos]]
+- ## [[10-19 💢 Bardacht/15 Blog/15 Blog\|Blog]]
+  [[10-19 💢 Bardacht/15 Blog/15 Blog\|Raine in Chaos]]
   Find general advice about building systems to keep your mind, time, and space organized, but in a way that works for your chaotic brain.
 
 
