@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/2021/2021-03-01-time-management-for-executive-dysfunction.md","permalink":"/blog/2021/2021-03-01-time-management-for-executive-dysfunction/","title":"Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction","tags":["intentionality","time-management"],"noteIcon":"","created":"","updated":"2023-07-08T00:52:29.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/2021/2021-03-01-time-management-for-executive-dysfunction.md","permalink":"/blog/2021/2021-03-01-time-management-for-executive-dysfunction/","title":"Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction","tags":["intentionality","time-management"],"noteIcon":"","created":"","updated":"2023-07-08T22:43:34.347-04:00"}
 ---
 
 
@@ -43,7 +43,7 @@ You’re already valuable just for the fact that you are a human being who exist
 
 And in case you need to hear it, sloth is not a sin.
 
-![a glittery yellow sloth hanging from a green vine with the words "sloth is not a sin!" written in vivid pink underneath](/img/user/80-89 Assets/82 - Photo Attachments/View-recent-photos-1024x837.png)
+![View-recent-photos-1024x837.png|a glittery yellow sloth hanging from a green vine with the words "sloth is not a sin!" written in vivid pink underneath](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/View-recent-photos-1024x837.png)
 
 One of my new year's resolutions was to make bad art and I'm committed!
 
