@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/B is for Bobbing for Apples.md","permalink":"/blog/nerdish-mom-archives/b-is-for-bobbing-for-apples/","title":"B is for Bobbing for Apples - free printable","noteIcon":"","created":"","updated":"2023-07-05T17:03:49.254-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/B is for Bobbing for Apples.md","permalink":"/blog/nerdish-mom-archives/b-is-for-bobbing-for-apples/","title":"B is for Bobbing for Apples - free printable","noteIcon":"","created":"","updated":"2023-07-10T18:11:59.064-04:00"}
 ---
 
 
@@ -9,13 +9,15 @@ Today we play a classic Halloween game and turn it into a Very Serious science e
 
 ## Update: Results
 
-![20191002-bobbing-for-apples.jpg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/20191002-bobbing-for-apples.jpg)
+![](https://i.imgur.com/NmXFEt9.png)
+
 
 Bobbing for apples was a success of fun, if not of apple bobbing.
 
 We definitely had a lot of fun, and a little bit of butting heads ("Noooo! You have to guess if it'll sink *before* you put it in the water!") doing our experiment today. We do primarily child-led play so I think it was a little bit different for her to have to follow my instructions. What ended up helping was telling MGF that she was a robot and had to wait for a command from me - a variation on Simon says!
 
-![20191002_125643-e1570077274256-1024x625.jpg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/20191002_125643-e1570077274256-1024x625.jpg)
+![](https://i.imgur.com/wD5oubz.png)
+
 
 Luckily she was done going face first into the water before filling the bowl with mulch
 
@@ -35,7 +37,8 @@ Bobbing for apples is like palming a basketball but with your mouth. First of al
 
 Bobbing for apples could be its own science experiment. How could we make it easier? What would happen if the apple was in a shallow bowl instead of a large tub? What if they were sliced? Would another fruit be easier? Why?
 
-![B-is-for-Bobbing-for-Apples-2.png](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/B-is-for-Bobbing-for-Apples-2.png)
+![](https://i.imgur.com/JevxYy6.png)
+
 
 ## Will it Float?
 
