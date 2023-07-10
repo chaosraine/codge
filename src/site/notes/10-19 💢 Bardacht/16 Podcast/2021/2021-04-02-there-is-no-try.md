@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Podcast/2021/2021-04-02-there-is-no-try.md","permalink":"/podcast/2021/2021-04-02-there-is-no-try/","title":"There is No Try","noteIcon":"","created":"","updated":"2023-07-05T21:24:38.914-04:00"}
+{"dg-publish":true,"dg-path":"Podcast/2021/2021-04-02-there-is-no-try.md","permalink":"/podcast/2021/2021-04-02-there-is-no-try/","title":"There is No Try","noteIcon":"","created":"","updated":"2023-07-05T21:24:38.000-04:00"}
 ---
 
 
