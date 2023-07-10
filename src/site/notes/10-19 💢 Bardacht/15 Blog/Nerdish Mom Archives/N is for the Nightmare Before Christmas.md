@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/N is for the Nightmare Before Christmas.md","permalink":"/blog/nerdish-mom-archives/n-is-for-the-nightmare-before-christmas/","title":"Wait! I figured it out… N is for eNNui","noteIcon":"","created":"","updated":"2023-07-10T19:07:47.108-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/N is for the Nightmare Before Christmas.md","permalink":"/blog/nerdish-mom-archives/n-is-for-the-nightmare-before-christmas/","title":"Wait! I figured it out… N is for eNNui","noteIcon":"","created":"","updated":"2023-07-10T19:11:06.333-04:00"}
 ---
 
 
@@ -9,7 +9,8 @@ OR The Nightmare Before Christmas
 
 Like really, I thought of “noir” before nightmare... or even night?
 
-![31 posts of october day 17 The Nightmare before christmas or n is for ennui](https://lh5.googleusercontent.com/BqmDK1ES0K6spxShLj3DI8Oa0xwoDH3sU85EC-StJpsT23z6Hab5A1V8zDuNPoBQw-YWs_4gjgCEWWe_HNiK5wS0mxPwpV_vLn3ZEl4AsyFr_kigbK6zhRMt8CwJKb4nLQYl4Chi)
+![31 posts of october day 17 The Nightmare before christmas or n is for ennui](https://i.imgur.com/1wW5EZM.png)
+
 
 Well, better late than never. A day after I was supposed to do N, I put on this movie to watch with my gal Friday and it just smacked me in the face.
 
