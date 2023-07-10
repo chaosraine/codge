@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/F is for Frankenstein.md","permalink":"/blog/nerdish-mom-archives/f-is-for-frankenstein/","title":"F is for Frankenstein OR The Girl who invented sci-fi","noteIcon":"","created":"","updated":"2023-07-04T22:00:28.271-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/F is for Frankenstein.md","permalink":"/blog/nerdish-mom-archives/f-is-for-frankenstein/","title":"F is for Frankenstein OR The Girl who invented sci-fi","noteIcon":"","created":"","updated":"2023-07-10T19:18:47.111-04:00"}
 ---
 
 
@@ -7,13 +7,15 @@ F is for Frankenstein OR The Girl who who Invented Sci-fi
 
 This post contains affiliate links that will earn me a small commission at no cost to you. Teach your kids about that bad b Mary Shelley and support this website at the same time! 
 
-![F is for Frankenstein's Laboratory or the girl who invented sci-fi](https://lh3.googleusercontent.com/8ZA-gM_9m8lSz1NPlGxfFYjVo18vbYPj3NifTj3C9gf8iNEbGYXBXX5hzKTv6J4jvR85gMwJAliY3EjmlWwnp61ZagRJNkKXvA-akDwTVssJ-630eLdQiMjDhNf24eDQ2a8nE0-F)
+![F is for Frankenstein's Laboratory or the girl who invented sci-fi](https://i.imgur.com/mGwf9qI.png)
+
 
 ## The Girl who who Invented Sci-fi
 
 We were in the library a few days ago when I was writing up the post on campfire stories. Since this post was still days away I hadn't started thinking about it yet, but one of the books I spotted in their Halloween section changed that right quick. 
 
-![](https://lh3.googleusercontent.com/SfEuxgjB1yVE564yeBHVO0ZelR5GDTFqUp-2mJOBwydlliMQc87szlJ3c-dc3iTNZHi6-1Qz8IWOHRRGXAtOW7awI54rl--APR8rioE_tG_fUX-N4ysYTQNQInNHZ7ABJ-25JXtY)
+![](https://i.imgur.com/JQ6lMcb.png)
+
 
 You can get [this gorgeous picture book](https://amzn.to/2VdYa0O) here or check it out at your local library.
 
@@ -47,7 +49,8 @@ There's a bunch of tutorials out there, but they would all require I actually le
 - A drill if you use a hard lid as a top and need to make holes
 - Cornstarch (optional)
 
-![](/img/user/80-89 Assets/82 - Photo Attachments/20191006_1925366277966026130103377.jpg)
+![](https://i.imgur.com/dOC5oE8.jpg)
+
 
 ### Directions
 
@@ -68,7 +71,8 @@ If you wanna get really detailed with it you gotta give [the Pakistan Science Cl
 
 Here's a mask printable of today's little monster. It's about 6 inches by default so resize as necessary. You can [modify it on Canva](https://canva.me/CSJp57sFy0) to ensure a proper pupil-to-pupil distance for your little monster!
 
-![](/img/user/80-89 Assets/82 - Photo Attachments/20191006_022643_00008192212787017220970.png)
+![](https://i.imgur.com/X3eEU6H.png)
+
 
 ## Advice? 
 
