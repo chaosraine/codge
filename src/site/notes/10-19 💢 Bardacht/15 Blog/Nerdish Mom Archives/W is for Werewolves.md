@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/W is for Werewolves.md","permalink":"/blog/nerdish-mom-archives/w-is-for-werewolves/","title":"W is for Werewolves","noteIcon":"","created":"","updated":"2023-07-04T22:00:29.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/W is for Werewolves.md","permalink":"/blog/nerdish-mom-archives/w-is-for-werewolves/","title":"W is for Werewolves","noteIcon":"","created":"","updated":"2023-07-04T22:00:29.302-04:00"}
 ---
 
 
