@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/E is for Eerie.md","permalink":"/blog/nerdish-mom-archives/e-is-for-eerie/","title":"E is for Eerie","noteIcon":"","created":"","updated":"2023-07-04T22:00:28.263-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/E is for Eerie.md","permalink":"/blog/nerdish-mom-archives/e-is-for-eerie/","title":"E is for Eerie","noteIcon":"","created":"","updated":"2023-07-10T19:13:20.166-04:00"}
 ---
 
 
 Day 5 - let's do some Saturday synonyms.
 
-![31 Posts of October Day 5 E is for Eerie](/img/user/80-89 Assets/82 - Photo Attachments/20191005_012207_00008886680369012060288.png)
+![31 Posts of October Day 5 E is for Eerie](https://i.imgur.com/fMcV3au.png)
+
 
 ## E is for Eerie
 
