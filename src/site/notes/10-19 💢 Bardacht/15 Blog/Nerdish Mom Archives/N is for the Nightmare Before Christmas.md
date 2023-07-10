@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/N is for the Nightmare Before Christmas.md","permalink":"/blog/nerdish-mom-archives/n-is-for-the-nightmare-before-christmas/","title":"Wait! I figured it out… N is for eNNui","noteIcon":"","created":"","updated":"2023-07-04T22:00:29.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/N is for the Nightmare Before Christmas.md","permalink":"/blog/nerdish-mom-archives/n-is-for-the-nightmare-before-christmas/","title":"Wait! I figured it out… N is for eNNui","noteIcon":"","created":"","updated":"2023-07-04T22:00:29.331-04:00"}
 ---
 
 
