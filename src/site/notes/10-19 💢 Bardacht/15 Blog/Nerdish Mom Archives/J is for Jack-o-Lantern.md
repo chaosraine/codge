@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/J is for Jack-o-Lantern.md","permalink":"/blog/nerdish-mom-archives/j-is-for-jack-o-lantern/","title":"J is for Jack-o-Lantern ~and~ the Problem with Printers","noteIcon":"","created":"","updated":"2023-07-04T22:00:28.259-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/J is for Jack-o-Lantern.md","permalink":"/blog/nerdish-mom-archives/j-is-for-jack-o-lantern/","title":"J is for Jack-o-Lantern ~and~ the Problem with Printers","noteIcon":"","created":"","updated":"2023-07-10T13:52:28.681-04:00"}
 ---
 
 
@@ -13,7 +13,8 @@ Submit your best designs below - especially if you trace it onto a real pumpkin 
 
 We had a busy day yesterday that ended up with us snacking in bed and each coloring our own pumpkins. I asked my gal Friday whether she wanted an orange pumpkin or white, and she answered yellow like Pikachu. So I printed off a white and she did hers DIY.
 
-![](/img/user/80-89 Assets/82 - Photo Attachments/20191011_0248571100064823961703828.jpg)
+![](app://08d1b7521a42d60d56e24d8fb0eb02708f0c/Users/soy.lor.n/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/Second%20BRaine/80-89%20Assets/82%20-%20Photo%20Attachments/20191011_0248571100064823961703828.jpg?1673529170105)
+
 
 I had this idea that I’d do some fancy lettering, but I didn’t think about the fact that I’m terrible at those things. You can probably see where I found a groove along the way and then totally lost it again!
 
