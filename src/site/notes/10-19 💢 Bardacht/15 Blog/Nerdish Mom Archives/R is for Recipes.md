@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/R is for Recipes.md","permalink":"/blog/nerdish-mom-archives/r-is-for-recipes/","title":"R is for Recipes","tags":["recipes"],"noteIcon":"","created":"","updated":"2023-07-04T22:00:29.329-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/R is for Recipes.md","permalink":"/blog/nerdish-mom-archives/r-is-for-recipes/","title":"R is for Recipes","tags":["recipes"],"noteIcon":"","created":"","updated":"2023-07-04T22:00:29.000-04:00"}
 ---
 
 
