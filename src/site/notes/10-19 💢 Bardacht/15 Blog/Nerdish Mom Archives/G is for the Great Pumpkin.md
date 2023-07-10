@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/G is for the Great Pumpkin.md","permalink":"/blog/nerdish-mom-archives/g-is-for-the-great-pumpkin/","title":"G is for the Great Pumpkin","tags":["books","halloween","movies"],"noteIcon":"","created":"","updated":"2023-07-04T22:00:28.273-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/G is for the Great Pumpkin.md","permalink":"/blog/nerdish-mom-archives/g-is-for-the-great-pumpkin/","title":"G is for the Great Pumpkin","tags":["books","halloween","movies"],"noteIcon":"","created":"","updated":"2023-07-10T19:35:33.744-04:00"}
 ---
 
 
@@ -8,8 +8,7 @@ _This post contains affiliate links. If you buy something I may receive a commis
 Y'all I'm officially one week into the 31 posts of October with today's G is for the Great Pumpkin. 
 
 This is what my watch told me this morning:
-
-![](https://lh3.googleusercontent.com/S0iNuGEhaMCThK0l1Mmq0xfu10x29bbELaYiMZAvGRCA79j7Lc0NT7q6jhqAw448h173ASPMko9WwFZWh6iiiCf0XYq6Eff6O1MyIKIarcF9iEvrBw1zgjPXrTGYMggVzie90jrw)
+![](https://i.imgur.com/DfevSxk.png)
 
 Fun fact: the rest of that message was “That’s gotta feel good!”
 
@@ -17,7 +16,8 @@ And no, I wasn't up waiting on the Great Pumpkin. Just different things pulling 
 
 All the snaps to the full-time work-at-home parents, because...damn…
 
-![G is for the Great Pumpkin](https://lh3.googleusercontent.com/f6tti-4medPog5wur2jsW6KZmmviFjTpFjXUL8qZbZHw6g-bRmPv6XqW0rV6uWGtlfvthEh2V9SS-t0SEooN-STolPfw2wK_HidzH8m3c2pUc7lr7a6wWiye0nX76SF4NrNac0Tu)
+![G is for the Great Pumpkin](https://i.imgur.com/BaCbp15.png)
+
 
 ## G is for the Great Pumpkin
 
