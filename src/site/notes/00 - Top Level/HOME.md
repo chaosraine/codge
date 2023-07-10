@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"HOME.md","permalink":"/home/","title":"🏠 HOME","pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-07-09T13:54:31.058-04:00"}
+{"dg-publish":true,"dg-path":"HOME.md","permalink":"/home/","title":"🏠 HOME","pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-07-10T19:34:50.033-04:00"}
 ---
 
 
-![CO logo square.jpeg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/CO%20logo%20square.jpeg)
+![CO logo square.jpeg](https://i.imgur.com/40sy8OG.jpg)
 
 - ## [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|Podcast]]
   [Ex-Gifted](https://exgifted.com/)
