@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/J is for Jack-o-Lantern.md","permalink":"/blog/nerdish-mom-archives/j-is-for-jack-o-lantern/","title":"J is for Jack-o-Lantern ~and~ the Problem with Printers","noteIcon":"","created":"","updated":"2023-07-10T14:05:34.916-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/J is for Jack-o-Lantern.md","permalink":"/blog/nerdish-mom-archives/j-is-for-jack-o-lantern/","title":"J is for Jack-o-Lantern ~and~ the Problem with Printers","noteIcon":"","created":"","updated":"2023-07-10T14:06:12.000-04:00"}
 ---
 
 
@@ -36,6 +36,7 @@ It sounded like a scam, and indeed many people have many complaints about HP’s
 2023 update: the current cheapest plan is $0.99 for 10 pages, with up to 30 pages rolled over.
 
 Another thing I love about Instant Ink is that I can print out everything at the highest quality, and can print out pages completely saturated in color ink for the same price as a draft quality with a single word in black on it. On the flip side, every page that gets even a drop printed to it counts against your allowance, which includes the pumpkin that only got sent through 20% before the page got canceled. It’s a waste of a page and a waste of paper.  
+
 
 ### Alternatives
 
