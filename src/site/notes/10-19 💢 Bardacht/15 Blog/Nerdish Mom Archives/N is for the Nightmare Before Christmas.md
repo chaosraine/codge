@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/N is for the Nightmare Before Christmas.md","permalink":"/blog/nerdish-mom-archives/n-is-for-the-nightmare-before-christmas/","title":"Wait! I figured it out… N is for eNNui","noteIcon":"","created":"","updated":"2023-07-10T19:06:28.749-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/N is for the Nightmare Before Christmas.md","permalink":"/blog/nerdish-mom-archives/n-is-for-the-nightmare-before-christmas/","title":"Wait! I figured it out… N is for eNNui","noteIcon":"","created":"","updated":"2023-07-10T19:07:47.108-04:00"}
 ---
 
 
@@ -20,9 +20,9 @@ I have heard Jack’s ennui well documented before, and some really good compari
 Let’s start by defining ennui, at least a little. It’s by definition something that’s hard to define. If you could define it precisely, well, then it would be something else.
 
 According to [Merriam-Webster](https://www.merriam-webster.com/dictionary/ennui), ennui is “a feeling of weariness and dissatisfaction : BOREDOM,” but it’s a specific, extended type of boredom. It’s not the kind that can be solved with a game of Catan. Ennui is the ultimate of stay-at-home-parent problems: when your life is so tedious that you just can’t deal with it. We need to face some unique challenges for a fulfilling life. 
-
+```
 [![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07CPDKQ28&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=chaoticorganized-20&language=en_US)](https://www.amazon.com/NIGHTMARE-BEFORE-CHRISTMAS-BURTONS-Blu-ray/dp/B07CPDKQ28/ref=as_li_ss_il?_encoding=UTF8&pd_rd_i=B07CPDKQ28&pd_rd_r=576b820b-f768-4897-bb10-280803704394&pd_rd_w=F7rRC&pd_rd_wg=IZ4tG&pf_rd_p=0e5324e1-c848-4872-bbd5-5be6baedf80e&pf_rd_r=G291EGY1DXZEJET91TEQ&psc=1&refRID=G291EGY1DXZEJET91TEQ&linkCode=li3&tag=chaoticorganized-20&linkId=b87bb7b901d0dede93739a3c355ee2ce&language=en_US)![](https://ir-na.amazon-adsystem.com/e/ir?t=chaoticorganized-20&language=en_US&l=li3&o=1&a=B07CPDKQ28) 
-
+```
 An affiliate link! If you don’t already own  
 the Nightmare Before Christmas, get it  
 on disc and digital and support  
