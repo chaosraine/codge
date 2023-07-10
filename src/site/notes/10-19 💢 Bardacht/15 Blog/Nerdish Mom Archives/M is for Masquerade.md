@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/M is for Masquerade.md","permalink":"/blog/nerdish-mom-archives/m-is-for-masquerade/","title":"2-in-1: M is for Masquerade/N is for Noire","noteIcon":"","created":"","updated":"2023-07-04T22:00:28.264-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/M is for Masquerade.md","permalink":"/blog/nerdish-mom-archives/m-is-for-masquerade/","title":"2-in-1: M is for Masquerade/N is for Noire","noteIcon":"","created":"","updated":"2023-07-10T19:03:42.413-04:00"}
 ---
 
 
@@ -7,32 +7,31 @@ It's a two-fer
 
 * * *
 
-So I couldn't really think of something to do for N that's explicitly Halloweeny. Probably I'm missing something really obvious. So since both of these are short, and I have a non-explicitly Halloweeny post lined up for tomorrow, I decided to combine these two. They're kinda of a theme so hopefully it'll work! 
+So I couldn't really think of something to do for N that's explicitly Halloweeny. Probably I'm missing something really obvious. (spoilers: I was) So since both of these are short, and I have a non-explicitly Halloweeny post lined up for tomorrow, I decided to combine these two. They're kinda of a theme so hopefully it'll work! 
 
-![M is for masquerade/n is for noir](/img/user/80-89 Assets/82 - Photo Attachments/Copy-of-Untitled-Design.png)
+![](https://i.imgur.com/gJRr15e.png)
+
 
 ## **M is for Masquerade**
 
 A masquerade is a costume ball of French origins, which became very popular in Venice during the Renaissance. In fact, do any famous 16th century Venetian masquerade balls come to mind? 
 
-<iframe src="https://giphy.com/embed/A7BDkfe9o95fO" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
-
-[via GIPHY](https://giphy.com/gifs/leonardo-dicaprio-claire-danes-romeo-and-juliet-A7BDkfe9o95fO)
-
+![](https://media2.giphy.com/media/3o6vXRhJ8jW7UtMLlu/100.webp?cid=ecf05e472b1essq0zikqq0w8nsbaxzctxb5lj50h55gfnohy&ep=v1_gifs_search&rid=100.webp&ct=g)
+[via GIPHY](https://media2.giphy.com/media/3o6vXRhJ8jW7UtMLlu/100.webp?cid=ecf05e472b1essq0zikqq0w8nsbaxzctxb5lj50h55gfnohy&ep=v1_gifs_search&rid=100.webp&ct=g)
 That's accurate to the time. 
 
 ### **The masks** 
 
 Masquerade masks are typically based on a white or black base which is then decorated or designed to fit your costume. 
 
-![](https://lh5.googleusercontent.com/w7qPSa0adk9O_U61NVEJKZ_DsbZcX0xRwvY_vNgBNf6Lc9ordpH7MQkhEFDf1VfT7Ip5Efbie8yYJgcm24Z2YP_ge-2KxrqK4iyCPsgYwDmWp59tg2PmPxfue3c-XJgZM_P4zn6o)
+![](https://images.pexels.com/photos/9393607/pexels-photo-9393607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+[Photo by Mikhail Nilov](https://www.pexels.com/photo/photograph-of-a-white-and-gold-mask-9393607/)
 
 #### 1\. **Bird**
 
 A favorite for masquerade masks is decorating in feathers, sometimes with a beak for a really dramatic effect.
 
-![](https://lh3.googleusercontent.com/r_4N7XDxGnor8k1zohUb9lgkZvhZlMEXlQYP_smK15E0gkSQgtpvemaTpN2mTudc2kaIPqAHMxeDFbKCXkwOrW5UcsnFMSX3cX4TlcH2wyXrFc0xyGsOEEZeWfOe-RF9Wp64S_pd)
-
+![](https://images.pexels.com/photos/734229/pexels-photo-734229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 Photo by [Magda Ehlers](https://www.pexels.com/@magda-ehlers-pexels?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/photo-of-masquerade-masks-734229/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 
 #### 2\. **Butterfly** 
@@ -43,9 +42,8 @@ The shape of the traditional masque really lends itself well to the butterfly. T
 
 Focus on something that looks awesome or gorgeous, instead of trying to look like any specific thing. 
 
-![](https://lh6.googleusercontent.com/CsdINfdZugjPZrLznJ6_HuJiiTWziqPydQ8_0Z172UV9oUyRuTUz8ddJG3wtBWqmiEvhRJ0XCB_fqIFdIUoGBMXaCFBo9gSF4yCcFA7NZvnig1o1S1bZ6dPM0rEHH5xu8kKY_pOH)
-
-Photo by hitesh choudhary from Pexels
+![](https://images.pexels.com/photos/1144283/pexels-photo-1144283.jpeg)
+[Photo by hitesh choudhary](https://www.pexels.com/photo/assorted-color-mask-1144283/)
 
 ### **Make your own!** 
 
