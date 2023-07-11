@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/Z is for Zombies.md","permalink":"/blog/nerdish-mom-archives/z-is-for-zombies/","title":"Z is for Zombies","noteIcon":"","created":"","updated":"2023-07-09T13:16:55.848-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/Z is for Zombies.md","permalink":"/blog/nerdish-mom-archives/z-is-for-zombies/","title":"Z is for Zombies","noteIcon":"","created":"","updated":"2023-07-10T20:16:21.384-04:00"}
 ---
 
 
 Undead like me.
+![](https://i.imgur.com/YS0onOX.png)
 
 * * *
 
@@ -13,9 +14,7 @@ I've been into zombies since college, when I watched the 1968 George Romero clas
 
 So that’s my view of a zombie. Not fast. Hell - not even in color! Just a bunch of extras stumbling along in slow motion looking for brains.
 
-<iframe src="https://giphy.com/embed/l2YWgjGt4Ea8KdUpq" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
-
-[via GIPHY](https://giphy.com/gifs/filmeditor-horror-night-of-the-living-dead-george-romero-l2YWgjGt4Ea8KdUpq)
+<iframe src="https://giphy.com/embed/l2YWgjGt4Ea8KdUpq" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/filmeditor-horror-night-of-the-living-dead-george-romero-l2YWgjGt4Ea8KdUpq">via GIPHY</a></p>
 
 Persistently.
 
