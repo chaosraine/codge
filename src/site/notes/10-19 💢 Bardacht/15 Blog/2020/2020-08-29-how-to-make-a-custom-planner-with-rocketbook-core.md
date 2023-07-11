@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/2020/2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core.md","permalink":"/blog/2020/2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core/","title":"How-to Make a Custom Planner with Rocketbook Core","noteIcon":"","created":"","updated":"2023-07-08T18:21:44.319-04:00"}
+{"dg-publish":true,"dg-path":"Blog/2020/2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core.md","permalink":"/blog/2020/2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core/","title":"How-to Make a Custom Planner with Rocketbook Core","noteIcon":"","created":"","updated":"2023-07-10T20:40:43.702-04:00"}
 ---
 
 
@@ -7,7 +7,7 @@ _If you use make a purchase using any of the links in this post, I’ll earn a s
 
 **Check out [Rocketbook](https://bit.ly/3hwFZh4) bundles to save some cash anytime!**
 
-![20200828_214106_00004866567604143944930.png](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/20200828_214106_00004866567604143944930.png)
+![](https://i.imgur.com/VrMbIWu.png)
 
 ## Why make a custom planner?
 
@@ -19,7 +19,7 @@ Of course the benefit to the freestyle bullet journal is that you don’t waste 
 
 A better way to save paper without going fully digital is to make a custom planner with Rocketbook.
 
-![wp-15986653799136623640287468980636.png|Text overlay: Make a custom planner with rocketbook core. Image: Two hands writing in a Rocketbook reusable notebook with another in the background as well as a computer and book](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/wp-15986653799136623640287468980636.png)
+![Text overlay: Make a custom planner with rocketbook core. Image: Two hands writing in a Rocketbook reusable notebook with another in the background as well as a computer and book](https://i.imgur.com/yj5xUXb.png)
 Rocketbook is a physical notebook with coated pages. It writes like paper, but when you use a certain type of pen (anything from the Pilot Frixion line of erasable pens, which is fairly extensive), it wipes off easily with water. But before erasing all your hard work, open up the Rocketbook app, line up a page in the camera viewer, and instantly beam your pages to email, Google Drive, or straight into Trello (there are other integrations as well – these are the ones I use) and take them with you anywhere.
 
 Deciding to make a custom planner with Rocketbook is a perfect compromise between digital and analog, because while you still have a truly handwritten journal, you can keep a digital copy on you at all times to make sure you’re keeping on track.
@@ -35,31 +35,22 @@ You can customize the [Rocketbook Core](https://getrocketbook.com/products/rock
 ## How does it look?
 
 Here’s some samples from my journal:
-
-- ![wp-15986640733635803599592410936797.jpg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/wp-15986640733635803599592410936797.jpg)
-    
-- ![wp-15986641553804709728079495819580.jpg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/wp-15986641553804709728079495819580.jpg)
-    
-- ![wp-15986642195076899026522907495468.jpg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/wp-15986642195076899026522907495468.jpg)
-    
-- ![wp-15986642101786824290194595343594.jpg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/wp-15986642101786824290194595343594.jpg)
-    
+- ![](https://i.imgur.com/rMkQneZ.jpg)
+- 
+  ![](https://i.imgur.com/enlPN2F.jpg)
+-   ![](https://i.imgur.com/aP28JNh.jpg)
+-   ![](https://i.imgur.com/605UNqV.jpg)
 
 Please forgive that there is a lot of white space. I am still working on my habits! lol
 
 And this is what the scans look like:
 **UPDATE**: I have since learned that there is a setting which you can disable, leading to a more photorealistic scan. I highly recommend disabling this option if your scans look like those below, especially if you are using color.
-- ![wp-15986639094749003025397620419484.jpg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/wp-15986639094749003025397620419484.jpg)
-    
-- ![wp-15986637953025460114024904676724.jpg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/wp-15986637953025460114024904676724.jpg)
-    
-- ![wp-15986638648745532453357194909488.jpg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/wp-15986638648745532453357194909488.jpg)
-    
-- ![wp-15986638550135372124915224436687.jpg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/wp-15986638550135372124915224436687.jpg)
-    
-- ![wp-1598663898032124569829263245012.jpg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/wp-1598663898032124569829263245012.jpg)
-    
-- ![wp-15986638835396396562294242806127.jpg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/wp-15986638835396396562294242806127.jpg)
+- ![](https://i.imgur.com/Hk7bvYj.jpg)
+- ![](https://i.imgur.com/Dq43KX1.jpg)
+- ![](https://i.imgur.com/d2ybp9y.jpg)
+- ![](https://i.imgur.com/FXY1EKz.jpg)
+- ![](https://i.imgur.com/O5JiUd6.jpg)
+- ![](https://i.imgur.com/9w9fwVa.jpg)
     
 
 Note that some colors don’t come through as well, but that’s not a huge problem for decorative elements.
@@ -81,7 +72,7 @@ My absolute favorite thing about Rocketbook – they let you [try the app and b
 Don’t try for too long though, the [20% off sale](https://bit.ly/3hwFZh4) only lasts until Tuesday, September 1st! I’m getting myself a few executive sized notebooks and one of the Flip books for my kindergartener to manage her homeschool lessons. The free mini notebook is great for throwing in the purse for keeping the kids entertained when out and about and is perfect for making GIFs! 
 
 ## Want some more fun with your [[10-19 💢 Bardacht/15 Blog/2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner\|custom planner?]]
-[![Copy-of-Rocketbook-Planner-Pin-683x1024.png](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/Copy-of-Rocketbook-Planner-Pin-683x1024.png)](<https://www.raineinchaos.com/blog/2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner/>)
+[![](https://i.imgur.com/kBIYhgX.png)](https://www.raineinchaos.com/blog/2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner/)
 
 Do you have a Rocketbook yet? Do you use a paper planner? How could a Rocketbook help you? What are your favorite journal modules? I always need more! Hit up the comments!
 
