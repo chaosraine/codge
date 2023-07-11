@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/2021/2021-03-01-time-management-for-executive-dysfunction.md","permalink":"/blog/2021/2021-03-01-time-management-for-executive-dysfunction/","title":"Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction","tags":["intentionality","time-management"],"noteIcon":"","created":"","updated":"2023-07-08T22:43:34.347-04:00"}
+{"dg-publish":true,"dg-path":"Blog/2021/2021-03-01-time-management-for-executive-dysfunction.md","permalink":"/blog/2021/2021-03-01-time-management-for-executive-dysfunction/","title":"Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction","tags":["intentionality","time-management"],"noteIcon":"","created":"","updated":"2023-07-10T22:12:14.611-04:00"}
 ---
 
 
 
-![80-89 Assets/82 - Photo Attachments/IMG_1356.jpeg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/IMG_1356.jpeg)
+![](https://i.imgur.com/9Ktay26.jpg)
 
 ## Productivity Advice Sucks
 
@@ -43,7 +43,7 @@ You’re already valuable just for the fact that you are a human being who exist
 
 And in case you need to hear it, sloth is not a sin.
 
-![View-recent-photos-1024x837.png|a glittery yellow sloth hanging from a green vine with the words "sloth is not a sin!" written in vivid pink underneath](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/View-recent-photos-1024x837.png)
+![a glittery yellow sloth hanging from a green vine with the words "sloth is not a sin!" written in vivid pink underneath](https://i.imgur.com/ldWvtxq.png)
 
 One of my new year's resolutions was to make bad art and I'm committed!
 
@@ -72,7 +72,7 @@ The executive functions are somewhat ill defined, as they are interconnected so 
 
 You may already be able to see how _every single one of these skills_ is needed to use your time intentionally. And given that _so many_ adults struggle with these skills, Executive Dysfunction in adults is something that really needs to be talked about more. We’re talking a substantial chunk of our population who is probably struggling in some areas of executive function without even knowing these skills exist.
 
-![signs of exd purple.jpg|Infographic on purple background with seven heads each relating to an aspect of executive dysfunction. Text reads Chaotic Organized presents  ADULT EXECUTIVE  DYSFUNCTION (EXD)  Do you have any of the signs below?:  TROUBLE PLANNING OR  BREAKING DOWN TASKS  You may not recognize the  smaller steps you can take  towards achieving your goals.  LOW SELF- MOTIVATION  You may often procrastinate  or forget tasks entirely if  they don't have obvious  external consequences or  rewards. No, you're not lazy!  POOR WORKING MEMORY  Working memory is how we  keep things in our head, if you  have exD you may often lose  your keys or forget why you  walked into a room.  DIFFICULTY CONVERSING  Working memory extends to  verbal concepts too. You may  forget your train of thought  or struggle to talk with  people in real time. LITTLE TIME AWARENESS  Are you always running  behind? When you're focused  on a task does it seem like time  stops altogether?  EMOTIONAL REACTIVITY  Your emotional responses may  be extreme or make it hard to  reach your goals, or you  might not be able to regulate  your emotions.  LACK OF INHIBITION  ExD makes you want instant  gratification, so it's hard to  say "not now" to something  you want - especially when  you have strong feelings.  *THIS IS NOT MEDICAL ADVICE  I am not a physician or mental health professional.This post is meant for informational purposes only and is not Diagnostic. If you suspect you may have clinical executive function disorder please consult a doctor for diagnosis or treatment.](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/signs%20of%20exd%20purple.jpg)
+![Infographic on purple background with seven heads each relating to an aspect of executive dysfunction. Text reads Chaotic Organized presents  ADULT EXECUTIVE  DYSFUNCTION (EXD)  Do you have any of the signs below?:  TROUBLE PLANNING OR  BREAKING DOWN TASKS  You may not recognize the  smaller steps you can take  towards achieving your goals.  LOW SELF- MOTIVATION  You may often procrastinate  or forget tasks entirely if  they don't have obvious  external consequences or  rewards. No, you're not lazy!  POOR WORKING MEMORY  Working memory is how we  keep things in our head, if you  have exD you may often lose  your keys or forget why you  walked into a room.  DIFFICULTY CONVERSING  Working memory extends to  verbal concepts too. You may  forget your train of thought  or struggle to talk with  people in real time. LITTLE TIME AWARENESS  Are you always running  behind? When you're focused  on a task does it seem like time  stops altogether?  EMOTIONAL REACTIVITY  Your emotional responses may  be extreme or make it hard to  reach your goals, or you  might not be able to regulate  your emotions.  LACK OF INHIBITION  ExD makes you want instant  gratification, so it's hard to  say "not now" to something  you want - especially when  you have strong feelings.  *THIS IS NOT MEDICAL ADVICE  I am not a physician or mental health professional.This post is meant for informational purposes only and is not Diagnostic. If you suspect you may have clinical executive function disorder please consult a doctor for diagnosis or treatment*](https://i.imgur.com/3Nse00Q.jpg)
 
 Have you ever seen an ADHD meme on Facebook and thought, “Well yeah but that’s how everyone’s brain is…”
 
@@ -104,7 +104,7 @@ It’s the same for you. When your executive dysfunction means you forget a meet
 
 This is wonderful because it means _you_ don’t need to be fixed. Only your tools do.
 
-![ultimate guide to time management.jpg|A page from a planner help up with tape and the words "take back your time" written on it. Headline says Take Back Your Time the Ultimate Guide to Time Management for adults with executive dysfunction from chaoticorganized.com](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/ultimate%20guide%20to%20time%20management.jpg)
+![A page from a planner help up with tape and the words "take back your time" written on it. Headline says Take Back Your Time the Ultimate Guide to Time Management for adults with executive dysfunction from chaoticorganized.com](https://i.imgur.com/9Ktay26.jpg)
 
 ## ABCs of Intentional Time Management for Adults with Executive Dysfunction
 
@@ -124,7 +124,7 @@ Whoever you are, I’ve got you covered! 
 
 It’s crucial to note that **these “steps” are actually a cycle**. You will need to periodically reevaluate your baseline and refine your plan when you find your behavior is no longer what you want it to be. So it’s okay if a process only works for a while because _that’s part of the plan_. This method accommodates that. It’s not about one tool or method, but an overall process to help you develop the specific system you need when you need it.
 
-![Stage-1_-Butterfly-Eggs-6-scaled.jpg|An infographic on a green background with text that reads The ABCs of  Mindful Time Management for adults with  Executive Dysfunction  ASSESS  How can you know which way to go if you  don't know where you're starting? Track  your time, using a tool like RescueTime.  How would you spend your time if it were  up to you? (Spoilers: it actually is!)  BLOCK  Break your goals into smaller tasks  (hint: ask for help!) and break your  days into 3-4 hour blocks. Add only 1-2  tasks to each block. Go slow - adding  one new habit at a time. Another pro  tip: add in time to go over your  schedule as well, or it won't get done.  CARRY OUT  Time management doesn't stop with  making a plan. Set a timer so you don't  get lost scrolling social media (ahem...)  and find an accountability partner to  bounce ideas off of so you can both  help keep each other on track to meet  your goals.  BONUS TIP:  IT'S A CYCLE  One plan isn't going to last you forever, so  don't expect it to. When things aren't working  anymore, start over with a reassessment and  retool your plan when necessary.. Chaotic Organized](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/Stage-1_-Butterfly-Eggs-6-scaled.jpg)
+![An infographic on a green background with text that reads The ABCs of  Mindful Time Management for adults with  Executive Dysfunction  ASSESS  How can you know which way to go if you  don't know where you're starting? Track  your time, using a tool like RescueTime.  How would you spend your time if it were  up to you? (Spoilers: it actually is!)  BLOCK  Break your goals into smaller tasks  (hint: ask for help!) and break your  days into 3-4 hour blocks. Add only 1-2  tasks to each block. Go slow - adding  one new habit at a time. Another pro  tip: add in time to go over your  schedule as well, or it won't get done.  CARRY OUT  Time management doesn't stop with  making a plan. Set a timer so you don't  get lost scrolling social media (ahem...)  and find an accountability partner to  bounce ideas off of so you can both  help keep each other on track to meet  your goals.  BONUS TIP:  IT'S A CYCLE  One plan isn't going to last you forever, so  don't expect it to. When things aren't working  anymore, start over with a reassessment and  retool your plan when necessary. Chaotic Organized](https://i.imgur.com/0nduqPL.jpg)
 
 ### Assess your life
 
@@ -309,8 +309,7 @@ _This schedule is not your calendar._ That’s important to remember. This is a 
 
 But it’s also important to make sure it’s not actually impossible. Like don’t schedule yourself for twenty-six hours in a day. Don’t plan on two hours of sleep. Make it something that you could realistically hope to strive for in the very long run.
 
-![View-recent-photos-2-317x1024.png|A time blocked ideal daily schedule with the hours from 7AM to 10 PM. The schedule is as follows: Early morning: 7 - plan/mindset, 7:30 - work for an hour, 8:30 - morning routine. Breakfast at 9. Late morning block: 9:30 - Play/learn, 10 - work/play for 2 hours, 12 - clean. Lunch at 12:30. Afternoon block: 1 - work/learn for 2 hours while baby naps, 3:30 - play. Snack at 4. Evening time block: 4:30 - family fun time for 2 hours, 6:30 - cooking. Dinner at 7. Night time block: 7:30 - wind down, 8 - bedtime routine for kids for an hour, 9 - cleaning, 10 - adult time.](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/View-recent-photos-2-317x1024.png)
-
+![A time blocked ideal daily schedule with the hours from 7AM to 10 PM. The schedule is as follows: Early morning: 7 - plan/mindset, 7:30 - work for an hour, 8:30 - morning routine. Breakfast at 9. Late morning block: 9:30 - Play/learn, 10 - work/play for 2 hours, 12 - clean. Lunch at 12:30. Afternoon block: 1 - work/learn for 2 hours while baby naps, 3:30 - play. Snack at 4. Evening time block: 4:30 - family fun time for 2 hours, 6:30 - cooking. Dinner at 7. Night time block: 7:30 - wind down, 8 - bedtime routine for kids for an hour, 9 - cleaning, 10 - adult time.|200](https://i.imgur.com/WV6jPOY.png)
 I wish!
 
 #### Make your ideal weekly schedule
@@ -349,11 +348,15 @@ To make progress on your goals, you need implementation intentions.
 
 To get started with actually getting your plan onto paper, you’re going to need, well, paper.
 
-![digital-vs-paper-planner-1-1024x1024.png|the words Digital or Paper over two triangles: one showing a person writing on an ipad planner with a stylus, the other writing on a traditional paper planner](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/digital-vs-paper-planner-1-1024x1024.png)
+![the words Digital or Paper over two triangles: one showing a person writing on an ipad planner with a stylus, the other writing on a traditional paper planner](https://i.imgur.com/2x0TjEh.png)
 
-Or a digital planner, or a planning app. Whatever you like to use is fine, because this isn’t about the specific tools. Google Calendar is particularly good for time blocking, but personally Trello is my favorite for an app-based option right now.
+Or a digital planner, or a planning app. Whatever you like to use is fine, because this isn’t about the specific tools. Google Calendar is particularly good for time blocking, but personally Obsidian is my favorite for an app-based option right now.
 
-I’m personally using my Hybrid Rocketbook Planner (link) and using Trello as my Rocketbook destination, so at the end of the day my completed schedule is digitally archived in a visual format my brain loves, but I can use paper throughout the day.
+I’m personally using my [[10-19 💢 Bardacht/15 Blog/2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method\|Hybrid Rocketbook Planner]] and using Trello as my Rocketbook destination, so at the end of the day my completed schedule is digitally archived in a visual format my brain loves, but I can use paper throughout the day.
+
+> [!UPDATE] 2023 Update
+> I'm still using a hybrid/"medium" method, but these days I use my Hobonichi planners (yes that's plural...I have a problem okay?) with [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]] which acts as my digital [[60-69 〰️ Dialann/68 Using Obsidian/second brain\|second brain]]
+
 
 If you're still not sure, check out the [Tools section](#more-tools) below for some specific options.
 
@@ -373,7 +376,7 @@ You can use time boxing and time blocking separately or together. I have persona
 
 You may have already heard of habit stacking. It’s a specific type of implementation intention where you develop more robust routines by adding a new task to an already established routine. Habits are most easily formed when they are associated with a strong cue that won’t be missed. That’s why your current habits are such a perfect foundation. 
 
-![Screen-Shot-2021-02-26-at-11.57.05-PM.png](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/Screen-Shot-2021-02-26-at-11.57.05-PM.png)
+![](https://i.imgur.com/fNXj1Eb.png)
 
 Here's a few from my planner.
 
@@ -446,7 +449,7 @@ And you cannot imagine how proud you’ll feel once you start getting used to it
 
 You have some choices for timers. Ideally you would not use your phone, since that requires dealing with the temptation for distraction. Voice assistants are a great option for timers, but my absolute favorite are visual kitchen timers. 
 
-![IMG_0601-2.jpg|A square timer in front of a pegboard. The timer goes up to 60 minutes but it is set to 10 minutes with a yellow sector showing the time remaining. Also Pikachu is peeking over the corner!](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/IMG_0601-2.jpg)
+![A square timer in front of a pegboard. The timer goes up to 60 minutes but it is set to 10 minutes with a yellow sector showing the time remaining. Also Pikachu is peeking over the corner!](https://i.imgur.com/TP2DiT7.jpg)
 
 My daughter's timer
 
