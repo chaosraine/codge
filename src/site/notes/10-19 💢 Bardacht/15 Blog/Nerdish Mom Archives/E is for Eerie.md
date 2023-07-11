@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/E is for Eerie.md","permalink":"/blog/nerdish-mom-archives/e-is-for-eerie/","title":"E is for Eerie","noteIcon":"","created":"","updated":"2023-07-10T19:13:20.166-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/E is for Eerie.md","permalink":"/blog/nerdish-mom-archives/e-is-for-eerie/","title":"E is for Eerie","noteIcon":"","created":"","updated":"2023-07-10T20:02:29.867-04:00"}
 ---
 
 
