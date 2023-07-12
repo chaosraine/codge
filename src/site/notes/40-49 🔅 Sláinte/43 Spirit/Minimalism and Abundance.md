@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-slainte/43-spirit/minimalism-and-abundance/","noteIcon":"","created":"2023-07-10T11:18:40","updated":"2023-07-10T13:38:44.481-04:00"}
+{"dg-publish":true,"permalink":"/40-49-slainte/43-spirit/minimalism-and-abundance/","noteIcon":"","created":"2023-07-10T11:18:40","updated":"2023-07-10T22:36:33.000-04:00"}
 ---
 
 
