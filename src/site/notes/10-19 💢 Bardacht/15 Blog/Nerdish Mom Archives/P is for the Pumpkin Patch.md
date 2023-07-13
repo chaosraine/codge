@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/P is for the Pumpkin Patch.md","permalink":"/blog/nerdish-mom-archives/p-is-for-the-pumpkin-patch/","title":"P is for the Pumpkin Patch!","noteIcon":"","created":"","updated":"2023-07-04T22:00:29.306-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/P is for the Pumpkin Patch.md","permalink":"/blog/nerdish-mom-archives/p-is-for-the-pumpkin-patch/","title":"P is for the Pumpkin Patch!","noteIcon":"","created":"","updated":"2023-07-12T22:15:18.816-04:00"}
 ---
 
 
-![](/img/user/80-89 Assets/82 - Photo Attachments/20191019_083455_00008494213210808021623.png)
+![](https://i.imgur.com/I6e9uEk.png)
 
 P is for the Pumpkin Patch and Picking Perfect Pumpkins!
 
