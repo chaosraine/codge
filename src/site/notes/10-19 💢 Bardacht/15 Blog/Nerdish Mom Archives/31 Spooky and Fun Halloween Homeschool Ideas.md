@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/31 Spooky and Fun Halloween Homeschool Ideas.md","permalink":"/blog/nerdish-mom-archives/31-spooky-and-fun-halloween-homeschool-ideas/","title":"31 Spooky and Fun Halloween Homeschool Ideas Roundup","tags":["halloween","list"],"noteIcon":"","created":"","updated":"2023-07-04T22:00:28.263-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/31 Spooky and Fun Halloween Homeschool Ideas.md","permalink":"/blog/nerdish-mom-archives/31-spooky-and-fun-halloween-homeschool-ideas/","title":"31 Spooky and Fun Halloween Homeschool Ideas Roundup","tags":["halloween","list"],"noteIcon":"","created":"","updated":"2023-07-12T21:13:13.459-04:00"}
 ---
 
 
@@ -9,7 +9,7 @@ Many of my posts will delve deeper into the Halloween homeschool ideas listed be
 
 ## 31 Halloween Homeschool ideas/activities 
 
-![31 posts of october - advertising the 31 halloween homeschool ideas](/img/user/80-89 Assets/82 - Photo Attachments/Copy-of-31-posts-of-October.png)
+![31 posts of october - advertising the 31 halloween homeschool ideas](https://i.imgur.com/WMMAmBI.png)
 
 ### 1. [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/A is For All Hallows Eve\|All Hallow's Eve]]
 
