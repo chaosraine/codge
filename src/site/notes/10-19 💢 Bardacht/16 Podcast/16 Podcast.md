@@ -10,5 +10,6 @@
 | Episode                                                                                  | date       | tags | categories |
 | ---------------------------------------------------------------------------------------- | ---------- | ---- | ---------- |
 | [[10-19 💢 Bardacht/16 Podcast/2021/2021-03-16-ex-gifted-trailer\|Ex-Gifted Trailer]] | 2021-03-16 | \-   | \-         |
+| [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-02-there-is-no-try\|There is No Try]]     | 2021-04-02 | \-   | \-         |
 
 { .block-language-dataview}
