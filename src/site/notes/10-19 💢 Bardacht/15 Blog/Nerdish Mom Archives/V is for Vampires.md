@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/V is for Vampires.md","permalink":"/blog/nerdish-mom-archives/v-is-for-vampires/","title":"V is for Vampires","noteIcon":"","created":"","updated":"2023-07-04T22:00:29.310-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/V is for Vampires.md","permalink":"/blog/nerdish-mom-archives/v-is-for-vampires/","title":"V is for Vampires","tags":["homeschool"],"noteIcon":"","created":"","updated":"2023-07-12T22:36:21.315-04:00"}
 ---
 
 
@@ -7,7 +7,8 @@ Y'all something big happened but I want to go ahead and finish up the month befo
 
 What I am going to talk about is… 
 
-![V is for vampires](https://lh3.googleusercontent.com/rZF96k3H8HxtpQNG4j7Il4qt4JhP9uadSWZWNByg7Mfqx6HeNE-5Sri4q6K5btf15zUmfiswPiX7VYPkHMtju0uBnKJPokShAAHV_zymeuHLqXMknbPtc9KKtoXj2q9wTx3BtWf4)
+![V is for vampires](https://i.imgur.com/bA0po4U.png)
+
 
 ## **V is for Vampires**
 
