@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/S is for Samhain.md","permalink":"/blog/nerdish-mom-archives/s-is-for-samhain/","title":"S is for Samhain","noteIcon":"","created":"","updated":"2023-07-04T22:00:29.313-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/S is for Samhain.md","permalink":"/blog/nerdish-mom-archives/s-is-for-samhain/","title":"S is for Samhain","tags":["homeschool"],"noteIcon":"","created":"","updated":"2023-07-12T22:27:31.014-04:00"}
 ---
 
 
@@ -16,7 +16,8 @@ Now, let's get one thing clear from the start. Samhain is _not_ Halloween. The f
 
 They share a common origin, and modern pagan celebrations of Samhain are also quite different from those performed thousands of years ago. So are they the same? Of course not. But Halloween owes its existence and many of its traditions to early Samhain. 
 
-![S is for Samhain](https://lh6.googleusercontent.com/6_O7OsKGSu9kWbrShBH1Rgc0x-3Sqa4nvixWlmqOAZDQdiPUwaFCAa2ks6uiganmjNILnPXQghjrp0bjs78WuiIRFnWq20Ni-o2iHet8oeHifbbWag1wU27Oh9RiK4UuSGt99_Hy)
+![S is for Samhain](https://i.imgur.com/hWvCIgb.png)
+
 
 ### **History**
 
@@ -30,8 +31,7 @@ It's older than Christmas. It's older than Passover. It's even older than many o
 
 Samhain originated in Ireland and was celebrated by the Celts, but [there’s reason to believe](https://www.newgrange.com/samhain.htm) it was celebrated by the earliest inhabitants of the island even before the Celtic people arrived. It is celebrated at approximately the midpoint between the fall equinox and the winter solstice, and marks the end of summer and the harvest and is the beginning of a new year. Along with Beltane on the opposite side of the calendar, it’s one of the times of the year when the veil separating the worlds is at its thinnest.
 
-![](https://i2.wp.com/www.chaoticorganized.com/wp-content/uploads/2019/10/dan-roizer-3GEs_-T189w-unsplash-1.jpg?fit=800%2C534&ssl=1)
-
+![](https://i.imgur.com/G7f5vsC.png)
 Photo by [Dan Roizer](https://unsplash.com/@danny159?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/collections/1097211/mabon-samhain?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ### **Halloween traditions**
@@ -56,7 +56,7 @@ Much like Dia de Muertos, I don't feel comfortable sharing the celebrations and 
 
 Many people think of paganism as being something ancient and long since eradicated, but, in the United States, it's actually one of the fastest growing religious groups, following "unaffiliated." 
 
-![](https://i1.wp.com/www.chaoticorganized.com/wp-content/uploads/2019/10/freestocks-org-qKscFO2L4oc-unsplash.jpg?fit=800%2C534&ssl=1)
+![](https://i.imgur.com/q5Rb3Bx.png)
 
 Paganism is an umbrella term that encompasses many different belief systems. Most people are aware of Wicca, but that's just one approach to modern paganism. Some of these religions celebrate Samhain and others do not. For obvious reasons, I’ll focus on the former below:
 
