@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/C is for Campfire Stories.md","permalink":"/blog/nerdish-mom-archives/c-is-for-campfire-stories/","title":"C is for Campfire Stories","noteIcon":"","created":"","updated":"2023-07-04T22:00:28.256-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/C is for Campfire Stories.md","permalink":"/blog/nerdish-mom-archives/c-is-for-campfire-stories/","title":"C is for Campfire Stories","noteIcon":"","created":"","updated":"2023-07-12T21:31:44.475-04:00"}
 ---
 
 
@@ -13,7 +13,7 @@ Just a couple days ago we were driving around and my gal Friday suddenly became 
 
 So I asked her to tell me a story. It was about Pokemon battling, of course. And she was no longer bored. She asked her dad for a story. Then she told another one. Then she asked me to tell one. 
 
-![C is for campfire stories](https://lh6.googleusercontent.com/bc3NH08w10Y71uvp0UqM_7Yhe4kTW3r1YBgGAMgQUGXBJZwgS7s1SQppcHYmWg-nUu7NnUcTzrSFJsnb7A6gQYTwgmrl9uhwP3P42vvlc9c3WdvUV2kwcFabkAzeju9gSePtYd_P)
+![C is for campfire stories](https://i.imgur.com/jCAHbds.png)
 
 ## C is for Campfire Stories
 
@@ -58,7 +58,9 @@ Gameplay in our version is very straightforward. Draw the top card and play it o
 
 In the future I might even narrow it down to a single family member at once. The stories won’t be as elaborate, but she had a bit of a tough time remembering what each person had been up to.
 
-![](https://lh4.googleusercontent.com/kPDPD4GDTp0X4IhpMsImWeWWc9PWc7hZGXyyBRjnV6xba1DrUnIDYBQskaYn1h8xtYQ3kw5H-YjO3g6LMKiL4js2WAFz-7yBR1Yo-yVfZ8S4_YT3PXkMbGjK12ROdNLTDoz5-FbS)
+![](https://i.imgur.com/RyWxjty.png)
+
+
 
 ## Read On!
 
