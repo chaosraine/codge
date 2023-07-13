@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/Y is for Yeti.md","permalink":"/blog/nerdish-mom-archives/y-is-for-yeti/","title":"Y is for Yeti","noteIcon":"","created":"","updated":"2023-07-04T22:00:29.314-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/Y is for Yeti.md","permalink":"/blog/nerdish-mom-archives/y-is-for-yeti/","title":"Y is for Yeti","noteIcon":"","created":"","updated":"2023-07-12T21:56:03.102-04:00"}
 ---
 
 
@@ -11,7 +11,8 @@ My gal Friday has recently discovered the 2018 movie Smallfoot, about a Yeti vil
 
 It’s mostly a middling, feel-good movie for kids, with one caveat: the random song by Common (who plays the Yeti leader) snuck into the middle to explain why it’s so important for the Yeti people to stick to all their mythologies. It’s unlike anything you’d expect to find in the genre and very artfully done. If you don’t watch the movie, at least watch the YouTube video for [_Let it Lie_](https://www.youtube.com/watch?v=dascPTBaGOA).
 
-![Y is for Yeti](https://lh4.googleusercontent.com/YQAffX-wTMVrQfpeklZ_KUCtavNb1tI7vY3L0uStg9_D70N3IzFUVNbtDsYZvyINjKysg1vZlkip4sedQ7VPvW3RTCz6OX5Gr1FBC0PSHhmtA7uBsR8J6Q2dCispl4czWk_2M5lH)
+![Y is for Yeti](https://i.imgur.com/FI5EM13.png)
+
 
 ## **Y is for Yeti**
 
@@ -27,7 +28,8 @@ Sometimes people are just suffering from confirmation bias - that they see somet
 
 Bigfoot, or Sasquatch, are not the same thing as a Yeti. They’re more like cousins. The two came about independently.
 
-![](https://lh4.googleusercontent.com/fUo4cQ9C6QHDOAwku3iyGPeRCC7o_5RQiUxWlgJvRpiOsNdwGIoHVMRSMQy03frCb81SN_DNLMvBcS1Cy7IsSk1dfCy4LmZ8sKXMZgPQMNSpr29c3gG7SnPmRowECalPUphk65Rk)
+![](https://i.imgur.com/B7Zt0XQ.png)
+
 
 Like the Yeti, Bigfoot is described as an overly hairy human with giant feet. But Bigfoots are typically brown to blend with the pacific northwest forests with which they are associated. 
 
@@ -48,7 +50,8 @@ Despite originating thousands of miles apart, Yetis and Bigfoots have a lot of t
 
 Test out the disguises on these cute little Yetis here. 
 
-![](https://lh5.googleusercontent.com/Hs5FFv8jUoJfGm2rLlDYKvS21jcTQdzpr9gaXd-xSvNx5-Ae5bRAegMA4hVu02xDcXDWfZm9eJrxYP0Yems4SpB2buOnqqekBsVzPLh8QvYSh76R9KIMrxh_PIz0XOlM3WDDQCjI)
+![](https://i.imgur.com/UCnyjnF.png)
+
 
 illustrations again from Canva because I haven't learned to draw in the last couple days
 
