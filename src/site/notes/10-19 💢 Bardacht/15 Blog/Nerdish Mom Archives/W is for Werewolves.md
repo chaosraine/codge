@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/W is for Werewolves.md","permalink":"/blog/nerdish-mom-archives/w-is-for-werewolves/","title":"W is for Werewolves","tags":["homeschool","parenting"],"noteIcon":"","created":"","updated":"2023-07-12T22:37:14.087-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/W is for Werewolves.md","permalink":"/blog/nerdish-mom-archives/w-is-for-werewolves/","title":"W is for Werewolves","tags":["homeschool","parenting"],"noteIcon":"","created":"","updated":"2023-07-12T23:01:21.125-04:00"}
 ---
 
 
