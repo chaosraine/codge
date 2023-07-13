@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/D is for Día de Muertos.md","permalink":"/blog/nerdish-mom-archives/d-is-for-dia-de-muertos/","title":"D is for Día de Muertos","noteIcon":"","created":"","updated":"2023-07-04T22:00:28.271-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/D is for Día de Muertos.md","permalink":"/blog/nerdish-mom-archives/d-is-for-dia-de-muertos/","title":"D is for Día de Muertos","noteIcon":"","created":"","updated":"2023-07-12T21:48:36.502-04:00"}
 ---
 
 
 _Día de Muertos_ is a primarily Mexican celebration of the dead which takes place October 31-November 2. It came about from the merging of All Saints Day traditions brought over by the Spanish with the native Aztec beliefs that were in place long before they arrival of Catholicism. 
 
-![d is for dia de muertos](https://lh4.googleusercontent.com/GjdcJqLp8nZ_lxSXGN267owSBwnCCJsib1KeBIXKVuAY227HNX_S8ZAwIq73l9GD-66Mf6Q6mdw5LNqNE-DZIgoNXZQ25ExenfthRo6QvsXcGc0Olu963Xzga7bIJ5dN0Tcyj0LP)
+![d is for dia de muertos](https://i.imgur.com/KGfq2vr.png)
+
 
 As opposed to the solemn All Saints Day remembrances elsewhere in the Americas, _Día de los Muertos_ is a joyful tradition when families get to honor their lost loved ones, and has it has tremendous religious and cultural significance to the people who celebrate it.
 
