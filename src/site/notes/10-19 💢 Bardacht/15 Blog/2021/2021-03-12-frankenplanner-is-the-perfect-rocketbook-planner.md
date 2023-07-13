@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner.md","permalink":"/blog/2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner/","title":"Frankenplanner: How to Make the Perfect Rocketbook Planner by Cutting the Coil","noteIcon":"","created":"","updated":"2023-07-05T22:43:18.720-04:00"}
+{"dg-publish":true,"dg-path":"Blog/2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner.md","permalink":"/blog/2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner/","title":"Frankenplanner: How to Make the Perfect Rocketbook Planner by Cutting the Coil","noteIcon":"","created":"","updated":"2023-07-12T21:08:52.674-04:00"}
 ---
 
 
@@ -25,7 +25,7 @@ Well that’s okay, because today I’ve got you covered on one of my favorite o
 
 It occurred to me that I haven’t actually explained what Rocketbook is in my last few posts about it, so let me rectify that right now for any new readers or anyone else who has so far missed out on the awesomeness of Rocketbook.
 
-![20201028_091802_Original-edited-1-768x1024.jpg|a notebook with a burgundy cover bound with gold discs covered with mermaid stickers](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/20201028_091802_Original-edited-1-768x1024.jpg)
+![a notebook with a burgundy cover bound with gold discs covered with mermaid stickers](https://i.imgur.com/Ig2SCmw.jpg)
 
 Essentially, it’s a notebook that is reusable many times. Using special heat reactive pens under the Pilot Frixion line, you can wipe the pages clean with a damp cloth and not have to worry about wasted paper.
 
@@ -58,7 +58,7 @@ So first off, acknowledge that it can be intimidating and that’s okay. I know 
 
 This first step is really easy, and no you don’t need to literally cut anything. Just take the coil out from the Rocketbook pages, holding the pages together as best you can. It twists right out!
 
-![](https://i1.wp.com/veryveryvary.com/wp-content/uploads/2021/01/image-1.jpg?fit=640%2C431&ssl=1)
+![](https://i.imgur.com/iiqBQkm.jpg?1)
 
 ### 2\. Make a Plan
 
@@ -76,17 +76,17 @@ This really only needs to be a 2 step process but of course I made it complicate
 
 I’ll be honest, I made a template before punching my holes. I wanted to make sure they were placed just right, and I’m happy I did it. If you cut off all the original holes, this really is unnecessary, but if you want to align the new and old holes as much as possible I suggest it. Keep in mind that you need a punch like the ARC punch that has an adjustable foot to align your pages, which is something many discbound punches don’t have for some unfathomable reason because I’m pretty sure many discbound users are perfectionists.
 
-![](images/image-1-1.jpg)
+![](https://i.imgur.com/yW26IzE.jpg?1)
 
 To make a template, I put my Rocketbook cover into the punch and aligned it where I thought it needed to be. Then I took a sheet of ordinary printer paper and tested the placement. I compared it to the Rocketbook cover, made some tweaks, then tested again. Keep in mind that if it looks like it’s getting worse, you may be accidentally moving it in the wrong direction, which is a mistake I made at first.
 
 Once you’ve got it figured out, go ahead and punch your cover. For the other cover, make sure that you still have the TOP of the notebook facing UP. I flipped mine over without thinking and it didn’t turn out perfectly, but I’m embracing imperfection this year, so that’s okay. No really, it’s fine.
 
-![20201027_221413_Original-1024x576.jpg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/20201027_221413_Original-1024x576.jpg)
+![](https://i.imgur.com/3zRueV1.jpg)
 
 **Whether you cut off the outer edge or not, you will have to realign after punching the covers and before punching the pages** or else the bottom of the pages will be aligned with the bottom of the cover with a large gap at the top which is definitely not what you want. It’s important to make sure the pages will be close to centered when they are in the book. You can do this by eye, just don’t skip it.
 
-![20201027_223147_Original-1024x576.jpg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/20201027_223147_Original-1024x576.jpg)
+![](https://i.imgur.com/zkUnzqd.jpg)
 
 ### 4\. Customize
 
@@ -94,11 +94,11 @@ Pull out your discs of choice and put in your Rocketbook pages, then gather up w
 
 I use watercolor paper cut to size for my monthly layouts and they make me so happy! But I also have some plain printer paper in there for assorted uses.
 
-![20201027_223758_Original-576x1024.jpg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/20201027_223758_Original-576x1024.jpg)
+![](https://i.imgur.com/4OtCbvX.jpg)
 
 You can also use a cover from a discbound system instead of sticking with the Rocketbook cover. Alternatively, you can line the edge of your Rocketbook over with washi tape so it looks nice and neat on the outside (even if you chose not to do it on every single page inside). You can see I did it, but full disclosure: while it’s worked great on the inner edge, the outer edge has fully peeled off on both front and back covers. Your experience may vary depending on the kind of tape you use.
 
-![20201027_223527_Original-1024x576.jpg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/20201027_223527_Original-1024x576.jpg)
+![](https://i.imgur.com/78bpaYu.jpg)
 
 Whatever you do, make it your own!
 
@@ -112,7 +112,7 @@ You absolutely **can** use a three ring binder if you want, but note that the st
 
 Be **very careful** with other alternative options if you’re not familiar with notebook bindings already. The coils have to have a particular pitch in order to fit. There’s a really cool looking pull-apart coil that allows you to move around and add pages as you want, but I as yet have not seen one that fits the Rocketbook. Of course, if you’re not using official Rocketbook pages or if you can find a matching punch then feel free to try it out and let me know!
 
-![IMG_0112-816x1024.png](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/IMG_0112-816x1024.png)
+![](https://i.imgur.com/GKuEqY8.png)
 
 ## Show off your Rocketbook planners!
 
@@ -120,4 +120,4 @@ No, not just Rocketbook planners. Seriously, y’all! Share _all_ the inspiratio
 
 What do you have? Drop pics!
 
-![Copy-of-Rocketbook-Planner-Pin-683x1024.png](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/Copy-of-Rocketbook-Planner-Pin-683x1024.png)
+![](https://i.imgur.com/kBIYhgX.png)
