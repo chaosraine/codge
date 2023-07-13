@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/L is for the Legend of Sleepy Hollow.md","permalink":"/blog/nerdish-mom-archives/l-is-for-the-legend-of-sleepy-hollow/","title":"L is for the Legend of Sleepy Hollow","noteIcon":"","created":"","updated":"2023-07-04T22:00:28.257-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/L is for the Legend of Sleepy Hollow.md","permalink":"/blog/nerdish-mom-archives/l-is-for-the-legend-of-sleepy-hollow/","title":"L is for the Legend of Sleepy Hollow","noteIcon":"","created":"","updated":"2023-07-12T22:02:57.204-04:00"}
 ---
 
 
@@ -7,7 +7,8 @@
 
 There’s something cool about things that begin with “the legend of” - they’re usually very, very old. And things that are very, very old are usually out of copyright. Which means that they’re freely available for anyone to enjoy. 
 
-![](https://lh4.googleusercontent.com/Waranz2uI21YnTTbibTLAIVkRbdhBktMeGXcvFj-e3UMrYV9n2okDGlBx5D5KjveadhyqBL9VR9V1lBuMf1boFlNttUXMBKhuyAEmoVzvnxrarEgUel6J8kwQoQMwSGoSbnyMC2S)
+![](https://i.imgur.com/4Di34kJ.png)
+
 
 ## **L is for the Legend of Sleepy Hollow**
 
