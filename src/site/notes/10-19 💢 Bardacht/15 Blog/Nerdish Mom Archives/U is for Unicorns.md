@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/U is for Unicorns.md","permalink":"/blog/nerdish-mom-archives/u-is-for-unicorns/","title":"U is for Unicorns","noteIcon":"","created":"","updated":"2023-07-04T22:00:29.317-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/U is for Unicorns.md","permalink":"/blog/nerdish-mom-archives/u-is-for-unicorns/","title":"U is for Unicorns","tags":["homeschool"],"noteIcon":"","created":"","updated":"2023-07-12T22:35:01.124-04:00"}
 ---
 
 
@@ -14,7 +14,8 @@ Z is for Zombies
 
 That's a lot of spoop condensed into one week! 
 
-![U is for Unicorns](https://lh3.googleusercontent.com/yV3wdpqRpj99zDflxkIG589oxhWA4mIPTjiKBIp7k-J-dc2sfqIko5IvAFMBg5WK-NAnxri-Dz65U3baD-kZmOs0ZFyDTL5Y4HGM6QbubwWNAOcQF5NUddXJ1X4_ItKBBFfZW0zH)
+![U is for Unicorns](https://i.imgur.com/veDix3R.png)
+
 
 ## **U is for Unicorns**
 
@@ -24,14 +25,12 @@ Unicorns are weird. They appear independently in stories from many different cul
 
 There’s some speculation that unicorns may have been invented upon the discovery of the rhinoceros. A rhino does have the one major horn on their nose, but I’m gonna stay skeptical that someone saw this:
 
-![](https://lh4.googleusercontent.com/VlKoe3XCpX8kvi6EorRYz2HqWqdeTsRDyflitJV_hDTMCN6Db7SJHbk5JoIsMJvWu8eIsoLhckCohAACmND0bmlKtXLlJM_kgjbz9dfjdWSK3YJi7pIYQTXsvnf5qyFifoWrkFoy)
-
-  
+![picture of a rhinoceros](https://i.imgur.com/OMfCpKm.png)  
 Photo by [Casey Allen](https://www.pexels.com/@caseygeneallen?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/africa-wildlife-wilderness-rhino-16040/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 
 then described it as “kind of like a horse, but with a horn on its head,” and when someone drew this:
 
-![](https://lh4.googleusercontent.com/s7odzsGGY5VSDHe3PL_ecoo2mZ4k6kI2K7_gGFPgvEu-mS2eUTCx9F1GODseE-zZQ-I4otAOYkQUGkkNRH1vBdZOy3uTRW5cjZoyNXJ52aSkP_7GfhUVEdaIxrlGuFnZKEBfFGTl)
+![illustration of a unicorn](https://i.imgur.com/sjLhYwh.png)
 
 their response was, “What? Oh yeah, close enough I guess.”
 
@@ -39,19 +38,20 @@ their response was, “What? Oh yeah, close enough I guess.”
 
 Narwhals are adorable and I'm all about making them the "unicorn of the sea." But since a narwhal is a real thing, it's important to be real about what they look like even when doing cutesy animations. 
 
-![](https://lh3.googleusercontent.com/UPTfiqO3K2uEZ2yYfSuDgNIIApuWxgekcrg_91tZX1dfomAOL8j72cScuuU6CBNQuvH3EfSDUj4amq0z2axs4jW3FMJSwO9Yg_pk7DPf4s-w7fMhJiAMLploUVu5NRNGvyaHi7-g)
+!["Not Narwhals" illustrations of narwhals with horns coming from their foreheads. "Definitely a Narwhal" an illustration of a narwhal with a properly placed modified tooth](https://i.imgur.com/71pwZKY.png)
 
 A narwhal, not being an actual unicorn, should have their tusk coming from the front of their face where a nose might be. Not out of their forehead. That top one is just a bottlenose dolphin with a horn, I don’t even know…
 
 Cute narwhal:
 
-![](https://lh6.googleusercontent.com/O1yckink-0bGN8rDjkGWDRPbr_NCYfVXGxqUVPj7snJPJJGK15A7ZyaNEDDNRDRQPU-OJZULUOl1EOg2NoEjc_sbkai8on2l1dHSjGRH2UZIvjrwUfcBYo9q5dWOWN9j2jwODefz)
+![Still frame from the Futurama movie with Fry and Leelu the narwhal](https://i.imgur.com/tT6gWkK.png)
+
 
 Narwhals are also great for the bullet journal, when the modified tooth is placed correctly.
 
 ## **Here’s Some Unicorns**
 
-![](https://lh3.googleusercontent.com/ci-SQFrvqAlTT2kd7c8eP9cQMB5lCTE-NvXcSZ45bPFI-XTJ59pQ1Qhj0OB0VD4mowbBgicQdvrH77KoSyOxD7V30HLGxsTo7_ONGVdZlHZUVEqYmHwIRGHdypNDmNqsR1Z3losE)
+![illustrations of unicorns to be colored in](https://i.imgur.com/SJuwCnl.png)
 
 I didn't draw these. They're from Canva.
 
