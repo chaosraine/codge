@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/2021/2021-03-01-time-management-for-executive-dysfunction.md","permalink":"/blog/2021/2021-03-01-time-management-for-executive-dysfunction/","title":"Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction","tags":["intentionality","time-management"],"noteIcon":"","created":"","updated":"2023-07-10T22:12:14.611-04:00"}
+{"dg-publish":true,"dg-path":"Blog/2021/2021-03-01-time-management-for-executive-dysfunction.md","permalink":"/blog/2021/2021-03-01-time-management-for-executive-dysfunction/","title":"Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction","tags":["intentionality","time-management"],"noteIcon":"","created":"","updated":"2023-07-12T17:08:12.544-04:00"}
 ---
-
-
 
 ![](https://i.imgur.com/9Ktay26.jpg)
 
@@ -299,13 +297,12 @@ Once you think you might know what goals you want to work on…
 This is basically a daily agenda that is what your day would look like if you had plenty of energy and your kids were robots and nothing ever went wrong or surprised you!
 
 Include time for your goals from the above list. Schedule your time in short bursts if that’s how you work best, or long blocks for things that you can hyperfocus on. This is a little bit of a fantasy so have fun! Consider it practice for the real thing.
-
   
 Do be realistic about how long things take – and _be wary of transitions_. 
 
 Adults with executive dysfunction are likely to have a hard time working through transitions anyway, but throw kids into the mix and you can guarantee that moving from one task to another will take two to four times as long as it might take a neurotypical person without kids. Give yourself enough buffer time.
 
-_This schedule is not your calendar._ That’s important to remember. This is a dream. A #lifegoals schedule. 
+_This schedule is not your calendar._ That’s important to remember. This is a dream. A life goals schedule. 
 
 But it’s also important to make sure it’s not actually impossible. Like don’t schedule yourself for twenty-six hours in a day. Don’t plan on two hours of sleep. Make it something that you could realistically hope to strive for in the very long run.
 
@@ -489,7 +486,7 @@ I recommend choosing one that is **foundational** – not the one that is the mo
 
 I narrowed it down to either getting to sleep before midnight or preparing my schedule. Both are laying the groundwork for me to make forward progress on everything else. If you’ve read other posts you can probably guess I really didn’t want to pick the former.
 
-I went with the latter. **I committed to putting aside time every day to process my inboxes and make a daily schedule**. _You can do this even if _that’s the only thing you're working on right now__ so _there’s nothing else on the schedule_.
+I went with the latter. **I committed to putting aside time every day to process my inboxes and make a daily schedule**. You can do this even if that’s the *only thing* you're working on right now so there’s *nothing else on the schedule to process*.
 
 None of this means that you can’t also do other things on your list. It just means that you only pick _one_ to be the “I’m going to start doing this thing (most) every day” focus. Anything else you get done is a bonus. After a few weeks go by and your new habit starts to feel like second nature, start thinking about adding a second one.
 
@@ -585,7 +582,7 @@ If you don’t know anyone in your circle who needs this help, or if you’re af
 
 This is for my writer friends in particular. Don’t play with me. You know the one I mean. Or perhaps it’s a whole stack that I’m talking about. Get out the planner/journal/notebook/whatever that is way too good to actually write in. And _write in it_. Do it now, before you overthink it. 
 
-Write “Fuck Chaotic Organized and fuck Ren. They can’t tell me what to do!” if you have to. That (stack of) notebook(s) is a symbol of your perfectionism, and writing _anything_ is a symbol of ending it. And once you’ve started, you can use it to help make a plan of action. Because you need a planner.
+Write “Fuck Chaotic Organized and fuck Raine. They can’t tell me what to do!” if you have to. That (stack of) notebook(s) is a symbol of your perfectionism, and writing _anything_ is a symbol of ending it. And once you’ve started, you can use it to help make a plan of action. Because you need a planner.
 
 A simple bullet journal doesn’t require any fancy lettering or art - although if you’re really worried about having bad art in your journal you could draw on a separate note and stick it in (making bad art was one of my new year’s resolutions). 
 
@@ -699,6 +696,5 @@ Don’t forget to sign up for the email list so I can get the condensed, more ac
   data-account="3858341:r6o9h5i8l8"
   data-form="5633608:m7n3u2">
 </div>
-
 
 If you only remember two things from this article I hope it’s these two: use your time how you’ve intentionally chosen to do so, and above all else, be kind to your mind. It’s the only one you’ve got!
