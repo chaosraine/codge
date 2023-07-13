@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/W is for Werewolves.md","permalink":"/blog/nerdish-mom-archives/w-is-for-werewolves/","title":"W is for Werewolves","noteIcon":"","created":"","updated":"2023-07-04T22:00:29.302-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/W is for Werewolves.md","permalink":"/blog/nerdish-mom-archives/w-is-for-werewolves/","title":"W is for Werewolves","tags":["homeschool","parenting"],"noteIcon":"","created":"","updated":"2023-07-12T22:37:14.087-04:00"}
 ---
 
 
@@ -13,7 +13,8 @@ Although I'm generally more of a vampire person, the Daniel Osbournes of the wor
 
 He even made sure to time his birth with the ancient Roman festival of Lupercalia. So of course he's our young Wolf. 
 
-![w is for werewolves](https://lh3.googleusercontent.com/IdD621dZ0A454qHyDnniQgo4O3SQcNbg1X3v1hSZ80p0wfRlbTkg7ieJH3cOKDmbUTQASJ0UY9b9W1q-sggk5FhoVZFPiWZA_NVPhjW5yUxBtrNAKF7Ibh2sgRQwRYLi2JpjlTn3)
+![w is for werewolves](https://i.imgur.com/ehe05Lb.png)
+
 
 ## **W is for Werewolves** 
 
