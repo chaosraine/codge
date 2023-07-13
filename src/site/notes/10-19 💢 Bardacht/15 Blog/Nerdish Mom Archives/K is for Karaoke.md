@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/K is for Karaoke.md","permalink":"/blog/nerdish-mom-archives/k-is-for-karaoke/","title":"K is for Karaoke ~ a Halloween Sing-along!","noteIcon":"","created":"","updated":"2023-07-04T22:00:28.258-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/K is for Karaoke.md","permalink":"/blog/nerdish-mom-archives/k-is-for-karaoke/","title":"K is for Karaoke ~ a Halloween Sing-along!","noteIcon":"","created":"","updated":"2023-07-12T21:59:39.872-04:00"}
 ---
 
 
@@ -7,7 +7,7 @@ Today's post is something simple. But really fun.
 
 We are going to take advantage of the season. And listen to some spooky songs. It's a Halloween sing-along!
 
-![K is for Karaoke - A Halloween Sing-Along](/img/user/80-89 Assets/82 - Photo Attachments/K-is-for-Karaoke.png)
+![K is for Karaoke - A Halloween Sing-Along](https://i.imgur.com/fVSbFuy.png)
 
 ### A Halloween Sing-Along!
 
