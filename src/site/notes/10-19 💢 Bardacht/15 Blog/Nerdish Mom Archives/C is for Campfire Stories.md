@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/C is for Campfire Stories.md","permalink":"/blog/nerdish-mom-archives/c-is-for-campfire-stories/","title":"C is for Campfire Stories","noteIcon":"","created":"","updated":"2023-07-12T21:31:44.475-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/C is for Campfire Stories.md","permalink":"/blog/nerdish-mom-archives/c-is-for-campfire-stories/","title":"C is for Campfire Stories","tags":["parenting"],"noteIcon":"","created":"","updated":"2023-07-12T23:15:21.515-04:00"}
 ---
 
 
