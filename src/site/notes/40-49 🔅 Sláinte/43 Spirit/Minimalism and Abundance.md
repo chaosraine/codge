@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Health//Minimalism and Abundance.md","permalink":"/health//minimalism-and-abundance/","title":"minimalism and abundance","noteIcon":"","created":"2023-07-10T11:18:40","updated":"2023-07-13T20:56:56.537-04:00"}
+{"dg-publish":true,"dg-path":"Health//Minimalism and Abundance.md","permalink":"/health//minimalism-and-abundance/","title":"minimalism and abundance","noteIcon":"","created":"2023-07-10T11:18:40","updated":"2023-07-13T21:32:28.508-04:00"}
 ---
 
 
@@ -15,9 +15,6 @@ This is the whole point of Epic Minimalism. Not to improve my life through minim
 
 
 
-
-
-*[Backlink](https://unsplash.com/photos/M9LFUeTpe3I) | Photo by [Peter Herrmann](https://unsplash.com/@tama66?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*
 
 
 *[Backlink](https://unsplash.com/photos/0r3GWjxTr3g) | Photo by [Estée Janssens](https://unsplash.com/@esteejanssens?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*
