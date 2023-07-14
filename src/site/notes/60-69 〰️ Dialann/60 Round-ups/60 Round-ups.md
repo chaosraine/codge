@@ -15,12 +15,12 @@
 
 ## Recently Updated
 - [[00 - Top Level/HOME\|HOME]]: 🏠 HOME
+- [[10-19 💢 Bardacht/15 Blog/15 Blog\|15 Blog]]: 📌 Blog
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W27\|Round-up 2023-W27]]: Round-up for 2023 W27
 - [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|60 Round-ups]]: What's new this week
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/Limiting Beliefs\|Limiting Beliefs]]: limiting beliefs
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/automation\|automation]]: Automation
 - [[40-49 🔅 Sláinte/43 Spirit/Minimalism and Abundance\|Minimalism and Abundance]]: minimalism and abundance
-- [[10-19 💢 Bardacht/15 Blog/15 Blog\|15 Blog]]: 📌 Blog
 - [[10-19 💢 Bardacht/15 Blog/2021/2021-03-01-time-management-for-executive-dysfunction\|2021-03-01-time-management-for-executive-dysfunction]]: Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction
 - [[10-19 💢 Bardacht/15 Blog/2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner\|2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner]]: Frankenplanner: How to Make the Perfect Rocketbook Planner by Cutting the Coil
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/31 Spooky and Fun Halloween Homeschool Ideas\|31 Spooky and Fun Halloween Homeschool Ideas]]: 31 Spooky and Fun Halloween Homeschool Ideas Roundup
