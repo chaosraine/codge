@@ -15,7 +15,6 @@
 
 ## Recently Updated
 - [[00 - Top Level/HOME\|HOME]]: 🏠 HOME
-- [[10-19 💢 Bardacht/15 Blog/15 Blog\|15 Blog]]: 📌 Blog
 - [[10-19 💢 Bardacht/15 Blog/15 Blog copy\|15 Blog copy]]: 📌 Blog
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W27\|Round-up 2023-W27]]: Round-up for 2023 W27
 - [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|60 Round-ups]]: What's new this week
