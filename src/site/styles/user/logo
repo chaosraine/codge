@@ -5,7 +5,7 @@
 .site-body-left-column-site-name::before {
     background: none;
     display: block;
-    content: url(/img/user/80-89 Assets/82 - Photo Attachments/CO logo jpg.jpeg);
+    content: url(https://i.imgur.com/lV4zG9O.jpg);
     width: 60%;
     margin: 0 auto;
 }
