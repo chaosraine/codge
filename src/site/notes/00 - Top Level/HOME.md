@@ -16,14 +16,16 @@
 | July 10, 2023 11:18 | sprout | ![](https://images.unsplash.com/photo-1535837436558-f4a66525fef6?ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw2Nnx8cGVucyUyMGpvdXJuYWx8ZW58MHx8fHwxNjg5Mjk1OTgxfDA&ixlib=rb-4.0.3?2)                                            | [[40-49 🔅 Sláinte/43 Spirit/Minimalism and Abundance\|minimalism and abundance]] | talking about the false dichotomy between minimizing and maximizing, and what the point of minimalism is for me |
 | July 10, 2023 11:33 | seed   | ![](https://images.unsplash.com/photo-1647427060118-4911c9821b82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwzMHx8YXV0b21hdGljfGVufDB8fHx8MTY4OTI3MzI3Nnww&ixlib=rb-4.0.3&q=80&w=1080) | [[40-49 🔅 Sláinte/40 Thoughts & Ideas/automation\|Automation]]                   | Automation is so important for outsourcing some of my executive functioning, but it's a balancing act           |
 | July 10, 2023 13:24 | seed   | ![](https://images.unsplash.com/photo-1579447167432-ba8b796e5de1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwyfHxsaW1pdHxlbnwwfHx8fDE2ODkyOTg0Mjd8MA&ixlib=rb-4.0.3&q=80&w=1080)       | [[40-49 🔅 Sláinte/40 Thoughts & Ideas/Limiting Beliefs\|limiting beliefs]]       | Defining a limiting belief                                                                                      |
+| July 16, 2023 19:8  | update | ![](\-)                                                                                                                                                                                                            | [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W28\|Round-up for 2023 W28]]        | Adding some new notes and publishing older notes                                                                |
 
 { .block-language-dataview}
 
 ## Recently Updated
-- [[00 - Top Level/HOME\|HOME]]: 🏠 HOME
 - [[10-19 💢 Bardacht/15 Blog/15 Blog\|15 Blog]]: 📌 Blog
-- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W27\|Round-up 2023-W27]]: Round-up for 2023 W27
+- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W28\|Round-up 2023-W28]]: Round-up for 2023 W28
 - [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|60 Round-ups]]: What's new this week
+- [[00 - Top Level/HOME\|HOME]]: 🏠 HOME
+- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W27\|Round-up 2023-W27]]: Round-up for 2023 W27
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/Limiting Beliefs\|Limiting Beliefs]]: limiting beliefs
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/automation\|automation]]: Automation
 - [[40-49 🔅 Sláinte/43 Spirit/Minimalism and Abundance\|Minimalism and Abundance]]: minimalism and abundance
