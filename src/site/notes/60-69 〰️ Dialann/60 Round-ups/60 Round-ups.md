@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"60 Round-ups/60 Round-ups.md","permalink":"/60-round-ups/60-round-ups/","title":"What's new this week","pinned":true,"contentClasses":"cards cards-2-1","noteIcon":"","created":"","updated":"2023-07-13T14:47:14.096-04:00"}
+{"dg-publish":true,"dg-path":"60 Round-ups/60 Round-ups.md","permalink":"/60-round-ups/60-round-ups/","title":"What's new this week","pinned":true,"contentClasses":"cards cards-2-1","noteIcon":"","created":"","updated":"2023-07-16T19:19:21.718-04:00"}
 ---
 
 
@@ -14,10 +14,11 @@
 { .block-language-dataview}
 
 ## Recently Updated
-- [[00 - Top Level/HOME\|HOME]]: 🏠 HOME
 - [[10-19 💢 Bardacht/15 Blog/15 Blog\|15 Blog]]: 📌 Blog
-- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W27\|Round-up 2023-W27]]: Round-up for 2023 W27
+- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W28\|Round-up 2023-W28]]: Round-up for 2023 W28
 - [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|60 Round-ups]]: What's new this week
+- [[00 - Top Level/HOME\|HOME]]: 🏠 HOME
+- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W27\|Round-up 2023-W27]]: Round-up for 2023 W27
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/Limiting Beliefs\|Limiting Beliefs]]: limiting beliefs
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/automation\|automation]]: Automation
 - [[40-49 🔅 Sláinte/43 Spirit/Minimalism and Abundance\|Minimalism and Abundance]]: minimalism and abundance
