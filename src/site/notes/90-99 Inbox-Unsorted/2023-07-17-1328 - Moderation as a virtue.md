@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-99-inbox-unsorted/2023-07-17-1328-moderation-as-a-virtue/","title":"Moderation as a Virtue","tags":[null],"noteIcon":"","created":"2023-07-17T15:06:07","updated":"2023-07-17T15:06:50.994-04:00"}
+{"dg-publish":true,"permalink":"/90-99-inbox-unsorted/2023-07-17-1328-moderation-as-a-virtue/","title":"Moderation as a Virtue","tags":[null],"noteIcon":"","created":"2023-07-17T15:06:07","updated":"2023-07-17T15:16:42.401-04:00"}
 ---
 
 
