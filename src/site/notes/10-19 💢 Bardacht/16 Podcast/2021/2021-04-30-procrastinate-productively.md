@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Podcast/2021/2021-04-30-procrastinate-productively.md","permalink":"/podcast/2021/2021-04-30-procrastinate-productively/","title":"Procrastinate Productively","tags":[null],"noteIcon":"","created":"","updated":"2023-07-17T01:49:49.309-04:00"}
+{"dg-publish":true,"dg-path":"Podcast/2021/2021-04-30-procrastinate-productively.md","permalink":"/podcast/2021/2021-04-30-procrastinate-productively/","title":"Procrastinate Productively","tags":[null],"noteIcon":"","created":"","updated":"2023-07-17T01:49:49.000-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2021/2021-05-14-embrace-imperfection\|NEXT>>]]
