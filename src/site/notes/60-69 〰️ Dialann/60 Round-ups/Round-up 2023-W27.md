@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Round-ups/Round-up 2023-W27.md","permalink":"/round-ups/round-up-2023-w27/","title":"Round-up for 2023 W27","contentClasses":"cards cards-2-1","noteIcon":"","created":"","updated":"2023-07-17T02:01:13.533-04:00"}
+{"dg-publish":true,"dg-path":"Round-ups/Round-up 2023-W27.md","permalink":"/round-ups/round-up-2023-w27/","title":"Round-up for 2023 W27","contentClasses":"cards cards-2-1","noteIcon":"","created":"","updated":"2023-07-17T02:01:13.000-04:00"}
 ---
 
 
@@ -8,19 +8,19 @@ I'm starting to get an idea of what I'm going to do with this website thing. Des
 | Date                | Status    | Cover        | Title                                                                | Description                                |
 | ------------------- | --------- | ------------ | -------------------------------------------------------------------- | ------------------------------------------ |
 | July 05, 2023 18:45 | \-        | ![Cover](\-) | [[60-69 〰️ Dialann/68 Using Obsidian/second brain\|second brain]] | developing my definition of a second brain |
-| 2023-07-08          | seed      | ![Cover](\-) | [[60-69 〰️ Dialann/68 Using Obsidian/plugins\|plugins]]           | \-                                         |
 | 2023-07-08          | \-        | ![Cover](\-) | [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]]         | \-                                         |
+| 2023-07-08          | seed      | ![Cover](\-) | [[60-69 〰️ Dialann/68 Using Obsidian/plugins\|plugins]]           | \-                                         |
 | 2023-07-08          | published | ![Cover](\-) | [[60-69 〰️ Dialann/68 Using Obsidian/Formatting\|formatting]]     | \-                                         |
 | 2023-07-08          | \-        | ![Cover](\-) | [[60-69 〰️ Dialann/68 Using Obsidian/Aliases\|Aliases]]           | \-                                         |
 
 { .block-language-dataview}
 
 ## Recently Updated
+- [[60-69 〰️ Dialann/68 Using Obsidian/recursive learning\|recursive learning]]: recursive learning
 - [[60-69 〰️ Dialann/68 Using Obsidian/Aliases\|Aliases]]: Aliases
 - [[60-69 〰️ Dialann/68 Using Obsidian/Formatting\|Formatting]]: formatting
 - [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]]: Obsidian
 - [[60-69 〰️ Dialann/68 Using Obsidian/Shortcuts\|Shortcuts]]: shortcuts
-- [[60-69 〰️ Dialann/68 Using Obsidian/recursive learning\|recursive learning]]: recursive learning
 - [[60-69 〰️ Dialann/68 Using Obsidian/Zettelkasten\|Zettelkasten]]: \-
 - [[60-69 〰️ Dialann/Pages/2021-01-31-privacy\|2021-01-31-privacy]]: Privacy Policy
 - [[60-69 〰️ Dialann/Pages/2021-02-06-disclaimers\|2021-02-06-disclaimers]]: Disclaimers
