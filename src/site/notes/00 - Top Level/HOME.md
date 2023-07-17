@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"HOME.md","permalink":"/home/","title":"🏠 HOME","pinned":true,"contentClasses":"dashboard cards","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-07-16T21:47:38.000-04:00"}
+{"dg-publish":true,"dg-path":"HOME.md","permalink":"/home/","title":"🏠 HOME","pinned":true,"contentClasses":"dashboard cards","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-07-16T21:47:38.946-04:00"}
 ---
 
 - ## [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|Podcast]]
@@ -13,20 +13,20 @@
 ## New this week
 | Date               | Status  | Cover                                                                                                                                                                                                           | Title                                                                                        | Description |
 | ------------------ | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------- |
-| July 17, 2023 15:6 | started | ![](https://images.unsplash.com/photo-1524311583145-d5593bd3502a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxMDN8fGJvb2tzfGVufDB8MHx8fDE2ODk2MTg1MDd8MA&ixlib=rb-4.0.3&q=80&w=200) | [[90-99 Inbox-Unsorted/2023-07-17-1328 - Moderation as a virtue\|Moderation as a Virtue]] | \-          |
+| July 17, 2023 15:6 | sapling | ![](https://images.unsplash.com/photo-1524311583145-d5593bd3502a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxMDN8fGJvb2tzfGVufDB8MHx8fDE2ODk2MTg1MDd8MA&ixlib=rb-4.0.3&q=80&w=200) | [[90-99 Inbox-Unsorted/2023-07-17-1328 - Moderation as a virtue\|Moderation as a Virtue]] | \-          |
 
 { .block-language-dataview}
 
 ## Recently Updated
-- [[90-99 Inbox-Unsorted/2023-07-17-1328 - Moderation as a virtue\|2023-07-17-1328 - Moderation as a virtue]]: Moderation as a Virtue
-- [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-02-there-is-no-try\|2021-04-02-there-is-no-try]]: There is No Try
-- [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-30-procrastinate-productively\|2021-04-30-procrastinate-productively]]: Procrastinate Productively
-- [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes\|2021-04-16-adulting-is-hard-part-1-laundry-and-dishes]]: Adulting is Hard part 1: Laundry and Dishes
-- [[10-19 💢 Bardacht/16 Podcast/2021/2021-03-16-ex-gifted-trailer\|2021-03-16-ex-gifted-trailer]]: Ex-Gifted Trailer
-- [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|16 Podcast]]: 📌 Ex-Gifted Podcast
 - [[10-19 💢 Bardacht/15 Blog/15 Blog\|15 Blog]]: 📌 Blog
-- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W28\|Round-up 2023-W28]]: Round-up for 2023 W28
+- [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|16 Podcast]]: 📌 Ex-Gifted Podcast
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-03-16-ex-gifted-trailer\|2021-03-16-ex-gifted-trailer]]: Ex-Gifted Trailer
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-02-there-is-no-try\|2021-04-02-there-is-no-try]]: There is No Try
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes\|2021-04-16-adulting-is-hard-part-1-laundry-and-dishes]]: Adulting is Hard part 1: Laundry and Dishes
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-30-procrastinate-productively\|2021-04-30-procrastinate-productively]]: Procrastinate Productively
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W27\|Round-up 2023-W27]]: Round-up for 2023 W27
+- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W28\|Round-up 2023-W28]]: Round-up for 2023 W28
+- [[90-99 Inbox-Unsorted/2023-07-17-1328 - Moderation as a virtue\|2023-07-17-1328 - Moderation as a virtue]]: Moderation as a Virtue
 
 { .block-language-dataview}
 
