@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Health/Minimalism and Abundance.md","permalink":"/health/minimalism-and-abundance/","title":"minimalism and abundance","noteIcon":"","created":"2023-07-10T11:18:40","updated":"2023-07-16T21:42:01.865-04:00"}
+{"dg-publish":true,"dg-path":"Health/Minimalism and Abundance.md","permalink":"/health/minimalism-and-abundance/","title":"minimalism and abundance","noteIcon":"","created":"2023-07-10T11:18:40","updated":"2023-07-16T21:42:01.000-04:00"}
 ---
 
 
