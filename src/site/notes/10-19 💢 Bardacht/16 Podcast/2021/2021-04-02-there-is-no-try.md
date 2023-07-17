@@ -1,29 +1,110 @@
 ---
-{"dg-publish":true,"dg-path":"Podcast/2021/2021-04-02-there-is-no-try.md","permalink":"/podcast/2021/2021-04-02-there-is-no-try/","title":"There is No Try","noteIcon":"","created":"","updated":"2023-07-12T22:47:53.604-04:00"}
+{"dg-publish":true,"dg-path":"Podcast/2021/2021-04-02-there-is-no-try.md","permalink":"/podcast/2021/2021-04-02-there-is-no-try/","title":"There is No Try","tags":[null],"noteIcon":"","created":"","updated":"2023-07-17T00:55:32.329-04:00"}
 ---
 
-
-![Episode 1: There is no Try. A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Raine Eliza from chaoticorganized.com](https://i.imgur.com/9DEFNUZ.png) 
-
+![Episode 1: There is no Try. A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Raine Eliza from chaoticorganized.com|800](https://i.imgur.com/9DEFNUZ.png) 
 
 
-Synopsis: Yoda says "there is no try" and he's right. I spent 25 years believing that if something didn't come naturally to me then it wasn't meant for me at all. I learned that I was using "try" as an avoidance tactic. There's no secret cure to this, the only way out is through. Commit to doing something even if it doesn't come easy, and even if it leaves you vulnerable. If you fail along the way, don't take that as a sign that you should stop.
+<iframe src="https://podcasters.spotify.com/pod/show/raineinchaos/embed/episodes/There-is-No-Try-e1vas3g" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+## [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-02-there-is-no-try#\|Jump to Transcript]]
 
-- [Featured this Episode](#tab-featuredthisepisode)
-- [Full Transcript](#tab-fulltranscript)
-- [Quick Show Notes](#tab-quickshownotes)
+## Synopsis: 
+Yoda says "there is no try" and he's right. I spent 25 years believing that if something didn't come naturally to me then it wasn't meant for me at all. I learned that I was using "try" as an avoidance tactic. There's no secret cure to this, the only way out is through. Commit to doing something even if it doesn't come easy, and even if it leaves you vulnerable. If you fail along the way, don't take that as a sign that you should stop.
 
-Find me at [Exgifted.com](http://Exgifted.com) or [Instagram](http://instagram.com/exgiftedcast)
+## Problem:
+- “Do or do not. There is no try.” 
+    - So do you agree with it? 
+    - What does Yoda even mean when he says it? 
 
-Find Ryan O’Connell at [How-to-ADU.com](http://How-to-ADU.com) or [Facebook](http://facebook.com/how-to-adu)
+- Try can mean two different things:
+    - M-W.com defines “try” as “to make an attempt” 
+    - some people emphasize the “make” 
+    - some people emphasize the “attempt” 
+    - most of us actually use it both ways
 
-## Music
+- From the time I was a child well into my 30s, I always expected to succeed on my first attempt.
+    - If I failed I wasn't good at it, and therefore I shouldn't do it.
+    - I should just leave those things to the people who are naturally good at it. 
+
+- “There is no try” doesn't mean do effortlessly or don't bother. 
+    - It means commit to what you are doing and do not hedge your bets
+    - It means focused action. 
+    - Do and then keep doing.
+    - And it means having faith in yourself and what you can do. 
+    - Knowing the unknowable when it comes to your own abilities.
+    
+- Focused action. 
+    - There are only two options: you can do or do not.
+    - If you do, you might fail a lot.
+    - You just take that to mean that you haven't done it _yet_. 
+
+- You can also “do not” and still have success
+    - being good at things “without trying” 
+    - stopped putting effort even into things that came easily to me
+    - “a smart person wouldn't have to” 
+    - when being smart is 90% of your identity…?
+
+- when I failed, I could always say, “Well, that's OK, 'cause I didn't really try.”  
+
+## Solution: 
+
+- Commit to something you’re not good at
+- Committing to fail isn’t good enough because you’ll half-ass failing and pretend that counts
+- Take repeated focused action and commit to a goal that's meaningful and terrifying 
+- You will probably fail along the way. And it will hurt! 
+- That means you’re going the right way! 
+- This momentary failure IS NOT overall failure. 
+- Let it hurt and then keep doing. 
+- And believe in yourself. Whether you have any _reason_ to or not. 
+
+## Thanks!
+
+OK, one last thing before I sign off. I have to give a shout out to my friend from college, Ryan O'Connell, who finally sat me down and made me watch the original trilogy. Yes, I said in college. And no, I'm not old enough for that to be OK. So thank you for that and I hope you enjoy this late April Fools Day present. For anyone in California that's looking to make some money and also help with the housing crisis, check him out at [How-to-ADU.com](http://How-to-ADU.com). 
+
+Join me again in two weeks for the next Ex-Gifted. 
+
+We're going to be talking about Adulting.
+
+## Credits
+Check out my Ko-Fi page! It's the best way to support this show.
+
+The natural 1 membership is for normal people and only costs $1 a month, but still unlocks every single post that you can only get otherwise with a minimum of a $3 donation, as well as the challenges and on-demand content in the Members Hub.
+
+Join the Natural 1 membership for only $1/month!
+
+And all monthly subscribers at either level will get a shoutout at the end of each episode of Ex-Gifted! (please message me with the name I should use!)
+
+My current goal is to reach a modest $20 every month. As I've redesigned and cut back, this is approximately my monthly budget for podcast hosting, web domains, email service, and all those other little things that add up. Once I reach that point – I’m having a party and will look forward to putting out some rewards and coming up with some kind of fun goal other than just breaking even.
+
+You can also find me at [https://instagram.com/chaotic.organized](https://instagram.com/chaotic.organized) on Instagram and [https://chaoticorganized.com](https://chaoticorganized.com/) for more executive dysfunction tips and commiseration.
+
+---
+
+### Music
 
 Kawai Kitsune by Kevin MacLeod
 
 Link: [https://filmmusic.io/song/4990-kawai-kitsune](https://filmmusic.io/song/4990-kawai-kitsune)
 
 License: [https://filmmusic.io/standard-license](https://filmmusic.io/standard-license)
+
+## About the Ex-Gifted Podcast:
+
+If you are a former gifted kid who grew up to struggle with basic adulting, then you need the Ex-Gifted podcast.
+
+Host Ren Eliza talks about gifted kid burnout, and the damage that lasts long into adulthood. Damage like battered self esteem, decimated internal motivation, and a continued failure to live up to expectations even while we were placed on pedestals and alienated from our peers.
+
+Ex-Gifted will cover failure, procrastination, imposter syndrome, and chronic anxiety and depression, and a whole lot more.
+
+Each episode also offers suggestions to deal with your executive dysfunction in adulthood so you can rebuild the systems that allowed you to shine so brightly in childhood.
+
+We’re making exceptional children into functional adults.
+
+Thanks!
+
+---
+
+## Transcript
 
 Welcome to Ex-Gifted. I'm Ren Eliza, and if you believe that you have no business doing something you’ve failed at in the past then this is the show for you! 
 
@@ -76,60 +157,3 @@ And. If you commit to this thing then you will probably fail along the way. And 
 OK, one last thing before I sign off. I have to give a shout out to my friend from college. Ryan O'Connell, who finally sat me down and made me watch the original trilogy. Yes, I said in college. And no, I'm not old enough for that to be OK. So thank you for that and I hope you enjoy this late April Fools Day present. For anyone in California that's looking to make some money and also help with the housing crisis, [check him out](http://how-to-adu.com). I'll put that in the show notes and you can check out what he is up to for everyone else.
 
 Join me again in two weeks for the next Ex-Gifted. We're going to be talking about Adulting. Byeeeeee.
-
-## There is no try?
-
-- “Do or do not. There is no try.” 
-    - So do you agree with it? 
-    - What does Yoda even mean when he says it? 
-
-- Try can mean two different things:
-    - M-W.com defines “try” as “to make an attempt” 
-    - some people emphasize the “make” 
-    - some people emphasize the “attempt” 
-    - most of us actually use it both ways
-
-- From the time I was a child well into my 30s, I always expected to succeed on my first attempt.
-    - If I failed I wasn't good at it, and therefore I shouldn't do it.
-    - I should just leave those things to the people who are naturally good at it. 
-
-- “There is no try” doesn't mean do effortlessly or don't bother. 
-    - It means commit to what you are doing and do not hedge your bets
-    - It means focused action. 
-    - Do and then keep doing.
-    - And it means having faith in yourself and what you can do. 
-    - Knowing the unknowable when it comes to your own abilities.
-    
-- Focused action. 
-    - There are only two options: you can do or do not.
-    - If you do, you might fail a lot.
-    - You just take that to mean that you haven't done it _yet_. 
-
-- You can also “do not” and still have success
-    - being good at things “without trying” 
-    - stopped putting effort even into things that came easily to me
-    - “a smart person wouldn't have to” 
-    - when being smart is 90% of your identity…?
-
-- when I failed, I could always say, “Well, that's OK, 'cause I didn't really try.”  
-
-## What can we do about it?
-
-- Commit to something you’re not good at
-- Committing to fail isn’t good enough because you’ll half-ass failing and pretend that counts
-- Take repeated focused action and commit to a goal that's meaningful and terrifying 
-- You will probably fail along the way. And it will hurt! 
-- That means you’re going the right way! 
-- This momentary failure IS NOT overall failure. 
-- Let it hurt and then keep doing. 
-- And believe in yourself. Whether you have any _reason_ to or not. 
-
-## Thanks!
-
-OK, one last thing before I sign off. I have to give a shout out to my friend from college, Ryan O'Connell, who finally sat me down and made me watch the original trilogy. Yes, I said in college. And no, I'm not old enough for that to be OK. So thank you for that and I hope you enjoy this late April Fools Day present. For anyone in California that's looking to make some money and also help with the housing crisis, check him out at [How-to-ADU.com](http://How-to-ADU.com). 
-
-Join me again in two weeks for the next Ex-Gifted. 
-
-We're going to be talking about Adulting.
-
-
