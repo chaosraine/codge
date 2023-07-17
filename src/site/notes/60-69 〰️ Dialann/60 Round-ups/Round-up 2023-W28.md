@@ -44,7 +44,6 @@ We're still working on planting a few seeds in the digital garden
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/V is for Vampires\|V is for Vampires]]: V is for Vampires
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/W is for Werewolves\|W is for Werewolves]]: W is for Werewolves
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/Y is for Yeti\|Y is for Yeti]]: Y is for Yeti
-- [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-02-there-is-no-try\|2021-04-02-there-is-no-try]]: There is No Try
 - [[60-69 〰️ Dialann/68 Using Obsidian/plugins\|plugins]]: plugins
 - [[60-69 〰️ Dialann/Pages/2021-03-20-work-with-me\|2021-03-20-work-with-me]]: Work with me
 - [[10-19 💢 Bardacht/15 Blog/2020/2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core\|2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core]]: How-to Make a Custom Planner with Rocketbook Core
