@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"dg-path":"60 Round-ups/Round-up 2023-W27.md","permalink":"/60-round-ups/round-up-2023-w27/","title":"Round-up for 2023 W27","contentClasses":"cards cards-2-1","noteIcon":"","created":"","updated":"2023-07-13T14:51:59.266-04:00"}
+{"dg-publish":true,"dg-path":"60 Round-ups/Round-up 2023-W27.md","permalink":"/60-round-ups/round-up-2023-w27/","title":"Round-up for 2023 W27","contentClasses":"cards cards-2-1","noteIcon":"","created":"","updated":"2023-07-16T21:16:42.897-04:00"}
 ---
 
 
 ## New this week
 I'm starting to get an idea of what I'm going to do with this website thing. Description should be the email subject.
-| Date                | Title                                                                | Description                                |
-| ------------------- | -------------------------------------------------------------------- | ------------------------------------------ |
-| July 05, 2023 18:45 | [[60-69 〰️ Dialann/68 Using Obsidian/second brain\|second brain]] | developing my definition of a second brain |
-| 2023-07-08          | [[60-69 〰️ Dialann/68 Using Obsidian/Aliases\|Aliases]]           | \-                                         |
-| 2023-07-08          | [[60-69 〰️ Dialann/68 Using Obsidian/Formatting\|formatting]]     | \-                                         |
-| 2023-07-08          | [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]]         | \-                                         |
-| 2023-07-08          | [[60-69 〰️ Dialann/68 Using Obsidian/plugins\|plugins]]           | \-                                         |
+| Date                | Status    | Cover             | Title                                                                | Description                                |
+| ------------------- | --------- | ----------------- | -------------------------------------------------------------------- | ------------------------------------------ |
+| July 05, 2023 18:45 | \-        | ![Cover\|200](\-) | [[60-69 〰️ Dialann/68 Using Obsidian/second brain\|second brain]] | developing my definition of a second brain |
+| 2023-07-08          | seed      | ![Cover\|200](\-) | [[60-69 〰️ Dialann/68 Using Obsidian/plugins\|plugins]]           | \-                                         |
+| 2023-07-08          | \-        | ![Cover\|200](\-) | [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]]         | \-                                         |
+| 2023-07-08          | published | ![Cover\|200](\-) | [[60-69 〰️ Dialann/68 Using Obsidian/Formatting\|formatting]]     | \-                                         |
+| 2023-07-08          | \-        | ![Cover\|200](\-) | [[60-69 〰️ Dialann/68 Using Obsidian/Aliases\|Aliases]]           | \-                                         |
 
 { .block-language-dataview}
 
