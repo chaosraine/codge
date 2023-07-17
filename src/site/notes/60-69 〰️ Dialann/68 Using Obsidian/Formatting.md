@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Using Obsidian/Formatting.md","permalink":"/using-obsidian/formatting/","title":"formatting","noteIcon":"","created":"2023-07-08","updated":"2023-07-08T21:33:05.630-04:00"}
+{"dg-publish":true,"dg-path":"Using Obsidian/Formatting.md","permalink":"/using-obsidian/formatting/","title":"formatting","noteIcon":"","created":"2023-07-08","updated":"2023-07-08T21:33:05.000-04:00"}
 ---
 
 How to format text in [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]]
