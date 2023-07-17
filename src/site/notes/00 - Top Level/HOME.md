@@ -17,6 +17,7 @@
 { .block-language-dataview}
 
 ## Recently Updated
+- [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|16 Podcast]]: 📌 Ex-Gifted Podcast
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-03-16-ex-gifted-trailer\|2021-03-16-ex-gifted-trailer]]: Ex-Gifted Trailer
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-02-there-is-no-try\|2021-04-02-there-is-no-try]]: There is No Try
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes\|2021-04-16-adulting-is-hard-part-1-laundry-and-dishes]]: Adulting is Hard part 1: Laundry and Dishes
