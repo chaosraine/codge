@@ -16,7 +16,6 @@ I'm starting to get an idea of what I'm going to do with this website thing. Des
 { .block-language-dataview}
 
 ## Recently Updated
-- [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|16 Podcast]]: 📌 Ex-Gifted Podcast
 - [[60-69 〰️ Dialann/68 Using Obsidian/Aliases\|Aliases]]: Aliases
 - [[60-69 〰️ Dialann/68 Using Obsidian/Formatting\|Formatting]]: formatting
 - [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]]: Obsidian
