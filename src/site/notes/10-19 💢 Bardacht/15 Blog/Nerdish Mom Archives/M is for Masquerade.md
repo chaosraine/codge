@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/M is for Masquerade.md","permalink":"/blog/nerdish-mom-archives/m-is-for-masquerade/","title":"2-in-1: M is for Masquerade/N is for Noire","tags":["parenting"],"noteIcon":"","created":"","updated":"2023-07-12T23:13:24.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/M is for Masquerade.md","permalink":"/blog/nerdish-mom-archives/m-is-for-masquerade/","title":"2-in-1: M is for Masquerade/N is for Noire","tags":["parenting"],"noteIcon":"","created":"","updated":"2023-07-12T23:13:24.955-04:00"}
 ---
 
 
