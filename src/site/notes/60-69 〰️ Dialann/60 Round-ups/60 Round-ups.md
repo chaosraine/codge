@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"60 Round-ups/60 Round-ups.md","permalink":"/60-round-ups/60-round-ups/","title":"What's new this week","pinned":true,"contentClasses":"cards cards-2-1","noteIcon":"","created":"","updated":"2023-07-16T21:15:31.188-04:00"}
+{"dg-publish":true,"dg-path":"Round-ups/60 Round-ups.md","permalink":"/round-ups/60-round-ups/","title":"What's new this week","pinned":true,"contentClasses":"cards cards-2-1","noteIcon":"","created":"","updated":"2023-07-16T21:15:31.188-04:00"}
 ---
 
 
