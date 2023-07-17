@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Health//Limiting Beliefs.md","permalink":"/health//limiting-beliefs/","title":"limiting beliefs","tags":[null],"noteIcon":"","created":"2023-07-10T13:24:34","updated":"2023-07-13T21:35:20.600-04:00"}
+{"dg-publish":true,"dg-path":"Health//Limiting Beliefs.md","permalink":"/health//limiting-beliefs/","title":"limiting beliefs","tags":[null],"noteIcon":"","created":"2023-07-10T13:24:34","updated":"2023-07-16T21:44:51.562-04:00"}
 ---
 
 
