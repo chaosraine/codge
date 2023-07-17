@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"60 Round-ups/Round-up 2023-W28.md","permalink":"/60-round-ups/round-up-2023-w28/","title":"Round-up for 2023 W28","contentClasses":"cards cards-2-1","noteIcon":"","created":"2023-07-16T19:08:54","updated":"2023-07-16T21:17:09.802-04:00"}
+{"dg-publish":true,"dg-path":"60 Round-ups/Round-up 2023-W28.md","permalink":"/60-round-ups/round-up-2023-w28/","title":"Round-up for 2023 W28","contentClasses":"cards cards-2-1","noteIcon":"","created":"2023-07-16T19:08:54","updated":"2023-07-17T00:10:08.211-04:00"}
 ---
 
 
 ## New this week
 We're still working on planting a few seeds in the digital garden
-| Date                | Status | Cover                                                                                                                                                                                                                       | Title                                                                                | Description                                                                                                     |
-| ------------------- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
-| July 10, 2023 11:18 | sprout | ![Cover\|200](https://i.imgur.com/2wEw7x8.png)                                                                                                                                                                              | [[40-49 🔅 Sláinte/43 Spirit/Minimalism and Abundance\|minimalism and abundance]] | talking about the false dichotomy between minimizing and maximizing, and what the point of minimalism is for me |
-| July 10, 2023 11:33 | seed   | ![Cover\|200](https://images.unsplash.com/photo-1647427060118-4911c9821b82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwzMHx8YXV0b21hdGljfGVufDB8fHx8MTY4OTI3MzI3Nnww&ixlib=rb-4.0.3&q=80&w=200) | [[40-49 🔅 Sláinte/40 Thoughts & Ideas/automation\|Automation]]                   | the balancing act between outsourcing some of my executive functioning, and maintaining control                 |
-| July 10, 2023 13:24 | seed   | ![Cover\|200](https://images.unsplash.com/photo-1579447167432-ba8b796e5de1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwyfHxsaW1pdHxlbnwwfHx8fDE2ODkyOTg0Mjd8MA&ixlib=rb-4.0.3&q=80&w=200)       | [[40-49 🔅 Sláinte/40 Thoughts & Ideas/Limiting Beliefs\|limiting beliefs]]       | Defining a limiting belief                                                                                      |
+| Date                | Status | Cover                                                                                                                                                                                                                  | Title                                                                                | Description                                                                                                     |
+| ------------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| July 10, 2023 11:18 | sprout | ![Cover](https://i.imgur.com/2wEw7x8.png)                                                                                                                                                                              | [[40-49 🔅 Sláinte/43 Spirit/Minimalism and Abundance\|minimalism and abundance]] | talking about the false dichotomy between minimizing and maximizing, and what the point of minimalism is for me |
+| July 10, 2023 11:33 | seed   | ![Cover](https://images.unsplash.com/photo-1647427060118-4911c9821b82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwzMHx8YXV0b21hdGljfGVufDB8fHx8MTY4OTI3MzI3Nnww&ixlib=rb-4.0.3&q=80&w=200) | [[40-49 🔅 Sláinte/40 Thoughts & Ideas/automation\|Automation]]                   | the balancing act between outsourcing some of my executive functioning, and maintaining control                 |
+| July 10, 2023 13:24 | seed   | ![Cover](https://images.unsplash.com/photo-1579447167432-ba8b796e5de1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwyfHxsaW1pdHxlbnwwfHx8fDE2ODkyOTg0Mjd8MA&ixlib=rb-4.0.3&q=80&w=200)       | [[40-49 🔅 Sláinte/40 Thoughts & Ideas/Limiting Beliefs\|limiting beliefs]]       | Defining a limiting belief                                                                                      |
 
 { .block-language-dataview}
 
@@ -17,7 +17,6 @@ We're still working on planting a few seeds in the digital garden
 - [[00 - Top Level/HOME\|HOME]]: 🏠 HOME
 - [[10-19 💢 Bardacht/15 Blog/15 Blog\|15 Blog]]: 📌 Blog
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W27\|Round-up 2023-W27]]: Round-up for 2023 W27
-- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W28\|Round-up 2023-W28]]: Round-up for 2023 W28
 - [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|60 Round-ups]]: What's new this week
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/Limiting Beliefs\|Limiting Beliefs]]: limiting beliefs
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/automation\|automation]]: Automation
