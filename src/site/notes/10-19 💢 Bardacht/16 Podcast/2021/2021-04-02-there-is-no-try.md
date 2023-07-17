@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Podcast/2021/2021-04-02-there-is-no-try.md","permalink":"/podcast/2021/2021-04-02-there-is-no-try/","title":"There is No Try","tags":[null],"noteIcon":"","created":"","updated":"2023-07-17T00:55:32.329-04:00"}
+{"dg-publish":true,"dg-path":"Podcast/2021/2021-04-02-there-is-no-try.md","permalink":"/podcast/2021/2021-04-02-there-is-no-try/","title":"There is No Try","tags":[null],"noteIcon":"","created":"2021-04-02","updated":"2023-07-17T00:58:48.572-04:00"}
 ---
 
 ![Episode 1: There is no Try. A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Raine Eliza from chaoticorganized.com|800](https://i.imgur.com/9DEFNUZ.png) 
