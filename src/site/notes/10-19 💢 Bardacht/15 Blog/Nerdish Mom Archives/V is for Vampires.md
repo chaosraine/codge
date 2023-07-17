@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/V is for Vampires.md","permalink":"/blog/nerdish-mom-archives/v-is-for-vampires/","title":"V is for Vampires","tags":["homeschool"],"noteIcon":"","created":"","updated":"2023-07-12T22:36:21.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/V is for Vampires.md","permalink":"/blog/nerdish-mom-archives/v-is-for-vampires/","title":"V is for Vampires","tags":["homeschool"],"noteIcon":"","created":"","updated":"2023-07-12T22:36:21.315-04:00"}
 ---
 
 
