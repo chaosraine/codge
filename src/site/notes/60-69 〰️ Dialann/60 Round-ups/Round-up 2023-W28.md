@@ -14,7 +14,6 @@ We're still working on planting a few seeds in the digital garden
 { .block-language-dataview}
 
 ## Recently Updated
-- [[00 - Top Level/HOME\|HOME]]: 🏠 HOME
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/Limiting Beliefs\|Limiting Beliefs]]: limiting beliefs
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/automation\|automation]]: Automation
 - [[40-49 🔅 Sláinte/43 Spirit/Minimalism and Abundance\|Minimalism and Abundance]]: minimalism and abundance
