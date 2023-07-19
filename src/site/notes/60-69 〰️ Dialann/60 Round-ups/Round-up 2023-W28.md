@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Round-ups/Round-up 2023-W28.md","permalink":"/round-ups/round-up-2023-w28/","title":"Round-up for 2023 W28","contentClasses":"cards cards-2-1","noteIcon":"","created":"2023-07-16T19:08:54","updated":"2023-07-17T00:10:08.211-04:00"}
+{"dg-publish":true,"dg-path":"Round-ups/Round-up 2023-W28.md","permalink":"/round-ups/round-up-2023-w28/","title":"Round-up for 2023 W28","contentClasses":"cards cards-1-1","noteIcon":"","created":"2023-07-16T19:08:54","updated":"2023-07-18T22:46:54.092-04:00"}
 ---
 
 
@@ -18,7 +18,6 @@ We're still working on planting a few seeds in the digital garden
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/Limiting Beliefs\|Limiting Beliefs]]: limiting beliefs
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/automation\|automation]]: Automation
 - [[40-49 🔅 Sláinte/43 Spirit/Minimalism and Abundance\|Minimalism and Abundance]]: minimalism and abundance
-- [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|60 Round-ups]]: What's new this week
 - [[10-19 💢 Bardacht/15 Blog/2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner\|2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner]]: Frankenplanner: How to Make the Perfect Rocketbook Planner by Cutting the Coil
 - [[10-19 💢 Bardacht/15 Blog/2021/2021-03-01-time-management-for-executive-dysfunction\|2021-03-01-time-management-for-executive-dysfunction]]: Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/A is For All Hallows Eve\|A is For All Hallows Eve]]: A is For All Hallows Eve
