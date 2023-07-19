@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Round-ups/60 Round-ups.md","permalink":"/round-ups/60-round-ups/","title":"What's new this week","pinned":true,"contentClasses":"cards cards-1-1","noteIcon":"","created":"","updated":"2023-07-18T22:47:07.995-04:00"}
+{"dg-publish":true,"dg-path":"Round-ups/60 Round-ups.md","permalink":"/round-ups/60-round-ups/","title":"What's new this week","pinned":true,"contentClasses":"cards cards-1-1","noteIcon":"","created":"","updated":"2023-07-18T23:04:24.199-04:00"}
 ---
 
 
@@ -12,6 +12,7 @@
 { .block-language-dataview}
 
 ## Recently Updated
+- [[00 - Top Level/HOME\|HOME]]: 🏠 HOME
 - [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|60 Round-ups]]: What's new this week
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W27\|Round-up 2023-W27]]: Round-up for 2023 W27
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W28\|Round-up 2023-W28]]: Round-up for 2023 W28
