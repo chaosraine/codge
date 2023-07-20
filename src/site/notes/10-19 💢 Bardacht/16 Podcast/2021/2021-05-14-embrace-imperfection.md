@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Podcast/2021/2021-05-14-embrace-imperfection.md","permalink":"/podcast/2021/2021-05-14-embrace-imperfection/","title":"Embrace Imperfection","noteIcon":"","created":"","updated":"2023-07-19T21:53:25.337-04:00"}
+{"dg-publish":true,"dg-path":"Podcast/2021/2021-05-14-embrace-imperfection.md","permalink":"/podcast/2021/2021-05-14-embrace-imperfection/","title":"Embrace Imperfection","noteIcon":"","created":"","updated":"2023-07-19T21:56:17.715-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-30-procrastinate-productively\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2021/2021-05-28-quit-on-purpose\|NEXT>>]]
-
-![Episode : . A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Raine Eliza from chaoticorganized.com|800](https://i.imgur.com/9DEFNUZ.png)
+![Episode : . A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Raine Eliza from chaoticorganized.com](https://i.imgur.com/9DEFNUZ.png)
 - ## [[10-19 💢 Bardacht/16 Podcast/2021/2021-05-14-embrace-imperfection#\|Jump to Transcript]]
 
 <iframe src="https://podcasters.spotify.com/pod/show/exgifted/embed/episodes/Embrace-Imperfection-e1vas3n" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
