@@ -13,6 +13,7 @@
 
 ## Recently Updated
 - [[00 - Top Level/HOME\|HOME]]: 🏠 HOME
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-05-14-embrace-imperfection\|2021-05-14-embrace-imperfection]]: Embrace Imperfection
 - [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|60 Round-ups]]: What's new this week
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W27\|Round-up 2023-W27]]: Round-up for 2023 W27
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W28\|Round-up 2023-W28]]: Round-up for 2023 W28
