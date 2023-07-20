@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"HOME.md","permalink":"/home/","title":"🏠 HOME","pinned":true,"contentClasses":"dashboard cards","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-07-18T23:04:53.672-04:00"}
+{"dg-publish":true,"dg-path":"HOME.md","permalink":"/home/","title":"🏠 HOME","pinned":true,"contentClasses":"dashboard cards","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-07-19T21:20:34.193-04:00"}
 ---
 
 - ## [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|Podcast]]
@@ -11,9 +11,9 @@
   Find general advice about building systems to keep your mind, time, and space organized, but in a way that works for your chaotic brain.
 
 ## [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|New This Week]]
-| Date               | Status  | Cover                                                                                                                                                                                                           | Title                                                                                        | Description |
-| ------------------ | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------- |
-| July 17, 2023 15:6 | sapling | ![](https://images.unsplash.com/photo-1524311583145-d5593bd3502a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxMDN8fGJvb2tzfGVufDB8MHx8fDE2ODk2MTg1MDd8MA&ixlib=rb-4.0.3&q=80&w=200) | [[90-99 Inbox-Unsorted/2023-07-17-1328 - Moderation as a virtue\|Moderation as a Virtue]] | \-          |
+| Date               | Status  | Cover                                                                                                                                                                                                                | Title                                                                                        | Description |
+| ------------------ | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------- |
+| July 17, 2023 15:6 | sapling | ![Cover](https://images.unsplash.com/photo-1524311583145-d5593bd3502a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxMDN8fGJvb2tzfGVufDB8MHx8fDE2ODk2MTg1MDd8MA&ixlib=rb-4.0.3&q=80&w=200) | [[90-99 Inbox-Unsorted/2023-07-17-1328 - Moderation as a virtue\|Moderation as a Virtue]] | \-          |
 
 { .block-language-dataview}
 
