@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"Round-ups/60 Round-ups.md","permalink":"/round-ups/60-round-ups/","title":"What's new this week","pinned":true,"contentClasses":"cards cards-1-1","noteIcon":"","created":"","updated":"2023-07-18T23:04:24.199-04:00"}
+{"dg-publish":true,"dg-path":"Round-ups/60 Round-ups.md","permalink":"/round-ups/60-round-ups/","title":"What's new this week","pinned":true,"contentClasses":"cards cards-1-1","noteIcon":"","created":"","updated":"2023-07-19T21:20:02.673-04:00"}
 ---
 
 
 ## New this week
 
-| Date               | Status  | Cover                                                                                                                                                                                                                     | Title                                                                                        | Description |
-| ------------------ | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------- |
-| July 17, 2023 15:6 | sapling | ![Cover\|200](https://images.unsplash.com/photo-1524311583145-d5593bd3502a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxMDN8fGJvb2tzfGVufDB8MHx8fDE2ODk2MTg1MDd8MA&ixlib=rb-4.0.3&q=80&w=200) | [[90-99 Inbox-Unsorted/2023-07-17-1328 - Moderation as a virtue\|Moderation as a Virtue]] | \-          |
+| Date               | Status  | Cover                                                                                                                                                                                                                | Title                                                                                        | Description |
+| ------------------ | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------- |
+| July 17, 2023 15:6 | sapling | ![Cover](https://images.unsplash.com/photo-1524311583145-d5593bd3502a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxMDN8fGJvb2tzfGVufDB8MHx8fDE2ODk2MTg1MDd8MA&ixlib=rb-4.0.3&q=80&w=200) | [[90-99 Inbox-Unsorted/2023-07-17-1328 - Moderation as a virtue\|Moderation as a Virtue]] | \-          |
 
 { .block-language-dataview}
 
