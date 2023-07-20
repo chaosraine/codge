@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Podcast/2021/2021-04-30-procrastinate-productively.md","permalink":"/podcast/2021/2021-04-30-procrastinate-productively/","title":"Procrastinate Productively","tags":[null],"noteIcon":"","created":"","updated":"2023-07-17T01:49:49.309-04:00"}
+{"dg-publish":true,"dg-path":"Podcast/2021/2021-04-30-procrastinate-productively.md","permalink":"/podcast/2021/2021-04-30-procrastinate-productively/","title":"Procrastinate Productively","tags":[null],"noteIcon":"","created":"","updated":"2023-07-19T21:55:24.877-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2021/2021-05-14-embrace-imperfection\|NEXT>>]]
-![Episode 3: Procrastinate Productively. A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Raine Eliza from chaoticorganized.com|800](https://i.imgur.com/9DEFNUZ.png)
+![Episode 3: Procrastinate Productively. A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Raine Eliza from chaoticorganized.com](https://i.imgur.com/9DEFNUZ.png)
 ## [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-30-procrastinate-productively#\|Jump to Transcript]]
 
 <iframe src="https://podcasters.spotify.com/pod/show/exgifted/embed/episodes/Procrastinate-Productively-e1vas43" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
