@@ -12,6 +12,10 @@
 | [[10-19 💢 Bardacht/16 Podcast/2021/2021-03-16-ex-gifted-trailer\|Ex-Gifted Trailer]]                                                    | 2021-03-16 | <ul><li>\-</li></ul> | \-         |
 | [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-02-there-is-no-try\|There is No Try]]                                                        | 2021-04-02 | <ul><li>\-</li></ul> | \-         |
 | [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-30-procrastinate-productively\|Procrastinate Productively]]                                  | 2021-04-30 | <ul><li>\-</li></ul> | \-         |
+| [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-02-exceptional-exceptional\|Exceptional, exceptional]]                                       | 2021-07-02 | \-                   | \-         |
 | [[10-19 💢 Bardacht/16 Podcast/2021/2021-05-14-embrace-imperfection\|Embrace Imperfection]]                                              | 2021-05-14 | \-                   | \-         |
+| [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-16-structure-your-stuff\|Structure your Stuff]]                                              | 2021-07-16 | \-                   | \-         |
+| [[10-19 💢 Bardacht/16 Podcast/2021/2021-05-28-quit-on-purpose\|Quit on Purpose]]                                                        | 2021-05-28 | \-                   | \-         |
+| [[10-19 💢 Bardacht/16 Podcast/2021/2021-06-18-for-better-or-worse\|For Better or Worse]]                                                | 2021-06-18 | \-                   | \-         |
 
 { .block-language-dataview}
