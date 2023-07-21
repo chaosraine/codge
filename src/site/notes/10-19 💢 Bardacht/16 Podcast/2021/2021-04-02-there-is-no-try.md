@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Podcast/2021/2021-04-02-there-is-no-try.md","permalink":"/podcast/2021/2021-04-02-there-is-no-try/","title":"There is No Try","tags":[null],"noteIcon":"","created":"","updated":"2023-07-19T21:55:49.223-04:00"}
+{"dg-publish":true,"dg-path":"Podcast/2021/2021-04-02-there-is-no-try.md","permalink":"/podcast/2021/2021-04-02-there-is-no-try/","title":"There is No Try","tags":[null],"noteIcon":"","created":"","updated":"2023-07-20T17:01:54.480-04:00"}
 ---
 
                     [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes\|NEXT>>]]
@@ -46,7 +46,7 @@ Yoda says "there is no try" and he's right. I spent 25 years believing that if s
 
 - when I failed, I could always say, “Well, that's OK, 'cause I didn't really try.”  
 
-## Solution: 
+## What we can do about it: 
 
 - Commit to something you’re not good at
 - Committing to fail isn’t good enough because you’ll half-ass failing and pretend that counts
