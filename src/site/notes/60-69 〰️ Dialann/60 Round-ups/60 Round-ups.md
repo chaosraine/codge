@@ -12,11 +12,15 @@
 { .block-language-dataview}
 
 ## Recently Updated
-- [[00 - Top Level/HOME\|HOME]]: 🏠 HOME
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-16-structure-your-stuff\|2021-07-16-structure-your-stuff]]: Structure your Stuff
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes\|2021-04-16-adulting-is-hard-part-1-laundry-and-dishes]]: Adulting is Hard part 1: Laundry and Dishes
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-02-there-is-no-try\|2021-04-02-there-is-no-try]]: There is No Try
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-30-procrastinate-productively\|2021-04-30-procrastinate-productively]]: Procrastinate Productively
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-02-exceptional-exceptional\|2021-07-02-exceptional-exceptional]]: Exceptional, exceptional
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-05-14-embrace-imperfection\|2021-05-14-embrace-imperfection]]: Embrace Imperfection
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-05-28-quit-on-purpose\|2021-05-28-quit-on-purpose]]: Quit on Purpose
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-06-18-for-better-or-worse\|2021-06-18-for-better-or-worse]]: For Better or Worse
+- [[00 - Top Level/HOME\|HOME]]: 🏠 HOME
 - [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|60 Round-ups]]: What's new this week
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W27\|Round-up 2023-W27]]: Round-up for 2023 W27
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W28\|Round-up 2023-W28]]: Round-up for 2023 W28
