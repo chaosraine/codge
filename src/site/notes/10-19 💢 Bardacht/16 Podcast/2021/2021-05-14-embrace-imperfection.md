@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Podcast/2021/2021-05-14-embrace-imperfection.md","permalink":"/podcast/2021/2021-05-14-embrace-imperfection/","title":"Embrace Imperfection","noteIcon":"","created":"","updated":"2023-07-19T21:56:17.715-04:00"}
+{"dg-publish":true,"dg-path":"Podcast/2021/2021-05-14-embrace-imperfection.md","permalink":"/podcast/2021/2021-05-14-embrace-imperfection/","title":"Embrace Imperfection","noteIcon":"","created":"","updated":"2023-07-20T17:01:45.000-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-30-procrastinate-productively\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2021/2021-05-28-quit-on-purpose\|NEXT>>]]
@@ -46,7 +46,7 @@ Perfectionism can look like: 
 
 You can have high standards without the fear that comes from perfectionism
 
-## Solution: 
+## What we can do about it: 
 
 Intentionally practice imperfection. Allow yourself to do things well enough. Even allow yourself to do things badly.
 
