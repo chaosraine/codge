@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Podcast/2021/2021-04-30-procrastinate-productively.md","permalink":"/podcast/2021/2021-04-30-procrastinate-productively/","title":"Procrastinate Productively","tags":[null],"noteIcon":"","created":"","updated":"2023-07-19T21:55:24.877-04:00"}
+{"dg-publish":true,"dg-path":"Podcast/2021/2021-04-30-procrastinate-productively.md","permalink":"/podcast/2021/2021-04-30-procrastinate-productively/","title":"Procrastinate Productively","tags":[null],"noteIcon":"","created":"","updated":"2023-07-20T17:02:20.449-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2021/2021-05-14-embrace-imperfection\|NEXT>>]]
@@ -8,14 +8,14 @@
 
 <iframe src="https://podcasters.spotify.com/pod/show/exgifted/embed/episodes/Procrastinate-Productively-e1vas43" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-
+## Synopsis & Links
 [The Autofocus System](http://markforster.squarespace.com/autofocus-system/)
 
 [Updated Autofocus System](https://lifehacker.com/the-autofocus-productivity-method-stop-maintaining-to-5704856) with lots of discussion
 
 If you want help implementing the autofocus system yourself, then sign up below for a free ExD mini-session! We’ll chat about how it can work best for you in order to procrastinate productively!
 
-Join in on [#30toClean](https://www.instagram.com/explore/tags/30toclean/) and tag [@exgiftedcast](https://instagram.com/exgiftedcast) or [@chaotic.organized](https://instagram.com/chaotic.organized and all participants will get a downloadable prize of some sort. 
+Join in on [#30toClean](https://www.instagram.com/explore/tags/30toclean/) and tag [@exgiftedcast](https://instagram.com/exgiftedcast) or [@chaotic.organized](https://instagram.com/chaotic.organized) and all participants will get a downloadable prize of some sort. 
 
 ## Problem: 
 
@@ -29,7 +29,7 @@ But what can we do about it when we just can’t drum up the motivation or the w
 
 How can we make procrastination work for us?
 
-## Solution: 
+## What we can do about it: 
 
 I love to use the autofocus productivity method in order to procrastinate on other tasks I’ve already deemed worthy of my time.
 
