@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Life & Thoughts/automation.md","permalink":"/life-and-thoughts/automation/","title":"Automation","tags":[null],"noteIcon":"","created":"2023-07-10T11:33:01","updated":"2023-07-16T21:48:33.000-04:00"}
+{"dg-publish":true,"dg-path":"Life & Thoughts/automation.md","permalink":"/life-and-thoughts/automation/","title":"Automation","tags":[null],"noteIcon":"","created":"2023-07-10T11:33:01","updated":"2023-07-16T21:48:33.715-04:00"}
 ---
 
 
