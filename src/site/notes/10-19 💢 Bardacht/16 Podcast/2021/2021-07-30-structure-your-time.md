@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Podcast/2021/2021-07-30-structure-your-time.md","permalink":"/podcast/2021/2021-07-30-structure-your-time/","title":"Structure Your Time","noteIcon":"","created":"","updated":"2023-07-24T21:13:49.595-04:00"}
+{"dg-publish":true,"dg-path":"Podcast/2021/2021-07-30-structure-your-time.md","permalink":"/podcast/2021/2021-07-30-structure-your-time/","title":"Structure Your Time","noteIcon":"","created":"","updated":"2023-07-24T21:16:00.056-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-16-structure-your-stuff\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2021/2021-08-13-structure-your-mind\|NEXT>>]]
@@ -26,7 +26,7 @@ If you make a purchase through the links below I may be compensated at no cost t
 
 **Trello:** A [digital tool](https://trello.com/laurenreese7/recommend) for organizing your thoughts
 
-If you want to learn more, check out my [Ultimate Guide to Time Management](https://chaoticorganized.com/time-management-for-executive-dysfunction/), or [sign up for my newsletter](https://chaoticorganized.com/time-sign-up/) and a 5 day time management course.
+If you want to learn more, check out my [[10-19 💢 Bardacht/15 Blog/2021/2021-03-01-time-management-for-executive-dysfunction\|Ultimate Guide to Time Management]], or [sign up for my newsletter](https://chaoticorganized.com/time-sign-up/) and a 5 day time management course.
 
 > [!Thought] Update 2023
 > My current system uses [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]] (download free at [Obsidian.md](https://obsidian.md)) for digital note-taking and Hobonichi paper products. I've become such a Hobonichi fan that I order [straight from their shop in Japan](https://www.1101.com/store/techo/en/), but you can also find them in the US at [JetPens](https://www.jetpens.com/Hobonichi-Techo-Planners-Covers/) or at other shops around the world.
