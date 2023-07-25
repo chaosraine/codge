@@ -20,10 +20,10 @@
 ### Recently Updated
 - [[10-19 💢 Bardacht/15 Blog/2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method\|2021-01-14-how-to-use-rocketbook-for-the-medium-method]]: Best Practices: Using Rocketbook for the Medium Method
 - [[60-69 〰️ Dialann/67 CODGE Private/Deleted/2021-07-23-time-sign-up\|2021-07-23-time-sign-up]]: Sign up for the Newsletter
+- [[60-69 〰️ Dialann/Hobonichi\|Hobonichi]]: 
 - [[10-19 💢 Bardacht/15 Blog/2021/2021-03-01-time-management-for-executive-dysfunction\|2021-03-01-time-management-for-executive-dysfunction]]: Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-30-structure-your-time\|2021-07-30-structure-your-time]]: Structure Your Time
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W29\|Round-up 2023-W29]]: Round-up for 2023 W29
-- [[60-69 〰️ Dialann/Hobonichi\|Hobonichi]]: 
 
 { .block-language-dataview}
 
