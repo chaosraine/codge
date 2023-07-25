@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Podcast/2021/2021-07-30-structure-your-time.md","permalink":"/podcast/2021/2021-07-30-structure-your-time/","title":"Structure Your Time","noteIcon":"","created":"","updated":"2023-07-24T21:17:24.475-04:00"}
+{"dg-publish":true,"dg-path":"Podcast/2021/2021-07-30-structure-your-time.md","permalink":"/podcast/2021/2021-07-30-structure-your-time/","title":"Structure Your Time","noteIcon":"","created":"","updated":"2023-07-24T21:24:17.226-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-16-structure-your-stuff\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2021/2021-08-13-structure-your-mind\|NEXT>>]]
@@ -15,25 +15,22 @@ If you make a purchase through the links below I may be compensated at no cost t
 
 **Planner:** My beloved Kokuyo Jibun Techo isn’t widely available at the time of publishing due to this being mid-July, but this [academic planner](https://amzn.to/3xWYO5v) has a similar hourly layout for the week!
 
-**Smart watch:** I use a [Fitbit Versa 2](https://amzn.to/36SpmZJ), but there are many [more affordable options](https://amzn.to/3hYqz87)!
+**Smart watch:** I use a [Fitbit Versa 2](https://amzn.to/36SpmZJ), but there are many [more affordable options](https://amzn.to/3hYqz87)
+
+> [!tip] Update 2023
+> Since both my Fitbit and my spouse's died, we've both replaced our trackers. I now use an Apple Watch like the basic bitch I am, and my spouse uses an AmazFit band 7
+
 
 **Visual Timer:** [This](https://amzn.to/3kOdRKS) is the one I use, but there’s a wide selection.
 
-**Dry Erase planner:** I have [this calendar](https://amzn.to/3y1vGdh) but [this](https://amzn.to/2V3wHCT)also looks great
+**Dry Erase planner:** I have [this calendar](https://amzn.to/3y1vGdh) but [this](https://amzn.to/2V3wHCT) also looks great
 
 **Trello:** A [digital tool](https://trello.com/laurenreese7/recommend) for organizing your thoughts
 
-If you want to learn more, check out my [[10-19 💢 Bardacht/15 Blog/2021/2021-03-01-time-management-for-executive-dysfunction\|Ultimate Guide to Time Management]], or [sign up for my newsletter](https://chaoticorganized.com/time-sign-up/) and a 5 day time management course.
+If you want to learn more, check out my [[10-19 💢 Bardacht/15 Blog/2021/2021-03-01-time-management-for-executive-dysfunction\|Ultimate Guide to Time Management]], or [[60-69 〰️ Dialann/67 CODGE Private/Deleted/2021-07-23-time-sign-up\|sign up for my newsletter]] and a 5 day time management course.
 
-> [!Thought] Update 2023
-> My current system uses [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]] (download free at [Obsidian.md](https://obsidian.md)) for digital note-taking and Hobonichi paper products. I've become such a Hobonichi fan that I order [straight from their shop in Japan](https://www.1101.com/store/techo/en/), but you can also find them in the US at [JetPens](https://www.jetpens.com/Hobonichi-Techo-Planners-Covers/) or at other shops around the world.
-> #### My favorite Hobonichi products
-> **Hobonichi Weeks:** This is a HORIZONTAL weekly planner which does not include a 24-hour layout, but I found it works great for me as I move further away from hourly planning. I use the blank page on the right side of each week for a [[rolling to-do list\|rolling to-do list]]
-> **Hobonichi Cousin:** This daily planner includes a full A5 page for each day, but also includes a vertical spread for each week. This is amazing for people who want to do a LOT of planning, or want a daily journal in addition to a weekly planner which is how I used mine in 2022.
-> **Hobonichi Day-Free/blank notebook:** Because I love the Hobonichi paper so much (super thin like that in the Kokuyo Jibun Techo), I use a regular, A6 blank notebook for [[Bullet Journaling\|Bullet Journaling]]. The Day-Free on the other hand is almost like a pre-made bullet journal. It has all the months up front, but then includes blank, numbered pages, so you can skip as many days as you want and then pick right back up, but without even the minimal setup needed for bullet journaling. This is what my spouse is using. 
-
-
-
+> [!tip] Update 2023
+> My current system uses [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]] (download free at [Obsidian.md](https://obsidian.md)) for digital note-taking and [[60-69 〰️ Dialann/Hobonichi\|Hobonichi]] paper products. I've become such a Hobonichi fan that I order [straight from their shop in Japan](https://www.1101.com/store/techo/en/), but you can also find them in the US at [JetPens](https://www.jetpens.com/Hobonichi-Techo-Planners-Covers/) or at other shops around the world.
 
 ## Problem: 
 
