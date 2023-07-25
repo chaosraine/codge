@@ -1,15 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"Podcast/2021/2021-07-30-structure-your-time.md","permalink":"/podcast/2021/2021-07-30-structure-your-time/","title":"Structure Your Time","noteIcon":"","created":"","updated":"2023-07-24T21:16:00.056-04:00"}
+{"dg-publish":true,"dg-path":"Podcast/2021/2021-07-30-structure-your-time.md","permalink":"/podcast/2021/2021-07-30-structure-your-time/","title":"Structure Your Time","noteIcon":"","created":"","updated":"2023-07-24T21:17:24.475-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-16-structure-your-stuff\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2021/2021-08-13-structure-your-mind\|NEXT>>]]
 ![Episode : . A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Raine Eliza from chaoticorganized.com](https://i.imgur.com/9DEFNUZ.png)
 - ## [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-30-structure-your-time#\|Jump to Transcript]]
-- ## [Watch on YouTube](https://youtube.com/)
 
-```
-embed podcast player
-```
+<iframe src="https://podcasters.spotify.com/pod/show/exgifted/embed/episodes/Structure-Your-Time-e1vas45" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ## Synopsis & Links
 Time management gets such a bad rap, but it doesn’t have to be stuffy and scary and inflexible. Learning how to manage your time in your way means more time for the things you love.
