@@ -18,7 +18,6 @@ We're still working on planting a few seeds in the digital garden
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/automation\|automation]]: Automation
 - [[40-49 🔅 Sláinte/43 Spirit/Minimalism and Abundance\|Minimalism and Abundance]]: minimalism and abundance
 - [[10-19 💢 Bardacht/15 Blog/2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner\|2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner]]: Frankenplanner: How to Make the Perfect Rocketbook Planner by Cutting the Coil
-- [[10-19 💢 Bardacht/15 Blog/2021/2021-03-01-time-management-for-executive-dysfunction\|2021-03-01-time-management-for-executive-dysfunction]]: Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/A is For All Hallows Eve\|A is For All Hallows Eve]]: A is For All Hallows Eve
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/B is for Bobbing for Apples\|B is for Bobbing for Apples]]: B is for Bobbing for Apples - free printable
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/D is for Día de Muertos\|D is for Día de Muertos]]: D is for Día de Muertos
