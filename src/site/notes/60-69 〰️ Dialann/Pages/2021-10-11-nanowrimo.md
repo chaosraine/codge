@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2021-10-11-nanowrimo.md","dg-permalink":"nanowrimo","permalink":"/nanowrimo/","title":"NaNoWriMo","noteIcon":"","created":"","updated":"2023-07-03T20:46:56.048-04:00"}
+{"dg-publish":true,"dg-path":"2021-10-11-nanowrimo.md","dg-permalink":"nanowrimo","permalink":"/nanowrimo/","title":"NaNoWriMo","noteIcon":"","created":"","updated":"2023-07-03T20:46:56.000-04:00"}
 ---
 
 
@@ -11,7 +11,7 @@ Let me know!
 
 \-Ren
 
-[[NaNoWriMo-CORPS-Adventure.pdf]]
+[[NaNoWriMo-CORPS-Adventure.pdf\|NaNoWriMo-CORPS-Adventure.pdf]]
 
 ## Get your free Preptober planner here:
 
