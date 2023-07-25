@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Podcast/2021/2021-07-30-structure-your-time.md","permalink":"/podcast/2021/2021-07-30-structure-your-time/","title":"Structure Your Time","noteIcon":"","created":"","updated":"2023-07-24T21:24:17.000-04:00"}
+{"dg-publish":true,"dg-path":"Podcast/2021/2021-07-30-structure-your-time.md","permalink":"/podcast/2021/2021-07-30-structure-your-time/","title":"Structure Your Time","noteIcon":"","created":"","updated":"2023-07-24T21:24:17.226-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-16-structure-your-stuff\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2021/2021-08-13-structure-your-mind\|NEXT>>]]
