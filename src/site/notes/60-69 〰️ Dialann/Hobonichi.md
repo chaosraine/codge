@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Hobonichi.md","permalink":"/hobonichi/","noteIcon":"","created":"2023-07-24T21:25:56","updated":"2023-07-24T21:31:18.000-04:00"}
+{"dg-publish":true,"dg-path":"Hobonichi.md","permalink":"/hobonichi/","title":"Hobonichi Techo","noteIcon":"","created":"2023-07-24T21:25:56","updated":"2023-07-25T14:57:42.098-04:00"}
 ---
 
 
