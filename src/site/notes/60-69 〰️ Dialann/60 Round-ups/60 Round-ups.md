@@ -12,6 +12,7 @@
 { .block-language-dataview}
 
 ## Recently Updated
+- [[00 - Top Level/HOME\|HOME]]: 🏠 HOME
 - [[10-19 💢 Bardacht/15 Blog/2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method\|2021-01-14-how-to-use-rocketbook-for-the-medium-method]]: Best Practices: Using Rocketbook for the Medium Method
 - [[60-69 〰️ Dialann/67 CODGE Private/Deleted/2021-07-23-time-sign-up\|2021-07-23-time-sign-up]]: Sign up for the Newsletter
 - [[60-69 〰️ Dialann/Hobonichi\|Hobonichi]]: Hobonichi Techo
