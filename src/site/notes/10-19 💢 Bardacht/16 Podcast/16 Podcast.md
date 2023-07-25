@@ -17,5 +17,6 @@
 | [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-16-structure-your-stuff\|Structure your Stuff]]                                              | 2021-07-16 | \-                   | \-         |
 | [[10-19 💢 Bardacht/16 Podcast/2021/2021-05-28-quit-on-purpose\|Quit on Purpose]]                                                        | 2021-05-28 | \-                   | \-         |
 | [[10-19 💢 Bardacht/16 Podcast/2021/2021-06-18-for-better-or-worse\|For Better or Worse]]                                                | 2021-06-18 | \-                   | \-         |
+| [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-30-structure-your-time\|Structure Your Time]]                                                | 2021-07-30 | \-                   | \-         |
 
 { .block-language-dataview}
