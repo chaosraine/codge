@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Podcast/2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes.md","permalink":"/podcast/2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes/","title":"Adulting is Hard part 1: Laundry and Dishes","tags":[null],"noteIcon":"","created":"","updated":"2023-07-20T17:02:09.000-04:00"}
+{"dg-publish":true,"dg-path":"Podcast/2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes.md","permalink":"/podcast/2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes/","title":"Adulting is Hard part 1: Laundry and Dishes","tags":[null],"noteIcon":"","created":"","updated":"2023-07-20T17:02:09.931-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-02-there-is-no-try\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-30-procrastinate-productively\|NEXT>>]]
