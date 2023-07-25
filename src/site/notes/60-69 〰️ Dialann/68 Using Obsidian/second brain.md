@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Using Obsidian/second brain.md","permalink":"/using-obsidian/second-brain/","title":"second brain","noteIcon":"","created":"2023-07-05T18:45:21","updated":"2023-07-10T13:40:47.957-04:00"}
+{"dg-publish":true,"dg-path":"Using Obsidian/second brain.md","permalink":"/using-obsidian/second-brain/","title":"second brain","noteIcon":"","created":"2023-07-05T18:45:21","updated":"2023-07-25T16:25:05.689-04:00"}
 ---
 
 
