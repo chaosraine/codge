@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/2021/2021-03-01-time-management-for-executive-dysfunction.md","dg-permalink":"time-management-for-executive-dysfunction","permalink":"/time-management-for-executive-dysfunction/","title":"Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction","tags":["time-and-planners","intentionality","time-management"],"noteIcon":"","created":"","updated":"2023-07-24T21:16:31.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/2021/2021-03-01-time-management-for-executive-dysfunction.md","dg-permalink":"time-management-for-executive-dysfunction","permalink":"/time-management-for-executive-dysfunction/","title":"Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction","tags":["time-and-planners","intentionality","time-management"],"noteIcon":"","created":"","updated":"2023-07-24T21:16:31.799-04:00"}
 ---
 
 ![](https://i.imgur.com/9Ktay26.jpg)
