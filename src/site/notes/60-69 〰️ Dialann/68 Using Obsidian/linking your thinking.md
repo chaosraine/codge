@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Using Obsidian/linking your thinking.md","permalink":"/using-obsidian/linking-your-thinking/","noteIcon":"","created":"2023-07-25T16:26:44","updated":"2023-07-25T16:26:46.741-04:00"}
+{"dg-publish":true,"dg-path":"Using Obsidian/linking your thinking.md","permalink":"/using-obsidian/linking-your-thinking/","noteIcon":"","created":"2023-07-25T16:26:44","updated":"2023-07-25T16:57:04.000-04:00"}
 ---
 
 
