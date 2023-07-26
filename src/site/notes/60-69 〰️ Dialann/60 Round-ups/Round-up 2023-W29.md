@@ -13,7 +13,6 @@ I've been moving podcasts over, so that's been my focus this week.
 
 ## Recently Updated
 - [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|60 Round-ups]]: What's new this week
-- [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-16-structure-your-stuff\|2021-07-16-structure-your-stuff]]: Structure your Stuff
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-02-there-is-no-try\|2021-04-02-there-is-no-try]]: There is No Try
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes\|2021-04-16-adulting-is-hard-part-1-laundry-and-dishes]]: Adulting is Hard part 1: Laundry and Dishes
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-05-14-embrace-imperfection\|2021-05-14-embrace-imperfection]]: Embrace Imperfection
