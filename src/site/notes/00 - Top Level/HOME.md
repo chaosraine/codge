@@ -27,6 +27,10 @@
 - [[10-19 💢 Bardacht/16 Podcast/2022/2022-07-12-so-you-wish-you-could-stick-with-a-planner\|2022-07-12-so-you-wish-you-could-stick-with-a-planner]]: So you wish you could stick with a planner?
 - [[10-19 💢 Bardacht/16 Podcast/2022/2022-12-30-new-year-2023\|2022-12-30-new-year-2023]]: New Year and Realistic Resolve
 - [[10-19 💢 Bardacht/16 Podcast/2022/2022-09-20-the-autumn-equinox-and-time-agnosia\|2022-09-20-the-autumn-equinox-and-time-agnosia]]: The Autumn Equinox and Time Agnosia
+- [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|60 Round-ups]]: What's new this week
+- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W29\|Round-up 2023-W29]]: Round-up for 2023 W29
+- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W27\|Round-up 2023-W27]]: Round-up for 2023 W27
+- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W28\|Round-up 2023-W28]]: Round-up for 2023 W28
 - [[10-19 💢 Bardacht/16 Podcast/2022/2022-02-20-apology\|2022-02-20-apology]]: Apology
 - [[10-19 💢 Bardacht/16 Podcast/2022/2022-02-25-Ex-Gifted - Summiting Mt Everest On Unlimiting\|2022-02-25-Ex-Gifted - Summiting Mt Everest On Unlimiting]]: Summiting Mt Everest: On Unlimiting
 - [[10-19 💢 Bardacht/16 Podcast/2022/2022-03-04-accept-it-is\|2022-03-04-accept-it-is]]: Accept it.
@@ -52,7 +56,6 @@
 - [[60-69 〰️ Dialann/68 Using Obsidian/second brain\|second brain]]: second brain
 - [[60-69 〰️ Dialann/Hobonichi\|Hobonichi]]: Hobonichi Techo
 - [[10-19 💢 Bardacht/15 Blog/2021/2021-03-01-time-management-for-executive-dysfunction\|2021-03-01-time-management-for-executive-dysfunction]]: Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction
-- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W29\|Round-up 2023-W29]]: Round-up for 2023 W29
 
 { .block-language-dataview}
 
