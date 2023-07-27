@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Round-ups/Round-up 2023-W27.md","permalink":"/round-ups/round-up-2023-w27/","title":"Round-up for 2023 W27","contentClasses":"cards cards-1-1","noteIcon":"","created":"","updated":"2023-07-19T21:18:14.946-04:00"}
+{"dg-publish":true,"dg-path":"Round-ups/Round-up 2023-W27.md","permalink":"/round-ups/round-up-2023-w27/","title":"Round-up for 2023 W27","contentClasses":"cards cards-1-1","noteIcon":"","created":"","updated":"2023-07-27T18:22:37.262-04:00"}
 ---
 
 
@@ -16,15 +16,15 @@ I'm starting to get an idea of what I'm going to do with this website thing. Des
 { .block-language-dataview}
 
 ## Recently Updated
-- [[60-69 〰️ Dialann/68 Using Obsidian/Formatting\|Formatting]]: formatting
-- [[60-69 〰️ Dialann/68 Using Obsidian/Aliases\|Aliases]]: Aliases
-- [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]]: Obsidian
-- [[60-69 〰️ Dialann/68 Using Obsidian/Shortcuts\|Shortcuts]]: shortcuts
-- [[60-69 〰️ Dialann/68 Using Obsidian/recursive learning\|recursive learning]]: recursive learning
-- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-01-31-privacy\|2021-01-31-privacy]]: Privacy Policy
-- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-02-06-disclaimers\|2021-02-06-disclaimers]]: Disclaimers
-- [[60-69 〰️ Dialann/68 Using Obsidian/Zettelkasten\|Zettelkasten]]: \-
-- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-10-11-nanowrimo\|2021-10-11-nanowrimo]]: NaNoWriMo
+- [[60-69 〰️ Dialann/68 Using Obsidian/Formatting\|formatting]]
+- [[60-69 〰️ Dialann/68 Using Obsidian/Aliases\|Aliases]]
+- [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]]
+- [[60-69 〰️ Dialann/68 Using Obsidian/Shortcuts\|shortcuts]]
+- [[60-69 〰️ Dialann/68 Using Obsidian/recursive learning\|recursive learning]]
+- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-01-31-privacy\|Privacy Policy]]
+- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-02-06-disclaimers\|Disclaimers]]
+- [[60-69 〰️ Dialann/68 Using Obsidian/Zettelkasten\|Zettelkasten]]
+- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-10-11-nanowrimo\|NaNoWriMo]]
 
 { .block-language-dataview}
 
