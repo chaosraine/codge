@@ -42,9 +42,9 @@
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-11-19-actually-you-can-meditate\|2021-11-19-actually-you-can-meditate]]: Actually, You CAN Meditate
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-12-03-prevent-burnout-by-going-dormant\|2021-12-03-prevent-burnout-by-going-dormant]]: Prevent Burnout by Going Dormant
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-12-17-your-self-choose-your-own-adventure\|2021-12-17-your-self-choose-your-own-adventure]]: Your Self: Choose Your Own Adventure
-- [[60-69 〰️ Dialann/67 CODGE Private/Deleted/2021-07-23-time-sign-up\|2021-07-23-time-sign-up]]: Sign up for the Newsletter
 - [[60-69 〰️ Dialann/68 Using Obsidian/second brain\|second brain]]: second brain
 - [[60-69 〰️ Dialann/Hobonichi\|Hobonichi]]: Hobonichi Techo
+- [[60-69 〰️ Dialann/67 CODGE/2021-07-23-time-sign-up\|2021-07-23-time-sign-up]]: Sign up for the Newsletter
 - [[10-19 💢 Bardacht/15 Blog/2021/2021-03-01-time-management-for-executive-dysfunction\|2021-03-01-time-management-for-executive-dysfunction]]: Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W29\|Round-up 2023-W29]]: Round-up for 2023 W29
 
