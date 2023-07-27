@@ -39,8 +39,8 @@ We're still working on planting a few seeds in the digital garden
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/U is for Unicorns\|U is for Unicorns]]: U is for Unicorns
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/Y is for Yeti\|Y is for Yeti]]: Y is for Yeti
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/J is for Jack-o-Lantern\|J is for Jack-o-Lantern]]: J is for Jack-o-Lantern ~and~ the Problem with Printers
+- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-03-20-work-with-me\|2021-03-20-work-with-me]]: Work with me
 - [[60-69 〰️ Dialann/68 Using Obsidian/plugins\|plugins]]: plugins
-- [[60-69 〰️ Dialann/Pages/2021-03-20-work-with-me\|2021-03-20-work-with-me]]: Work with me
 - [[10-19 💢 Bardacht/15 Blog/2020/2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core\|2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core]]: How-to Make a Custom Planner with Rocketbook Core
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/E is for Eerie\|E is for Eerie]]: E is for Eerie
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/F is for Frankenstein\|F is for Frankenstein]]: F is for Frankenstein OR The Girl who invented sci-fi
