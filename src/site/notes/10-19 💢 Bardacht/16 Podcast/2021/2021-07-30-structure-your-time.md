@@ -30,7 +30,7 @@ If you make a purchase through the links below I may be compensated at no cost t
 If you want to learn more, check out my [[10-19 💢 Bardacht/15 Blog/2021/2021-03-01-time-management-for-executive-dysfunction\|Ultimate Guide to Time Management]], or [[60-69 〰️ Dialann/67 CODGE/2021-07-23-time-sign-up\|sign up for my newsletter]] and a 5 day time management course.
 
 > [!tip] Update 2023
-> My current system uses [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]] (download free at [Obsidian.md](https://obsidian.md)) for digital note-taking and [[60-69 〰️ Dialann/Hobonichi\|Hobonichi]] paper products. I've become such a Hobonichi fan that I order [straight from their shop in Japan](https://www.1101.com/store/techo/en/), but you can also find them in the US at [JetPens](https://www.jetpens.com/Hobonichi-Techo-Planners-Covers/) or at other shops around the world.
+> My current system uses [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]] (download free at [Obsidian.md](https://obsidian.md)) for digital note-taking and [[60-69 〰️ Dialann/66 Supplies & Strategies/Hobonichi\|Hobonichi]] paper products. I've become such a Hobonichi fan that I order [straight from their shop in Japan](https://www.1101.com/store/techo/en/), but you can also find them in the US at [JetPens](https://www.jetpens.com/Hobonichi-Techo-Planners-Covers/) or at other shops around the world.
 
 ## Problem: 
 
