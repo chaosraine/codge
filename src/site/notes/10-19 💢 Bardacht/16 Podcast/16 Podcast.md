@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Podcast/16 Podcast.md","dg-permalink":"exgifted","permalink":"/exgifted/","title":"📌 Ex-Gifted Podcast","pinned":true,"contentClasses":"cards","tags":["podcast","ex-gifted"],"noteIcon":"","created":"","updated":"2023-07-27T21:19:43.577-04:00"}
+{"dg-publish":true,"dg-path":"Podcast/16 Podcast.md","dg-permalink":"exgifted","permalink":"/exgifted/","title":"📌 Ex-Gifted Podcast","pinned":true,"contentClasses":"cards","tags":["podcast","ex-gifted"],"noteIcon":"","created":"","updated":"2023-07-28T18:22:20.329-04:00"}
 ---
 
+![](https://i.imgur.com/9PVGVMt.png)
 
 <iframe src="https://podcasters.spotify.com/pod/show/exgifted/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
