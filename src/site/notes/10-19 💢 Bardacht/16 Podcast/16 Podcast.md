@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Podcast/16 Podcast.md","dg-permalink":"exgifted","permalink":"/exgifted/","title":"📌 Ex-Gifted Podcast","pinned":true,"contentClasses":"cards","noteIcon":"","created":"","updated":"2023-07-17T02:04:46.436-04:00"}
+{"dg-publish":true,"dg-path":"Podcast/16 Podcast.md","dg-permalink":"exgifted","permalink":"/exgifted/","title":"📌 Ex-Gifted Podcast","pinned":true,"contentClasses":"cards","tags":["podcast","ex-gifted"],"noteIcon":"","created":"","updated":"2023-07-27T21:19:43.577-04:00"}
 ---
 
 
@@ -8,12 +8,12 @@
 
 | Episode                                                                                                                                        | date       | tags                                                                        | categories |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------------- | ---------- |
-| [[10-19 💢 Bardacht/16 Podcast/2021/2021-03-16-ex-gifted-trailer\|Ex-Gifted Trailer]]                                                       | 2021-03-16 | <ul><li>\-</li></ul>                                                        | \-         |
-| [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-02-there-is-no-try\|There is No Try]]                                                           | 2021-04-02 | <ul><li>\-</li></ul>                                                        | \-         |
-| [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes\|Adulting is Hard part 1: Laundry and Dishes]]    | 2021-04-16 | <ul><li>\-</li></ul>                                                        | \-         |
-| [[10-19 💢 Bardacht/16 Podcast/2021/2021-05-14-embrace-imperfection\|Embrace Imperfection]]                                                 | 2021-05-14 | \-                                                                          | \-         |
+| [[10-19 💢 Bardacht/16 Podcast/2021/2021-03-16-ex-gifted-trailer\|Ex-Gifted Trailer]]                                                       | 2021-03-16 | <ul></ul>                                                                   | \-         |
+| [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-02-there-is-no-try\|There is No Try]]                                                           | 2021-04-02 | <ul></ul>                                                                   | \-         |
+| [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes\|Adulting is Hard part 1: Laundry and Dishes]]    | 2021-04-16 | <ul></ul>                                                                   | \-         |
+| [[10-19 💢 Bardacht/16 Podcast/2021/2021-05-14-embrace-imperfection\|Embrace Imperfection]]                                                 | 2021-05-14 | <ul></ul>                                                                   | \-         |
 | [[10-19 💢 Bardacht/16 Podcast/2021/2021-05-28-quit-on-purpose\|Quit on Purpose]]                                                           | 2021-05-28 | \-                                                                          | \-         |
-| [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-30-procrastinate-productively\|Procrastinate Productively]]                                     | 2021-04-30 | <ul><li>\-</li></ul>                                                        | \-         |
+| [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-30-procrastinate-productively\|Procrastinate Productively]]                                     | 2021-04-30 | <ul></ul>                                                                   | \-         |
 | [[10-19 💢 Bardacht/16 Podcast/2021/2021-06-18-for-better-or-worse\|For Better or Worse]]                                                   | 2021-06-18 | \-                                                                          | \-         |
 | [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-02-exceptional-exceptional\|Exceptional, exceptional]]                                          | 2021-07-02 | \-                                                                          | \-         |
 | [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-16-structure-your-stuff\|Structure your Stuff]]                                                 | 2021-07-16 | <ul><li>build-structure</li></ul>                                           | \-         |
@@ -30,7 +30,7 @@
 | [[10-19 💢 Bardacht/16 Podcast/2022/2022-03-04-accept-it-is\|Accept it.]]                                                                   | 2022-03-04 | <ul><li>growth</li><li>health/mental-health</li><li>self-coaching</li></ul> | \-         |
 | [[10-19 💢 Bardacht/16 Podcast/2022/2022-03-11-210-power-of-yet\|Power of Yet]]                                                             | 2022-03-11 | <ul><li>growth</li></ul>                                                    | \-         |
 | [[10-19 💢 Bardacht/16 Podcast/2022/2022-04-04-transitions-are-hard\|Transitions Are Hard]]                                                 | 2022-04-04 | \-                                                                          | \-         |
-| [[10-19 💢 Bardacht/16 Podcast/2022/2022-04-15-moving-through-molasses-april-doldrums\|Moving through molasses - April Doldrums]]           | 2022-04-15 | <ul><li>health/mentalhealth</li></ul>                                       | \-         |
+| [[10-19 💢 Bardacht/16 Podcast/2022/2022-04-15-moving-through-molasses-april-doldrums\|Moving through molasses - April Doldrums]]           | 2022-04-15 | <ul><li>health/mental-health</li></ul>                                      | \-         |
 | [[10-19 💢 Bardacht/16 Podcast/2022/2022-05-02-reclaim-your-attention\|Reclaim your Attention]]                                             | 2023-07-26 | <ul><li>self-coaching</li><li>health/mental-health</li></ul>                | \-         |
 | [[10-19 💢 Bardacht/16 Podcast/2022/2022-05-16-finding-focus\|Finding focus?]]                                                              | 2022-05-16 | <ul><li>productivity</li></ul>                                              | \-         |
 | [[10-19 💢 Bardacht/16 Podcast/2022/2022-05-24-small-things-and-void\|Small Things and Void]]                                               | 2022-05-24 | <ul><li>productivity</li></ul>                                              | \-         |
@@ -40,7 +40,7 @@
 | [[10-19 💢 Bardacht/16 Podcast/2022/2022-08-12-being-comfortable-with-being-uncomfortable\|Being comfortable with being uncomfortable]]     | 2022-08-12 | <ul><li>self-coaching</li></ul>                                             | \-         |
 | [[10-19 💢 Bardacht/16 Podcast/2022/2022-08-31-making-your-planner-work-for-you\|Making your planner work FOR YOU]]                         | 2022-08-31 | <ul><li>time-and-planners</li><li>productivity</li></ul>                    | \-         |
 | [[10-19 💢 Bardacht/16 Podcast/2022/2022-07-12-so-you-wish-you-could-stick-with-a-planner\|So you wish you could stick with a planner?]]    | 2022-07-12 | <ul><li>productivity</li><li>time-and-planners</li></ul>                    | \-         |
-| [[10-19 💢 Bardacht/16 Podcast/2022/2022-12-30-new-year-2023\|New Year and Realistic Resolve]]                                              | 2022-12-30 | \-                                                                          | \-         |
+| [[10-19 💢 Bardacht/16 Podcast/2022/2022-12-30-new-year-2023\|New Year and Realistic Resolve]]                                              | 2022-12-30 | <ul></ul>                                                                   | \-         |
 | [[10-19 💢 Bardacht/16 Podcast/2022/2022-09-20-the-autumn-equinox-and-time-agnosia\|The Autumn Equinox and Time Agnosia]]                   | 2022-09-20 | <ul><li>witchcraft</li><li>executive-dysfunction</li></ul>                  | \-         |
 
 { .block-language-dataview}
