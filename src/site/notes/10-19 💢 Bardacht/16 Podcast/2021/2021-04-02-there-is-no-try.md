@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Podcast/2021/2021-04-02-there-is-no-try.md","permalink":"/podcast/2021/2021-04-02-there-is-no-try/","title":"There is No Try","noteIcon":"","created":"","updated":"2023-07-27T19:52:26.980-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/2021/2021-04-02-there-is-no-try.md","permalink":"/ex-gifted/2021/2021-04-02-there-is-no-try/","title":"There is No Try","noteIcon":"","created":"","updated":"2023-07-27T19:52:26.980-04:00"}
 ---
 
                     [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes\|NEXT>>]]
