@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Using Obsidian/Aliases.md","permalink":"/using-obsidian/aliases/","noteIcon":"","created":"2023-07-08","updated":"2023-07-08T21:17:20.609-04:00"}
+{"dg-publish":true,"dg-path":"Using Obsidian/Aliases.md","permalink":"/using-obsidian/aliases/","title":"Aliases","noteIcon":"","created":"2023-07-08","updated":"2023-07-27T19:59:30.906-04:00"}
 ---
 
 
