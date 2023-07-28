@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method.md","permalink":"/blog/2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method/","title":"Best Practices: Using Rocketbook for the Medium Method","noteIcon":"","created":"","updated":"2023-07-25T00:22:23.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method.md","permalink":"/blog/2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method/","title":"Best Practices: Using Rocketbook for the Medium Method","tags":["time-and-planners"],"noteIcon":"","created":"","updated":"2023-07-28T17:52:26.780-04:00"}
 ---
 
 
