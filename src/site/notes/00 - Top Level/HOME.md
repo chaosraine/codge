@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"HOME.md","permalink":"/home/","title":"🏠 HOME","pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-07-28T19:04:58.466-04:00"}
+{"dg-publish":true,"dg-path":"HOME.md","permalink":"/home/","title":"🏠 HOME","pinned":true,"contentClasses":"cards cards-1-1","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-07-28T19:20:40.872-04:00"}
 ---
 
 - ## [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|Podcast]]
@@ -100,3 +100,4 @@
 
 
 
+[[60-69 〰️ Dialann/67 CODGE/Pages/2021-01-31-privacy\|Privacy Policy]] - [[60-69 〰️ Dialann/67 CODGE/Pages/2021-02-06-disclaimers\|Disclaimers]] - [[60-69 〰️ Dialann/67 CODGE/Pages/2021-03-20-work-with-me\|Work With Me]] - [[60-69 〰️ Dialann/67 CODGE/Pages/2021-03-20-ig-links\|Social Links]]
