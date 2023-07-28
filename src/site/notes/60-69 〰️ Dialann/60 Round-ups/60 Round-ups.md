@@ -1,24 +1,46 @@
 ---
-{"dg-publish":true,"dg-path":"Round-ups/60 Round-ups.md","dg-permalink":"roundup","permalink":"/roundup/","title":"What's new this week","pinned":true,"contentClasses":"cards cards-1-1","noteIcon":"","created":"","updated":"2023-07-27T21:21:23.318-04:00"}
+{"dg-publish":true,"dg-path":"Round-ups/60 Round-ups.md","dg-permalink":"roundup","permalink":"/roundup/","title":"What's new this week","pinned":true,"contentClasses":"cards cards-1-1","noteIcon":"","created":"","updated":"2023-07-28T17:33:04.000-04:00"}
 ---
 
 
 ## New this week
 
-| Date | Status | Cover | Title | Description |
-| ---- | ------ | ----- | ----- | ----------- |
+| Date                | Status | Cover                                                                                                                                                                                                                         | Title                                                                                  | Description |
+| ------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------- |
+| July 24, 2023 21:25 | sprout | ![Cover](https://images.unsplash.com/photo-1523920290228-4f321a939b4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwzMXx8amFwYW4lMjBwYXBlcnxlbnwwfDB8fHwxNjkwMjQ4NTEzfDA&ixlib=rb-4.0.3&q=80&w=400) | [[60-69 〰️ Dialann/66 Supplies & Strategies/Hobonichi\|Hobonichi Techo]]            | \-          |
+| July 25, 2023 16:26 | seed   | ![Cover](https://images.unsplash.com/photo-1519819286236-0b3c6506e475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwyfHxsaW5rfGVufDB8MHx8fDE2OTA0MTE0MjN8MA&ixlib=rb-4.0.3&q=80&w=400)              | [[60-69 〰️ Dialann/68 Using Obsidian/linking your thinking\|linking your thinking]] | \-          |
 
 { .block-language-dataview}
 
 ## Recently Updated
+- [[10-19 💢 Bardacht/15 Blog/2020/2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core\|How-to Make a Custom Planner with Rocketbook Core]]
+- [[10-19 💢 Bardacht/15 Blog/2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner\|Frankenplanner: How to Make the Perfect Rocketbook Planner by Cutting the Coil]]
+- [[10-19 💢 Bardacht/15 Blog/2021/2021-09-14-enough-a-socratic-dialog\|Enough: A Socratic Dialog]]
+- [[10-19 💢 Bardacht/15 Blog/2021/2021-03-01-time-management-for-executive-dysfunction\|Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction]]
+- [[10-19 💢 Bardacht/15 Blog/2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method\|Best Practices: Using Rocketbook for the Medium Method]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/31 Spooky and Fun Halloween Homeschool Ideas\|31 Spooky and Fun Halloween Homeschool Ideas Roundup]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/E is for Eerie\|E is for Eerie]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/D is for Día de Muertos\|D is for Día de Muertos]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/F is for Frankenstein\|F is for Frankenstein OR The Girl who invented sci-fi]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/G is for the Great Pumpkin\|G is for the Great Pumpkin]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/K is for Karaoke\|K is for Karaoke ~ a Halloween Sing-along!]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/L is for the Legend of Sleepy Hollow\|L is for the Legend of Sleepy Hollow]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/P is for the Pumpkin Patch\|P is for the Pumpkin Patch!]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/Q is for Quark\|Q is for Quark]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/Y is for Yeti\|Y is for Yeti]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/Z is for Zombies\|Z is for Zombies]]
+- [[10-19 💢 Bardacht/15 Blog/15 Blog\|📌 Blog]]
+- [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|📌 Ex-Gifted Podcast]]
 - [[10-19 💢 Bardacht/16 Podcast/2022/2022-05-02-reclaim-your-attention\|Reclaim your Attention]]
+- [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|What's new this week]]
+- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-01-31-coming-soon\|Let's talk about executive dysfunction in adults]]
+- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-09-28-sources\|Sources]]
+- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-10-14-thoughts\|Thought Ladder]]
+- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-10-11-nanowrimo\|NaNoWriMo]]
+- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-03-20-ig-links\|Social Links]]
 - [[00 - Top Level/HOME\|🏠 HOME]]
-- [[10-19 💢 Bardacht/15 Blog/2021/2021-03-01-time-management-for-executive-dysfunction\|Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/H is for Haunted House\|H is for Haunted House In-A-Box]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/X is for X-Rays\|X is for X-Rays]]
-- [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|📌 Ex-Gifted Podcast]]
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-03-16-ex-gifted-trailer\|Ex-Gifted Trailer]]
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-02-there-is-no-try\|There is No Try]]
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes\|Adulting is Hard part 1: Laundry and Dishes]]
@@ -37,11 +59,9 @@
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/Limiting Beliefs\|limiting beliefs]]
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/automation\|Automation]]
 - [[40-49 🔅 Sláinte/43 Spirit/Minimalism and Abundance\|minimalism and abundance]]
-- [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|What's new this week]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W29\|Round-up for 2023 W29]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W27\|Round-up for 2023 W27]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W28\|Round-up for 2023 W28]]
-- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-10-14-thoughts\|Thought Ladder]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/Formatting\|formatting]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/Aliases\|Aliases]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]]
@@ -57,7 +77,6 @@
 - [[10-19 💢 Bardacht/16 Podcast/2022/2022-03-11-210-power-of-yet\|Power of Yet]]
 - [[10-19 💢 Bardacht/16 Podcast/2022/2022-05-16-finding-focus\|Finding focus?]]
 - [[10-19 💢 Bardacht/16 Podcast/2022/2022-05-09-how-to-do-stuff-you-dont-want-to-do\|How to do stuff you don't want to do]]
-- [[10-19 💢 Bardacht/15 Blog/2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method\|Best Practices: Using Rocketbook for the Medium Method]]
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-16-structure-your-stuff\|Structure your Stuff]]
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-30-structure-your-time\|Structure Your Time]]
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-08-13-structure-your-mind\|Structure Your Mind]]
