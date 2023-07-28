@@ -13,6 +13,7 @@
 { .block-language-dataview}
 
 ## Recently Updated
+- [[00 - Top Level/HOME\|🏠 HOME]]
 - [[10-19 💢 Bardacht/15 Blog/2020/2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core\|How-to Make a Custom Planner with Rocketbook Core]]
 - [[10-19 💢 Bardacht/15 Blog/2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner\|Frankenplanner: How to Make the Perfect Rocketbook Planner by Cutting the Coil]]
 - [[10-19 💢 Bardacht/15 Blog/2021/2021-09-14-enough-a-socratic-dialog\|Enough: A Socratic Dialog]]
@@ -38,7 +39,6 @@
 - [[60-69 〰️ Dialann/67 CODGE/Pages/2021-10-14-thoughts\|Thought Ladder]]
 - [[60-69 〰️ Dialann/67 CODGE/Pages/2021-10-11-nanowrimo\|NaNoWriMo]]
 - [[60-69 〰️ Dialann/67 CODGE/Pages/2021-03-20-ig-links\|Social Links]]
-- [[00 - Top Level/HOME\|🏠 HOME]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/H is for Haunted House\|H is for Haunted House In-A-Box]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/X is for X-Rays\|X is for X-Rays]]
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-03-16-ex-gifted-trailer\|Ex-Gifted Trailer]]
