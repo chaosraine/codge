@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/15 Blog.md","dg-permalink":"blog","permalink":"/blog/","title":"📌 Blog","pinned":true,"noteIcon":"","created":"","updated":"2023-07-28T17:43:29.912-04:00"}
+{"dg-publish":true,"dg-path":"Blog/15 Blog.md","dg-permalink":"blog","permalink":"/blog/","title":"📌 Blog","pinned":true,"contentClasses":"cards cards-1-1","noteIcon":"","created":"","updated":"2023-07-28T19:21:47.150-04:00"}
 ---
 
 | Cover                                                     | Title                                                                                                                                                                                        | Published  |
