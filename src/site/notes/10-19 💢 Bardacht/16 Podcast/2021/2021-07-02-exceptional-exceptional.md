@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Podcast/2021/2021-07-02-exceptional-exceptional.md","permalink":"/podcast/2021/2021-07-02-exceptional-exceptional/","title":"Exceptional, exceptional","noteIcon":"","created":"","updated":"2023-07-20T16:58:41.752-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/2021/2021-07-02-exceptional-exceptional.md","permalink":"/ex-gifted/2021/2021-07-02-exceptional-exceptional/","title":"Exceptional, exceptional","noteIcon":"","created":"","updated":"2023-07-20T16:58:41.752-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/2021/2021-06-18-for-better-or-worse\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-16-structure-your-stuff\|NEXT>>]]
