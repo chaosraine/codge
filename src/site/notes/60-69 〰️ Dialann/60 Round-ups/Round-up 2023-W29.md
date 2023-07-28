@@ -14,7 +14,6 @@ I've been moving podcasts over, so that's been my focus this week.
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-05-28-quit-on-purpose\|Quit on Purpose]]
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-06-18-for-better-or-worse\|For Better or Worse]]
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-02-exceptional-exceptional\|Exceptional, exceptional]]
-- [[10-19 💢 Bardacht/15 Blog/15 Blog\|📌 Blog]]
 
 { .block-language-dataview}
 
