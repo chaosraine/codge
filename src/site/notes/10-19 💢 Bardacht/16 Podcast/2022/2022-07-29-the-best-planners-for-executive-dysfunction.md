@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Podcast/2022/2022-07-29-the-best-planners-for-executive-dysfunction.md","permalink":"/podcast/2022/2022-07-29-the-best-planners-for-executive-dysfunction/","title":"The perfect planner for executive dysfunction","tags":["time-and-planners","productivity"],"noteIcon":"","created":"","updated":"2023-07-27T00:15:39.024-04:00"}
+{"dg-publish":true,"dg-path":"Podcast/2022/2022-07-29-the-best-planners-for-executive-dysfunction.md","permalink":"/podcast/2022/2022-07-29-the-best-planners-for-executive-dysfunction/","title":"The perfect planner for executive dysfunction","tags":["time-and-planners","productivity"],"noteIcon":"","created":"","updated":"2023-07-27T19:47:41.832-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/2022/2022-07-12-so-you-wish-you-could-stick-with-a-planner\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2022/2022-08-12-being-comfortable-with-being-uncomfortable\|NEXT>>]]
