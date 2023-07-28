@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Pages/2021-10-11-nanowrimo.md","dg-permalink":"nanowrimo","permalink":"/nanowrimo/","title":"NaNoWriMo","noteIcon":"","created":"","updated":"2023-07-03T20:46:56.000-04:00"}
+{"dg-publish":true,"dg-path":"Pages/2021-10-11-nanowrimo.md","dg-permalink":"nanowrimo","permalink":"/nanowrimo/","title":"NaNoWriMo","noteIcon":"","created":"","updated":"2023-07-28T18:30:07.721-04:00"}
 ---
 
 
@@ -9,7 +9,7 @@ Have you ever done NaNoWriMo before? Have you written a book? What are you most 
 
 Let me know!
 
-\-Ren
+\-Raine
 
 [[NaNoWriMo-CORPS-Adventure.pdf\|NaNoWriMo-CORPS-Adventure.pdf]]
 
