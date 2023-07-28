@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Podcast/2022/2022-06-03-sink-or-swim.md","permalink":"/podcast/2022/2022-06-03-sink-or-swim/","title":"Sink or Swim","tags":["productivity"],"noteIcon":"","created":"","updated":"2023-07-27T00:00:12.543-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/2022/2022-06-03-sink-or-swim.md","permalink":"/ex-gifted/2022/2022-06-03-sink-or-swim/","title":"Sink or Swim","tags":["productivity"],"noteIcon":"","created":"","updated":"2023-07-27T00:00:12.543-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/2022/2022-05-24-small-things-and-void\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2022/2022-07-12-so-you-wish-you-could-stick-with-a-planner\|NEXT>>]]
