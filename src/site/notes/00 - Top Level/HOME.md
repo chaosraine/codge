@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"HOME.md","permalink":"/home/","title":"🏠 HOME","pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-07-27T19:51:27.569-04:00"}
+{"dg-publish":true,"dg-path":"HOME.md","permalink":"/home/","title":"🏠 HOME","pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-07-28T19:03:06.298-04:00"}
 ---
 
 - ## [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|Podcast]]
@@ -11,12 +11,15 @@
   Find general advice about building systems to keep your mind, time, and space organized, but in a way that works for your chaotic brain.
 
 ## [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|New This Week]]
-| Date | Status | Cover | Title | Description |
-| ---- | ------ | ----- | ----- | ----------- |
+| Date                | Status | Cover                                                                                                                                                                                                                         | Title                                                                                  | Description |
+| ------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------- |
+| July 24, 2023 21:25 | sprout | ![Cover](https://images.unsplash.com/photo-1523920290228-4f321a939b4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwzMXx8amFwYW4lMjBwYXBlcnxlbnwwfDB8fHwxNjkwMjQ4NTEzfDA&ixlib=rb-4.0.3&q=80&w=400) | [[60-69 〰️ Dialann/66 Supplies & Strategies/Hobonichi\|Hobonichi Techo]]            | \-          |
+| July 25, 2023 16:26 | seed   | ![Cover](https://images.unsplash.com/photo-1519819286236-0b3c6506e475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwyfHxsaW5rfGVufDB8MHx8fDE2OTA0MTE0MjN8MA&ixlib=rb-4.0.3&q=80&w=400)              | [[60-69 〰️ Dialann/68 Using Obsidian/linking your thinking\|linking your thinking]] | \-          |
 
 { .block-language-dataview}
 
 ### Recently Updated
+- [[00 - Top Level/HOME\|HOME]]: 🏠 HOME
 - [[10-19 💢 Bardacht/15 Blog/2020/2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core\|2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core]]: How-to Make a Custom Planner with Rocketbook Core
 - [[10-19 💢 Bardacht/15 Blog/2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner\|2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner]]: Frankenplanner: How to Make the Perfect Rocketbook Planner by Cutting the Coil
 - [[10-19 💢 Bardacht/15 Blog/2021/2021-09-14-enough-a-socratic-dialog\|2021-09-14-enough-a-socratic-dialog]]: Enough: A Socratic Dialog
@@ -42,7 +45,6 @@
 - [[60-69 〰️ Dialann/67 CODGE/Pages/2021-10-14-thoughts\|2021-10-14-thoughts]]: Thought Ladder
 - [[60-69 〰️ Dialann/67 CODGE/Pages/2021-10-11-nanowrimo\|2021-10-11-nanowrimo]]: NaNoWriMo
 - [[60-69 〰️ Dialann/67 CODGE/Pages/2021-03-20-ig-links\|2021-03-20-ig-links]]: Social Links
-- [[00 - Top Level/HOME\|HOME]]: 🏠 HOME
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/H is for Haunted House\|H is for Haunted House]]: H is for Haunted House In-A-Box
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/X is for X-Rays\|X is for X-Rays]]: X is for X-Rays
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-03-16-ex-gifted-trailer\|2021-03-16-ex-gifted-trailer]]: Ex-Gifted Trailer
