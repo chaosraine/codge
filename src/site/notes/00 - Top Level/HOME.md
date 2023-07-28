@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"HOME.md","permalink":"/home/","title":"🏠 HOME","pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-07-28T19:03:06.298-04:00"}
+{"dg-publish":true,"dg-path":"HOME.md","permalink":"/home/","title":"🏠 HOME","pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-07-28T19:04:58.466-04:00"}
 ---
 
 - ## [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|Podcast]]
