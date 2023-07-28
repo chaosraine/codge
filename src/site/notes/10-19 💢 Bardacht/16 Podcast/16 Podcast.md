@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Podcast/16 Podcast.md","dg-permalink":"exgifted","permalink":"/exgifted/","title":"📌 Ex-Gifted Podcast","pinned":true,"contentClasses":"cards","tags":["podcast","ex-gifted"],"noteIcon":"","created":"","updated":"2023-07-28T18:22:20.329-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/16 Podcast.md","dg-permalink":"exgifted","permalink":"/exgifted/","title":"📌 Ex-Gifted Podcast","pinned":true,"contentClasses":"cards","tags":["podcast","ex-gifted"],"noteIcon":"","created":"","updated":"2023-07-28T18:22:20.329-04:00"}
 ---
 
 ![](https://i.imgur.com/9PVGVMt.png)
