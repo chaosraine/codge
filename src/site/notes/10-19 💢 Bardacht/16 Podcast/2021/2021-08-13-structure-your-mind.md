@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Podcast/2021/2021-08-13-structure-your-mind.md","permalink":"/podcast/2021/2021-08-13-structure-your-mind/","title":"Structure Your Mind","tags":["build-structure"],"noteIcon":"","created":"","updated":"2023-07-25T16:29:58.092-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/2021/2021-08-13-structure-your-mind.md","permalink":"/ex-gifted/2021/2021-08-13-structure-your-mind/","title":"Structure Your Mind","tags":["build-structure"],"noteIcon":"","created":"","updated":"2023-07-25T16:29:58.092-04:00"}
 ---
  
 [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-30-structure-your-time\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2021/2021-10-01-201-what-is-growth-mindset\|NEXT>>]]
