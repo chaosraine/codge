@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/15 Blog.md","dg-permalink":"blog","permalink":"/blog/","title":"📌 Blog","pinned":true,"contentClasses":"cards cards-1-1","tags":["blog"],"noteIcon":"","created":"","updated":"2023-07-17T09:45:46.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/15 Blog.md","dg-permalink":"blog","permalink":"/blog/","title":"📌 Blog","pinned":true,"noteIcon":"","created":"","updated":"2023-07-28T17:43:29.912-04:00"}
 ---
 
 | Cover                                                     | Title                                                                                                                                                                                        | Published  |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| ![cover\|200](IMG_3885-scaled.jpg)                        | [[10-19 💢 Bardacht/15 Blog/2021/2021-09-14-enough-a-socratic-dialog\|Enough: A Socratic Dialog]]                                                                                         | 2021-09-14 |
 | ![cover\|200](https://i.imgur.com/9Ktay26.jpg)            | [[10-19 💢 Bardacht/15 Blog/2021/2021-03-01-time-management-for-executive-dysfunction\|Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction]] | 2021-03-01 |
 | ![cover\|200](/img/user/80-89 Assets/82 - Photo Attachments/dg-images/Copy-of-Copy-of-Rocketbook-Planner-Pin.png) | [[10-19 💢 Bardacht/15 Blog/2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method\|Best Practices: Using Rocketbook for the Medium Method]]                                         | 2021-01-14 |
 | ![cover\|200](https://i.imgur.com/VrMbIWu.png)            | [[10-19 💢 Bardacht/15 Blog/2020/2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core\|How-to Make a Custom Planner with Rocketbook Core]]                                        | 2020-08-29 |
