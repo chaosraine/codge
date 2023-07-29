@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/2021/2021-04-02-there-is-no-try.md","permalink":"/ex-gifted/2021/2021-04-02-there-is-no-try/","title":"There is No Try","pinned":true,"noteIcon":"","created":"","updated":"2023-07-28T19:10:36.133-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/2021/2021-04-02-there-is-no-try.md","permalink":"/ex-gifted/2021/2021-04-02-there-is-no-try/","title":"There is No Try","pinned":true,"noteIcon":"","created":"","updated":"2023-07-28T20:59:56.738-04:00"}
 ---
 
                     [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes\|NEXT>>]]
@@ -92,7 +92,7 @@ License: [https://filmmusic.io/standard-license](https://filmmusic.io/standard-
 
 If you are a former gifted kid who grew up to struggle with basic adulting, then you need the Ex-Gifted podcast.
 
-Host Ren Eliza talks about gifted kid burnout, and the damage that lasts long into adulthood. Damage like battered self esteem, decimated internal motivation, and a continued failure to live up to expectations even while we were placed on pedestals and alienated from our peers.
+Host Raine Eliza talks about gifted kid burnout, and the damage that lasts long into adulthood. Damage like battered self esteem, decimated internal motivation, and a continued failure to live up to expectations even while we were placed on pedestals and alienated from our peers.
 
 Ex-Gifted will cover failure, procrastination, imposter syndrome, and chronic anxiety and depression, and a whole lot more.
 
