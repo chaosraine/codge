@@ -39,6 +39,8 @@
 - [[60-69 〰️ Dialann/67 CODGE/Pages/2021-09-28-sources\|Sources]]
 - [[60-69 〰️ Dialann/67 CODGE/Pages/2021-10-14-thoughts\|Thought Ladder]]
 - [[60-69 〰️ Dialann/67 CODGE/Pages/2021-10-11-nanowrimo\|NaNoWriMo]]
+- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-01-31-privacy\|Privacy Policy]]
+- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-02-06-disclaimers\|Disclaimers]]
 - [[60-69 〰️ Dialann/67 CODGE/Pages/2021-03-20-ig-links\|Social Links]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/H is for Haunted House\|H is for Haunted House In-A-Box]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/X is for X-Rays\|X is for X-Rays]]
