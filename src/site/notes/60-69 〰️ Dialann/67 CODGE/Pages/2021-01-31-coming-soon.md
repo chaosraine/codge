@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Pages/2021-01-31-coming-soon.md","permalink":"/pages/2021-01-31-coming-soon/","title":"Let's talk about executive dysfunction in adults","tags":["executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-07-28T18:28:38.416-04:00"}
+{"dg-publish":true,"dg-path":"Pages/2021-01-31-coming-soon.md","permalink":"/pages/2021-01-31-coming-soon/","title":"Let's talk about executive dysfunction in adults","tags":["executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-07-28T20:59:21.784-04:00"}
 ---
 
 
 ![](/img/user/80-89 Assets/82 - Photo Attachments/CO logo jpg.jpeg)
 
-## I'm Ren Eliza and I help people overcome executive dysfunction in adults
+## My name is Raine and I help people deal with executive dysfunction in adults
 
 I understand how executive dysfunction in adults works so feel free to [jump straight to the TL;DR](https://chaoticorganized.com/#signup) and also sign up for the mailing list so I can send help straight to you and you don't have to worry about remembering to check this site.
 
