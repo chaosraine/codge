@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner.md","permalink":"/blog/2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner/","title":"Frankenplanner: How to Make the Perfect Rocketbook Planner by Cutting the Coil","tags":["time-and-planners"],"noteIcon":"","created":"","updated":"2023-07-28T17:52:50.191-04:00"}
+{"dg-publish":true,"dg-path":"Blog/2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner.md","permalink":"/blog/2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner/","title":"Frankenplanner: How to Make the Perfect Rocketbook Planner by Cutting the Coil","tags":["time-and-planners"],"noteIcon":"","created":"","updated":"2023-07-28T17:52:50.000-04:00"}
 ---
 
 
