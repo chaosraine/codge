@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"HOME.md","permalink":"/home/","title":"🏠 HOME","pinned":true,"contentClasses":"cards cards-1-1","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-07-28T19:20:40.872-04:00"}
+{"dg-publish":true,"dg-path":"HOME.md","permalink":"/home/","title":"🏠 HOME","pinned":true,"contentClasses":"cards cards-1-1","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-07-29T23:37:45.372-04:00"}
 ---
 
 - ## [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|Podcast]]
@@ -10,7 +10,20 @@
   [[10-19 💢 Bardacht/15 Blog/15 Blog\|Raine in Chaos]]
   Find general advice about building systems to keep your mind, time, and space organized, but in a way that works for your chaotic brain.
 
-## [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|New This Week]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/round-ups/60-round-ups/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+$<div class="markdown-embed-title">
+
+# Round-up
+
+</div>
+
+
+
+
+## New this week
+
 | Date                | Status | Cover                                                                                                                                                                                                                         | Title                                                                                  | Description |
 | ------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------- |
 | July 24, 2023 21:25 | sprout | ![Cover](https://images.unsplash.com/photo-1523920290228-4f321a939b4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwzMXx8amFwYW4lMjBwYXBlcnxlbnwwfDB8fHwxNjkwMjQ4NTEzfDA&ixlib=rb-4.0.3&q=80&w=400) | [[60-69 〰️ Dialann/66 Supplies & Strategies/Hobonichi\|Hobonichi Techo]]            | \-          |
@@ -18,85 +31,95 @@
 
 { .block-language-dataview}
 
-### Recently Updated
-- [[00 - Top Level/HOME\|HOME]]: 🏠 HOME
-- [[10-19 💢 Bardacht/15 Blog/2020/2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core\|2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core]]: How-to Make a Custom Planner with Rocketbook Core
-- [[10-19 💢 Bardacht/15 Blog/2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner\|2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner]]: Frankenplanner: How to Make the Perfect Rocketbook Planner by Cutting the Coil
-- [[10-19 💢 Bardacht/15 Blog/2021/2021-09-14-enough-a-socratic-dialog\|2021-09-14-enough-a-socratic-dialog]]: Enough: A Socratic Dialog
-- [[10-19 💢 Bardacht/15 Blog/2021/2021-03-01-time-management-for-executive-dysfunction\|2021-03-01-time-management-for-executive-dysfunction]]: Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction
-- [[10-19 💢 Bardacht/15 Blog/2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method\|2021-01-14-how-to-use-rocketbook-for-the-medium-method]]: Best Practices: Using Rocketbook for the Medium Method
-- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/31 Spooky and Fun Halloween Homeschool Ideas\|31 Spooky and Fun Halloween Homeschool Ideas]]: 31 Spooky and Fun Halloween Homeschool Ideas Roundup
-- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/E is for Eerie\|E is for Eerie]]: E is for Eerie
-- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/D is for Día de Muertos\|D is for Día de Muertos]]: D is for Día de Muertos
-- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/F is for Frankenstein\|F is for Frankenstein]]: F is for Frankenstein OR The Girl who invented sci-fi
-- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/G is for the Great Pumpkin\|G is for the Great Pumpkin]]: G is for the Great Pumpkin
-- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/K is for Karaoke\|K is for Karaoke]]: K is for Karaoke ~ a Halloween Sing-along!
-- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/L is for the Legend of Sleepy Hollow\|L is for the Legend of Sleepy Hollow]]: L is for the Legend of Sleepy Hollow
-- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/P is for the Pumpkin Patch\|P is for the Pumpkin Patch]]: P is for the Pumpkin Patch!
-- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/Q is for Quark\|Q is for Quark]]: Q is for Quark
-- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/Y is for Yeti\|Y is for Yeti]]: Y is for Yeti
-- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/Z is for Zombies\|Z is for Zombies]]: Z is for Zombies
-- [[10-19 💢 Bardacht/15 Blog/15 Blog\|15 Blog]]: 📌 Blog
-- [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|16 Podcast]]: 📌 Ex-Gifted Podcast
-- [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-02-there-is-no-try\|2021-04-02-there-is-no-try]]: There is No Try
-- [[10-19 💢 Bardacht/16 Podcast/2022/2022-05-02-reclaim-your-attention\|2022-05-02-reclaim-your-attention]]: Reclaim your Attention
-- [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|60 Round-ups]]: What's new this week
-- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-01-31-coming-soon\|2021-01-31-coming-soon]]: Let's talk about executive dysfunction in adults
-- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-09-28-sources\|2021-09-28-sources]]: Sources
-- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-10-14-thoughts\|2021-10-14-thoughts]]: Thought Ladder
-- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-10-11-nanowrimo\|2021-10-11-nanowrimo]]: NaNoWriMo
-- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-01-31-privacy\|2021-01-31-privacy]]: Privacy Policy
-- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-02-06-disclaimers\|2021-02-06-disclaimers]]: Disclaimers
-- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-03-20-ig-links\|2021-03-20-ig-links]]: Social Links
-- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/H is for Haunted House\|H is for Haunted House]]: H is for Haunted House In-A-Box
-- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/X is for X-Rays\|X is for X-Rays]]: X is for X-Rays
-- [[10-19 💢 Bardacht/16 Podcast/2021/2021-03-16-ex-gifted-trailer\|2021-03-16-ex-gifted-trailer]]: Ex-Gifted Trailer
-- [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes\|2021-04-16-adulting-is-hard-part-1-laundry-and-dishes]]: Adulting is Hard part 1: Laundry and Dishes
-- [[10-19 💢 Bardacht/16 Podcast/2021/2021-05-14-embrace-imperfection\|2021-05-14-embrace-imperfection]]: Embrace Imperfection
-- [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-30-procrastinate-productively\|2021-04-30-procrastinate-productively]]: Procrastinate Productively
-- [[10-19 💢 Bardacht/16 Podcast/2022/2022-04-04-transitions-are-hard\|2022-04-04-transitions-are-hard]]: Transitions Are Hard
-- [[10-19 💢 Bardacht/16 Podcast/2022/2022-04-15-moving-through-molasses-april-doldrums\|2022-04-15-moving-through-molasses-april-doldrums]]: Moving through molasses - April Doldrums
-- [[10-19 💢 Bardacht/16 Podcast/2022/2022-05-24-small-things-and-void\|2022-05-24-small-things-and-void]]: Small Things and Void
-- [[10-19 💢 Bardacht/16 Podcast/2022/2022-06-03-sink-or-swim\|2022-06-03-sink-or-swim]]: Sink or Swim
-- [[10-19 💢 Bardacht/16 Podcast/2022/2022-07-29-the-best-planners-for-executive-dysfunction\|2022-07-29-the-best-planners-for-executive-dysfunction]]: The perfect planner for executive dysfunction
-- [[10-19 💢 Bardacht/16 Podcast/2022/2022-08-12-being-comfortable-with-being-uncomfortable\|2022-08-12-being-comfortable-with-being-uncomfortable]]: Being comfortable with being uncomfortable
-- [[10-19 💢 Bardacht/16 Podcast/2022/2022-08-31-making-your-planner-work-for-you\|2022-08-31-making-your-planner-work-for-you]]: Making your planner work FOR YOU
-- [[10-19 💢 Bardacht/16 Podcast/2022/2022-07-12-so-you-wish-you-could-stick-with-a-planner\|2022-07-12-so-you-wish-you-could-stick-with-a-planner]]: So you wish you could stick with a planner?
-- [[10-19 💢 Bardacht/16 Podcast/2022/2022-12-30-new-year-2023\|2022-12-30-new-year-2023]]: New Year and Realistic Resolve
-- [[10-19 💢 Bardacht/16 Podcast/2022/2022-09-20-the-autumn-equinox-and-time-agnosia\|2022-09-20-the-autumn-equinox-and-time-agnosia]]: The Autumn Equinox and Time Agnosia
-- [[40-49 🔅 Sláinte/40 Thoughts & Ideas/Limiting Beliefs\|Limiting Beliefs]]: limiting beliefs
-- [[40-49 🔅 Sláinte/40 Thoughts & Ideas/automation\|automation]]: Automation
-- [[40-49 🔅 Sláinte/43 Spirit/Minimalism and Abundance\|Minimalism and Abundance]]: minimalism and abundance
-- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W29\|Round-up 2023-W29]]: Round-up for 2023 W29
-- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W27\|Round-up 2023-W27]]: Round-up for 2023 W27
-- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W28\|Round-up 2023-W28]]: Round-up for 2023 W28
-- [[60-69 〰️ Dialann/68 Using Obsidian/Formatting\|Formatting]]: formatting
-- [[60-69 〰️ Dialann/68 Using Obsidian/Aliases\|Aliases]]: Aliases
-- [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]]: Obsidian
-- [[60-69 〰️ Dialann/68 Using Obsidian/plugins\|plugins]]: plugins
-- [[60-69 〰️ Dialann/68 Using Obsidian/recursive learning\|recursive learning]]: recursive learning
-- [[60-69 〰️ Dialann/68 Using Obsidian/second brain\|second brain]]: second brain
-- [[60-69 〰️ Dialann/68 Using Obsidian/linking your thinking\|linking your thinking]]: 
-- [[60-69 〰️ Dialann/66 Supplies & Strategies/Hobonichi\|Hobonichi]]: Hobonichi Techo
-- [[90-99 Inbox-Unsorted/2023-07-17-1328 - Moderation as a virtue\|2023-07-17-1328 - Moderation as a virtue]]: Moderation as a Virtue
-- [[10-19 💢 Bardacht/16 Podcast/2022/2022-02-20-apology\|2022-02-20-apology]]: Apology
-- [[10-19 💢 Bardacht/16 Podcast/2022/2022-02-25-Ex-Gifted - Summiting Mt Everest On Unlimiting\|2022-02-25-Ex-Gifted - Summiting Mt Everest On Unlimiting]]: Summiting Mt Everest: On Unlimiting
-- [[10-19 💢 Bardacht/16 Podcast/2022/2022-03-04-accept-it-is\|2022-03-04-accept-it-is]]: Accept it.
-- [[10-19 💢 Bardacht/16 Podcast/2022/2022-03-11-210-power-of-yet\|2022-03-11-210-power-of-yet]]: Power of Yet
-- [[10-19 💢 Bardacht/16 Podcast/2022/2022-05-16-finding-focus\|2022-05-16-finding-focus]]: Finding focus?
-- [[10-19 💢 Bardacht/16 Podcast/2022/2022-05-09-how-to-do-stuff-you-dont-want-to-do\|2022-05-09-how-to-do-stuff-you-dont-want-to-do]]: How to do stuff you don't want to do
-- [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-16-structure-your-stuff\|2021-07-16-structure-your-stuff]]: Structure your Stuff
-- [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-30-structure-your-time\|2021-07-30-structure-your-time]]: Structure Your Time
-- [[10-19 💢 Bardacht/16 Podcast/2021/2021-08-13-structure-your-mind\|2021-08-13-structure-your-mind]]: Structure Your Mind
-- [[10-19 💢 Bardacht/16 Podcast/2021/2021-10-01-201-what-is-growth-mindset\|2021-10-01-201-what-is-growth-mindset]]: 201 What is Growth Mindset?
-- [[10-19 💢 Bardacht/16 Podcast/2021/2021-10-15-202-growth-mindset-is-bs\|2021-10-15-202-growth-mindset-is-bs]]: 202 Growth Mindset is BS
-- [[10-19 💢 Bardacht/16 Podcast/2021/2021-10-29-203-grow-your-own-woo\|2021-10-29-203-grow-your-own-woo]]: 203 Grow Your Own Woo
-- [[10-19 💢 Bardacht/16 Podcast/2021/2021-11-19-actually-you-can-meditate\|2021-11-19-actually-you-can-meditate]]: Actually, You CAN Meditate
-- [[10-19 💢 Bardacht/16 Podcast/2021/2021-12-03-prevent-burnout-by-going-dormant\|2021-12-03-prevent-burnout-by-going-dormant]]: Prevent Burnout by Going Dormant
-- [[10-19 💢 Bardacht/16 Podcast/2021/2021-12-17-your-self-choose-your-own-adventure\|2021-12-17-your-self-choose-your-own-adventure]]: Your Self: Choose Your Own Adventure
-- [[60-69 〰️ Dialann/67 CODGE/2021-07-23-time-sign-up\|2021-07-23-time-sign-up]]: Sign up for the Newsletter
+## Recently Updated
+- [[00 - Top Level/HOME\|🏠 HOME]]
+- [[10-19 💢 Bardacht/16 Podcast/2022/2022-05-02-reclaim-your-attention\|Reclaim your Attention]]
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-02-there-is-no-try\|There is No Try]]
+- [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|📌 Ex-Gifted Podcast]]
+- [[10-19 💢 Bardacht/15 Blog/15 Blog\|📌 Blog]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/Z is for Zombies\|Z is for Zombies]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/P is for the Pumpkin Patch\|P is for the Pumpkin Patch!]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/E is for Eerie\|E is for Eerie]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/Q is for Quark\|Q is for Quark]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/31 Spooky and Fun Halloween Homeschool Ideas\|31 Spooky and Fun Halloween Homeschool Ideas Roundup]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/K is for Karaoke\|K is for Karaoke ~ a Halloween Sing-along!]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/L is for the Legend of Sleepy Hollow\|L is for the Legend of Sleepy Hollow]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/Y is for Yeti\|Y is for Yeti]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/D is for Día de Muertos\|D is for Día de Muertos]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/F is for Frankenstein\|F is for Frankenstein OR The Girl who invented sci-fi]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/G is for the Great Pumpkin\|G is for the Great Pumpkin]]
+- [[10-19 💢 Bardacht/15 Blog/2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method\|Best Practices: Using Rocketbook for the Medium Method]]
+- [[10-19 💢 Bardacht/15 Blog/2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner\|Frankenplanner: How to Make the Perfect Rocketbook Planner by Cutting the Coil]]
+- [[10-19 💢 Bardacht/15 Blog/2021/2021-09-14-enough-a-socratic-dialog\|Enough: A Socratic Dialog]]
+- [[10-19 💢 Bardacht/15 Blog/2021/2021-03-01-time-management-for-executive-dysfunction\|Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction]]
+- [[10-19 💢 Bardacht/15 Blog/2020/2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core\|How-to Make a Custom Planner with Rocketbook Core]]
+- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-03-20-ig-links\|Social Links]]
+- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-01-31-privacy\|Privacy Policy]]
+- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-10-14-thoughts\|Thought Ladder]]
+- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-09-28-sources\|Sources]]
+- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-10-11-nanowrimo\|NaNoWriMo]]
+- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-01-31-coming-soon\|Let's talk about executive dysfunction in adults]]
+- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-02-06-disclaimers\|Disclaimers]]
+- [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|What's new this week]]
+- [[40-49 🔅 Sláinte/40 Thoughts & Ideas/Limiting Beliefs\|limiting beliefs]]
+- [[40-49 🔅 Sláinte/40 Thoughts & Ideas/automation\|Automation]]
+- [[40-49 🔅 Sláinte/43 Spirit/Minimalism and Abundance\|minimalism and abundance]]
+- [[90-99 Inbox-Unsorted/2023-07-17-1328 - Moderation as a virtue\|Moderation as a Virtue]]
+- [[10-19 💢 Bardacht/16 Podcast/2022/2022-04-04-transitions-are-hard\|Transitions Are Hard]]
+- [[10-19 💢 Bardacht/16 Podcast/2022/2022-05-24-small-things-and-void\|Small Things and Void]]
+- [[10-19 💢 Bardacht/16 Podcast/2022/2022-12-30-new-year-2023\|New Year and Realistic Resolve]]
+- [[10-19 💢 Bardacht/16 Podcast/2022/2022-08-12-being-comfortable-with-being-uncomfortable\|Being comfortable with being uncomfortable]]
+- [[10-19 💢 Bardacht/16 Podcast/2022/2022-07-12-so-you-wish-you-could-stick-with-a-planner\|So you wish you could stick with a planner?]]
+- [[10-19 💢 Bardacht/16 Podcast/2022/2022-04-15-moving-through-molasses-april-doldrums\|Moving through molasses - April Doldrums]]
+- [[10-19 💢 Bardacht/16 Podcast/2022/2022-08-31-making-your-planner-work-for-you\|Making your planner work FOR YOU]]
+- [[10-19 💢 Bardacht/16 Podcast/2022/2022-07-29-the-best-planners-for-executive-dysfunction\|The perfect planner for executive dysfunction]]
+- [[10-19 💢 Bardacht/16 Podcast/2022/2022-06-03-sink-or-swim\|Sink or Swim]]
+- [[10-19 💢 Bardacht/16 Podcast/2022/2022-09-20-the-autumn-equinox-and-time-agnosia\|The Autumn Equinox and Time Agnosia]]
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-30-procrastinate-productively\|Procrastinate Productively]]
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes\|Adulting is Hard part 1: Laundry and Dishes]]
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-05-14-embrace-imperfection\|Embrace Imperfection]]
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-03-16-ex-gifted-trailer\|Ex-Gifted Trailer]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/H is for Haunted House\|H is for Haunted House In-A-Box]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/X is for X-Rays\|X is for X-Rays]]
+- [[60-69 〰️ Dialann/68 Using Obsidian/recursive learning\|recursive learning]]
+- [[60-69 〰️ Dialann/68 Using Obsidian/linking your thinking\|linking your thinking]]
+- [[60-69 〰️ Dialann/68 Using Obsidian/second brain\|second brain]]
+- [[60-69 〰️ Dialann/68 Using Obsidian/Aliases\|Aliases]]
+- [[60-69 〰️ Dialann/68 Using Obsidian/Formatting\|formatting]]
+- [[60-69 〰️ Dialann/68 Using Obsidian/plugins\|plugins]]
+- [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]]
+- [[60-69 〰️ Dialann/66 Supplies & Strategies/Hobonichi\|Hobonichi Techo]]
+- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W29\|Round-up for 2023 W29]]
+- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W28\|Round-up for 2023 W28]]
+- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W27\|Round-up for 2023 W27]]
+- [[10-19 💢 Bardacht/16 Podcast/2022/2022-03-04-accept-it-is\|Accept it.]]
+- [[10-19 💢 Bardacht/16 Podcast/2022/2022-05-09-how-to-do-stuff-you-dont-want-to-do\|How to do stuff you don't want to do]]
+- [[10-19 💢 Bardacht/16 Podcast/2022/2022-03-11-210-power-of-yet\|Power of Yet]]
+- [[10-19 💢 Bardacht/16 Podcast/2022/2022-05-16-finding-focus\|Finding focus?]]
+- [[10-19 💢 Bardacht/16 Podcast/2022/2022-02-25-Ex-Gifted - Summiting Mt Everest On Unlimiting\|Summiting Mt Everest: On Unlimiting]]
+- [[10-19 💢 Bardacht/16 Podcast/2022/2022-02-20-apology\|Apology]]
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-12-03-prevent-burnout-by-going-dormant\|Prevent Burnout by Going Dormant]]
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-08-13-structure-your-mind\|Structure Your Mind]]
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-10-15-202-growth-mindset-is-bs\|202 Growth Mindset is BS]]
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-10-29-203-grow-your-own-woo\|203 Grow Your Own Woo]]
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-10-01-201-what-is-growth-mindset\|201 What is Growth Mindset?]]
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-12-17-your-self-choose-your-own-adventure\|Your Self: Choose Your Own Adventure]]
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-30-structure-your-time\|Structure Your Time]]
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-16-structure-your-stuff\|Structure your Stuff]]
+- [[10-19 💢 Bardacht/16 Podcast/2021/2021-11-19-actually-you-can-meditate\|Actually, You CAN Meditate]]
+- [[60-69 〰️ Dialann/67 CODGE/2021-07-23-time-sign-up\|Sign up for the Newsletter]]
 
 { .block-language-dataview}
+
+
+
+
+
+
+
+
+</div></div>
+
 
 
 
