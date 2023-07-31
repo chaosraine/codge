@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/2021/2021-09-14-enough-a-socratic-dialog.md","permalink":"/blog/2021/2021-09-14-enough-a-socratic-dialog/","title":"Enough: A Socratic Dialog","tags":["roleplanning","self-care"],"noteIcon":"","created":"","updated":"2023-07-28T17:37:37.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/2021/2021-09-14-enough-a-socratic-dialog.md","permalink":"/blog/2021/2021-09-14-enough-a-socratic-dialog/","title":"Enough: A Socratic Dialog","tags":["roleplanning","self-care"],"noteIcon":"","created":"","updated":"2023-07-28T17:37:37.187-04:00"}
 ---
 
 
