@@ -12,7 +12,6 @@ Moving over a bunch of podcasts this week!
 { .block-language-dataview}
 
 ## Recently Updated
-- [[10-19 💢 Bardacht/15 Blog/2021/2021-03-08-what-is-executive-dysfunction\|What is Executive Dysfunction? Learn 20+ ways it can wreak havoc on your life]]
 - [[10-19 💢 Bardacht/15 Blog/2021/2021-03-19-emotional-dysregulation\|Emotional Dysregulation - Another Struggle of Executive Dysfunction]]
 - [[10-19 💢 Bardacht/15 Blog/2021/2021-03-26-executive-dysfunction-in-the-kitchen\|4 Easy Solutions for Executive Dysfunction in the Kitchen]]
 - [[10-19 💢 Bardacht/15 Blog/2021/2021-03-26-waste-in-the-kitchen\|Waste in the kitchen - a mindset shift]]
