@@ -13,6 +13,11 @@
 { .block-language-dataview}
 
 ## Recently Updated
+- [[10-19 💢 Bardacht/15 Blog/2021/2021-03-08-what-is-executive-dysfunction\|What is Executive Dysfunction? Learn 20+ ways it can wreak havoc on your life]]
+- [[10-19 💢 Bardacht/15 Blog/2021/2021-03-19-emotional-dysregulation\|Emotional Dysregulation - Another Struggle of Executive Dysfunction]]
+- [[10-19 💢 Bardacht/15 Blog/2021/2021-03-26-executive-dysfunction-in-the-kitchen\|4 Easy Solutions for Executive Dysfunction in the Kitchen]]
+- [[10-19 💢 Bardacht/15 Blog/2021/2021-03-26-waste-in-the-kitchen\|Waste in the kitchen - a mindset shift]]
+- [[10-19 💢 Bardacht/15 Blog/2021/2021-04-09-2-ways-to-clean-with-executive-dysfunction\|2 ways to clean with executive dysfunction]]
 - [[00 - Top Level/HOME\|🏠 HOME]]
 - [[10-19 💢 Bardacht/15 Blog/2020/2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core\|How-to Make a Custom Planner with Rocketbook Core]]
 - [[10-19 💢 Bardacht/15 Blog/2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner\|Frankenplanner: How to Make the Perfect Rocketbook Planner by Cutting the Coil]]
