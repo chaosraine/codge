@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/2021/2021-07-16-structure-your-stuff.md","permalink":"/ex-gifted/2021/2021-07-16-structure-your-stuff/","title":"Structure your Stuff","tags":["build-structure"],"noteIcon":"","created":"","updated":"2023-07-25T16:30:20.164-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/2021/2021-07-16-structure-your-stuff.md","permalink":"/ex-gifted/2021/2021-07-16-structure-your-stuff/","title":"Structure your Stuff","tags":["build-structure"],"noteIcon":"","created":"","updated":"2023-07-30T23:57:44.644-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-02-exceptional-exceptional\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-30-structure-your-time\|NEXT>>]]
