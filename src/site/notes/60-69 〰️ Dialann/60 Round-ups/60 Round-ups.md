@@ -5,12 +5,15 @@
 
 ## New this week
 
-| Date | Status | Cover | Title | Description |
-| ---- | ------ | ----- | ----- | ----------- |
+| Date                  | Status | Cover        | Title                                                                                  | Description |
+| --------------------- | ------ | ------------ | -------------------------------------------------------------------------------------- | ----------- |
+| August 01, 2023 13:16 | \-     | ![Cover](\-) | [[60-69 〰️ Dialann/67 CODGE/Pages/2021-02-06-terms-conditions\|Terms & Conditions]] | \-          |
 
 { .block-language-dataview}
 
 ## Recently Updated
+- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-02-06-terms-conditions\|Terms & Conditions]]
+- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-05-11-30toclean-tracking-maze\|#30toClean Tracking Maze]]
 - [[10-19 💢 Bardacht/15 Blog/2021/2021-03-08-what-is-executive-dysfunction\|What is Executive Dysfunction? Learn 20+ ways it can wreak havoc on your life]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W30\|Round-up for 2023 W30]]
 
