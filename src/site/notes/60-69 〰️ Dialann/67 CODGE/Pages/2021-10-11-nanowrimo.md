@@ -11,7 +11,7 @@ Let me know!
 
 \-Raine
 
-[[NaNoWriMo-CORPS-Adventure.pdf\|NaNoWriMo-CORPS-Adventure.pdf]]
+[[NaNoWriMo-CORPS-Adventure.pdf]]
 
 ## Get your free Preptober planner here:
 
