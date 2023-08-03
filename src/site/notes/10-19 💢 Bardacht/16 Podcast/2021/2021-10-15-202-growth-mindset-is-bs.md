@@ -17,7 +17,7 @@
 
 Growth mindset is bullshit when it’s presented as a catch-22. Here’s how you can learn to develop a growth mindset even if you don’t already have a growth mindset.
 
-Download the [[60-69 〰️ Dialann/67 CODGE/Pages/2021-10-14-thoughts\|thought ladder]] 
+Download the [[60-69 〰️ Dialann/67 Website/Pages/2021-10-14-thoughts\|thought ladder]] 
 
 Find the Unfuck Your Brain podcast by Kara Lowenthiel at [unfuckyourbrain.com](http://unfuckyourbrain.com/) or anywhere you listen to podcasts.
 
