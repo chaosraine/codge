@@ -1,13 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"Round-ups/Round-up 2023-W30.md","dg-permalink":"2023-W30-roundup","permalink":"/2023-W30-roundup/","title":"Round-up for 2023 W30","contentClasses":"cards cards-1-1","noteIcon":"","created":"2023-07-30T23:33:22","updated":"2023-07-31T00:33:42.607-04:00"}
+{"dg-publish":true,"dg-path":"Round-ups/Round-up 2023-W30.md","dg-permalink":"2023-W30-roundup","permalink":"/2023-W30-roundup/","title":"Round-up for 2023 W30","contentClasses":"cards cards-1-1","noteIcon":"","created":"2023-07-30T23:33:22","updated":"2023-08-03T16:59:41.501-04:00"}
 ---
 
 
 ## New this week
 
 Moving over a bunch of podcasts this week!
-| Date | Status | Cover | Title | Description |
-| ---- | ------ | ----- | ----- | ----------- |
+| Date                | Status | Cover                                                                                                                                                                                                                    | Title                                                                                  | Summary                                                          |
+| ------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| July 24, 2023 21:25 | sprout | ![](https://images.unsplash.com/photo-1523920290228-4f321a939b4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwzMXx8amFwYW4lMjBwYXBlcnxlbnwwfDB8fHwxNjkwMjQ4NTEzfDA&ixlib=rb-4.0.3&q=80&w=400) | [[60-69 〰️ Dialann/66 Supplies & Strategies/Hobonichi\|Hobonichi Techo]]            | My favorite products from the Japanese planner company Hobonichi |
+| July 25, 2023 16:26 | seed   | ![](https://images.unsplash.com/photo-1519819286236-0b3c6506e475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwyfHxsaW5rfGVufDB8MHx8fDE2OTA0MTE0MjN8MA&ixlib=rb-4.0.3&q=80&w=400)              | [[60-69 〰️ Dialann/68 Using Obsidian/linking your thinking\|linking your thinking]] | How your notes relate                                            |
 
 { .block-language-dataview}
 
@@ -19,7 +21,7 @@ Moving over a bunch of podcasts this week!
 - [[10-19 💢 Bardacht/15 Blog/2021/2021-04-23-the-cleaning-mindset\|The cleaning mindset]]
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-16-structure-your-stuff\|Structure your Stuff]]
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-07-30-structure-your-time\|Structure Your Time]]
-- [[00 - Top Level/HOME\|🏠 HOME]]
+- [[00 - Top Level/010-HOME\|🏠 HOME]]
 - [[10-19 💢 Bardacht/15 Blog/15 Blog\|📌 Blog]]
 - [[10-19 💢 Bardacht/15 Blog/2020/2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core\|How-to Make a Custom Planner with Rocketbook Core]]
 - [[10-19 💢 Bardacht/15 Blog/2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method\|Best Practices: Using Rocketbook for the Medium Method]]
@@ -41,13 +43,6 @@ Moving over a bunch of podcasts this week!
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-02-there-is-no-try\|There is No Try]]
 - [[10-19 💢 Bardacht/16 Podcast/2022/2022-05-02-reclaim-your-attention\|Reclaim your Attention]]
 - [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|What's new this week]]
-- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-01-31-coming-soon\|Let's talk about executive dysfunction in adults]]
-- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-01-31-privacy\|Privacy Policy]]
-- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-02-06-disclaimers\|Disclaimers]]
-- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-03-20-ig-links\|Social Links]]
-- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-09-28-sources\|Sources]]
-- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-10-11-nanowrimo\|NaNoWriMo]]
-- [[60-69 〰️ Dialann/67 CODGE/Pages/2021-10-14-thoughts\|Thought Ladder]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/H is for Haunted House\|H is for Haunted House In-A-Box]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/X is for X-Rays\|X is for X-Rays]]
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-03-16-ex-gifted-trailer\|Ex-Gifted Trailer]]
@@ -67,9 +62,6 @@ Moving over a bunch of podcasts this week!
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/Limiting Beliefs\|limiting beliefs]]
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/automation\|Automation]]
 - [[40-49 🔅 Sláinte/43 Spirit/Minimalism and Abundance\|minimalism and abundance]]
-- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W27\|Round-up for 2023 W27]]
-- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W28\|Round-up for 2023 W28]]
-- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W29\|Round-up for 2023 W29]]
 - [[60-69 〰️ Dialann/66 Supplies & Strategies/Hobonichi\|Hobonichi Techo]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/Aliases\|Aliases]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/Formatting\|formatting]]
@@ -78,7 +70,6 @@ Moving over a bunch of podcasts this week!
 - [[60-69 〰️ Dialann/68 Using Obsidian/plugins\|plugins]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/recursive learning\|recursive learning]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/second brain\|second brain]]
-- [[90-99 Inbox-Unsorted/2023-07-17-1328 - Moderation as a virtue\|Moderation as a Virtue]]
 - [[10-19 💢 Bardacht/16 Podcast/2022/2022-02-20-apology\|Apology]]
 - [[10-19 💢 Bardacht/16 Podcast/2022/2022-02-25-Ex-Gifted - Summiting Mt Everest On Unlimiting\|Summiting Mt Everest: On Unlimiting]]
 - [[10-19 💢 Bardacht/16 Podcast/2022/2022-03-04-accept-it-is\|Accept it.]]
@@ -92,7 +83,6 @@ Moving over a bunch of podcasts this week!
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-11-19-actually-you-can-meditate\|Actually, You CAN Meditate]]
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-12-03-prevent-burnout-by-going-dormant\|Prevent Burnout by Going Dormant]]
 - [[10-19 💢 Bardacht/16 Podcast/2021/2021-12-17-your-self-choose-your-own-adventure\|Your Self: Choose Your Own Adventure]]
-- [[60-69 〰️ Dialann/67 CODGE/2021-07-23-time-sign-up\|Sign up for the Newsletter]]
 
 { .block-language-dataview}
 
