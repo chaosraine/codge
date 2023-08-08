@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/2021/2021-03-26-waste-in-the-kitchen.md","permalink":"/blog/2021/2021-03-26-waste-in-the-kitchen/","title":"Waste in the kitchen - a mindset shift","tags":["kitchen"],"noteIcon":"","created":"","updated":"2023-07-30T23:48:43.995-04:00"}
+{"dg-publish":true,"dg-path":"Blog/2021/2021-03-26-waste-in-the-kitchen.md","permalink":"/blog/2021/2021-03-26-waste-in-the-kitchen/","title":"Waste in the kitchen - a mindset shift","tags":["kitchen"],"noteIcon":"","created":"","updated":"2023-07-30T23:48:43.000-04:00"}
 ---
 
 
