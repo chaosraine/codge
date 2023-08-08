@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/2021/2021-03-08-what-is-executive-dysfunction.md","permalink":"/blog/2021/2021-03-08-what-is-executive-dysfunction/","title":"What is Executive Dysfunction? Learn 20+ ways it can wreak havoc on your life","tags":["executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-07-31T13:53:19.149-04:00"}
+{"dg-publish":true,"dg-path":"Blog/2021/2021-03-08-what-is-executive-dysfunction.md","permalink":"/blog/2021/2021-03-08-what-is-executive-dysfunction/","title":"What is Executive Dysfunction? Learn 20+ ways it can wreak havoc on your life","tags":["executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-07-31T13:53:19.000-04:00"}
 ---
 
 
