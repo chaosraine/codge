@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Pages/2021-03-20-work-with-me.md","dg-permalink":"work-with-me","permalink":"/work-with-me/","title":"Work with me","noteIcon":"","created":"","updated":"2023-08-03T17:08:26.000-04:00"}
+{"dg-publish":true,"dg-path":"Pages/2021-03-20-work-with-me.md","dg-permalink":"work-with-me","permalink":"/work-with-me/","title":"Work with me","noteIcon":"","created":"","updated":"2023-08-03T17:08:26.570-04:00"}
 ---
 
 
