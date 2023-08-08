@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/2022/2022-05-16-finding-focus.md","permalink":"/ex-gifted/2022/2022-05-16-finding-focus/","title":"Finding focus?","tags":["productivity"],"noteIcon":"","created":"","updated":"2023-07-26T23:01:10.428-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/2022/2022-05-16-finding-focus.md","permalink":"/ex-gifted/2022/2022-05-16-finding-focus/","title":"Finding focus?","tags":["productivity"],"noteIcon":"","created":"","updated":"2023-07-26T23:01:10.000-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/2022/2022-05-09-how-to-do-stuff-you-dont-want-to-do\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2022/2022-05-24-small-things-and-void\|NEXT>>]]
