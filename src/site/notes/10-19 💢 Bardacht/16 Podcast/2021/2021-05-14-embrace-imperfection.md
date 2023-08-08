@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/2021/2021-05-14-embrace-imperfection.md","permalink":"/ex-gifted/2021/2021-05-14-embrace-imperfection/","title":"Embrace Imperfection","noteIcon":"","created":"","updated":"2023-07-27T19:49:30.294-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/2021/2021-05-14-embrace-imperfection.md","permalink":"/ex-gifted/2021/2021-05-14-embrace-imperfection/","title":"Embrace Imperfection","noteIcon":"","created":"","updated":"2023-07-27T19:49:30.000-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/2021/2021-04-30-procrastinate-productively\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2021/2021-05-28-quit-on-purpose\|NEXT>>]]
