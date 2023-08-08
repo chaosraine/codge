@@ -12,7 +12,7 @@
 
 Quitting is morally neutral, so perseverance won’t make you a better person, but learning when and how to quit on purpose, and when to persevere could definitely make you a happier person.
 
-If you want to know more about keeping a planner, as someone with executive dysfunction, check out my [[10-19 💢 Bardacht/15 Blog/2021/2021-03-01-time-management-for-executive-dysfunction\|ultimate guide to time management]]! In the [[10-19 💢 Bardacht/15 Blog/2021/2021-03-01-time-management-for-executive-dysfunction#Other tools I use\|Tools section]] I go over how to use Bullet Journaling – which was actually created by someone with ADHD!
+If you want to know more about keeping a planner, as someone with executive dysfunction, check out my [[10-19 💢 Bardacht/15 Blog/Posts 2021/2021-03-01-time-management-for-executive-dysfunction\|ultimate guide to time management]]! In the [[10-19 💢 Bardacht/15 Blog/Posts 2021/2021-03-01-time-management-for-executive-dysfunction#Other tools I use\|Tools section]] I go over how to use Bullet Journaling – which was actually created by someone with ADHD!
 
 Read BEYOND THE HEADLINE
 
