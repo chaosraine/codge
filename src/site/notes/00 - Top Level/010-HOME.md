@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"010-HOME.md","permalink":"/010-home/","title":"🏠 HOME","pinned":true,"contentClasses":"cards cards-1-1","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-07-29T23:37:45.000-04:00"}
+{"dg-publish":true,"dg-path":"010-HOME.md","permalink":"/010-home/","title":"🏠 HOME","pinned":true,"contentClasses":"cards cards-1-1","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-07-29T23:37:45.372-04:00"}
 ---
 
 - ## [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|Podcast]]
@@ -24,30 +24,14 @@ $<div class="markdown-embed-title">
 
 ## New this week
 
-| Date                  | Status | Cover        | Title                                                                                    | Description |
-| --------------------- | ------ | ------------ | ---------------------------------------------------------------------------------------- | ----------- |
-| August 01, 2023 13:16 | \-     | ![Cover](\-) | [[60-69 〰️ Dialann/67 Website/Pages/2021-02-06-terms-conditions\|Terms & Conditions]] | \-          |
+| Date                  | Status | Cover                                                                                                                                                                                                              | Title                                                                    | Description |
+| --------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ | ----------- |
+| August 08, 2023 11:15 | seed   | ![Cover](https://images.unsplash.com/photo-1586892477901-f70e288a7318?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw3NXx8bm90ZXN8ZW58MHwwfHx8MTY5MTUwNzg3Nnww&ixlib=rb-4.0.3&q=80&w=400) | [[40-49 🔅 Sláinte/40 Thoughts & Ideas/clarification\|Clarification]] | \-          |
 
 { .block-language-dataview}
 
 ## Recently Updated
-- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W27\|Round-up for 2023 W27]]
-- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W28\|Round-up for 2023 W28]]
-- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W29\|Round-up for 2023 W29]]
-- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W30\|Round-up for 2023 W30]]
-- [[60-69 〰️ Dialann/67 Website/2021-07-23-time-sign-up\|Sign up for the Newsletter]]
-- [[60-69 〰️ Dialann/67 Website/Pages/2021-01-31-coming-soon\|Let's talk about executive dysfunction in adults]]
-- [[60-69 〰️ Dialann/67 Website/Pages/2021-01-31-privacy\|Privacy Policy]]
-- [[60-69 〰️ Dialann/67 Website/Pages/2021-02-06-disclaimers\|Disclaimers]]
-- [[60-69 〰️ Dialann/67 Website/Pages/2021-03-20-ig-links\|Social Links]]
-- [[60-69 〰️ Dialann/67 Website/Pages/2021-03-20-work-with-me\|Work with me]]
-- [[60-69 〰️ Dialann/67 Website/Pages/2021-09-28-sources\|Sources]]
-- [[60-69 〰️ Dialann/67 Website/Pages/2021-10-11-nanowrimo\|NaNoWriMo]]
-- [[60-69 〰️ Dialann/67 Website/Pages/2021-10-14-thoughts\|Thought Ladder]]
-- [[60-69 〰️ Dialann/67 Website/Pages/2021-02-06-terms-conditions\|Terms & Conditions]]
-- [[60-69 〰️ Dialann/67 Website/Pages/2021-05-11-30toclean-tracking-maze\|#30toClean Tracking Maze]]
-- [[90-99 Inbox-Unsorted/2023-07-17-1328 - Moderation as a virtue\|Moderation as a Virtue]]
-- [[10-19 💢 Bardacht/15 Blog/2021/2021-03-08-what-is-executive-dysfunction\|What is Executive Dysfunction? Learn 20+ ways it can wreak havoc on your life]]
+- [[40-49 🔅 Sláinte/40 Thoughts & Ideas/clarification\|Clarification]]
 
 { .block-language-dataview}
 
