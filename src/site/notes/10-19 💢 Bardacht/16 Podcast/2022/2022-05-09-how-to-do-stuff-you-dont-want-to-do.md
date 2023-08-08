@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/2022/2022-05-09-how-to-do-stuff-you-dont-want-to-do.md","permalink":"/ex-gifted/2022/2022-05-09-how-to-do-stuff-you-dont-want-to-do/","title":"How to do stuff you don't want to do","tags":["productivity","executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-07-26T22:53:56.221-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/2022/2022-05-09-how-to-do-stuff-you-dont-want-to-do.md","permalink":"/ex-gifted/2022/2022-05-09-how-to-do-stuff-you-dont-want-to-do/","title":"How to do stuff you don't want to do","tags":["productivity","executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-07-26T22:53:56.000-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/2022/2022-05-02-reclaim-your-attention\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2022/2022-05-16-finding-focus\|NEXT>>]]
