@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/2021/2021-03-26-executive-dysfunction-in-the-kitchen.md","permalink":"/blog/2021/2021-03-26-executive-dysfunction-in-the-kitchen/","title":"4 Easy Solutions for Executive Dysfunction in the Kitchen","tags":["kitchen","household"],"noteIcon":"","created":"","updated":"2023-07-30T23:48:33.053-04:00"}
+{"dg-publish":true,"dg-path":"Blog/2021/2021-03-26-executive-dysfunction-in-the-kitchen.md","permalink":"/blog/2021/2021-03-26-executive-dysfunction-in-the-kitchen/","title":"4 Easy Solutions for Executive Dysfunction in the Kitchen","tags":["kitchen","household"],"noteIcon":"","created":"","updated":"2023-08-04T07:52:42.000-04:00"}
 ---
 
 
