@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/2022/2022-02-25-Ex-Gifted - Summiting Mt Everest On Unlimiting.md","permalink":"/ex-gifted/2022/2022-02-25-ex-gifted-summiting-mt-everest-on-unlimiting/","title":"Summiting Mt Everest: On Unlimiting","noteIcon":"","created":"","updated":"2023-07-26T21:49:46.688-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/2022/2022-02-25-Ex-Gifted - Summiting Mt Everest On Unlimiting.md","permalink":"/ex-gifted/2022/2022-02-25-ex-gifted-summiting-mt-everest-on-unlimiting/","title":"Summiting Mt Everest: On Unlimiting","noteIcon":"","created":"","updated":"2023-07-26T21:49:46.000-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/2022/2022-02-20-apology\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2022/2022-03-04-accept-it-is\|NEXT>>]]
