@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/E is for Eerie.md","permalink":"/blog/nerdish-mom-archives/e-is-for-eerie/","title":"E is for Eerie","tags":["homeschool"],"noteIcon":"","created":"","updated":"2023-07-28T17:14:32.067-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/E is for Eerie.md","permalink":"/blog/nerdish-mom-archives/e-is-for-eerie/","title":"E is for Eerie","tags":["homeschool"],"noteIcon":"","created":"","updated":"2023-07-28T17:14:32.000-04:00"}
 ---
 
 
