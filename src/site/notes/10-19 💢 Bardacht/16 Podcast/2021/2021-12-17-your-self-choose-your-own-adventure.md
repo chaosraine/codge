@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/2021/2021-12-17-your-self-choose-your-own-adventure.md","permalink":"/ex-gifted/2021/2021-12-17-your-self-choose-your-own-adventure/","title":"Your Self: Choose Your Own Adventure","tags":["identity"],"noteIcon":"","created":"","updated":"2023-07-25T20:53:28.453-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/2021/2021-12-17-your-self-choose-your-own-adventure.md","permalink":"/ex-gifted/2021/2021-12-17-your-self-choose-your-own-adventure/","title":"Your Self: Choose Your Own Adventure","tags":["identity"],"noteIcon":"","created":"","updated":"2023-07-25T20:53:28.000-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/2021/2021-12-03-prevent-burnout-by-going-dormant\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2022/2022-02-20-apology\|NEXT>>]]
