@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Pages/2021-10-11-nanowrimo.md","dg-permalink":"nanowrimo","permalink":"/nanowrimo/","title":"NaNoWriMo","noteIcon":"","created":"","updated":"2023-08-03T17:08:26.000-04:00"}
+{"dg-publish":true,"dg-path":"Pages/2021-10-11-nanowrimo.md","dg-permalink":"nanowrimo","permalink":"/nanowrimo/","title":"NaNoWriMo","noteIcon":"","created":"","updated":"2023-08-03T17:08:26.572-04:00"}
 ---
 
 
