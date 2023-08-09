@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/U is for Unicorns.md","permalink":"/blog/nerdish-mom-archives/u-is-for-unicorns/","title":"U is for Unicorns","tags":["homeschool"],"noteIcon":"","created":"","updated":"2023-07-12T22:35:01.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/U is for Unicorns.md","permalink":"/blog/nerdish-mom-archives/u-is-for-unicorns/","title":"U is for Unicorns","tags":["homeschool"],"noteIcon":"","created":"","updated":"2023-07-12T22:35:01.124-04:00"}
 ---
 
 
