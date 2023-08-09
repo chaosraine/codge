@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/2022/2022-04-04-transitions-are-hard.md","permalink":"/ex-gifted/2022/2022-04-04-transitions-are-hard/","title":"Transitions Are Hard","noteIcon":"","created":"","updated":"2023-07-27T19:00:28.000-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/2022/2022-04-04-transitions-are-hard.md","permalink":"/ex-gifted/2022/2022-04-04-transitions-are-hard/","title":"Transitions Are Hard","noteIcon":"","created":"","updated":"2023-07-27T19:00:28.352-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/2022/2022-03-11-210-power-of-yet\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2022/2022-04-15-moving-through-molasses-april-doldrums\|NEXT>>]]
