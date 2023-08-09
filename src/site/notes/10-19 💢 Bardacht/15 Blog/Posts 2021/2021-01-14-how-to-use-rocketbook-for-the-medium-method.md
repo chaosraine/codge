@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Posts 2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method.md","permalink":"/blog/posts-2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method/","title":"Best Practices: Using Rocketbook for the Medium Method","tags":["time-and-planners"],"noteIcon":"","created":"","updated":"2023-08-08T14:02:44.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Posts 2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method.md","permalink":"/blog/posts-2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method/","title":"Best Practices: Using Rocketbook for the Medium Method","tags":["time-and-planners"],"noteIcon":"","created":"","updated":"2023-08-08T14:02:44.531-04:00"}
 ---
 
 ![An image with text on the left which says "ROCKETBOOK was made for the medium method" and a photograph on the right of a rocketbook reusable notebook with text and sketches on it](https://i.imgur.com/uSyEiIc.png)
