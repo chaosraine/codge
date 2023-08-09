@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/2022/2022-08-12-being-comfortable-with-being-uncomfortable.md","permalink":"/ex-gifted/2022/2022-08-12-being-comfortable-with-being-uncomfortable/","title":"Being comfortable with being uncomfortable","tags":["self-coaching"],"noteIcon":"","created":"","updated":"2023-07-27T19:47:25.000-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/2022/2022-08-12-being-comfortable-with-being-uncomfortable.md","permalink":"/ex-gifted/2022/2022-08-12-being-comfortable-with-being-uncomfortable/","title":"Being comfortable with being uncomfortable","tags":["self-coaching"],"noteIcon":"","created":"","updated":"2023-07-27T19:47:25.866-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/2022/2022-07-29-the-best-planners-for-executive-dysfunction\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2022/2022-08-31-making-your-planner-work-for-you\|NEXT>>]]
