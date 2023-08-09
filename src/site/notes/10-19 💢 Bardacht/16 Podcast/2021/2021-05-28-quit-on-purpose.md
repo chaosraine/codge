@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/2021/2021-05-28-quit-on-purpose.md","permalink":"/ex-gifted/2021/2021-05-28-quit-on-purpose/","title":"Quit on Purpose","noteIcon":"","created":"","updated":"2023-07-20T17:01:27.000-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/2021/2021-05-28-quit-on-purpose.md","permalink":"/ex-gifted/2021/2021-05-28-quit-on-purpose/","title":"Quit on Purpose","noteIcon":"","created":"","updated":"2023-07-20T17:01:27.782-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/2021/2021-05-28-quit-on-purpose\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/2021/2021-06-18-for-better-or-worse\|NEXT>>]]
