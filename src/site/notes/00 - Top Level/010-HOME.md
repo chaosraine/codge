@@ -22,11 +22,6 @@ $<div class="markdown-embed-title">
 
 
 
-| Date       | Status | Cover   | Title                                   | Summary |
-| ---------- | ------ | ------- | --------------------------------------- | ------- |
-| 2021-10-13 | \-     | ![](\-) | [[00 - Top Level/010-HOME\|🏠 HOME]] | \-      |
-
-{ .block-language-dataview}
 ## New this week
 
 | Date                  | Status | Cover                                                                                                                                                                                                              | Title                                                                    | Description |
