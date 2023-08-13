@@ -13,7 +13,6 @@ Most of the blog posts and all the podcasts are up, so this week was about getti
 
 ## Recently Updated
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W28\|Round-up for 2023 W28]]
-- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W27\|Round-up for 2023 W27]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W30\|Round-up for 2023 W30]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W29\|Round-up for 2023 W29]]
 - [[60-69 〰️ Dialann/67 Website/2021-07-23-time-sign-up\|Sign up for the Newsletter]]
