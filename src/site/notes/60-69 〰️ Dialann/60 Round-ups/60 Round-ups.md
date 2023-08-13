@@ -1,8 +1,19 @@
 ---
-{"dg-publish":true,"dg-path":"Round-ups/60 Round-ups.md","dg-permalink":"roundup","permalink":"/roundup/","title":"What's new this week","pinned":true,"noteIcon":"","created":"","updated":"2023-07-28T17:33:04.000-04:00"}
+{"dg-publish":true,"dg-path":"Round-ups/60 Round-ups.md","dg-permalink":"roundup","permalink":"/roundup/","title":"What's new this week","pinned":true,"noteIcon":"","created":"","updated":"2023-08-13T09:18:05.879-04:00"}
 ---
 
 
+| Date                | Status    | Cover                                                                                                                                                                                                             | Title                                                                                | Summary                                                                                                         |
+| ------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| 2023-07-08          | seed      | ![](\-)                                                                                                                                                                                                           | [[60-69 〰️ Dialann/68 Using Obsidian/plugins\|plugins]]                           | \-                                                                                                              |
+| 2023-07-08          | \-        | ![](\-)                                                                                                                                                                                                           | [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]]                         | \-                                                                                                              |
+| 2023-07-08          | published | ![](\-)                                                                                                                                                                                                           | [[60-69 〰️ Dialann/68 Using Obsidian/Formatting\|formatting]]                     | \-                                                                                                              |
+| 2023-07-08          | \-        | ![](\-)                                                                                                                                                                                                           | [[60-69 〰️ Dialann/68 Using Obsidian/Aliases\|Aliases]]                           | \-                                                                                                              |
+| July 10, 2023 11:18 | sprout    | ![](https://i.imgur.com/2wEw7x8.png)                                                                                                                                                                              | [[40-49 🔅 Sláinte/43 Spirit/Minimalism and Abundance\|minimalism and abundance]] | talking about the false dichotomy between minimizing and maximizing, and what the point of minimalism is for me |
+| July 10, 2023 11:33 | seed      | ![](https://images.unsplash.com/photo-1647427060118-4911c9821b82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwzMHx8YXV0b21hdGljfGVufDB8fHx8MTY4OTI3MzI3Nnww&ixlib=rb-4.0.3&q=80&w=200) | [[40-49 🔅 Sláinte/40 Thoughts & Ideas/automation\|Automation]]                   | the balancing act between outsourcing some of my executive functioning, and maintaining control                 |
+| July 10, 2023 13:24 | seed      | ![](https://images.unsplash.com/photo-1579447167432-ba8b796e5de1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwyfHxsaW1pdHxlbnwwfHx8fDE2ODkyOTg0Mjd8MA&ixlib=rb-4.0.3&q=80&w=200)       | [[40-49 🔅 Sláinte/40 Thoughts & Ideas/Limiting Beliefs\|limiting beliefs]]       | Defining a limiting belief                                                                                      |
+
+{ .block-language-dataview}
 ## New this week
 
 | Date                  | Status | Cover                                                                                                                                                                                                              | Title                                                                    | Description |
@@ -13,6 +24,7 @@
 { .block-language-dataview}
 
 ## Recently Updated
+- [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|What's new this week]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-04-02-there-is-no-try\|There is No Try]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-07-02-exceptional-exceptional\|Exceptional, exceptional]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-07-16-structure-your-stuff\|Structure your Stuff]]
