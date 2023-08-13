@@ -32,10 +32,10 @@ $<div class="markdown-embed-title">
 { .block-language-dataview}
 
 ## Recently Updated
+- [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-07-16-structure-your-stuff\|Structure Your Stuff]]
 - [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|What's new this week]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-04-02-there-is-no-try\|There is No Try]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-07-02-exceptional-exceptional\|Exceptional, exceptional]]
-- [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-07-16-structure-your-stuff\|Structure your Stuff]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-08-13-structure-your-mind\|Structure Your Mind]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-07-30-structure-your-time\|Structure Your Time]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-01-201-what-is-growth-mindset\|201 What is Growth Mindset?]]
