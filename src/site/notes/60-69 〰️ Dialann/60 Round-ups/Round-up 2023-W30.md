@@ -28,7 +28,6 @@ Moving over a bunch of podcasts this week!
 - [[10-19 💢 Bardacht/15 Blog/15 Blog\|📌 Blog]]
 - [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|📌 Ex-Gifted Podcast]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-05-02-reclaim-your-attention\|Reclaim your Attention]]
-- [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|What's new this week]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/H is for Haunted House\|H is for Haunted House In-A-Box]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/X is for X-Rays\|X is for X-Rays]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-03-16-ex-gifted-trailer\|Ex-Gifted Trailer]]
