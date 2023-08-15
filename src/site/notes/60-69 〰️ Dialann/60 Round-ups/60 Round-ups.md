@@ -11,6 +11,7 @@
 { .block-language-dataview}
 
 ## Recently Updated
+- [[40-49 🔅 Sláinte/43 Spirit/Minimalism and Abundance\|minimalism and abundance]]
 
 { .block-language-dataview}
 
