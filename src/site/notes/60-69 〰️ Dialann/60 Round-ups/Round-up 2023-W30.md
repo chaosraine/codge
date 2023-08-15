@@ -51,7 +51,6 @@ Moving over a bunch of podcasts this week!
 - [[60-69 〰️ Dialann/68 Using Obsidian/Aliases\|Aliases]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/Formatting\|formatting]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]]
-- [[60-69 〰️ Dialann/68 Using Obsidian/linking your thinking\|linking your thinking]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/plugins\|plugins]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/recursive learning\|recursive learning]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/second brain\|second brain]]
