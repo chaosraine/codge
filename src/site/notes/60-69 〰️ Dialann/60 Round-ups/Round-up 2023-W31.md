@@ -12,6 +12,7 @@ Most of the blog posts and all the podcasts are up, so this week was about getti
 { .block-language-dataview}
 
 ## Recently Updated
+- [[40-49 🔅 Sláinte/49 epic minimalism/2023-07-17-1328 - Moderation as a virtue\|Moderation as a Virtue]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W28\|Round-up for 2023 W28]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W30\|Round-up for 2023 W30]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W29\|Round-up for 2023 W29]]
@@ -26,7 +27,6 @@ Most of the blog posts and all the podcasts are up, so this week was about getti
 - [[60-69 〰️ Dialann/67 Website/Pages/2021-10-14-thoughts\|Thought Ladder]]
 - [[60-69 〰️ Dialann/67 Website/Pages/2021-02-06-terms-conditions\|Terms & Conditions]]
 - [[60-69 〰️ Dialann/67 Website/Pages/2021-05-11-30toclean-tracking-maze\|#30toClean Tracking Maze]]
-- [[90-99 Inbox-Unsorted/2023-07-17-1328 - Moderation as a virtue\|Moderation as a Virtue]]
 
 { .block-language-dataview}
 
