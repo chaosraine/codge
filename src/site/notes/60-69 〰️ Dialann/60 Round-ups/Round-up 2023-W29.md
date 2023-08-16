@@ -5,15 +5,15 @@
 
 ## New this week
 I've been moving podcasts over, so that's been my focus this week.
-| Date               | Status  | Cover                                                                                                                                                                                                           | Title                                                                                                       | Summary                                                                         |
-| ------------------ | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| July 17, 2023 15:6 | sapling | ![](https://images.unsplash.com/photo-1524311583145-d5593bd3502a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxMDN8fGJvb2tzfGVufDB8MHx8fDE2ODk2MTg1MDd8MA&ixlib=rb-4.0.3&q=80&w=200) | [[40-49 🔅 Sláinte/49 epic minimalism/2023-07-17-1328 - Moderation as a virtue\|Moderation as a Virtue]] | Moderation is not an end in itself, but a tool to build a more pleasurable life |
+| Date               | Status  | Cover                                                                                                                                                                                                           | Title                                                                                     | Summary                                                                         |
+| ------------------ | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| July 17, 2023 15:6 | sapling | ![](https://images.unsplash.com/photo-1524311583145-d5593bd3502a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxMDN8fGJvb2tzfGVufDB8MHx8fDE2ODk2MTg1MDd8MA&ixlib=rb-4.0.3&q=80&w=200) | [[40-49 🔅 Sláinte/49 epic minimalism/Moderation as a virtue\|Moderation as a Virtue]] | Moderation is not an end in itself, but a tool to build a more pleasurable life |
 
 { .block-language-dataview}
 
 ## Recently Updated
-- [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-06-18-for-better-or-worse\|For Better or Worse]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-05-28-quit-on-purpose\|Quit on Purpose]]
+- [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-06-18-for-better-or-worse\|For Better or Worse]]
 
 { .block-language-dataview}
 
