@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"010-HOME.md","permalink":"/010-home/","title":"🏠 HOME","pinned":true,"contentClasses":"cards cards-1-1","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-08-16T13:50:11.491-04:00"}
+{"dg-publish":true,"dg-path":"010-HOME.md","permalink":"/010-home/","title":"🏠 HOME","pinned":true,"contentClasses":"cards cards-1-1","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-08-16T15:06:59.384-04:00"}
 ---
 
 # 🏠 HOME
@@ -67,4 +67,3 @@ $<div class="markdown-embed-title">
 
 
 
-[[60-69 〰️ Dialann/67 Website/Pages/2021-01-31-privacy\|Privacy Policy]] - [[60-69 〰️ Dialann/67 Website/Pages/2021-02-06-disclaimers\|Disclaimers]] 
