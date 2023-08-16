@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Blog 2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method.md","permalink":"/blog/blog-2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method/","title":"Best Practices: Using Rocketbook for the Medium Method","tags":["time-and-planners"],"noteIcon":"","created":"","updated":"2023-08-08T14:02:44.531-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Blog 2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method.md","permalink":"/blog/blog-2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method/","title":"Best Practices: Using Rocketbook for the Medium Method","tags":["time-and-planners"],"noteIcon":"","created":"","updated":"2023-08-16T19:23:53.213-04:00"}
 ---
 
 ![An image with text on the left which says "ROCKETBOOK was made for the medium method" and a photograph on the right of a rocketbook reusable notebook with text and sketches on it](https://i.imgur.com/uSyEiIc.png)
@@ -28,29 +28,30 @@ The best thing is that even though I pay for premium versions of some of the too
 
 In the morning while making coffee, I copy my to-dos from Todoist onto a post-it note - a tip I borrowed from the aforementioned blog post. (I actually use a Rocketbook index card with a piece of washi tape, but a regular post-it is _fine_.) I also set up my day in my Rocketbook Franken-planner, updating the date and writing down my mindset focus for the day.
 
-![[]] (images/Post-it_Power_20210102-1024x571.jpg)
+![](https://i.imgur.com/TiqfPBv.png)
+
+
 
 When the coffee is ready, the notebook gets left open on the page for the day, and the index card gets stuck onto the wall over the notebook. A pen is right there so I never have to search if an idea comes up. If I need to leave the house, I can bring the index card with me.
 
-![](https://i2.wp.com/veryveryvary.com/wp-content/uploads/2021/01/role-planning_game_2021-01-04-scaled.jpg?fit=640%2C420&ssl=1)
+![](https://i.imgur.com/WNPdEpL.jpg)
+
 
 Don't worry about my bad penmanship - I know I sure don't!
 
 If I have an idea or need to take notes, it goes in my  
-Rocketbook. If I go out, I take my mini Rocketbook or my folio if I  
-expect to be doing more than quick note capture.
+Rocketbook. If I go out, I take my mini Rocketbook or my folio if I expect to be doing more than quick note capture.
 
 ### Time Tracking, Easier
 
 On a highly visible wall in the living room, I put up a whiteboard with my ideal daily schedule copied onto it. No times, except for things that are scheduled, just an agenda in approximate order.
 
-![](images/image-1-798x1024.png)
 
 Throughout the day, I note the _time_ when I'm doing something on the whiteboard next to the appropriate task. I’ve found that writing down the time is working for me much better than trying to fill out each block of time with the name of each task, like an average planner page offers.
 
 I know I’ve talked about always using digital time tracking, and while I still think that’s preferred, I realized that I was unable to keep on top of it. I hope to go back to it later, but for now this method is so simple - requiring only a single number written down every hour or so.
 
-![](images/role-planning_game_2021-01-09-2-324x1024.jpg)
+![](https://i.imgur.com/vxic23A.jpg)
 
 What the whiteboard agenda is missing is a visual representation of how much time is spent in each task, so at the end of the night I spend about a minute copying over anything that didn’t already make it into my Franken-planner. It doesn't look as sleek as my Google Calendar did, but it's staying up-to-date, which is what matters most.
 
@@ -68,7 +69,7 @@ nice visual aspect (although it also gets archived to Google Drive for self-keep
 My Rocketbook pages get sent to an Inbox list on my Planner board in  
 Trello. From there, I move each card to the correct list (Dailies, Notes, weekly, etc.) and this is the point when I read over my pages and copy anything that needs extra attention.
 
-![](images/blurred-trello.png)
+![](https://i.imgur.com/6c330Sc.png)
 
 I have a Trello wishlist, a list of things I just need to keep an eye on, and a list of other items that will need to be dealt with eventually, but not right away. This is also the point when I can start thinking about what I want to work on the next day, and I come up with 2-3 to-do items and add a card for each to a to-do list on my Planner board.
 
@@ -77,15 +78,11 @@ I have a Trello wishlist, a list of things I just need to keep an eye on, and a 
 But as amazing as Trello is for visualizing projects, it isn't as great for the nitty-gritty details of individual task management. For that I love  
 [Todoist](https://todoist.com/r/lauren_reese_eugpzq). And thanks to their robust integration via IFTTT, my Trello to-do list goes straight to Todoist. I set the due date as the date created, which does need to be edited in Todoist later.
 
-![](images/image.png)
+![](https://i.imgur.com/ic7rIGu.png)
 
 My To-do List in Trello - note the written out nightly review so I remember all the steps!
 
 So the last step each evening is to open up Todoist to make sure my Trello to-dos made it over, plus I check off any tasks I completed that day (I also use Todoist for recurring tasks that don't need a lot of regular input like cleaning tasks) and I reschedule anything leftover.
-
-![](images/image-2.png)
-
-Todoist To-do List - see that other thing I've got listed in there??
 
 ### Everything Else
 
@@ -108,8 +105,6 @@ And as a little bonus, it saves me from having to make up a new planner page for
 Trello is one of the officially supported Rocketbook destinations, but for some reason, there is no option to send the OCR text to the Trello card description. _However_, Trello offers an email-to-board feature even for free users. Most of the time I don’t miss the text, but I was very excited to realize that I have the option when I want it.
 
 Just set up a Rocketbook destination as email, where the recipient is the email for your Trello board. Embed the OCR transcription in the body of the email, and make sure to send as a .jpg if you want the image of the page to show up on your Trello cards.
-
-![](images/screenshot-2021-01-10-at-15.11.47-739x1024.png)
 
 ### 2\. IFTTT
 
