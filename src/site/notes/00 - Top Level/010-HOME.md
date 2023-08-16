@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"010-HOME.md","permalink":"/010-home/","title":"🏠 HOME","pinned":true,"contentClasses":"cards cards-1-1","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-08-09T12:24:44.000-04:00"}
+{"dg-publish":true,"dg-path":"010-HOME.md","permalink":"/010-home/","title":"🏠 HOME","pinned":true,"contentClasses":"cards cards-1-1","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-08-16T13:50:11.491-04:00"}
 ---
 
+# 🏠 HOME
 - ## [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|Podcast]]
   [Ex-Gifted](https://exgifted.com/)
   If you were an exceptional child who finds yourself struggling to get by as an adult, then check out the Ex-Gifted podcast to learn how to deal with former gifted kid burnout.
@@ -30,6 +31,8 @@ $<div class="markdown-embed-title">
 { .block-language-dataview}
 
 ## Recently Updated
+- [[00 - Top Level/010-HOME\|🏠 HOME]]
+- [[40-49 🔅 Sláinte/49 Epic Minimalism/Moderation as a virtue\|Moderation as a Virtue]]
 - [[10-19 💢 Bardacht/15 Blog/15 Blog\|📌 Blog]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-01-time-management-for-executive-dysfunction\|Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-19-emotional-dysregulation\|Emotional Dysregulation - Another Struggle of Executive Dysfunction]]
@@ -64,4 +67,4 @@ $<div class="markdown-embed-title">
 
 
 
-[[60-69 〰️ Dialann/67 Website/Pages/2021-01-31-privacy\|Privacy Policy]] - [[60-69 〰️ Dialann/67 Website/Pages/2021-02-06-disclaimers\|Disclaimers]] - [[60-69 〰️ Dialann/67 Website/Pages/2021-03-20-work-with-me\|Work With Me]] - [[60-69 〰️ Dialann/67 Website/Pages/2021-03-20-ig-links\|Social Links]]
+[[60-69 〰️ Dialann/67 Website/Pages/2021-01-31-privacy\|Privacy Policy]] - [[60-69 〰️ Dialann/67 Website/Pages/2021-02-06-disclaimers\|Disclaimers]] 

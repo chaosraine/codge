@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-slainte/49-epic-minimalism/moderation-as-a-virtue/","title":"Moderation as a Virtue","tags":["epicminimalism"],"noteIcon":"","created":"2023-07-17T15:06:07","updated":"2023-08-03T16:58:21.806-04:00"}
+{"dg-publish":true,"dg-path":"Life & Thoughts/Moderation as a virtue.md","permalink":"/life-and-thoughts/moderation-as-a-virtue/","title":"Moderation as a Virtue","tags":["epicminimalism"],"noteIcon":"","created":"2023-07-17T15:06:07","updated":"2023-08-16T13:39:06.000-04:00"}
 ---
 
 
 
-When discussing philosophy or moral frameworks, people often state that "moderation is a virtue" - [[40-49 🔅 Sláinte/49 epic minimalism/epicureanism\|epicureanism]] also lists moderation as a virtue! But for Epicurus, the POINT was [[pleasure\|pleasure]]. Virtue was not seen as an end in itself, but a virtuous life would guide you toward more pleasure. 
+When discussing philosophy or moral frameworks, people often state that "moderation is a virtue" - [[40-49 🔅 Sláinte/49 Epic Minimalism/epicureanism\|epicureanism]] also lists moderation as a virtue! But for Epicurus, the POINT was [[pleasure\|pleasure]]. Virtue was not seen as an end in itself, but a virtuous life would guide you toward more pleasure. 
 
 The problem with moderation isn't actually the concept itself. Moderation allows us to maximize pleasure by indulging only to the point where a pleasure will not lead to greater harm. See: having a drink or maybe two at dinner, but not impairing myself to the point that I will make harmful decisions and feel badly the next day. It's a very useful tool!
 
