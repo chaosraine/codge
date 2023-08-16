@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"010-HOME.md","permalink":"/010-home/","title":"🏠 HOME","pinned":true,"contentClasses":"cards cards-1-1","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-08-16T13:48:16.722-04:00"}
+{"dg-publish":true,"dg-path":"010-HOME.md","permalink":"/010-home/","title":"🏠 HOME","pinned":true,"contentClasses":"cards cards-1-1","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-08-16T13:50:11.491-04:00"}
 ---
 
+# 🏠 HOME
 - ## [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|Podcast]]
   [Ex-Gifted](https://exgifted.com/)
   If you were an exceptional child who finds yourself struggling to get by as an adult, then check out the Ex-Gifted podcast to learn how to deal with former gifted kid burnout.
