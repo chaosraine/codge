@@ -30,6 +30,7 @@ $<div class="markdown-embed-title">
 { .block-language-dataview}
 
 ## Recently Updated
+- [[40-49 🔅 Sláinte/49 Epic Minimalism/Moderation as a virtue\|Moderation as a Virtue]]
 - [[10-19 💢 Bardacht/15 Blog/15 Blog\|📌 Blog]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-01-time-management-for-executive-dysfunction\|Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-19-emotional-dysregulation\|Emotional Dysregulation - Another Struggle of Executive Dysfunction]]
