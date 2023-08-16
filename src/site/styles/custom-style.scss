@@ -27,21 +27,6 @@
     }
 
 
-    .cm-s-obsidian {
-        .table-wrapper {
-            overflow-x: scroll;
-        }
-
-        picture {
-            max-width: 100%;
-            height: auto;
-
-            img {
-                width: 100%;
-                height: auto;
-            }
-        }
-    }
     .fnote {
         display: none;
         background-color: var(--background-primary);
@@ -130,16 +115,4 @@
 
 .fullpage-overlay {
     position: fixed;
-}
-
-.sidebar {
-    .toc-container {
-        max-height: unset;
-
-        @media (max-width: 1400px) {
-            max-height: 320px;
-        }
-    }
-    }   @media (max-width: 1400px) {
-     
 }
