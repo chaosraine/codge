@@ -34,7 +34,6 @@
             height: 3em;
             background-size: contain;
             background-repeat: no-repeat;
-            background-image: url(/img/logo.svg);
             background-position: center;
         }
     }
@@ -142,28 +141,6 @@
         display: block;
     }
 
-
-    nav.navbar {
-        top: 10px;
-        right: 10px;
-        left: 10px;
-        width: calc(100% - 20px);
-        border-radius: 10px;
-        z-index: 99999;
-        .navbar-inner {
-            h1::before {
-                content: " ";
-                display: inline-block;
-                width: 1em;
-                height: 1.2em;
-                background-size: contain;
-                background-repeat: no-repeat;
-                background-image: url(/img/user/logo.svg);
-                margin-right: 5px;
-                background-position: bottom;
-            }
-        }
-    }
 
 
 .align-icon {
