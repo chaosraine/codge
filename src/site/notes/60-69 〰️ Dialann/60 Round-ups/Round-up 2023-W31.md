@@ -12,7 +12,6 @@ Most of the blog posts and all the podcasts are up, so this week was about getti
 { .block-language-dataview}
 
 ## Recently Updated
-- [[40-49 🔅 Sláinte/49 epic minimalism/Moderation as a virtue\|Moderation as a Virtue]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W28\|Round-up for 2023 W28]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W29\|Round-up for 2023 W29]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W30\|Round-up for 2023 W30]]
