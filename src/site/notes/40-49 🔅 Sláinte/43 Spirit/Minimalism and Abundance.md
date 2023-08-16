@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Life & Thoughts/Minimalism and Abundance.md","permalink":"/life-and-thoughts/minimalism-and-abundance/","title":"minimalism and abundance","tags":["epicminimalism"],"noteIcon":"","created":"2023-07-10T11:18:40","updated":"2023-08-15T13:39:31.802-04:00"}
+{"dg-publish":true,"dg-path":"Life & Thoughts43 Spirit/Minimalism and Abundance.md","permalink":"/life-and-thoughts43-spirit/minimalism-and-abundance/","title":"minimalism and abundance","tags":["epicminimalism"],"noteIcon":"","created":"2023-07-10T11:18:40","updated":"2023-08-15T13:39:31.802-04:00"}
 ---
 
 
