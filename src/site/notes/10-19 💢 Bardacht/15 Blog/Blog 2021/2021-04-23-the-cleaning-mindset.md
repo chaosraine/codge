@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Blog 2021/2021-04-23-the-cleaning-mindset.md","permalink":"/blog/blog-2021/2021-04-23-the-cleaning-mindset/","title":"The cleaning mindset","tags":["organization","household"],"noteIcon":"","created":"","updated":"2023-08-08T14:02:44.550-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Blog 2021/2021-04-23-the-cleaning-mindset.md","permalink":"/blog/blog-2021/2021-04-23-the-cleaning-mindset/","title":"The cleaning mindset","tags":["organization","household"],"noteIcon":"","created":"","updated":"2023-08-15T21:33:50.563-04:00"}
 ---
 
 
@@ -35,7 +35,7 @@ Let me break down exactly how I've been doing this work this month. Affirmations
 
 I usually start with a thought ladder, and this time was no different. On the bottom of the ladder, I put my starting belief: my house is such a wreck. At the top I put my target belief: my house is beautiful. Then on each rung in the middle I put intermediary beliefs so I can take baby steps to move from one thought to the other. Sometimes I can cross thoughts off right away because I realize that I can already believe them. The belief at the top of the ladder is still too lofty though, so I don't just repeat that to myself as an affirmation because I don't believe it at all. If I say “my house is beautiful” to myself on repeat, it sounds like a joke. I have to work my way up.  
 
-![](/img/user/80-89 Assets/82 - Photo Attachments/IMG_1907-768x1024.jpg)
+![A Rocketbook page with the title "My house is beautiful", followed by thoughts on lower rungs of the ladder. "I don't want a showcase home. My house is clean enough. My house looks how a home with kids looks." The remaining lines have all been crossed off. "My house has been dirtier than this before. My house could be way worse. My house is such a wreck." 500](https://i.imgur.com/sKFBOSD.jpg)
 
 So I start in the middle. I take a thought like “this is what a house with kids looks like” and I meditate on it. I sit down with it for ten minutes and I write out a page about how I live in a normal house with kids, that my kids love our house, etc… Sometimes I don't feel like writing it out again, so I read the words I already wrote, aloud, slowly, for the ten minutes. Because they're things that I can kind of believe, but are not my default thoughts, all I'm doing is reinforcing and strengthening those thoughts.   
 
