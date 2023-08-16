@@ -27,15 +27,6 @@
             display: none !important;
         }
 
-        h1::before {
-            content: " ";
-            display: block;
-            width: 100%;
-            height: 3em;
-            background-size: contain;
-            background-repeat: no-repeat;
-            background-position: center;
-        }
     }
 
 
