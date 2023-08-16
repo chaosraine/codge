@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-04-02-there-is-no-try.md","permalink":"/ex-gifted/episodes-2021/2021-04-02-there-is-no-try/","title":"There is No Try","noteIcon":"","created":"","updated":"2023-08-12T10:30:33.991-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-04-02-there-is-no-try.md","permalink":"/ex-gifted/episodes-2021/2021-04-02-there-is-no-try/","title":"There is No Try","noteIcon":"","created":"","updated":"2023-08-15T22:01:23.773-04:00"}
 ---
 
                     [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes\|NEXT>>]]
