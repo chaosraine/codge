@@ -25,7 +25,6 @@ Final launch is next week
 - [[60-69 〰️ Dialann/67 Website/001 - help\|HELP]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W31\|Round-up for 2023 W31]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2020/2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core\|How-to Make a Custom Planner with Rocketbook Core]]
-- [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method\|Best Practices: Using Rocketbook for the Medium Method]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-08-what-is-executive-dysfunction\|What is Executive Dysfunction? Learn 20+ ways it can wreak havoc on your life]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner\|Frankenplanner: How to Make the Perfect Rocketbook Planner by Cutting the Coil]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-26-executive-dysfunction-in-the-kitchen\|4 Easy Solutions for Executive Dysfunction in the Kitchen]]
