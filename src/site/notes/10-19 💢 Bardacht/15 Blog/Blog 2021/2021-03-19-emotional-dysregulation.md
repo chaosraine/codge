@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Blog 2021/2021-03-19-emotional-dysregulation.md","permalink":"/blog/blog-2021/2021-03-19-emotional-dysregulation/","title":"Emotional Dysregulation - Another Struggle of Executive Dysfunction","tags":["executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-08-08T14:02:44.540-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Blog 2021/2021-03-19-emotional-dysregulation.md","permalink":"/blog/blog-2021/2021-03-19-emotional-dysregulation/","title":"Emotional Dysregulation - Another Struggle of Executive Dysfunction","tags":["executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-08-15T21:19:47.224-04:00"}
 ---
 
 
@@ -23,7 +23,7 @@ Emotional dysregulation refers to having intense emotional reactivity and feelin
 
 Like all executive dysfunction, it's a symptom of your neurology, but that doesn't mean that your emotional state is entirely out of your control. With work, you can learn to both feel more intentional emotions (note I don't say _appropriate_ because it's about what **you want to feel** about a situation, and not what someone else thinks you _should_ feel) and also to tolerate the more extreme and unpleasant emotions you do experience.
 
-![](/img/user/80-89 Assets/82 - Photo Attachments/tengyart-_VkwiVNCNfo-unsplash.jpg)
+![](https://images.unsplash.com/photo-1612531810887-6c402753239c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80)
 
 Photo by [Tengyart](https://unsplash.com/@tengyart?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash
 
@@ -55,7 +55,7 @@ The model isn't so much environment > thoughts > feelings > actions as an interc
 
 Reality is something like this:
 
-![Image with the words input thoughts feelings output then a mess of arrows connect everything in different ways ](/img/user/80-89 Assets/82 - Photo Attachments/Untitled_Artwork-1024x492.jpg)
+![Image with the words input thoughts feelings output then a mess of arrows connect everything in different ways ](https://i.imgur.com/VaWy6Py.jpg)
 
 With that in mind, I ask myself is it true? Not completely, no.
 
