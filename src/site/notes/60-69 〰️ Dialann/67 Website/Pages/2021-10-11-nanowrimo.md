@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Pages/2021-10-11-nanowrimo.md","dg-permalink":"nanowrimo","permalink":"/nanowrimo/","title":"NaNoWriMo","noteIcon":"","created":"","updated":"2023-08-03T17:08:26.000-04:00"}
+{"dg-publish":true,"dg-path":"Pages/2021-10-11-nanowrimo.md","dg-permalink":"nanowrimo","permalink":"/nanowrimo/","title":"NaNoWriMo","noteIcon":"","created":"","updated":"2023-08-15T22:32:36.264-04:00"}
 ---
 
 
@@ -11,8 +11,8 @@ Let me know!
 
 \-Raine
 
-[[NaNoWriMo-CORPS-Adventure.pdf\|NaNoWriMo-CORPS-Adventure.pdf]]
+[NaNoWriMo-CORPS-Adventure](https://drive.google.com/file/d/1gUCtgFnK6kEd3cIAZ2QUNy5dDUVADfnf/view?usp=share_link)
 
 ## Get your free Preptober planner here:
 
-[Printable NaNoWriMo Preptober Calendar](https://chaoticorganized.com/wp-content/uploads/2021/10/2021-Modern-Weekly-Calendar-with-watercolour-leaves.pdf)[Download](https://chaoticorganized.com/wp-content/uploads/2021/10/2021-Modern-Weekly-Calendar-with-watercolour-leaves.pdf)
+[Printable NaNoWriMo Preptober Calendar](https://drive.google.com/file/d/19ClnsTjvDrHMEO2_1_v9L7vyC8ZL7v71/view?usp=share_link)
