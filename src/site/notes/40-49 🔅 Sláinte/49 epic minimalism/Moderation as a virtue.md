@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Life & Thoughts49 epic minimalism/Moderation as a virtue.md","permalink":"/life-and-thoughts49-epic-minimalism/moderation-as-a-virtue/","title":"Moderation as a Virtue","tags":["epicminimalism"],"noteIcon":"","created":"2023-07-17T15:06:07","updated":"2023-08-03T16:58:21.806-04:00"}
+{"dg-publish":true,"permalink":"/40-49-slainte/49-epic-minimalism/moderation-as-a-virtue/","title":"Moderation as a Virtue","tags":["epicminimalism"],"noteIcon":"","created":"2023-07-17T15:06:07","updated":"2023-08-03T16:58:21.806-04:00"}
 ---
 
 
