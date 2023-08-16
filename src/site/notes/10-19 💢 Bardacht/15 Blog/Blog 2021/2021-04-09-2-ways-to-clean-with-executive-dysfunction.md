@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Blog 2021/2021-04-09-2-ways-to-clean-with-executive-dysfunction.md","permalink":"/blog/blog-2021/2021-04-09-2-ways-to-clean-with-executive-dysfunction/","title":"2 ways to clean with executive dysfunction","tags":["organization","household"],"noteIcon":"","created":"","updated":"2023-08-08T14:02:44.549-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Blog 2021/2021-04-09-2-ways-to-clean-with-executive-dysfunction.md","permalink":"/blog/blog-2021/2021-04-09-2-ways-to-clean-with-executive-dysfunction/","title":"2 ways to clean with executive dysfunction","tags":["organization","household"],"noteIcon":"","created":"","updated":"2023-08-15T21:05:16.773-04:00"}
 ---
 
 
@@ -31,7 +31,8 @@ But you can also tweak those settings, so maybe if you're a really neat person T
 
 It's a really great app if you are the type of person who works well with an app that tells you what to do. It takes the pressure off of you to make those decisions and allows you to put that work onto the app instead. Tody also includes a visual indicator to show you how clean each section is (and even an indicator showing how clean each room is overall!) and how long until the task is due again, turning from green to a dark orange when a task is overdue.
 
-![Screenshots from Tody App, showing a list of cleaning items due today on the left, and a list of the rooms in my house on the right](https://lh3.googleusercontent.com/-AmSYVY67Ql8/YGtvsQ4Cd9I/AAAAAAABSJw/ZpDopXPgD-4T95q3UqB_EgFyGivWoZBXQCK8BGAsYHg/s0/2021-04-05.jpg?authuser=1)
+![Screenshots from Tody App, showing a list of cleaning items due today on the left, and a list of the rooms in my house on the right|500](https://i.imgur.com/wwjMNHz.png)
+
 
 These things can be fantastic for helping people clean with executive dysfunction. Certain people with executive dysfunction, that is. The visual indicators showing how long until I would need to do a task again were great, but the harsh orange reminders for overdue tasks just overwhelmed me.
 
@@ -51,7 +52,7 @@ I made a very rough blueprint layout of my house and then translated it into a l
 
 After I work on one room, I cross it off the list and move it to the bottom. This allows me to keep track of the spaces I’ve cleaned most recently and those I haven’t gotten to yet. (Although I have to admit that right now my house does a damn good job of showing me which rooms need cleaned the most without this help.)
 
-![](/img/user/80-89 Assets/82 - Photo Attachments/30-to-clean-plan.png)
+![](https://i.imgur.com/RPn3Ya4.png)
 
 I made this blueprint so I wouldn't forget any rooms in my house, yet skipped over a bathroom entirely when making it. Don't be like me.
 
@@ -67,8 +68,7 @@ To make sure I’m choosing the most impactful task instead of just the most obv
 
 From there I let my autofocus list fill out the other 15 days. And I find that my gut is better at picking the most impactful tasks than an app that doesn’t live in my house - even one as thorough as Tody - because it doesn’t know things like that my kid is squeezing toothpaste out onto the bathroom counter.
 
-
-![How to clean with executive dysfunction. chaoticorganized.com @nerdish_mom](/img/user/80-89 Assets/82 - Photo Attachments/Copy-of-30-to-clean-strategy--1024x569.png)
+![How to clean with executive dysfunction. chaoticorganized.com @nerdish_mom](https://i.imgur.com/dnGkQDD.png)
 
 ### Why it works for me
 
