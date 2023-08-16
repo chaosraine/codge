@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/31 Spooky and Fun Halloween Homeschool Ideas.md","permalink":"/blog/nerdish-mom-archives/31-spooky-and-fun-halloween-homeschool-ideas/","title":"31 Spooky and Fun Halloween Homeschool Ideas Roundup","tags":["halloween","homeschool"],"noteIcon":"","created":"","updated":"2023-07-28T17:51:40.962-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/31 Spooky and Fun Halloween Homeschool Ideas.md","permalink":"/blog/nerdish-mom-archives/31-spooky-and-fun-halloween-homeschool-ideas/","title":"31 Spooky and Fun Halloween Homeschool Ideas Roundup","tags":["halloween","homeschool"],"noteIcon":"","created":"","updated":"2023-08-15T21:35:09.373-04:00"}
 ---
 
 
@@ -7,7 +7,7 @@ Before we get into the Halloween homeschool ideas, I have a short announcement! 
 
 Many of my posts will delve deeper into the Halloween homeschool ideas listed below. Some will be short, some will be long, and if you want to come play along there should be fun here every day in honor of Halloween and the start of fall!
 
-## 31 Halloween Homeschool ideas/activities 
+## 31 Halloween Homeschool ideas and activities 
 
 ![31 posts of october - advertising the 31 halloween homeschool ideas](https://i.imgur.com/WMMAmBI.png)
 
