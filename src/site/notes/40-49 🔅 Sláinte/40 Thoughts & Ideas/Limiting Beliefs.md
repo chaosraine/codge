@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Life & Thoughts/Limiting Beliefs.md","permalink":"/life-and-thoughts/limiting-beliefs/","title":"limiting beliefs","noteIcon":"","created":"2023-07-10T13:24:34","updated":"2023-07-27T21:20:14.715-04:00"}
+{"dg-publish":true,"dg-path":"Life & Thoughts40 Thoughts & Ideas/Limiting Beliefs.md","permalink":"/life-and-thoughts40-thoughts-and-ideas/limiting-beliefs/","title":"limiting beliefs","noteIcon":"","created":"2023-07-10T13:24:34","updated":"2023-07-27T21:20:14.715-04:00"}
 ---
 
 
