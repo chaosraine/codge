@@ -6,14 +6,24 @@
 ## New this week
 Official launch of the new (simplified) website!
 One reason I wanted to switch to this [[Digital Garden\|Digital Garden]] format was that I want to do more of practicing [[Learning in Public\|Learning in Public]]. Instead of waiting until I have all my thoughts perfectly formulated and formatted to publish them, I want to put out some ideas that still need some work. It's yet another way for me to [[Practice Imperfection.\|Practice Imperfection.]]
-| Date | Status | Cover | Title | Summary |
-| ---- | ------ | ----- | ----- | ------- |
+| Date                  | Status    | Cover                                                                                                                                                                                                                                   | Title                                                         | Summary |
+| --------------------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------- |
+| August 17, 2023 13:45 | \-        | ![]()                                                                                                                                                                                                                                   | [[Digital Garden\|Digital Garden]]                         | \-      |
+| August 17, 2023 13:57 | seed      | ![]()                                                                                                                                                                                                                                   | [[Learning in Public\|Learning in Public]]                 | \-      |
+| August 17, 2023 14:15 | sapling   | ![](https://images.unsplash.com/photo-1505552613537-4aab9bf431c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxNTF8fHJvbGxpbmclMjBzb2NjZXIlMjBiYWxsfGVufDB8MHx8fDE2OTIyOTQwMzN8MA&ixlib=rb-4.0.3&q=80&w=400) | [[How to Keep Things Rolling\|How to Keep Things Rolling]] | \-      |
+| August 17, 2023 15:16 | seed      | ![]()                                                                                                                                                                                                                                   | [[discomfort tolerance\|discomfort tolerance]]             | \-      |
+| August 17, 2023 15:20 | unstarted | ![]()                                                                                                                                                                                                                                   | [[the move outline\|Moving Sucks]]                         | \-      |
 
 { .block-language-dataview}
 
 ## Recently Updated
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-09-20-the-autumn-equinox-and-time-agnosia\|The Autumn Equinox and Time Agnosia]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W33\|Round-up for 2023 W33]]
+- [[How to Keep Things Rolling\|How to Keep Things Rolling]]
+- [[Digital Garden\|Digital Garden]]
+- [[Learning in Public\|Learning in Public]]
+- [[discomfort tolerance\|discomfort tolerance]]
+- [[the move outline\|Moving Sucks]]
 - [[00 - Top Level/010-HOME\|🏠 HOME]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method\|Best Practices: Using Rocketbook for the Medium Method]]
 - [[40-49 🔅 Sláinte/49 Epic Minimalism/Moderation as a virtue\|Moderation as a Virtue]]
