@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-09-20-the-autumn-equinox-and-time-agnosia.md","permalink":"/ex-gifted/episodes-2022/2022-09-20-the-autumn-equinox-and-time-agnosia/","title":"The Autumn Equinox and Time Agnosia","tags":["witchcraft","executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-07-27T00:37:36.224-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-09-20-the-autumn-equinox-and-time-agnosia.md","permalink":"/ex-gifted/episodes-2022/2022-09-20-the-autumn-equinox-and-time-agnosia/","title":"The Autumn Equinox and Time Agnosia","tags":["witchcraft","executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-08-17T01:22:42.170-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-08-31-making-your-planner-work-for-you\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-12-30-new-year-2023\|NEXT>>]]
 ![Episode : . A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Raine Eliza from chaoticorganized.com](https://i.imgur.com/9DEFNUZ.png)
-- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-09-20-the-autumn-equinox-and-time-agnosia#\|Jump to Transcript]]
+- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-09-20-the-autumn-equinox-and-time-agnosia#Transcript\|Jump to Transcript]]
 - ## [Watch on YouTube](https://youtu.be/CJG-OxiMxXs)
 
 
