@@ -39,7 +39,6 @@ Moving over a bunch of podcasts this week!
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-07-29-the-best-planners-for-executive-dysfunction\|The perfect planner for executive dysfunction]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-08-12-being-comfortable-with-being-uncomfortable\|Being comfortable with being uncomfortable]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-08-31-making-your-planner-work-for-you\|Making your planner work FOR YOU]]
-- [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-09-20-the-autumn-equinox-and-time-agnosia\|The Autumn Equinox and Time Agnosia]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-12-30-new-year-2023\|New Year and Realistic Resolve]]
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/Limiting Beliefs\|limiting beliefs]]
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/automation\|Automation]]
