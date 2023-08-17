@@ -5,14 +5,24 @@
 
 ## New this week
 
-| Date | Status | Cover | Title | Description |
-| ---- | ------ | ----- | ----- | ----------- |
+| Date                  | Status    | Cover                                                                                                                                                                                                                                        | Title                                                         | Description |
+| --------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------- |
+| August 17, 2023 13:45 | \-        | ![Cover]()                                                                                                                                                                                                                                   | [[Digital Garden\|Digital Garden]]                         | \-          |
+| August 17, 2023 13:57 | seed      | ![Cover]()                                                                                                                                                                                                                                   | [[Learning in Public\|Learning in Public]]                 | \-          |
+| August 17, 2023 14:15 | sapling   | ![Cover](https://images.unsplash.com/photo-1505552613537-4aab9bf431c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxNTF8fHJvbGxpbmclMjBzb2NjZXIlMjBiYWxsfGVufDB8MHx8fDE2OTIyOTQwMzN8MA&ixlib=rb-4.0.3&q=80&w=400) | [[How to Keep Things Rolling\|How to Keep Things Rolling]] | \-          |
+| August 17, 2023 15:16 | seed      | ![Cover]()                                                                                                                                                                                                                                   | [[discomfort tolerance\|discomfort tolerance]]             | \-          |
+| August 17, 2023 15:20 | unstarted | ![Cover]()                                                                                                                                                                                                                                   | [[the move outline\|Moving Sucks]]                         | \-          |
 
 { .block-language-dataview}
 
 ## Recently Updated
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-09-20-the-autumn-equinox-and-time-agnosia\|The Autumn Equinox and Time Agnosia]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W33\|Round-up for 2023 W33]]
+- [[How to Keep Things Rolling\|How to Keep Things Rolling]]
+- [[Digital Garden\|Digital Garden]]
+- [[Learning in Public\|Learning in Public]]
+- [[discomfort tolerance\|discomfort tolerance]]
+- [[the move outline\|Moving Sucks]]
 - [[00 - Top Level/010-HOME\|🏠 HOME]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method\|Best Practices: Using Rocketbook for the Medium Method]]
 - [[40-49 🔅 Sláinte/49 Epic Minimalism/Moderation as a virtue\|Moderation as a Virtue]]
