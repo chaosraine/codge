@@ -16,7 +16,6 @@ Most of the blog posts and all the podcasts are up, so this week was about getti
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W29\|Round-up for 2023 W29]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W30\|Round-up for 2023 W30]]
 - [[60-69 〰️ Dialann/67 Website/Pages/2021-01-31-coming-soon\|Let's talk about executive dysfunction in adults]]
-- [[60-69 〰️ Dialann/67 Website/Pages/2021-01-31-privacy\|Privacy Policy]]
 - [[60-69 〰️ Dialann/67 Website/Pages/2021-02-06-disclaimers\|Disclaimers]]
 - [[60-69 〰️ Dialann/67 Website/Pages/2021-02-06-terms-conditions\|Terms & Conditions]]
 - [[60-69 〰️ Dialann/67 Website/Pages/2021-05-11-30toclean-tracking-maze\|#30toClean Tracking Maze]]
