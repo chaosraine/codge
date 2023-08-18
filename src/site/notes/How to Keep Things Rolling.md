@@ -1,22 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"reduce-friction","permalink":"/reduce-friction/","title":"How to Keep Things Rolling","tags":["productivity"],"noteIcon":"","created":"2023-08-17T14:15:14","updated":"2023-08-17T15:21:20.058-04:00"}
+{"dg-publish":true,"dg-permalink":"reduce-friction","permalink":"/reduce-friction/","title":"How to Keep Things Rolling","tags":["productivity"],"noteIcon":"","created":"2023-08-17T14:15:14","updated":"2023-08-18T08:48:44.000-04:00"}
 ---
 
-
-Subject: how to keep things rolling
-Hi there!
-You may have noticed I've been MIA for a bit. You may have noticed I do that a lot 😅 
-I certainly hope you're not here because you thought I had everything figured out already because WOOF that is not correct. The biggest thing I've figured out in the past 4 years since I've identified executive dysfunction as the source of a lot of my adulting issues is NOT how to stop making the same mistakes, but how to be gentle with myself when I inevitably do make mistakes. That, and how to be gentle with myself after I've forgotten to be gentle with myself...
-
-If you've been on [the website](https://chaoticorganized.com), you've also noticed that it's *entirely different*. You know me, I need to change things up so they don't get boring.
-The short version of the story is that I've decided to switch from a traditional Wordpress blog to a [Digital Garden](https://www.chaoticorganized.com/digital-garden). 
-
-If you want to learn more about why I changed the website, how to reduce mental friction, or even just what the heck a digital garden is, go learn more at [chaoticorganized.com/reduce-friction](https://chaoticorganized.com/reduce-friction). Meanwhile, expect emails to get a bit more regular, and for the format to change along with the changes to the website!
-
-Have a great day!
-Raine
-
-P.S. As always, you can unsubscribe if you're no longer interested in receiving emails from me. No hard feelings! I'm here in your inbox for your benefit, and if you aren't benefitting, I'll be happy to stop pestering you.
 
 There's a whole host of reasons I haven't updated the site or the podcast for a bit, but one of the biggest things is that I've been feeling a lot of [[mental friction\|mental friction]]. That's not a bad thing necessarily, but given the privileged position I'm in where my work doesn't directly correlate to whether my family eats or not, friction can bring the whole thing to a standstill.
 
@@ -41,10 +26,11 @@ The newsletter friction can also be reduced! I've automated a few things that co
 
 What can you do to reduce friction in your own life: at work, at home, or in your own personal sphere?
 Here's a few ideas:
-- [[40-49 🔅 Sláinte/40 Thoughts & Ideas/automation\|automation]] - though as I point out, it can be a double-edged sword. You don't want to be hands-off you don't even remember the point
-- set a timer - I've [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-01-time-management-for-executive-dysfunction\|said it before]], but one way to make something feel less daunting is to commit to doing only a tiny amount of it. Work for 5-10 minutes and then STOP
+- [[40-49 🔅 Sláinte/40 Thoughts & Ideas/Automation\|Automation]] - but be careful, it can be a double-edged sword. You don't want to be so hands-off you don't even remember the point.
+- Routines - routines are basically manual automation (let me finish...) The process itself may be done manually, but if you write down your routine, then the *thinking is automated* by the list. Offloading that ever-repeating "what do I do now?" question to a piece of paper, or an app checklist, can make it a lot smoother to keep rolling along
+- Minimize - pare the job back to the essentials. Just like I'm doing with the website, making a project smaller makes it easier to finish.
+- Set a timer - I've [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-01-time-management-for-executive-dysfunction\|said it before]], but one way to make something feel less daunting is to commit to doing only a tiny amount of it. Work for 5-10 minutes and then STOP
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-05-14-embrace-imperfection\|Practice imperfection]] - if you go into it assuming your work will be mediocre at best, it takes some of the pressure off. Not everything is meant to be your best work all the time. Building some [[discomfort tolerance\|discomfort tolerance]] helps with this too!
-- 
 - Take a break. Not everything is meant to continue forever. If the project in question isn't supporting your livelihood, or otherwise something absolutely necessary (like the [[the move outline\|the move]] I'm preparing for), really think about [[10-19 💢 Bardacht/15 Blog/Blog 2022/2022-05-10-motivation-vs-inspiration\|why you're doing it]] and ask if it's time to [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-03-04-accept-it-is\|accept]] that it's just not a priority for you and decide to [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-05-28-quit-on-purpose\|quit on purpose]]. (Do I really talk about giving up that much? Good! Don't waste time on things that don't matter)
 
 What do you do to keep that forward momentum going?
