@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"digital-garden","permalink":"/digital-garden/","noteIcon":"","created":"2023-08-17T13:45:42","updated":"2023-08-17T14:21:46.000-04:00"}
+{"dg-publish":true,"dg-permalink":"digital-garden","permalink":"/digital-garden/","noteIcon":"","created":"2023-08-17T13:45:42","updated":"2023-08-18T09:02:44.000-04:00"}
 ---
 
 
@@ -8,7 +8,7 @@ A website where ideas are allowed to start off small and grow over time. May be 
 
 ## Raine in Chaos: my digital garden
 
-The 3-year hosting plan for my website expires today, August 17th, 2023. Obviously I knew this was coming up so I started looking into different options for hosting, but for my needs, Wordpress seemed like more than I really wanted to deal with - hence not having any updates for so long. I've still been playing around with [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]] as a [[60-69 〰️ Dialann/68 Using Obsidian/second brain\|second brain]], planner, organizer, and a thousand different things, and I knew they offered a platform for publishing your notes on their site, and have poked around in several other digital gardens like [Nicole Van Der Hoeven's Fork My Brain]() and [the link here]() which is hosted by a friend and has been referenced before on the podcast as a great resource for learning Obsidian for newbies.
+The 3-year hosting plan for my website expires today, August 17th, 2023. Obviously I knew this was coming up so I started looking into different options for hosting, but for my needs, Wordpress seemed like more than I really wanted to deal with - hence not having any updates for so long. I've still been playing around with [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]] as a [[60-69 〰️ Dialann/68 Using Obsidian/second brain\|second brain]], planner, organizer, and a thousand different things, and I knew they offered a platform for publishing your notes on their site, and have poked around in several other digital gardens like [Nicole van der Hoeven's Fork My Brain](https://notes.nicolevanderhoeven.com/Fork+My+Brain) and one hosted by a friend whose [website](https://thliterary.wordpress.com/2022/05/03/using-obsidian-a-year-on/) has been referenced before on the podcast as a great resource for learning Obsidian for newbies (the digital garden is linked in that blog post as well!)
 
 **How is it different from a blog?**
 
