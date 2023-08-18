@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-07-29-the-best-planners-for-executive-dysfunction.md","permalink":"/ex-gifted/episodes-2022/2022-07-29-the-best-planners-for-executive-dysfunction/","title":"The perfect planner for executive dysfunction","tags":["time-and-planners","productivity"],"noteIcon":"","created":"","updated":"2023-07-27T19:47:41.832-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-07-29-the-best-planners-for-executive-dysfunction.md","permalink":"/ex-gifted/episodes-2022/2022-07-29-the-best-planners-for-executive-dysfunction/","title":"The perfect planner for executive dysfunction","tags":["time-and-planners","productivity"],"noteIcon":"","created":"","updated":"2023-08-18T08:44:02.000-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-07-12-so-you-wish-you-could-stick-with-a-planner\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-08-12-being-comfortable-with-being-uncomfortable\|NEXT>>]]
@@ -21,7 +21,7 @@ Mentioned this episode:
 
 5\. [ABCs of Time Management](https://chaoticorganized.com/time-management-for-executive-dysfunction/) (where you can sign up for the time management 5 day email course with time tracker workbook)
 
-6\. [Tara’s awesome Obsidian tips](https://tamethestars.wordpress.com/2022/05/03/using-obsidian-a-year-on/)
+6\. [Tara’s awesome Obsidian tips](https://thliterary.wordpress.com/2022/05/03/using-obsidian-a-year-on/)
 
 7\. [Digital/analog planning with Rocketbook](https://chaoticorganized.com/how-to-use-rocketbook-for-the-medium-method/)
 
@@ -203,7 +203,7 @@ You don't want to spend too much time upfront trying to think through what the b
 
 And I'm pretty sure that I've mentioned this elsewhere specifically when it comes to planners, but just in case, if not, it's also possible that the thing that's working really great for you right now, isn't going to be the thing that works for you really great in two months, that doesn't mean that you're not a planner person, massive air quotes there after all.
 
-It doesn't mean that anything's gone wrong. It doesn't mean that your system is broken. It doesn't mean anything except that it's not working for you right now. And so you need to find outwhat you can do to fix it. 
+It doesn't mean that anything's gone wrong. It doesn't mean that your system is broken. It doesn't mean anything except that it's not working for you right now. And so you need to find out what you can do to fix it. 
 
 So don't make it into this big dramatic event if your planner isn't working as well now, as it was when you first started, even if it's been working a long time. Sometimes there are just periods of our life where we need different kinds of planners. 
 
@@ -247,7 +247,7 @@ Um, but yes, you've got, what's called a horizontal weekly layout, which means t
 
 So that is my first recommendation. The Hobonichi weeks.
 
-The second thing I want to talk about is the planner that I was using last year. So if you've been around for a while, you may know that I highly recommend thevertical weekly planner. This one in particular is the Kokuyo Jibun techo lite is specifically the one. This is, this is the b6 slim cuz it's narrower than a standard B6 size. So they also have one that's an A5 size. That's a lot bigger than this one, but I personally really like the size of this, um, especially for someone who's just getting started. The B6 slim or the Hobonichi weeks are both very compact and manageable and aren't going to overwhelm you. 
+The second thing I want to talk about is the planner that I was using last year. So if you've been around for a while, you may know that I highly recommend the vertical weekly planner. This one in particular is the Kokuyo Jibun techo lite is specifically the one. This is, this is the b6 slim cuz it's narrower than a standard B6 size. So they also have one that's an A5 size. That's a lot bigger than this one, but I personally really like the size of this, um, especially for someone who's just getting started. The B6 slim or the Hobonichi weeks are both very compact and manageable and aren't going to overwhelm you. 
 
 So this is a vertical weekly layout. So that means that it has the days of the week going in columns instead of in rows, like the Hobonichi did. Um, I really, really love a vertical weekly spread for anyone who has time agnosia, if you don't really grasp how much time is in a day, what it feels like for an hour to pass, things like that, these can be really, really good as far as, you know, blocking out the time in your day. So you know how much time you want to spend on different things and you can kind of get a handle on that. 
 
@@ -331,7 +331,7 @@ That's fine. You don't even have to make that. If you have something like the Ho
 
 So I'm not going to go too, too deep into what bullet journaling actually is. If you're interested to know more about bullet journaling, I can link a couple of really good posts about it, or really good YouTube videos about it. There's a lot of good resources already out there for how to get started with bullet journaling. I just want to make a case for it here. Bullet journaling is a planner system that was designed by Ryder Carroll, who has ADHD that is something that could work with his brain. It is often misunderstood what it is. It's not an artistic thing. You can put art into it and make it as pretty and artistic as you want it. It can definitely be used as an artistic outlet for you, but bullet journaling itself it's not artistic any more than any other kind of planning is artistic. It also, is not a glorified to do list. This is, um, something that I think a lot of people really miss is the journaling part of bullet journaling.Like the whole thing, the thing that makes bullet journaling what it is. The thing that makes it work for people with ADHD or executive dysfunction, the thing that actually allows it to be easily adapted and used in all different kinds of planners themselves, is this idea of rapid logging. 
 
-Rapid logging just really means that when you have a thought, you write it down as succinctly as possible. You just generally will put your, your list of things, which can be tasks. They can be notes. They can be,things that you need to look up later, they can be events. Uh, just whatever you have, you put the signifier. Which is the little dot or circle or whatever that you need to use there.You put the signifier and then you rapid log the content. Using whatever kind of short hand works for you. Obviously make sure that it's something that you're still going to understand later, but you're not writing in complete sentences. Each daily log is a timeline of your day. And that is completely adaptable to your style. It also is really good when you're first trying to get used to using a planner. 
+Rapid logging just really means that when you have a thought, you write it down as succinctly as possible. You just generally will put your list of things, which can be tasks. They can be notes. They can be things that you need to look up later, they can be events. Uh, just whatever you have, you put the signifier. Which is the little dot or circle or whatever that you need to use there.You put the signifier and then you rapid log the content. Using whatever kind of short hand works for you. Obviously make sure that it's something that you're still going to understand later, but you're not writing in complete sentences. Each daily log is a timeline of your day. And that is completely adaptable to your style. It also is really good when you're first trying to get used to using a planner. 
 
 The bullet journal is easy to just pick up. You keep a, you know, a bookmark of whatever, kind on the page where your daily log currently is. It's super easy to just pick up and write something down in it. It's faster than your phone is going to be just. Period. It's faster even than taking a digital note will be. 
 
