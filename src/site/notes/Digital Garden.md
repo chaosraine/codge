@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"digital-garden","permalink":"/digital-garden/","noteIcon":"","created":"2023-08-17T13:45:42","updated":"2023-08-18T09:02:44.000-04:00"}
+{"dg-publish":true,"dg-permalink":"digital-garden","permalink":"/digital-garden/","noteIcon":"","created":"2023-08-17T13:45:42","updated":"2023-08-19T18:22:46.064-04:00"}
 ---
+
 
 
 A website where ideas are allowed to start off small and grow over time. May be used for [[Learning in Public\|Learning in Public]]
@@ -15,3 +16,5 @@ The 3-year hosting plan for my website expires today, August 17th, 2023. Obvious
 Although I've copied and archived all of my old blog posts, the new notes that I'm publishing aren't going to be all pretty and polished and thousands of words long. (Which helps both with creating AND consuming!) Some may be complete thoughts, but some will be barely formed seeds of a thought. Instead of linearly progressing self-contained articles (previous, next), I want to think of the posts here as pieces progressing laterally through a spider-web of connected ideas. Some ideas will expand and grow and get updated over time, from a seed to a sprout to a sapling to a tree. Yay gardening metaphors! Others may get left behind to wither away and that's okay too, because it just means attention is going somewhere else. [[Getting around\|Learn more about how to navigate the new site]]. 
 
 Because of the structure of this new site, there will be *plenty* of [[broken links\|broken links]]. This happens when I link to an idea that I want to expand on, but that I haven't published a page for yet. [Send me an email](mailto:raine@chaoticorganized.com) (click the floating email link) when you find one of these so I know that's a good place to put some focus! Otherwise, things will get updated as they spark my interest, and this week's updates can always be found on the [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|roundup]] page.
+
+*[Backlink](https://unsplash.com/photos/uRlnISgCtME) | Photo by [Shalev Cohen](https://unsplash.com/@shalevcohen?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*
