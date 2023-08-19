@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"reduce-friction","permalink":"/reduce-friction/","title":"How to Keep Things Rolling","tags":["productivity"],"noteIcon":"","created":"2023-08-17T14:15:14","updated":"2023-08-18T08:48:44.000-04:00"}
+{"dg-publish":true,"dg-permalink":"reduce-friction","permalink":"/reduce-friction/","title":"How to Keep Things Rolling","tags":["productivity"],"noteIcon":"","created":"2023-08-17T14:15:14","updated":"2023-08-19T09:56:41.332-04:00"}
 ---
 
 
@@ -31,7 +31,7 @@ Here's a few ideas:
 - Minimize - pare the job back to the essentials. Just like I'm doing with the website, making a project smaller makes it easier to finish.
 - Set a timer - I've [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-01-time-management-for-executive-dysfunction\|said it before]], but one way to make something feel less daunting is to commit to doing only a tiny amount of it. Work for 5-10 minutes and then STOP
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-05-14-embrace-imperfection\|Practice imperfection]] - if you go into it assuming your work will be mediocre at best, it takes some of the pressure off. Not everything is meant to be your best work all the time. Building some [[discomfort tolerance\|discomfort tolerance]] helps with this too!
-- Take a break. Not everything is meant to continue forever. If the project in question isn't supporting your livelihood, or otherwise something absolutely necessary (like the [[the move outline\|the move]] I'm preparing for), really think about [[10-19 💢 Bardacht/15 Blog/Blog 2022/2022-05-10-motivation-vs-inspiration\|why you're doing it]] and ask if it's time to [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-03-04-accept-it-is\|accept]] that it's just not a priority for you and decide to [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-05-28-quit-on-purpose\|quit on purpose]]. (Do I really talk about giving up that much? Good! Don't waste time on things that don't matter)
+- Take a break. Not everything is meant to continue forever. If the project in question isn't supporting your livelihood, or otherwise something absolutely necessary (like the [[the move outline\|the move]] I'm preparing for), really think about [[10-19 💢 Bardacht/15 Blog/Blog 2022/2022-05-10-motivation-vs-inspiration\|why you're doing it]] and ask if it's time to [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-03-04-accept-it-is\|accept]] that it's just not a priority for you and decide to [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-05-28-quit-on-purpose\|quit on purpose]]. (Do I really talk about giving up that much? Good! I don't want to waste time on things that don't matter)
 
 What do you do to keep that forward momentum going?
 
