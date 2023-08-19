@@ -17,7 +17,6 @@ Final launch is next week
 - [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|What's new this week]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W32\|Round-up for 2023 W32]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/linking your thinking\|linking your thinking]]
-- [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-07-30-structure-your-time\|Structure Your Time]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-08-13-structure-your-mind\|Structure Your Mind]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-01-201-what-is-growth-mindset\|201 What is Growth Mindset?]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-15-202-growth-mindset-is-bs\|202 Growth Mindset is BS]]
