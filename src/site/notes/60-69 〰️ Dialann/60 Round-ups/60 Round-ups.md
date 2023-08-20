@@ -11,14 +11,16 @@
 | August 17, 2023 13:57 | seed      | ![Cover]()                                                                                                                                                                                                                                   | [[Learning in Public\|Learning in Public]]                                                      | \-          |
 | August 17, 2023 14:15 | sapling   | ![Cover](https://images.unsplash.com/photo-1505552613537-4aab9bf431c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxNTF8fHJvbGxpbmclMjBzb2NjZXIlMjBiYWxsfGVufDB8MHx8fDE2OTIyOTQwMzN8MA&ixlib=rb-4.0.3&q=80&w=400) | [[40-49 🔅 Sláinte/40 Thoughts & Ideas/How to Keep Things Rolling\|How to Keep Things Rolling]] | \-          |
 | August 17, 2023 15:16 | seed      | ![Cover](https://images.unsplash.com/photo-1615669527499-501446dd48e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw4fHxwYWlufGVufDB8MHx8fDE2OTI1NDc5OTV8MA&ixlib=rb-4.0.3&q=80&w=400)                             | [[discomfort tolerance\|discomfort tolerance]]                                                  | \-          |
-| August 17, 2023 15:20 | unstarted | ![Cover]()                                                                                                                                                                                                                                   | [[the move outline\|Moving Sucks]]                                                              | \-          |
+| August 17, 2023 15:20 | unstarted | ![Cover](https://images.unsplash.com/photo-1600725935160-f67ee4f6084a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw0fHxtb3Zpbmd8ZW58MHwwfHx8MTY5MjU0ODY4M3ww&ixlib=rb-4.0.3&q=80&w=400)                           | [[the move outline\|Moving Sucks]]                                                              | \-          |
 | August 20, 2023 12:15 | \-        | ![Cover](https://images.unsplash.com/photo-1624284220156-58886c574635?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwzN3x8YnJva2VuJTIwY2hhaW58ZW58MHwwfHx8MTY5MjU0ODAzNXww&ixlib=rb-4.0.3&q=80&w=400)               | [[broken links\|broken links]]                                                                  | \-          |
+| August 20, 2023 12:25 | seed      | ![Cover](https://images.unsplash.com/photo-1533582437341-dfdc01630b05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxfHxmcmljdGlvbnxlbnwwfDB8fHwxNjkyNTQ4ODE0fDA&ixlib=rb-4.0.3&q=80&w=400)                        | [[mental friction\|mental friction]]                                                            | \-          |
 
 { .block-language-dataview}
 
 ## Recently Updated
 - [[broken links\|broken links]]
 - [[discomfort tolerance\|discomfort tolerance]]
+- [[mental friction\|mental friction]]
 - [[the move outline\|Moving Sucks]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-07-30-structure-your-time\|Structure Your Time]]
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/How to Keep Things Rolling\|How to Keep Things Rolling]]
