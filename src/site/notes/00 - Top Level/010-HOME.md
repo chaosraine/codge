@@ -15,7 +15,7 @@
 | Date                  | Status    | Cover                                                                                                                                                                                                                                        | Title                                                                                              | Description |
 | --------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------- |
 | August 17, 2023 13:45 | \-        | ![Cover](https://images.unsplash.com/photo-1591426508941-2f92736f5ff4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwyMnx8Z2FyZGVufGVufDB8MHx8fDE2OTI0ODM3MzB8MA&ixlib=rb-4.0.3&q=80&w=400)                         | [[Digital Garden\|Digital Garden]]                                                              | \-          |
-| August 17, 2023 13:57 | seed      | ![Cover]()                                                                                                                                                                                                                                   | [[Learning in Public\|Learning in Public]]                                                      | \-          |
+| August 17, 2023 13:57 | seed      | ![Cover](https://images.unsplash.com/photo-1517842645767-c639042777db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwzMHx8bGVhcm5pbmd8ZW58MHwwfHx8MTY5MjU0OTY1MXww&ixlib=rb-4.0.3&q=80&w=400)                       | [[Learning in Public\|Learning in Public]]                                                      | \-          |
 | August 17, 2023 14:15 | sapling   | ![Cover](https://images.unsplash.com/photo-1505552613537-4aab9bf431c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxNTF8fHJvbGxpbmclMjBzb2NjZXIlMjBiYWxsfGVufDB8MHx8fDE2OTIyOTQwMzN8MA&ixlib=rb-4.0.3&q=80&w=400) | [[40-49 🔅 Sláinte/40 Thoughts & Ideas/How to Keep Things Rolling\|How to Keep Things Rolling]] | \-          |
 | August 17, 2023 15:16 | seed      | ![Cover](https://images.unsplash.com/photo-1615669527499-501446dd48e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw4fHxwYWlufGVufDB8MHx8fDE2OTI1NDc5OTV8MA&ixlib=rb-4.0.3&q=80&w=400)                             | [[discomfort tolerance\|discomfort tolerance]]                                                  | \-          |
 | August 17, 2023 15:20 | unstarted | ![Cover](https://images.unsplash.com/photo-1600725935160-f67ee4f6084a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw0fHxtb3Zpbmd8ZW58MHwwfHx8MTY5MjU0ODY4M3ww&ixlib=rb-4.0.3&q=80&w=400)                           | [[the move outline\|Moving Sucks]]                                                              | \-          |
@@ -25,6 +25,7 @@
 { .block-language-dataview}
 
 ### Recently Updated
+- [[Learning in Public\|Learning in Public]]: 
 - [[broken links\|broken links]]: 
 - [[discomfort tolerance\|discomfort tolerance]]: 
 - [[mental friction\|mental friction]]: 
@@ -36,7 +37,6 @@
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-09-20-the-autumn-equinox-and-time-agnosia\|2022-09-20-the-autumn-equinox-and-time-agnosia]]: The Autumn Equinox and Time Agnosia
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/Automation\|Automation]]: Automation
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W33\|Round-up 2023-W33]]: Round-up for 2023 W33
-- [[Learning in Public\|Learning in Public]]: 
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method\|2021-01-14-how-to-use-rocketbook-for-the-medium-method]]: Best Practices: Using Rocketbook for the Medium Method
 - [[40-49 🔅 Sláinte/49 Epic Minimalism/Moderation as a virtue\|Moderation as a virtue]]: Moderation as a Virtue
 - [[60-69 〰️ Dialann/67 Website/Pages/2021-01-31-privacy\|2021-01-31-privacy]]: Privacy Policy
