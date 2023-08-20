@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"the-move","permalink":"/the-move/","title":"Moving Sucks","tags":["themove","themove/planning"],"noteIcon":"","created":"2023-08-17T15:20:59","updated":"2023-08-20T12:24:08.614-04:00"}
+{"dg-publish":true,"dg-permalink":"the-move","permalink":"/the-move/","title":"Moving Sucks","tags":["themove","themove/planning"],"noteIcon":"","created":"2023-08-17T15:20:59","updated":"2023-08-20T12:25:33.567-04:00"}
 ---
+
 
 ## About the move
 I have a move coming up in June 2024. It's not cross-country or anything, but it is to the next state over, about 90 minutes away.
@@ -9,3 +10,9 @@ Since moving is something a lot of people have to deal with, and can be a huge s
 
 This page is meant to hold the outline/timeline/countdown until the move.
 
+
+
+
+
+
+*[Backlink](https://unsplash.com/photos/66NaCdBrkCs) | Photo by [Michal B](https://unsplash.com/@mikbutcher?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*
