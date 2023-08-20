@@ -26,6 +26,7 @@
 ### Recently Updated
 - [[broken links\|broken links]]: 
 - [[discomfort tolerance\|discomfort tolerance]]: 
+- [[the move outline\|the move outline]]: Moving Sucks
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-07-30-structure-your-time\|2021-07-30-structure-your-time]]: Structure Your Time
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/How to Keep Things Rolling\|How to Keep Things Rolling]]: How to Keep Things Rolling
 - [[Digital Garden\|Digital Garden]]: 
@@ -34,7 +35,6 @@
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/Automation\|Automation]]: Automation
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W33\|Round-up 2023-W33]]: Round-up for 2023 W33
 - [[Learning in Public\|Learning in Public]]: 
-- [[the move outline\|the move outline]]: Moving Sucks
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method\|2021-01-14-how-to-use-rocketbook-for-the-medium-method]]: Best Practices: Using Rocketbook for the Medium Method
 - [[40-49 🔅 Sláinte/49 Epic Minimalism/Moderation as a virtue\|Moderation as a virtue]]: Moderation as a Virtue
 - [[60-69 〰️ Dialann/67 Website/Pages/2021-01-31-privacy\|2021-01-31-privacy]]: Privacy Policy
