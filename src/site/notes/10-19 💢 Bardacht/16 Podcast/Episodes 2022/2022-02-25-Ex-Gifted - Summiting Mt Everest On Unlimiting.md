@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-02-25-Ex-Gifted - Summiting Mt Everest On Unlimiting.md","permalink":"/ex-gifted/episodes-2022/2022-02-25-ex-gifted-summiting-mt-everest-on-unlimiting/","title":"Summiting Mt Everest: On Unlimiting","noteIcon":"","created":"","updated":"2023-07-26T21:49:46.000-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-02-25-Ex-Gifted - Summiting Mt Everest On Unlimiting.md","permalink":"/ex-gifted/episodes-2022/2022-02-25-ex-gifted-summiting-mt-everest-on-unlimiting/","title":"Summiting Mt Everest: On Unlimiting","noteIcon":"","created":"","updated":"2023-08-21T09:28:09.193-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-02-20-apology\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-03-04-accept-it-is\|NEXT>>]]
 ![Episode : . A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Raine Eliza from chaoticorganized.com](https://i.imgur.com/9DEFNUZ.png)
-- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-02-25-Ex-Gifted - Summiting Mt Everest On Unlimiting#\|Jump to Transcript]]
+- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-02-25-Ex-Gifted - Summiting Mt Everest On Unlimiting#Transcript\|Jump to Transcript]]
 - ## [Watch on YouTube](https://youtu.be/ogKHAI3Sv4c)
 
 
