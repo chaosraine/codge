@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes.md","permalink":"/ex-gifted/episodes-2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes/","title":"Adulting is Hard part 1: Laundry and Dishes","noteIcon":"","created":"","updated":"2023-07-27T19:52:06.044-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes.md","permalink":"/ex-gifted/episodes-2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes/","title":"Adulting is Hard part 1: Laundry and Dishes","noteIcon":"","created":"","updated":"2023-08-21T09:21:20.353-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-04-02-there-is-no-try\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-04-30-procrastinate-productively\|NEXT>>]]
 ![Episode 2: Adulting is Hard: laundry and dishes. A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Raine Eliza from chaoticorganized.com](https://i.imgur.com/9DEFNUZ.png) 
-## [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes#\|Jump to Transcript]]
+## [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes#Transcript\|Jump to Transcript]]
 
 <iframe src="https://podcasters.spotify.com/pod/show/exgifted/embed/episodes/Adulting-is-Hard-part-1-Laundry-and-Dishes-e1vas3i" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
