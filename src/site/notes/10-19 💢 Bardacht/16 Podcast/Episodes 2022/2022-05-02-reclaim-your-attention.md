@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-05-02-reclaim-your-attention.md","permalink":"/ex-gifted/episodes-2022/2022-05-02-reclaim-your-attention/","title":"Reclaim your Attention","tags":["self-coaching","health/mental-health"],"noteIcon":"","created":"","updated":"2023-07-28T16:13:51.000-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-05-02-reclaim-your-attention.md","permalink":"/ex-gifted/episodes-2022/2022-05-02-reclaim-your-attention/","title":"Reclaim your Attention","tags":["self-coaching","health/mental-health"],"noteIcon":"","created":"","updated":"2023-08-21T09:30:17.132-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-04-15-moving-through-molasses-april-doldrums\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-05-09-how-to-do-stuff-you-dont-want-to-do\|NEXT>>]]
 ![Episode : . A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Raine Eliza from chaoticorganized.com](https://i.imgur.com/XA8ZeVE.png)
 
-- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-05-02-reclaim-your-attention#\|Jump to Transcript]]
+- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-05-02-reclaim-your-attention#Transcript\|Jump to Transcript]]
 - ## [Watch on YouTube](https://youtu.be/4TeTYP4jG1c)
 
 
