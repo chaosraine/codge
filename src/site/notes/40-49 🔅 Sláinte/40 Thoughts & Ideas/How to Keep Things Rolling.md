@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Life & Thoughts/How to Keep Things Rolling.md","dg-permalink":"reduce-friction","permalink":"/reduce-friction/","title":"How to Keep Things Rolling","tags":["productivity"],"noteIcon":"","created":"2023-08-17T14:15:14","updated":"2023-08-19T09:56:41.332-04:00"}
+{"dg-publish":true,"dg-path":"Life & Thoughts/How to Keep Things Rolling.md","dg-permalink":"reduce-friction","permalink":"/reduce-friction/","title":"How to Keep Things Rolling","tags":["productivity"],"noteIcon":"","created":"2023-08-17T14:15:14","updated":"2023-08-19T09:56:41.000-04:00"}
 ---
 
 
