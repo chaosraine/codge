@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-05-24-small-things-and-void.md","permalink":"/ex-gifted/episodes-2022/2022-05-24-small-things-and-void/","title":"Small Things and Void","tags":["productivity"],"noteIcon":"","created":"","updated":"2023-07-27T00:00:53.000-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-05-24-small-things-and-void.md","permalink":"/ex-gifted/episodes-2022/2022-05-24-small-things-and-void/","title":"Small Things and Void","tags":["productivity"],"noteIcon":"","created":"","updated":"2023-08-21T09:48:23.639-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-05-16-finding-focus\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-06-03-sink-or-swim\|NEXT>>]]
 ![Episode : . A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Raine Eliza from chaoticorganized.com](https://i.imgur.com/9DEFNUZ.png)
-- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-05-24-small-things-and-void#\|Jump to Transcript]]
+- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-05-24-small-things-and-void#Transcript\|Jump to Transcript]]
 - ## [Watch on YouTube](https://youtu.be/b8TQwoB9JqQ)
 
 
