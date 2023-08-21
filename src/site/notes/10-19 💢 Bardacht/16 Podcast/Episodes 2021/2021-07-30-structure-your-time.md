@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-07-30-structure-your-time.md","permalink":"/ex-gifted/episodes-2021/2021-07-30-structure-your-time/","title":"Structure Your Time","tags":["build-structure"],"noteIcon":"","created":"","updated":"2023-08-19T13:26:07.494-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-07-30-structure-your-time.md","permalink":"/ex-gifted/episodes-2021/2021-07-30-structure-your-time/","title":"Structure Your Time","tags":["build-structure"],"noteIcon":"","created":"","updated":"2023-08-19T13:26:07.000-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-07-16-structure-your-stuff\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-08-13-structure-your-mind\|NEXT>>]]
