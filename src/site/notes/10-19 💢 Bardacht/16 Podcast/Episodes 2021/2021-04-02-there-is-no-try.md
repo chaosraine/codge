@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-04-02-there-is-no-try.md","permalink":"/ex-gifted/episodes-2021/2021-04-02-there-is-no-try/","title":"There is No Try","noteIcon":"","created":"","updated":"2023-08-15T22:01:23.773-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-04-02-there-is-no-try.md","permalink":"/ex-gifted/episodes-2021/2021-04-02-there-is-no-try/","title":"There is No Try","noteIcon":"","created":"","updated":"2023-08-21T09:21:11.991-04:00"}
 ---
 
                     [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes\|NEXT>>]]
 ![Episode 1: There is no Try. A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Raine Eliza from chaoticorganized.com](https://i.imgur.com/9DEFNUZ.png) 
-## [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-04-02-there-is-no-try#\|Jump to Transcript]]
+## [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-04-02-there-is-no-try#Transcript\|Jump to Transcript]]
 
 <iframe src="https://podcasters.spotify.com/pod/show/exgifted/embed/episodes/There-is-No-Try-e1vas3g" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
