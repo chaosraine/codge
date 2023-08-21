@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-04-15-moving-through-molasses-april-doldrums.md","permalink":"/ex-gifted/episodes-2022/2022-04-15-moving-through-molasses-april-doldrums/","title":"Moving through molasses - April Doldrums","tags":["health/mental-health"],"noteIcon":"","created":"","updated":"2023-07-27T20:39:05.960-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-04-15-moving-through-molasses-april-doldrums.md","permalink":"/ex-gifted/episodes-2022/2022-04-15-moving-through-molasses-april-doldrums/","title":"Moving through molasses - April Doldrums","tags":["health/mental-health"],"noteIcon":"","created":"","updated":"2023-07-27T20:39:05.000-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-04-04-transitions-are-hard\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-05-02-reclaim-your-attention\|NEXT>>]]
