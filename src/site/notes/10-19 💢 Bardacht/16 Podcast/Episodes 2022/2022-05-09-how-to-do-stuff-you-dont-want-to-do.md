@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-05-09-how-to-do-stuff-you-dont-want-to-do.md","permalink":"/ex-gifted/episodes-2022/2022-05-09-how-to-do-stuff-you-dont-want-to-do/","title":"How to do stuff you don't want to do","tags":["productivity","executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-07-26T22:53:56.221-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-05-09-how-to-do-stuff-you-dont-want-to-do.md","permalink":"/ex-gifted/episodes-2022/2022-05-09-how-to-do-stuff-you-dont-want-to-do/","title":"How to do stuff you don't want to do","tags":["productivity","executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-08-21T09:48:06.701-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-05-02-reclaim-your-attention\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-05-16-finding-focus\|NEXT>>]]
 ![Episode : . A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Raine Eliza from chaoticorganized.com](https://i.imgur.com/9DEFNUZ.png)
-- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-05-09-how-to-do-stuff-you-dont-want-to-do#\|Jump to Transcript]]
+- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-05-09-how-to-do-stuff-you-dont-want-to-do#Transcript\|Jump to Transcript]]
 - ## [Watch on YouTube](https://youtu.be/tut_fgNNP0U)
 
 
