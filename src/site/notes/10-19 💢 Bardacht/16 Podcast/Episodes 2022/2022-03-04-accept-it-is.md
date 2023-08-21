@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-03-04-accept-it-is.md","permalink":"/ex-gifted/episodes-2022/2022-03-04-accept-it-is/","title":"Accept it.","tags":["growth","health/mental-health","self-coaching"],"noteIcon":"","created":"","updated":"2023-07-26T21:59:02.000-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-03-04-accept-it-is.md","permalink":"/ex-gifted/episodes-2022/2022-03-04-accept-it-is/","title":"Accept it.","tags":["growth","health/mental-health","self-coaching"],"noteIcon":"","created":"","updated":"2023-08-21T09:28:15.722-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-02-25-Ex-Gifted - Summiting Mt Everest On Unlimiting\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-03-11-210-power-of-yet\|NEXT>>]]
 ![Episode : . A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Raine Eliza from chaoticorganized.com](https://i.imgur.com/9DEFNUZ.png)
-- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-03-04-accept-it-is#\|Jump to Transcript]]
+- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-03-04-accept-it-is#Transcript\|Jump to Transcript]]
 - ## [Watch on YouTube](https://youtu.be/HgsM5f-6mBA)
 
 
