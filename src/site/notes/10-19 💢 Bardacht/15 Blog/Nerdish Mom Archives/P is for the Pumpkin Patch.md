@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/P is for the Pumpkin Patch.md","permalink":"/blog/nerdish-mom-archives/p-is-for-the-pumpkin-patch/","title":"P is for the Pumpkin Patch!","tags":["homeschool","parenting"],"noteIcon":"","created":"","updated":"2023-07-28T17:13:33.546-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/P is for the Pumpkin Patch.md","permalink":"/blog/nerdish-mom-archives/p-is-for-the-pumpkin-patch/","title":"P is for the Pumpkin Patch!","tags":["homeschool","parenting"],"noteIcon":"","created":"","updated":"2023-07-28T17:13:33.000-04:00"}
 ---
 
 
