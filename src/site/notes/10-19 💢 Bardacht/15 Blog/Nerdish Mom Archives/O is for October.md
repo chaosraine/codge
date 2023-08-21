@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/O is for October.md","permalink":"/blog/nerdish-mom-archives/o-is-for-october/","title":"O is for October and other oddities","tags":["homeschool","parenting"],"noteIcon":"","created":"","updated":"2023-07-12T23:14:03.643-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/O is for October.md","permalink":"/blog/nerdish-mom-archives/o-is-for-october/","title":"O is for October and other oddities","tags":["homeschool","parenting"],"noteIcon":"","created":"","updated":"2023-07-12T23:14:03.000-04:00"}
 ---
 
 
