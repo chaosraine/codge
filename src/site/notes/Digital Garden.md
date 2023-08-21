@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"digital-garden","permalink":"/digital-garden/","noteIcon":"","created":"2023-08-17T13:45:42","updated":"2023-08-20T12:42:09.758-04:00"}
+{"dg-publish":true,"dg-permalink":"digital-garden","permalink":"/digital-garden/","noteIcon":"","created":"2023-08-17T13:45:42","updated":"2023-08-20T12:42:09.000-04:00"}
 ---
 
 
