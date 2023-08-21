@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-10-15-202-growth-mindset-is-bs.md","permalink":"/ex-gifted/episodes-2021/2021-10-15-202-growth-mindset-is-bs/","title":"202 Growth Mindset is BS","tags":["growth"],"noteIcon":"","created":"","updated":"2023-08-12T10:32:52.000-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-10-15-202-growth-mindset-is-bs.md","permalink":"/ex-gifted/episodes-2021/2021-10-15-202-growth-mindset-is-bs/","title":"202 Growth Mindset is BS","tags":["growth"],"noteIcon":"","created":"","updated":"2023-08-21T09:27:33.922-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-01-201-what-is-growth-mindset\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-29-203-grow-your-own-woo\|NEXT>>]]
 ![Episode : . A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Raine Eliza from chaoticorganized.com](https://i.imgur.com/9DEFNUZ.png)
-- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-15-202-growth-mindset-is-bs#\|Jump to Transcript]]
+- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-15-202-growth-mindset-is-bs#Transcript\|Jump to Transcript]]
 - ## [Watch on YouTube](https://youtu.be/3LftA9cU5Tg)
 
 
