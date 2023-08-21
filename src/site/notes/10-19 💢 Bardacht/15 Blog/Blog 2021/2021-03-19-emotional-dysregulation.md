@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Blog 2021/2021-03-19-emotional-dysregulation.md","permalink":"/blog/blog-2021/2021-03-19-emotional-dysregulation/","title":"Emotional Dysregulation - Another Struggle of Executive Dysfunction","tags":["executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-08-15T21:19:47.224-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Blog 2021/2021-03-19-emotional-dysregulation.md","permalink":"/blog/blog-2021/2021-03-19-emotional-dysregulation/","title":"Emotional Dysregulation - Another Struggle of Executive Dysfunction","tags":["executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-08-15T21:19:47.000-04:00"}
 ---
 
 
