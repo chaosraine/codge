@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"discomfort-tolerance","permalink":"/discomfort-tolerance/","noteIcon":"","created":"2023-08-17T15:16:38","updated":"2023-08-20T12:17:29.256-04:00"}
+{"dg-publish":true,"dg-permalink":"discomfort-tolerance","permalink":"/discomfort-tolerance/","noteIcon":"","created":"2023-08-17T15:16:38","updated":"2023-08-20T12:17:29.000-04:00"}
 ---
 
 
