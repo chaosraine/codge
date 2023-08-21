@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-05-28-quit-on-purpose.md","permalink":"/ex-gifted/episodes-2021/2021-05-28-quit-on-purpose/","title":"Quit on Purpose","noteIcon":"","created":"","updated":"2023-07-20T17:01:27.782-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-05-28-quit-on-purpose.md","permalink":"/ex-gifted/episodes-2021/2021-05-28-quit-on-purpose/","title":"Quit on Purpose","noteIcon":"","created":"","updated":"2023-08-21T09:21:44.799-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-05-28-quit-on-purpose\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-06-18-for-better-or-worse\|NEXT>>]]
 ![Episode : . A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Raine Eliza from chaoticorganized.com](https://i.imgur.com/9DEFNUZ.png)
-- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-05-28-quit-on-purpose#\|Jump to Transcript]]
+- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-05-28-quit-on-purpose#Transcript\|Jump to Transcript]]
 
 <iframe src="https://podcasters.spotify.com/pod/show/exgifted/embed/episodes/Quit-on-Purpose-e1vas3p" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
