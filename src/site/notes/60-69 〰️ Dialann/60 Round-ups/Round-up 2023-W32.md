@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Round-ups/Round-up 2023-W32.md","dg-permalink":"2023-W32-roundup","permalink":"/2023-W32-roundup/","title":"Round-up for 2023 W32","contentClasses":"cards cards-1-1","noteIcon":"","created":"2023-08-13T09:35:43","updated":"2023-08-13T09:37:05.576-04:00"}
+{"dg-publish":true,"dg-path":"Round-ups/Round-up 2023-W32.md","dg-permalink":"2023-W32-roundup","permalink":"/2023-W32-roundup/","title":"Round-up for 2023 W32","contentClasses":"cards cards-1-1","noteIcon":"","created":"2023-08-13T09:35:43","updated":"2023-08-13T09:37:05.000-04:00"}
 ---
 
 
@@ -13,22 +13,22 @@ Final launch is next week
 { .block-language-dataview}
 
 ## Recently Updated
+- [[60-69 〰️ Dialann/68 Using Obsidian/linking your thinking\|linking your thinking]]
 - [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|What's new this week]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W27\|Round-up for 2023 W27]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W32\|Round-up for 2023 W32]]
-- [[60-69 〰️ Dialann/68 Using Obsidian/linking your thinking\|linking your thinking]]
-- [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-07-02-exceptional-exceptional\|Exceptional, exceptional]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-08-13-structure-your-mind\|Structure Your Mind]]
-- [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-01-201-what-is-growth-mindset\|201 What is Growth Mindset?]]
+- [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-07-02-exceptional-exceptional\|Exceptional, exceptional]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-15-202-growth-mindset-is-bs\|202 Growth Mindset is BS]]
+- [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-01-201-what-is-growth-mindset\|201 What is Growth Mindset?]]
 - [[60-69 〰️ Dialann/67 Website/001 - help\|HELP]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W31\|Round-up for 2023 W31]]
+- [[40-49 🔅 Sláinte/40 Thoughts & Ideas/clarification\|Clarification]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-08-what-is-executive-dysfunction\|What is Executive Dysfunction? Learn 20+ ways it can wreak havoc on your life]]
-- [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner\|Frankenplanner: How to Make the Perfect Rocketbook Planner by Cutting the Coil]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-26-executive-dysfunction-in-the-kitchen\|4 Easy Solutions for Executive Dysfunction in the Kitchen]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-26-waste-in-the-kitchen\|Waste in the kitchen - a mindset shift]]
+- [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner\|Frankenplanner: How to Make the Perfect Rocketbook Planner by Cutting the Coil]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2020/2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core\|How-to Make a Custom Planner with Rocketbook Core]]
-- [[40-49 🔅 Sláinte/40 Thoughts & Ideas/clarification\|Clarification]]
 
 { .block-language-dataview}
 
