@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-07-12-so-you-wish-you-could-stick-with-a-planner.md","permalink":"/ex-gifted/episodes-2022/2022-07-12-so-you-wish-you-could-stick-with-a-planner/","title":"So you wish you could stick with a planner?","tags":["productivity","time-and-planners"],"noteIcon":"","created":"","updated":"2023-07-27T00:10:30.363-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-07-12-so-you-wish-you-could-stick-with-a-planner.md","permalink":"/ex-gifted/episodes-2022/2022-07-12-so-you-wish-you-could-stick-with-a-planner/","title":"So you wish you could stick with a planner?","tags":["productivity","time-and-planners"],"noteIcon":"","created":"","updated":"2023-07-27T00:10:30.000-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-06-03-sink-or-swim\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-07-29-the-best-planners-for-executive-dysfunction\|NEXT>>]]
