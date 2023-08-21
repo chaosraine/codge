@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/F is for Frankenstein.md","permalink":"/blog/nerdish-mom-archives/f-is-for-frankenstein/","title":"F is for Frankenstein OR The Girl who invented sci-fi","tags":["homeschool"],"noteIcon":"","created":"","updated":"2023-07-28T17:14:16.017-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/F is for Frankenstein.md","permalink":"/blog/nerdish-mom-archives/f-is-for-frankenstein/","title":"F is for Frankenstein OR The Girl who invented sci-fi","tags":["homeschool"],"noteIcon":"","created":"","updated":"2023-07-28T17:14:16.000-04:00"}
 ---
 
 
