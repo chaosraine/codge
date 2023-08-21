@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/X is for X-Rays.md","permalink":"/blog/nerdish-mom-archives/x-is-for-x-rays/","title":"X is for X-Rays","tags":["homeschool"],"noteIcon":"","created":"2019-10-28","updated":"2023-07-27T19:48:11.218-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/X is for X-Rays.md","permalink":"/blog/nerdish-mom-archives/x-is-for-x-rays/","title":"X is for X-Rays","tags":["homeschool"],"noteIcon":"","created":"2019-10-28","updated":"2023-07-27T19:48:11.000-04:00"}
 ---
 
 
