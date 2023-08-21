@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-04-04-transitions-are-hard.md","permalink":"/ex-gifted/episodes-2022/2022-04-04-transitions-are-hard/","title":"Transitions Are Hard","noteIcon":"","created":"","updated":"2023-07-27T19:00:28.352-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-04-04-transitions-are-hard.md","permalink":"/ex-gifted/episodes-2022/2022-04-04-transitions-are-hard/","title":"Transitions Are Hard","noteIcon":"","created":"","updated":"2023-08-21T09:19:47.886-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-03-11-210-power-of-yet\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-04-15-moving-through-molasses-april-doldrums\|NEXT>>]]
 ![Episode : . A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Raine Eliza from chaoticorganized.com](https://i.imgur.com/9DEFNUZ.png)
-- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-04-04-transitions-are-hard#\|Jump to Transcript]]
+- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-04-04-transitions-are-hard#Transcript\|Jump to Transcript]]
 - ## [Watch on YouTube](https://youtu.be/cKEpUxOX6Lk)
 
 
