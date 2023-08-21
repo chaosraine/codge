@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-07-29-the-best-planners-for-executive-dysfunction.md","permalink":"/ex-gifted/episodes-2022/2022-07-29-the-best-planners-for-executive-dysfunction/","title":"The perfect planner for executive dysfunction","tags":["time-and-planners","productivity"],"noteIcon":"","created":"","updated":"2023-08-18T08:44:02.418-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-07-29-the-best-planners-for-executive-dysfunction.md","permalink":"/ex-gifted/episodes-2022/2022-07-29-the-best-planners-for-executive-dysfunction/","title":"The perfect planner for executive dysfunction","tags":["time-and-planners","productivity"],"noteIcon":"","created":"","updated":"2023-08-21T09:49:32.732-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-07-12-so-you-wish-you-could-stick-with-a-planner\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-08-12-being-comfortable-with-being-uncomfortable\|NEXT>>]]
 ![Episode : . A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Raine Eliza from chaoticorganized.com](https://i.imgur.com/9DEFNUZ.png)
-- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-07-29-the-best-planners-for-executive-dysfunction#\|Jump to Transcript]]
+- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-07-29-the-best-planners-for-executive-dysfunction#Transcript\|Jump to Transcript]]
+- ## [Watch on YouTube](https://youtu.be/J4-tkzZjUoM)
+
 
 
 ## Synopsis & Links
