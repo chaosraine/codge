@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-10-01-201-what-is-growth-mindset.md","permalink":"/ex-gifted/episodes-2021/2021-10-01-201-what-is-growth-mindset/","title":"201 What is Growth Mindset?","tags":["growth","self-coaching"],"noteIcon":"","created":"","updated":"2023-08-12T10:32:52.000-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-10-01-201-what-is-growth-mindset.md","permalink":"/ex-gifted/episodes-2021/2021-10-01-201-what-is-growth-mindset/","title":"201 What is Growth Mindset?","tags":["growth","self-coaching"],"noteIcon":"","created":"","updated":"2023-08-21T09:27:19.859-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-08-13-structure-your-mind\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-15-202-growth-mindset-is-bs\|NEXT>>]]
 ![Episode : . A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Raine Eliza from chaoticorganized.com](https://i.imgur.com/9DEFNUZ.png)
-- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-01-201-what-is-growth-mindset#\|Jump to Transcript]]
+- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-01-201-what-is-growth-mindset#Transcript\|Jump to Transcript]]
 - ## [Watch on YouTube](https://www.youtube.com/watch?v=KwFh8uk6mVc)
 
 <iframe src="https://podcasters.spotify.com/pod/show/exgifted/embed/episodes/201-What-is-Growth-Mindset-e1vas3l" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
