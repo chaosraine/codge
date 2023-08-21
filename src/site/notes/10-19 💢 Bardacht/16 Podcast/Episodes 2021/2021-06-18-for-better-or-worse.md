@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-06-18-for-better-or-worse.md","permalink":"/ex-gifted/episodes-2021/2021-06-18-for-better-or-worse/","title":"For Better or Worse","noteIcon":"","created":"","updated":"2023-07-20T17:08:04.000-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-06-18-for-better-or-worse.md","permalink":"/ex-gifted/episodes-2021/2021-06-18-for-better-or-worse/","title":"For Better or Worse","noteIcon":"","created":"","updated":"2023-08-21T09:26:43.045-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-05-28-quit-on-purpose\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-07-02-exceptional-exceptional\|NEXT>>]]
 ![Episode : . A Blue background with a yellow neuron with a body the shape of a star. Words say Ex-gifted podcast. Helping exceptional kids become functional adults. A Yellow stripe across the bottom reads With Raine Eliza from chaoticorganized.com](https://i.imgur.com/9DEFNUZ.png)
-- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-06-18-for-better-or-worse#\|Jump to Transcript]]
+- ## [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-06-18-for-better-or-worse#Transcript\|Jump to Transcript]]
 
 <iframe src="https://podcasters.spotify.com/pod/show/exgifted/embed/episodes/For-Better-or-Worse-e1vas3m" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
