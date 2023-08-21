@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Using Obsidian/Shortcuts.md","permalink":"/using-obsidian/shortcuts/","title":"shortcuts","noteIcon":"","created":"","updated":"2023-07-08T21:33:40.889-04:00"}
+{"dg-publish":true,"dg-path":"Using Obsidian/Shortcuts.md","permalink":"/using-obsidian/shortcuts/","title":"shortcuts","noteIcon":"","created":"","updated":"2023-07-08T21:33:40.000-04:00"}
 ---
 
 ## Known Shortcuts
