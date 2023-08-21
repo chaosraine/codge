@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Life & Thoughts/clarification.md","permalink":"/life-and-thoughts/clarification/","title":"Clarification","tags":["obsidian"],"noteIcon":"","created":"2023-08-08T11:15:56","updated":"2023-08-08T11:20:39.000-04:00"}
+{"dg-publish":true,"dg-path":"Life & Thoughts/clarification.md","permalink":"/life-and-thoughts/clarification/","title":"Clarification","tags":["obsidian"],"noteIcon":"","created":"2023-08-08T11:15:56","updated":"2023-08-08T11:20:39.825-04:00"}
 ---
 
 
