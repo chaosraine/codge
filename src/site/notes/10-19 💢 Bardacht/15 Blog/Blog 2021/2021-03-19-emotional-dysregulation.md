@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Blog 2021/2021-03-19-emotional-dysregulation.md","permalink":"/blog/blog-2021/2021-03-19-emotional-dysregulation/","title":"Emotional Dysregulation - Another Struggle of Executive Dysfunction","tags":["executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-08-15T21:19:47.224-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Blog 2021/2021-03-19-emotional-dysregulation.md","permalink":"/blog/blog-2021/2021-03-19-emotional-dysregulation/","title":"Emotional Dysregulation - Another Struggle of Executive Dysfunction","tags":["executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-08-22T15:59:33.788-04:00"}
 ---
 
+![](https://i.imgur.com/Zz9S51g.png)
 
 _I am not a mental health professional and nothing on this website is meant for treatment of any condition. If you have extensive trauma or suicidal ideation that you have not already addressed with a therapist, please find a professional that can help. If you need immediate help in the US text the crisis hotline at 741741 or call the suicide prevention hotline at 1-800-273-TALK_
 
