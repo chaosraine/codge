@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/31 Spooky and Fun Halloween Homeschool Ideas.md","permalink":"/blog/nerdish-mom-archives/31-spooky-and-fun-halloween-homeschool-ideas/","title":"31 Spooky and Fun Halloween Homeschool Ideas Roundup","tags":["halloween","homeschool"],"noteIcon":"","created":"","updated":"2023-08-15T21:35:09.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/31 Spooky and Fun Halloween Homeschool Ideas.md","permalink":"/blog/nerdish-mom-archives/31-spooky-and-fun-halloween-homeschool-ideas/","title":"31 Spooky and Fun Halloween Homeschool Ideas Roundup","tags":["halloween","homeschool"],"noteIcon":"","created":"","updated":"2023-08-15T21:35:09.373-04:00"}
 ---
 
 
