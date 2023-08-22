@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Blog 2021/2021-04-23-the-cleaning-mindset.md","permalink":"/blog/blog-2021/2021-04-23-the-cleaning-mindset/","title":"The cleaning mindset","tags":["organization","household"],"noteIcon":"","created":"","updated":"2023-08-15T21:33:50.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Blog 2021/2021-04-23-the-cleaning-mindset.md","permalink":"/blog/blog-2021/2021-04-23-the-cleaning-mindset/","title":"The cleaning mindset","tags":["organization","household"],"noteIcon":"","created":"","updated":"2023-08-15T21:33:50.563-04:00"}
 ---
 
 
