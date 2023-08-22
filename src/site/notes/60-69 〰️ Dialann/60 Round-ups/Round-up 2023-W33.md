@@ -41,7 +41,6 @@ One reason I wanted to switch to this [[Digital Garden\|Digital Garden]] format 
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-09-14-enough-a-socratic-dialog\|Enough: A Socratic Dialog]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2022/2022-01-31-how-to-keep-a-setback-from-becoming-a-reset\|How to Keep a Setback from becoming a Reset]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2022/2022-05-10-motivation-vs-inspiration\|Motivation vs. Inspiration]]
-- [[10-19 💢 Bardacht/15 Blog/15 Blog\|📌 Blog]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/A is For All Hallows Eve\|A is For All Hallows Eve]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/31 Spooky and Fun Halloween Homeschool Ideas\|31 Spooky and Fun Halloween Homeschool Ideas Roundup]]
 - [[40-49 🔅 Sláinte/43 Spirit/Minimalism and Abundance\|minimalism and abundance]]
