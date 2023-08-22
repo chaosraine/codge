@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-03-16-ex-gifted-trailer.md","permalink":"/ex-gifted/episodes-2021/2021-03-16-ex-gifted-trailer/","title":"Ex-Gifted Trailer","noteIcon":"","created":"","updated":"2023-07-27T19:52:18.000-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-03-16-ex-gifted-trailer.md","permalink":"/ex-gifted/episodes-2021/2021-03-16-ex-gifted-trailer/","title":"Ex-Gifted Trailer","noteIcon":"","created":"","updated":"2023-07-27T19:52:18.878-04:00"}
 ---
 
 <iframe src="https://podcasters.spotify.com/pod/show/raineinchaos/embed/episodes/Ex-Gifted-Trailer-e1vas3f" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
