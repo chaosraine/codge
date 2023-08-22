@@ -9,8 +9,8 @@ I'm starting to get an idea of what I'm going to do with this website thing. Des
 | ------------------- | --------- | ------- | -------------------------------------------------------------------- | ------------------------------------------ |
 | July 05, 2023 18:45 | \-        | ![](\-) | [[60-69 〰️ Dialann/68 Using Obsidian/second brain\|second brain]] | developing my definition of a second brain |
 | 2023-07-08          | seed      | ![](\-) | [[60-69 〰️ Dialann/68 Using Obsidian/plugins\|plugins]]           | \-                                         |
-| 2023-07-08          | published | ![](\-) | [[60-69 〰️ Dialann/68 Using Obsidian/Formatting\|formatting]]     | \-                                         |
 | 2023-07-08          | \-        | ![](\-) | [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]]         | \-                                         |
+| 2023-07-08          | published | ![](\-) | [[60-69 〰️ Dialann/68 Using Obsidian/Formatting\|formatting]]     | \-                                         |
 | 2023-07-08          | \-        | ![](\-) | [[60-69 〰️ Dialann/68 Using Obsidian/Aliases\|Aliases]]           | \-                                         |
 
 { .block-language-dataview}
