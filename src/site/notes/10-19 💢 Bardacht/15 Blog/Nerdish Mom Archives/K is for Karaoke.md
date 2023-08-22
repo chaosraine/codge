@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/K is for Karaoke.md","permalink":"/blog/nerdish-mom-archives/k-is-for-karaoke/","title":"K is for Karaoke ~ a Halloween Sing-along!","tags":["parenting"],"noteIcon":"","created":"","updated":"2023-07-28T17:13:48.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/K is for Karaoke.md","permalink":"/blog/nerdish-mom-archives/k-is-for-karaoke/","title":"K is for Karaoke ~ a Halloween Sing-along!","tags":["parenting"],"noteIcon":"","created":"","updated":"2023-07-28T17:13:48.611-04:00"}
 ---
 
 
