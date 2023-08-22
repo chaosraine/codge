@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Blog 2022/2022-05-10-motivation-vs-inspiration.md","permalink":"/blog/blog-2022/2022-05-10-motivation-vs-inspiration/","title":"Motivation vs. Inspiration","tags":["executive-dysfunction","productivity"],"noteIcon":"","created":"","updated":"2023-08-15T23:08:07.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Blog 2022/2022-05-10-motivation-vs-inspiration.md","permalink":"/blog/blog-2022/2022-05-10-motivation-vs-inspiration/","title":"Motivation vs. Inspiration","tags":["executive-dysfunction","productivity"],"noteIcon":"","created":"","updated":"2023-08-15T23:08:07.503-04:00"}
 ---
 
 
