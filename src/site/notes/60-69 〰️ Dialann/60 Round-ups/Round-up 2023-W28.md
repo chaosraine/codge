@@ -24,9 +24,9 @@ We're still working on planting a few seeds in the digital garden
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/R is for Recipes\|R is for Recipes]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/S is for Samhain\|S is for Samhain]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/T is for Trick-or-Treating\|T is for Trick-or-Treating]]
-- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/U is for Unicorns\|U is for Unicorns]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/V is for Vampires\|V is for Vampires]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/W is for Werewolves\|W is for Werewolves]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/U is for Unicorns\|U is for Unicorns]]
 
 { .block-language-dataview}
 
