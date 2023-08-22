@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-05-09-how-to-do-stuff-you-dont-want-to-do.md","permalink":"/ex-gifted/episodes-2022/2022-05-09-how-to-do-stuff-you-dont-want-to-do/","title":"How to do stuff you don't want to do","tags":["productivity","executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-08-21T09:48:06.701-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-05-09-how-to-do-stuff-you-dont-want-to-do.md","permalink":"/ex-gifted/episodes-2022/2022-05-09-how-to-do-stuff-you-dont-want-to-do/","title":"How to do stuff you don't want to do","tags":["productivity","executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-08-21T09:48:06.000-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-05-02-reclaim-your-attention\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-05-16-finding-focus\|NEXT>>]]
