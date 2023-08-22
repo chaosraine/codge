@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Blog 2021/2021-04-09-2-ways-to-clean-with-executive-dysfunction.md","permalink":"/blog/blog-2021/2021-04-09-2-ways-to-clean-with-executive-dysfunction/","title":"2 ways to clean with executive dysfunction","tags":["organization","household"],"noteIcon":"","created":"","updated":"2023-08-15T21:05:16.773-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Blog 2021/2021-04-09-2-ways-to-clean-with-executive-dysfunction.md","permalink":"/blog/blog-2021/2021-04-09-2-ways-to-clean-with-executive-dysfunction/","title":"2 ways to clean with executive dysfunction","tags":["organization","household"],"noteIcon":"","created":"","updated":"2023-08-22T07:51:37.528-04:00"}
 ---
 
-
+![](https://i.imgur.com/u3KU0iw.png)
 Learn how to clean with executive dysfunction based on how much assistance you need versus how much independence you’re looking for. The app Tody will tell you exactly what you need to do each day, but using an autofocus list allows you to work on cleaning whatever is motivating you in the moment, helping you pick the most impactful tasks every day.
 
 ## 30 to Clean
