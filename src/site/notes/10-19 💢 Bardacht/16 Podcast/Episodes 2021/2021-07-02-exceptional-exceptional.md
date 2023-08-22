@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-07-02-exceptional-exceptional.md","permalink":"/ex-gifted/episodes-2021/2021-07-02-exceptional-exceptional/","title":"Exceptional, exceptional","noteIcon":"","created":"","updated":"2023-08-21T09:26:48.626-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-07-02-exceptional-exceptional.md","permalink":"/ex-gifted/episodes-2021/2021-07-02-exceptional-exceptional/","title":"Exceptional, exceptional","noteIcon":"","created":"","updated":"2023-08-21T09:26:48.000-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-06-18-for-better-or-worse\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-07-16-structure-your-stuff\|NEXT>>]]
