@@ -12,17 +12,24 @@
   Find general advice about building systems to keep your mind, time, and space organized, but in a way that works for your chaotic brain.
 
 ## [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|New This Week]]
-| Date | Status | Cover | Title | Description |
-| ---- | ------ | ----- | ----- | ----------- |
+| Date                 | Status | Cover        | Title                                                                                   | Description |
+| -------------------- | ------ | ------------ | --------------------------------------------------------------------------------------- | ----------- |
+| August 22, 2023 17:1 | \-     | ![Cover](\-) | [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]] | \-          |
 
 { .block-language-dataview}
 
 ### Recently Updated
 - [[10-19 💢 Bardacht/15 Blog/15 Blog\|15 Blog]]: 📌 Blog
+- [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-08-what-is-executive-dysfunction\|2021-03-08-what-is-executive-dysfunction]]: What is Executive Dysfunction? Learn 20+ ways it can wreak havoc on your life
+- [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-19-emotional-dysregulation\|2021-03-19-emotional-dysregulation]]: Emotional Dysregulation - Another Struggle of Executive Dysfunction
+- [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-26-executive-dysfunction-in-the-kitchen\|2021-03-26-executive-dysfunction-in-the-kitchen]]: 4 Easy Solutions for Executive Dysfunction in the Kitchen
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-04-09-2-ways-to-clean-with-executive-dysfunction\|2021-04-09-2-ways-to-clean-with-executive-dysfunction]]: 2 ways to clean with executive dysfunction
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-04-23-the-cleaning-mindset\|2021-04-23-the-cleaning-mindset]]: The cleaning mindset
+- [[10-19 💢 Bardacht/15 Blog/Blog 2022/2022-01-31-how-to-keep-a-setback-from-becoming-a-reset\|2022-01-31-how-to-keep-a-setback-from-becoming-a-reset]]: How to Keep a Setback from becoming a Reset
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/H is for Haunted House\|H is for Haunted House]]: H is for Haunted House In-A-Box
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/Q is for Quark\|Q is for Quark]]: Q is for Quark
 - [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|16 Podcast]]: 📌 Ex-Gifted Podcast
+- [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]]: Lenormand Cards
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-04-02-there-is-no-try\|2021-04-02-there-is-no-try]]: There is No Try
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes\|2021-04-16-adulting-is-hard-part-1-laundry-and-dishes]]: Adulting is Hard part 1: Laundry and Dishes
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-04-30-procrastinate-productively\|2021-04-30-procrastinate-productively]]: Procrastinate Productively
