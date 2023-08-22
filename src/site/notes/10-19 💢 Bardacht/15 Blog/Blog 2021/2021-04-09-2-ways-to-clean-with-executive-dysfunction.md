@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Blog 2021/2021-04-09-2-ways-to-clean-with-executive-dysfunction.md","permalink":"/blog/blog-2021/2021-04-09-2-ways-to-clean-with-executive-dysfunction/","title":"2 ways to clean with executive dysfunction","tags":["organization","household"],"noteIcon":"","created":"","updated":"2023-08-15T21:05:16.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Blog 2021/2021-04-09-2-ways-to-clean-with-executive-dysfunction.md","permalink":"/blog/blog-2021/2021-04-09-2-ways-to-clean-with-executive-dysfunction/","title":"2 ways to clean with executive dysfunction","tags":["organization","household"],"noteIcon":"","created":"","updated":"2023-08-15T21:05:16.773-04:00"}
 ---
 
 
