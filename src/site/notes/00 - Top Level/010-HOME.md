@@ -18,6 +18,7 @@
 { .block-language-dataview}
 
 ### Recently Updated
+- [[10-19 💢 Bardacht/15 Blog/15 Blog\|15 Blog]]: 📌 Blog
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-04-02-there-is-no-try\|2021-04-02-there-is-no-try]]: There is No Try
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes\|2021-04-16-adulting-is-hard-part-1-laundry-and-dishes]]: Adulting is Hard part 1: Laundry and Dishes
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-04-30-procrastinate-productively\|2021-04-30-procrastinate-productively]]: Procrastinate Productively
