@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"lenormand","permalink":"/lenormand/","title":"Lenormand Cards","tags":["learninpublic"],"noteIcon":"","created":"2023-08-22T17:01:12","updated":"2023-08-22T17:34:31.804-04:00"}
+{"dg-publish":true,"dg-permalink":"lenormand","permalink":"/lenormand/","title":"Lenormand Cards","tags":["learninpublic"],"noteIcon":"","created":"2023-08-22T17:01:12","updated":"2023-08-22T17:35:08.601-04:00"}
 ---
 
 
