@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Using Obsidian/plugins.md","permalink":"/using-obsidian/plugins/","title":"plugins","noteIcon":"","created":"2023-07-08","updated":"2023-07-27T19:50:37.464-04:00"}
+{"dg-publish":true,"permalink":"/60-69-dialann/68-using-obsidian/plugins/","title":"plugins","noteIcon":"","created":"2023-07-08","updated":"2023-07-27T19:50:37.464-04:00"}
 ---
 
 Will update on more details, but for now here's some screenshots showing the plugins I currently have installed and enabled
