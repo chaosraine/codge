@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"My life in threads.md","dg-permalink":"threads","permalink":"/threads/","tags":["website"],"noteIcon":"","created":"2023-08-24T13:02:37","updated":"2023-08-25T08:16:16.100-04:00"}
+{"dg-publish":true,"dg-path":"60-69 〰️ Dialann/My life in threads.md","dg-permalink":"threads","permalink":"/threads/","tags":["website"],"noteIcon":"","created":"2023-08-24T13:02:37","updated":"2023-08-25T08:23:46.000-04:00"}
 ---
 
 
@@ -16,7 +16,7 @@ After working with them for a while, I started calling my strings *"threads"* an
 The very first draft of my threads, drawn hastily into my [[60-69 〰️ Dialann/66 Supplies & Strategies/Hobonichi\|Hobonichi]] weeks in the middle of July 2022. 
 
 Each thread gets woven together with the other important things in my life, and anything that isn't connected doesn't really matter to me, so it doesn't get prioritized. On purpose.
-[[Making Meaning\|Making Meaning]]
+[[40-49 🔅 Sláinte/49 Epic Minimalism/The meaning of life\|The meaning of life]]
 
 ## Making meaning
 
@@ -32,7 +32,7 @@ Thinking of my life as a story lowered the stakes, and made it more fun while al
 *But back to the threads:*
 When I connected the dots, or the threads, the one that kept coming up, connecting to every single thing else was storytelling. I share stories to my kids, I write stories in my journals, I create and consume stories through gaming. Storytelling is a major part of my magical craft. It's fundamental to my mental health.
 
-It is central to everything I do. Stories - both given and received - are my life's purpose. 
+It is central to everything I do. Stories - both given and received - are [[40-49 🔅 Sláinte/49 Epic Minimalism/The meaning of life\|my life's purpose]]. 
 
 ## Making magic
 
