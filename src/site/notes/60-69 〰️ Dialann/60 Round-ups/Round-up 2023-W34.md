@@ -13,7 +13,7 @@ Plus a little bit of getting started [[Learning in Public\|Learning in Public]] 
 | Date                 | Status  | Cover                                | Title                                                                                   | Summary                                                     |
 | -------------------- | ------- | ------------------------------------ | --------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | August 22, 2023 17:1 | sprout  | ![](https://i.imgur.com/oalw6MG.jpg) | [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]] | A brief introduction to what Lenormand is and how it's used |
-| August 24, 2023 13:2 | sapling | ![]()                                | [[60-69 〰️ Dialann/67 Website/My life in threads\|My life in threads]]               | \-                                                          |
+| August 24, 2023 13:2 | sapling | ![](https://i.imgur.com/7JdhQxj.jpg) | [[60-69 〰️ Dialann/67 Website/My life in threads\|My life in threads]]               | \-                                                          |
 
 { .block-language-dataview}
 
