@@ -12,9 +12,9 @@
   Find general advice about building systems to keep your mind, time, and space organized, but in a way that works for your chaotic brain.
 
 ## [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|New This Week]]
-| Date                 | Status | Cover                                       | Title                                                                                   | Description |
-| -------------------- | ------ | ------------------------------------------- | --------------------------------------------------------------------------------------- | ----------- |
-| August 22, 2023 17:1 | \-     | ![Cover]("https://i.imgur.com/oalw6MG.jpg") | [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]] | \-          |
+| Date                 | Status | Cover                                     | Title                                                                                   | Description |
+| -------------------- | ------ | ----------------------------------------- | --------------------------------------------------------------------------------------- | ----------- |
+| August 22, 2023 17:1 | sprout | ![Cover](https://i.imgur.com/oalw6MG.jpg) | [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]] | \-          |
 
 { .block-language-dataview}
 
