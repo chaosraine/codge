@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"lenormand","permalink":"/lenormand/","title":"Lenormand Cards","tags":["learninpublic"],"noteIcon":"","created":"2023-08-22T17:01:12","updated":"2023-08-22T17:35:08.601-04:00"}
+{"dg-publish":true,"dg-permalink":"lenormand","permalink":"/lenormand/","title":"Lenormand Cards","tags":["learninpublic"],"noteIcon":"","created":"2023-08-22T17:01:12","updated":"2023-08-24T22:37:48.662-04:00"}
 ---
 
+
+![](https://i.imgur.com/oalw6MG.jpg)
+The [Arcana Iris Sacra Lenormand deck](https://labyrinthos.co/collections/lenormand-cards/products/arcana-iris-sacra-lenormand-deck) from Labyrinthos.co
 
 Like Tarot, Lenormand is a *type* of #divination cards. 
 
