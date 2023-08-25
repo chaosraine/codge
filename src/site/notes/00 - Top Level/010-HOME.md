@@ -12,13 +12,15 @@
   Find general advice about building systems to keep your mind, time, and space organized, but in a way that works for your chaotic brain.
 
 ## [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|New This Week]]
-| Date                 | Status | Cover        | Title                                                                                   | Description |
-| -------------------- | ------ | ------------ | --------------------------------------------------------------------------------------- | ----------- |
-| August 22, 2023 17:1 | \-     | ![Cover](\-) | [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]] | \-          |
+| Date                 | Status | Cover                                       | Title                                                                                   | Description |
+| -------------------- | ------ | ------------------------------------------- | --------------------------------------------------------------------------------------- | ----------- |
+| August 22, 2023 17:1 | \-     | ![Cover]("https://i.imgur.com/oalw6MG.jpg") | [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]] | \-          |
 
 { .block-language-dataview}
 
 ### Recently Updated
+- [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]]: Lenormand Cards
+- [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|60 Round-ups]]: What's new this week
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W34\|Round-up 2023-W34]]: Round-up for 2023 W34
 - [[the move outline\|the move outline]]: Moving Sucks
 - [[10-19 💢 Bardacht/15 Blog/15 Blog\|15 Blog]]: 📌 Blog
@@ -31,7 +33,6 @@
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/H is for Haunted House\|H is for Haunted House]]: H is for Haunted House In-A-Box
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/Q is for Quark\|Q is for Quark]]: Q is for Quark
 - [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|16 Podcast]]: 📌 Ex-Gifted Podcast
-- [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]]: Lenormand Cards
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-04-02-there-is-no-try\|2021-04-02-there-is-no-try]]: There is No Try
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes\|2021-04-16-adulting-is-hard-part-1-laundry-and-dishes]]: Adulting is Hard part 1: Laundry and Dishes
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-04-30-procrastinate-productively\|2021-04-30-procrastinate-productively]]: Procrastinate Productively
