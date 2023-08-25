@@ -1,25 +1,27 @@
 ---
-{"dg-publish":true,"dg-path":"Round-ups/Round-up 2023-W34.md","dg-permalink":"2023-W34-roundup","permalink":"/2023-W34-roundup/","title":"Round-up for 2023 W34","contentClasses":"cards cards-1-1","noteIcon":"","created":"2023-08-24T07:47:36","updated":"2023-08-24T22:41:00.101-04:00"}
+{"dg-publish":true,"dg-path":"Round-ups/Round-up 2023-W34.md","dg-permalink":"2023-W34-roundup","permalink":"/2023-W34-roundup/","title":"Round-up for 2023 W34","contentClasses":"cards cards-1-1","noteIcon":"","created":"2023-08-24T07:47:36","updated":"2023-08-25T08:14:59.606-04:00"}
 ---
 
 # This Week
 
-An introduction to the system I've been using to organize all the different types of things in my life: [[My life in threads\|Threads.]]
+An introduction to the system I've been using to organize all the different types of things in my life: [[60-69 〰️ Dialann/67 Website/My life in threads\|Threads.]]
 Plus a little bit of getting started [[Learning in Public\|Learning in Public]] when it comes to [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]].
 ## Events
 - Coworking Thursday August 24 at 12:30 EDT [Join in on Discord](https://discord.com/events/619256988303622144/1144235838742474762)
 ## New this week
 
-| Date                 | Status | Cover                                | Title                                                                                   | Summary                                                     |
-| -------------------- | ------ | ------------------------------------ | --------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| August 22, 2023 17:1 | sprout | ![](https://i.imgur.com/oalw6MG.jpg) | [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]] | A brief introduction to what Lenormand is and how it's used |
+| Date                 | Status  | Cover                                | Title                                                                                   | Summary                                                     |
+| -------------------- | ------- | ------------------------------------ | --------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| August 22, 2023 17:1 | sprout  | ![](https://i.imgur.com/oalw6MG.jpg) | [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]] | A brief introduction to what Lenormand is and how it's used |
+| August 24, 2023 13:2 | sapling | ![]()                                | [[60-69 〰️ Dialann/67 Website/My life in threads\|My life in threads]]               | \-                                                          |
 
 { .block-language-dataview}
 
 ## Recently Updated
+- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W34\|Round-up for 2023 W34]]
+- [[60-69 〰️ Dialann/67 Website/My life in threads\|My life in threads]]
 - [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]]
 - [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|What's new this week]]
-- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W34\|Round-up for 2023 W34]]
 - [[the move outline\|Moving Sucks]]
 - [[10-19 💢 Bardacht/15 Blog/15 Blog\|📌 Blog]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-08-what-is-executive-dysfunction\|What is Executive Dysfunction? Learn 20+ ways it can wreak havoc on your life]]
