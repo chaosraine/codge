@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Round-ups/Round-up 2023-W30.md","dg-permalink":"2023-W30-roundup","permalink":"/2023-W30-roundup/","title":"Round-up for 2023 W30","contentClasses":"cards cards-1-1","noteIcon":"","created":"2023-07-30T23:33:22","updated":"2023-08-03T16:59:41.501-04:00"}
+{"dg-publish":true,"dg-permalink":"2023-W30-roundup","permalink":"/2023-W30-roundup/","title":"Round-up for 2023 W30","contentClasses":"cards cards-1-1","noteIcon":"","created":"2023-07-30T23:33:22","updated":"2023-08-03T16:59:41.501-04:00"}
 ---
 
 
@@ -14,25 +14,25 @@ Moving over a bunch of podcasts this week!
 { .block-language-dataview}
 
 ## Recently Updated
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/D is for Día de Muertos\|D is for Día de Muertos]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/E is for Eerie\|E is for Eerie]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/F is for Frankenstein\|F is for Frankenstein OR The Girl who invented sci-fi]]
-- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/D is for Día de Muertos\|D is for Día de Muertos]]
-- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/K is for Karaoke\|K is for Karaoke ~ a Halloween Sing-along!]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/G is for the Great Pumpkin\|G is for the Great Pumpkin]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/K is for Karaoke\|K is for Karaoke ~ a Halloween Sing-along!]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/L is for the Legend of Sleepy Hollow\|L is for the Legend of Sleepy Hollow]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/P is for the Pumpkin Patch\|P is for the Pumpkin Patch!]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/Y is for Yeti\|Y is for Yeti]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/Z is for Zombies\|Z is for Zombies]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/X is for X-Rays\|X is for X-Rays]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-03-16-ex-gifted-trailer\|Ex-Gifted Trailer]]
+- [[40-49 🔅 Sláinte/40 Thoughts & Ideas/Limiting Beliefs\|limiting beliefs]]
 - [[60-69 〰️ Dialann/66 Supplies & Strategies/Hobonichi\|Hobonichi Techo]]
+- [[60-69 〰️ Dialann/68 Using Obsidian/Aliases\|Aliases]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/Formatting\|formatting]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian\|Obsidian]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/plugins\|plugins]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/recursive learning\|recursive learning]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/second brain\|second brain]]
-- [[60-69 〰️ Dialann/68 Using Obsidian/Aliases\|Aliases]]
-- [[40-49 🔅 Sláinte/40 Thoughts & Ideas/Limiting Beliefs\|limiting beliefs]]
 
 { .block-language-dataview}
 
