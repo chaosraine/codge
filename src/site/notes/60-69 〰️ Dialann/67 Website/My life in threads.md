@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"My life in threads.md","dg-permalink":"threads","permalink":"/threads/","tags":["website"],"noteIcon":"","created":"2023-08-24T13:02:37","updated":"2023-08-25T00:43:11.879-04:00"}
+{"dg-publish":true,"dg-path":"My life in threads.md","dg-permalink":"threads","permalink":"/threads/","tags":["website"],"noteIcon":"","created":"2023-08-24T13:02:37","updated":"2023-08-25T08:16:16.100-04:00"}
 ---
 
 
