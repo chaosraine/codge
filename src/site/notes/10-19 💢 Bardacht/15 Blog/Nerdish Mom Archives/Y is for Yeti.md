@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/Y is for Yeti.md","permalink":"/blog/nerdish-mom-archives/y-is-for-yeti/","title":"Y is for Yeti","tags":["homeschool"],"noteIcon":"","created":"","updated":"2023-07-28T16:05:35.234-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/Y is for Yeti.md","permalink":"/blog/nerdish-mom-archives/y-is-for-yeti/","title":"Y is for Yeti","tags":["homeschool"],"noteIcon":"","created":"","updated":"2023-07-28T16:05:35.000-04:00"}
 ---
 
 
