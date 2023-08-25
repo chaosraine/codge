@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"60-69 〰️ Dialann/My life in threads.md","dg-permalink":"threads","permalink":"/threads/","tags":["website"],"noteIcon":"","created":"2023-08-24T13:02:37","updated":"2023-08-25T11:59:52.292-04:00"}
+{"dg-publish":true,"dg-path":"60-69 〰️ Dialann/My life in threads.md","dg-permalink":"threads","permalink":"/threads/","tags":["website"],"noteIcon":"","created":"2023-08-24T13:02:37","updated":"2023-08-25T12:00:48.857-04:00"}
 ---
 
 
@@ -64,7 +64,7 @@ The Threads definitely don't contain every possibility, but for me, that's a str
 
 Everyone has to [[40-49 🔅 Sláinte/49 Epic Minimalism/The meaning of life\|make their own meaning]].
 
-## Yeah fine but what do you actually DO with it?
+## Yeah fine but what can you actually DO with it?
 
 There's a lot you can do with it. 
 - Keep track of time spent in each thread to see what you need more of in your life (for me it's usually ➿súdgradh - games)
@@ -73,3 +73,4 @@ There's a lot you can do with it.
 - Judge whether something is worth doing by seeing if it weaves into your threads nicely (something that works into multiple threads is even better than something that fits neatly into a single bucket)
 - Use it with role-planning! Since attributes are meant to measure how strong we are in a certain area, the threads correspond to ways to level up each attribute *that are personally meaningful to you.* The attributes themselves govern why you need certain kinds of experience, but your own individual threads will dictate *how* you want to get experience. 
 - Stop focusing on what you *should* do and instead focus on what actually improves your life (note: even if it's not always fun in the moment, like cleaning)
+- Introspect
