@@ -13,7 +13,6 @@ Final launch is next week
 { .block-language-dataview}
 
 ## Recently Updated
-- [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|What's new this week]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W27\|Round-up for 2023 W27]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W32\|Round-up for 2023 W32]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/linking your thinking\|linking your thinking]]
