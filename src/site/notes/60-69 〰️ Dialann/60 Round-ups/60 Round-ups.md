@@ -1,17 +1,26 @@
 ---
-{"dg-publish":true,"dg-path":"Round-ups/60 Round-ups.md","dg-permalink":"roundup","permalink":"/roundup/","title":"What's new this week","pinned":true,"contentClasses":"cards cards-1-1","noteIcon":"","created":"","updated":"2023-08-13T09:22:05.216-04:00"}
+{"dg-publish":true,"dg-path":"Round-ups/60 Round-ups.md","dg-permalink":"roundup","permalink":"/roundup/","title":"What's new this week","pinned":true,"contentClasses":"cards cards-1-1","noteIcon":"","created":"","updated":"2023-08-24T08:12:13.043-04:00"}
 ---
 
 
 ## New this week
 
-| Date                 | Status | Cover        | Title                                                                                   | Description |
-| -------------------- | ------ | ------------ | --------------------------------------------------------------------------------------- | ----------- |
-| August 22, 2023 17:1 | \-     | ![Cover](\-) | [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]] | \-          |
+| Date                  | Status    | Cover                                                                                                                                                                                                                                        | Title                                                                                              | Description |
+| --------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------- |
+| August 17, 2023 13:45 | sprout    | ![Cover](https://images.unsplash.com/photo-1591426508941-2f92736f5ff4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwyMnx8Z2FyZGVufGVufDB8MHx8fDE2OTI0ODM3MzB8MA&ixlib=rb-4.0.3&q=80&w=400)                         | [[Digital Garden\|Digital Garden]]                                                              | \-          |
+| August 17, 2023 13:57 | seed      | ![Cover](https://images.unsplash.com/photo-1517842645767-c639042777db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwzMHx8bGVhcm5pbmd8ZW58MHwwfHx8MTY5MjU0OTY1MXww&ixlib=rb-4.0.3&q=80&w=400)                       | [[Learning in Public\|Learning in Public]]                                                      | \-          |
+| August 17, 2023 14:15 | sapling   | ![Cover](https://images.unsplash.com/photo-1505552613537-4aab9bf431c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxNTF8fHJvbGxpbmclMjBzb2NjZXIlMjBiYWxsfGVufDB8MHx8fDE2OTIyOTQwMzN8MA&ixlib=rb-4.0.3&q=80&w=400) | [[40-49 🔅 Sláinte/40 Thoughts & Ideas/How to Keep Things Rolling\|How to Keep Things Rolling]] | \-          |
+| August 17, 2023 15:16 | seed      | ![Cover](https://images.unsplash.com/photo-1615669527499-501446dd48e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw4fHxwYWlufGVufDB8MHx8fDE2OTI1NDc5OTV8MA&ixlib=rb-4.0.3&q=80&w=400)                             | [[discomfort tolerance\|discomfort tolerance]]                                                  | \-          |
+| August 17, 2023 15:20 | unstarted | ![Cover](https://images.unsplash.com/photo-1600725935160-f67ee4f6084a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw0fHxtb3Zpbmd8ZW58MHwwfHx8MTY5MjU0ODY4M3ww&ixlib=rb-4.0.3&q=80&w=400)                           | [[the move outline\|Moving Sucks]]                                                              | \-          |
+| August 20, 2023 12:15 | seed      | ![Cover](https://images.unsplash.com/photo-1624284220156-58886c574635?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwzN3x8YnJva2VuJTIwY2hhaW58ZW58MHwwfHx8MTY5MjU0ODAzNXww&ixlib=rb-4.0.3&q=80&w=400)               | [[broken links\|broken links]]                                                                  | \-          |
+| August 20, 2023 12:25 | seed      | ![Cover](https://images.unsplash.com/photo-1533582437341-dfdc01630b05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxfHxmcmljdGlvbnxlbnwwfDB8fHwxNjkyNTQ4ODE0fDA&ixlib=rb-4.0.3&q=80&w=400)                        | [[mental friction\|mental friction]]                                                            | \-          |
+| August 22, 2023 17:1  | \-        | ![Cover]("https://i.imgur.com/oalw6MG.jpg")                                                                                                                                                                                                  | [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]]            | \-          |
 
 { .block-language-dataview}
 
 ## Recently Updated
+- [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]]
+- [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|What's new this week]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W34\|Round-up for 2023 W34]]
 - [[the move outline\|Moving Sucks]]
 - [[10-19 💢 Bardacht/15 Blog/15 Blog\|📌 Blog]]
@@ -24,7 +33,6 @@
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/H is for Haunted House\|H is for Haunted House In-A-Box]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/Q is for Quark\|Q is for Quark]]
 - [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|📌 Ex-Gifted Podcast]]
-- [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-04-02-there-is-no-try\|There is No Try]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-04-16-adulting-is-hard-part-1-laundry-and-dishes\|Adulting is Hard part 1: Laundry and Dishes]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-04-30-procrastinate-productively\|Procrastinate Productively]]
@@ -57,11 +65,12 @@
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-06-03-sink-or-swim\|Sink or Swim]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-12-30-new-year-2023\|New Year and Realistic Resolve]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-07-12-so-you-wish-you-could-stick-with-a-planner\|So you wish you could stick with a planner?]]
+- [[Digital Garden\|Digital Garden]]
+- [[Learning in Public\|Learning in Public]]
+- [[broken links\|broken links]]
+- [[discomfort tolerance\|discomfort tolerance]]
+- [[mental friction\|mental friction]]
+- [[40-49 🔅 Sláinte/40 Thoughts & Ideas/How to Keep Things Rolling\|How to Keep Things Rolling]]
 
 { .block-language-dataview}
-
-
-
-
-
 
