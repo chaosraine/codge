@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"60-69 〰️ Dialann/My life in threads.md","dg-permalink":"threads","permalink":"/threads/","tags":["website"],"noteIcon":"","created":"2023-08-24T13:02:37","updated":"2023-08-25T11:59:16.955-04:00"}
+{"dg-publish":true,"dg-path":"60-69 〰️ Dialann/My life in threads.md","dg-permalink":"threads","permalink":"/threads/","tags":["website"],"noteIcon":"","created":"2023-08-24T13:02:37","updated":"2023-08-25T11:59:45.456-04:00"}
 ---
 
 
@@ -55,7 +55,7 @@ Yes, these are the containers I use for organizing my [[60-69 〰️ Dialann/68 
 
 I originally planned on keeping them kind of private, but I really don't want to. I hope you'll [let me know](mailto:raine@chaoticorganized.com) if the site is hard to navigate, but the website was already organized by my chaotic brain, so that was always a risk. Just remember that [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|the Roundup]] page has everything that has changed in the past week!
 
-### Not the constellation system
+### Not truly a system
 The biggest difference between my threads and Rachael's constellation system is in the name: she's developed a whole productivity system around her containers. Definitely go read the quick start guide linked above if you're into that sort of thing because her system is really cool.
 
 The second biggest thing though is in the buckets themselves. The constellation system uses 6 buckets that were designed in an attempt to collect every single thing a person could possible have to do in their life. A desire I can understand, especially if you're trying to generalize the system to work for everyone. 
