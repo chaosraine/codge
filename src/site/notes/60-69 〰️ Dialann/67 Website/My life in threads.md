@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"60-69 〰️ Dialann/My life in threads.md","dg-permalink":"threads","permalink":"/threads/","tags":["website"],"noteIcon":"","created":"2023-08-24T13:02:37","updated":"2023-08-25T08:23:46.000-04:00"}
+{"dg-publish":true,"dg-path":"60-69 〰️ Dialann/My life in threads.md","dg-permalink":"threads","permalink":"/threads/","tags":["website"],"noteIcon":"","created":"2023-08-24T13:02:37","updated":"2023-08-25T11:59:16.955-04:00"}
 ---
 
 
@@ -62,7 +62,7 @@ The second biggest thing though is in the buckets themselves. The constellation 
 
 The Threads definitely don't contain every possibility, but for me, that's a strength. If something doesn't fit, it's a clue that I might be wasting my time on something that isn't important. (It's also possible the system needs a tweak.) My threads are not supposed to work for anyone but me. They won't even work for my family members. It's personalized so that everyone has to build it from the ground up.
 
-Everyone has to make their own meaning.
+Everyone has to [[40-49 🔅 Sláinte/49 Epic Minimalism/The meaning of life\|make their own meaning]].
 
 ## Yeah fine but what do you actually DO with it?
 
