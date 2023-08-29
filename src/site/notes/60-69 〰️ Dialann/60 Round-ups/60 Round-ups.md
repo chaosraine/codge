@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"roundup","permalink":"/roundup/","title":"What's new this week","pinned":true,"contentClasses":"cards cards-1-1","noteIcon":"","created":"","updated":"2023-08-28T22:12:46.043-04:00"}
+{"dg-publish":true,"dg-path":"60-69 〰️ Admin/60 Round-ups/60 Round-ups.md","dg-permalink":"roundup","permalink":"/roundup/","title":"What's new this week","pinned":true,"contentClasses":"cards cards-1-1","noteIcon":"","created":"","updated":"2023-08-28T22:12:46.043-04:00"}
 ---
 
 
