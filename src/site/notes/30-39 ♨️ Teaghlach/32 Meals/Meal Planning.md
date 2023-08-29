@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"meals-moc","permalink":"/meals-moc/","title":"Meal Planning","tags":["executive-dysfunction","kitchen"],"noteIcon":"","created":"2023-08-28T11:58:08","updated":"2023-08-28T13:14:06.000-04:00"}
+{"dg-publish":true,"dg-permalink":"meals-moc","permalink":"/meals-moc/","title":"Meal Planning","pinned":true,"tags":["executive-dysfunction","kitchen"],"noteIcon":"","created":"2023-08-28T11:58:08","updated":"2023-08-28T22:16:03.886-04:00"}
 ---
 
 
