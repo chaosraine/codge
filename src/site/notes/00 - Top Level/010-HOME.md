@@ -34,6 +34,8 @@
 - [[30-39 ♨️ Teaghlach/32 Meals/Meal Planning\|Meal Planning]]: Meal Planning
 - [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry- A minimalist meal plan\|Capsule Pantry- A minimalist meal plan]]: Capsule Pantry
 - [[30-39 ♨️ Teaghlach/32 Meals/Recipes/Red Beans and Rice\|Red Beans and Rice]]: 
+- [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|60 Round-ups]]: What's new this week
+- [[60-69 〰️ Dialann/67 Website/My life in threads\|My life in threads]]: 
 
 { .block-language-dataview}
 
