@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"capsule-pantry-4","permalink":"/capsule-pantry-4/","noteIcon":"","created":"2023-08-28T13:12:48","updated":"2023-08-28T22:23:08.080-04:00"}
+{"dg-publish":true,"dg-path":"30-39 ♨️ Household/32 Meals/Capsule Pantry 4 - Variety.md","dg-permalink":"capsule-pantry-4","permalink":"/capsule-pantry-4/","noteIcon":"","created":"2023-08-28T13:12:48","updated":"2023-08-28T22:23:08.080-04:00"}
 ---
 
 
