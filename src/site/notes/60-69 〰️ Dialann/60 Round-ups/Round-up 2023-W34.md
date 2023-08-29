@@ -10,20 +10,18 @@ Plus a little bit of getting started [[Learning in Public\|Learning in Public]] 
 - Coworking Thursday August 24 at 12:30 EDT [Join in on Discord](https://discord.com/events/619256988303622144/1144235838742474762)
 ## New this week
 
-| Date                 | Status    | Cover                                | Title                                                                                   | Summary                                                     |
-| -------------------- | --------- | ------------------------------------ | --------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| August 22, 2023 17:1 | sprout    | ![](https://i.imgur.com/oalw6MG.jpg) | [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]] | A brief introduction to what Lenormand is and how it's used |
-| August 24, 2023 13:2 | sapling   | ![](https://i.imgur.com/7JdhQxj.jpg) | [[60-69 〰️ Dialann/67 Website/My life in threads\|My life in threads]]               | \-                                                          |
-| August 25, 2023 8:25 | unstarted | ![]()                                | [[40-49 🔅 Sláinte/49 Epic Minimalism/The meaning of life\|The meaning of life]]     | \-                                                          |
+| Date                 | Status    | Cover                                | Title                                                                                   | Summary                                                                   |
+| -------------------- | --------- | ------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| August 22, 2023 17:1 | sprout    | ![](https://i.imgur.com/oalw6MG.jpg) | [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]] | A brief introduction to what Lenormand is and how it's used               |
+| August 24, 2023 13:2 | sapling   | ![](https://i.imgur.com/7JdhQxj.jpg) | [[60-69 〰️ Dialann/67 Website/My life in threads\|My life in threads]]               | The pieces that weave together to form everything that matters in my life |
+| August 25, 2023 8:25 | unstarted | ![]()                                | [[40-49 🔅 Sláinte/49 Epic Minimalism/The meaning of life\|The meaning of life]]     | \-                                                                        |
 
 { .block-language-dataview}
 
 ## Recently Updated
 - [[40-49 🔅 Sláinte/49 Epic Minimalism/The meaning of life\|The meaning of life]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W34\|Round-up for 2023 W34]]
-- [[60-69 〰️ Dialann/67 Website/My life in threads\|My life in threads]]
 - [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]]
-- [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|What's new this week]]
 - [[the move outline\|Moving Sucks]]
 - [[10-19 💢 Bardacht/15 Blog/15 Blog\|📌 Blog]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-08-what-is-executive-dysfunction\|What is Executive Dysfunction? Learn 20+ ways it can wreak havoc on your life]]
