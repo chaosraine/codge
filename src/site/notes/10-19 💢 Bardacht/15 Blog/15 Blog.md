@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/15 Blog.md","dg-permalink":"blog","permalink":"/blog/","title":"📌 Blog","pinned":true,"contentClasses":"cards cards-1-1","noteIcon":"","created":"","updated":"2023-08-22T07:49:26.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/15 Blog.md","dg-permalink":"blog","permalink":"/blog/","title":"📌 Blog","pinned":true,"contentClasses":"cards cards-1-1","noteIcon":"","created":"","updated":"2023-08-22T07:49:26.032-04:00"}
 ---
 
 
 | Cover                                          | Title                                                                                                                                                                                             | Published  |
 | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| ![cover\|200]()                                | [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry- A minimalist meal plan\|Capsule Pantry]]                                                                                                         | 2023-08-04 |
 | ![cover\|200](\-)                              | [[10-19 💢 Bardacht/15 Blog/Blog 2022/2022-01-31-how-to-keep-a-setback-from-becoming-a-reset\|How to Keep a Setback from becoming a Reset]]                                                    | 2022-01-31 |
 | ![cover\|200](IMG_3885-scaled.jpg)             | [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-09-14-enough-a-socratic-dialog\|Enough: A Socratic Dialog]]                                                                                         | 2021-09-14 |
 | ![cover\|200](https://i.imgur.com/MHjFnlz.png) | [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-04-23-the-cleaning-mindset\|The cleaning mindset]]                                                                                                  | 2021-04-23 |
