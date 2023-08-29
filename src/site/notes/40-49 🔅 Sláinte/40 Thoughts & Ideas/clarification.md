@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-slainte/40-thoughts-and-ideas/clarification/","title":"Clarification","tags":["obsidian"],"noteIcon":"","created":"2023-08-08T11:15:56","updated":"2023-08-08T11:20:39.000-04:00"}
+{"dg-publish":true,"dg-path":"40-49 🔅 Health/40 Thoughts & Ideas/clarification.md","permalink":"/40-49-health/40-thoughts-and-ideas/clarification/","title":"Clarification","tags":["obsidian"],"noteIcon":"","created":"2023-08-08T11:15:56","updated":"2023-08-08T11:20:39.000-04:00"}
 ---
 
 
