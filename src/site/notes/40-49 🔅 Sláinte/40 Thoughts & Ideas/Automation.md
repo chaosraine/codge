@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-slainte/40-thoughts-and-ideas/automation/","title":"Automation","noteIcon":"","created":"2023-07-10T11:33:01","updated":"2023-08-17T15:28:18.139-04:00"}
+{"dg-publish":true,"dg-path":"40-49 🔅 Health/40 Thoughts & Ideas/Automation.md","permalink":"/40-49-health/40-thoughts-and-ideas/automation/","title":"Automation","noteIcon":"","created":"2023-07-10T11:33:01","updated":"2023-08-17T15:28:18.139-04:00"}
 ---
 
 
