@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"30-39 ♨️ Household/32 Meals/Recipes/Red Beans and Rice.md","dg-permalink":"red-beans-rice","permalink":"/red-beans-rice/","noteIcon":"","created":"2023-08-28T12:23:56","updated":"2023-08-28T22:19:11.646-04:00"}
+{"dg-publish":true,"dg-path":"30-39 ♨️ Household/32 Meals/Recipes/Red Beans and Rice.md","dg-permalink":"red-beans-rice","permalink":"/red-beans-rice/","noteIcon":"","created":"2023-08-28T12:23:56","updated":"2023-08-29T10:51:29.000-04:00"}
 ---
 
 
 # Red Beans and Rice
+https://www.allrecipes.com/recipe/278149/vegan-red-beans-and-rice/
+![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F966409.jpg&q=60&c=sc&orient=true&poi=auto&h=512)
 #recipes
 ## Ingredients
 -   1 (16 ounce) package dry red kidney beans 
@@ -42,4 +44,5 @@ The number of servings indicated is for eating as a main dish. As a side, it wil
 ## Nutrition Facts
 Per Serving: 436 calories; protein 20g; carbohydrates 76g; fat 6.5g; sodium 64.7mg.
 
-[[30-39 ♨️ Teaghlach/32 Meals/meal prep groceries\|meal prep groceries]]
+![[IMG_9656.jpeg]]
+*nutrition data from allrecipes*
