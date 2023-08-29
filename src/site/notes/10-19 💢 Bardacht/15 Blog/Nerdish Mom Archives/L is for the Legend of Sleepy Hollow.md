@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/L is for the Legend of Sleepy Hollow.md","permalink":"/blog/nerdish-mom-archives/l-is-for-the-legend-of-sleepy-hollow/","title":"L is for the Legend of Sleepy Hollow","tags":["homeschool"],"noteIcon":"","created":"","updated":"2023-07-28T17:13:40.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/L is for the Legend of Sleepy Hollow.md","permalink":"/blog/nerdish-mom-archives/l-is-for-the-legend-of-sleepy-hollow/","title":"L is for the Legend of Sleepy Hollow","tags":["homeschool"],"noteIcon":"","created":"","updated":"2023-07-28T17:13:40.079-04:00"}
 ---
 
 
