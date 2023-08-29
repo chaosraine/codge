@@ -17,7 +17,7 @@
 | August 28, 2023 11:58 | sapling   | ![Cover](https://images.unsplash.com/photo-1608354580394-f7961a034347?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw0MXx8bWVhbCUyMHByZXB8ZW58MHwwfHx8MTY5MzI0MjQ3OXww&ixlib=rb-4.0.3&q=80&w=400) | [[30-39 ♨️ Teaghlach/32 Meals/Meal Planning\|Meal Planning]]                                                       | \-          |
 | August 28, 2023 12:20 | tree      | ![Cover]()                                                                                                                                                                                                                 | [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry- A minimalist meal plan\|Capsule Pantry]]                             | \-          |
 | August 28, 2023 12:21 | unstarted | ![Cover]()                                                                                                                                                                                                                 | [[30-39 ♨️ Teaghlach/32 Meals/5-week meal plan\|5-week meal plan]]                                                 | \-          |
-| August 28, 2023 12:23 | unstarted | ![Cover](\-)                                                                                                                                                                                                               | [[30-39 ♨️ Teaghlach/32 Meals/Recipes/Red Beans and Rice\|Red Beans and Rice]]                                     | \-          |
+| August 28, 2023 12:23 | unstarted | ![Cover](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F966409.jpg&q=60&c=sc&orient=true&poi=auto&h=512)                                                        | [[30-39 ♨️ Teaghlach/32 Meals/Recipes/Red Beans and Rice\|Red Beans and Rice]]                                     | \-          |
 | August 28, 2023 13:11 | unstarted | ![Cover]()                                                                                                                                                                                                                 | [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 2 - Ingredients\|Capsule Pantry 2 - Ingredients]]                     | \-          |
 | August 28, 2023 13:12 | unstarted | ![Cover]()                                                                                                                                                                                                                 | [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 3 - Recipes\|Capsule Pantry 3 - Recipes]]                             | \-          |
 | August 28, 2023 13:12 | unstarted | ![Cover]()                                                                                                                                                                                                                 | [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 4 - Variety\|Capsule Pantry 4 - Variety]]                             | \-          |
@@ -26,6 +26,7 @@
 { .block-language-dataview}
 
 ### Recently Updated
+- [[30-39 ♨️ Teaghlach/32 Meals/Recipes/Red Beans and Rice\|Red Beans and Rice]]: 
 - [[30-39 ♨️ Teaghlach/32 Meals/5-week meal plan\|5-week meal plan]]: 
 - [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 2 - Ingredients\|Capsule Pantry 2 - Ingredients]]: 
 - [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 3 - Recipes\|Capsule Pantry 3 - Recipes]]: 
@@ -33,7 +34,6 @@
 - [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 4 - Variety\|Capsule Pantry 4 - Variety]]: 
 - [[30-39 ♨️ Teaghlach/32 Meals/Meal Planning\|Meal Planning]]: Meal Planning
 - [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry- A minimalist meal plan\|Capsule Pantry- A minimalist meal plan]]: Capsule Pantry
-- [[30-39 ♨️ Teaghlach/32 Meals/Recipes/Red Beans and Rice\|Red Beans and Rice]]: 
 - [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|60 Round-ups]]: What's new this week
 - [[60-69 〰️ Dialann/67 Website/My life in threads\|My life in threads]]: 
 
