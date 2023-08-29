@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"60-69 〰️ Dialann/Pages/2021-02-06-disclaimers.md","dg-permalink":"disclaimers","permalink":"/disclaimers/","title":"Disclaimers","noteIcon":"","created":"","updated":"2023-08-03T17:08:26.000-04:00"}
+{"dg-publish":true,"dg-path":"60-69 〰️ Admin/Pages/2021-02-06-disclaimers.md","dg-permalink":"disclaimers","permalink":"/disclaimers/","title":"Disclaimers","noteIcon":"","created":"","updated":"2023-08-03T17:08:26.000-04:00"}
 ---
 
 
