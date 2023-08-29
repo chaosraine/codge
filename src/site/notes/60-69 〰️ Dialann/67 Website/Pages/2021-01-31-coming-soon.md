@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"60-69 〰️ Dialann/Pages/2021-01-31-coming-soon.md","permalink":"/60-69-dialann/pages/2021-01-31-coming-soon/","title":"Let's talk about executive dysfunction in adults","tags":["executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-08-03T17:08:26.000-04:00"}
+{"dg-publish":true,"dg-path":"60-69 〰️ Admin/Pages/2021-01-31-coming-soon.md","permalink":"/60-69-admin/pages/2021-01-31-coming-soon/","title":"Let's talk about executive dysfunction in adults","tags":["executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-08-03T17:08:26.000-04:00"}
 ---
 
 
