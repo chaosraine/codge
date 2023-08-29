@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"capsule-pantry","permalink":"/capsule-pantry/","title":"Capsule Pantry","noteIcon":"","created":"2023-08-28T12:20:02","updated":"2023-08-28T22:17:24.508-04:00"}
+{"dg-publish":true,"dg-path":"30-39 ♨️ Household/32 Meals/Capsule Pantry- A minimalist meal plan.md","dg-permalink":"capsule-pantry","permalink":"/capsule-pantry/","title":"Capsule Pantry","noteIcon":"","created":"2023-08-28T12:20:02","updated":"2023-08-28T22:17:24.508-04:00"}
 ---
 
 
