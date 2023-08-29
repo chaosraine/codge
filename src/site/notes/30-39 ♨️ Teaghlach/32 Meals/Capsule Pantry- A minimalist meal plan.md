@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"capsule-pantry","permalink":"/capsule-pantry/","title":"Capsule Pantry","noteIcon":"","created":"2023-08-28T12:20:02","updated":"2023-08-28T12:20:09.000-04:00"}
+{"dg-publish":true,"dg-permalink":"capsule-pantry","permalink":"/capsule-pantry/","title":"Capsule Pantry","noteIcon":"","created":"2023-08-28T12:20:02","updated":"2023-08-28T22:17:24.508-04:00"}
 ---
 
 
