@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"red-beans-rice","permalink":"/red-beans-rice/","noteIcon":"","created":"2023-08-28T12:23:56","updated":"2023-08-28T12:24:02.000-04:00"}
+{"dg-publish":true,"dg-permalink":"red-beans-rice","permalink":"/red-beans-rice/","noteIcon":"","created":"2023-08-28T12:23:56","updated":"2023-08-28T22:19:11.646-04:00"}
 ---
 
 
