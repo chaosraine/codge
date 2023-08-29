@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"meals-moc","permalink":"/meals-moc/","title":"Meal Planning","pinned":true,"tags":["executive-dysfunction","kitchen"],"noteIcon":"","created":"2023-08-28T11:58:08","updated":"2023-08-28T22:16:03.886-04:00"}
+{"dg-publish":true,"dg-permalink":"meals-moc","permalink":"/meals-moc/","title":"Meal Planning","pinned":true,"tags":["executive-dysfunction","kitchen"],"noteIcon":"","created":"2023-08-28T11:58:08","updated":"2023-08-28T22:16:38.147-04:00"}
 ---
 
-
-- [ ] publish 📅 2023-08-31
 
 ## Table of Meals
 - ### [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-26-executive-dysfunction-in-the-kitchen\|Executive Dysfunction in the Kitchen]]
