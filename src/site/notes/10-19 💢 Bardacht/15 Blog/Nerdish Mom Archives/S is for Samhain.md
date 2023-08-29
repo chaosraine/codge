@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/S is for Samhain.md","permalink":"/blog/nerdish-mom-archives/s-is-for-samhain/","title":"S is for Samhain","tags":["homeschool"],"noteIcon":"","created":"","updated":"2023-07-12T22:27:31.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/S is for Samhain.md","permalink":"/blog/nerdish-mom-archives/s-is-for-samhain/","title":"S is for Samhain","tags":["homeschool"],"noteIcon":"","created":"","updated":"2023-07-12T22:27:31.014-04:00"}
 ---
 
 
