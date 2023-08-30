@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"30-39 ♨️ Household/32 Meals/Capsule Pantry- A minimalist meal plan.md","dg-permalink":"capsule-pantry","permalink":"/capsule-pantry/","title":"Capsule Pantry","noteIcon":"","created":"2023-08-28T12:20:02","updated":"2023-08-28T22:17:24.508-04:00"}
+{"dg-publish":true,"dg-path":"30-39 ♨️ Household/32 Meals/Capsule Pantry- A minimalist meal plan.md","dg-permalink":"capsule-pantry","permalink":"/capsule-pantry/","title":"Capsule Pantry","noteIcon":"","created":"2023-08-28T12:20:02","updated":"2023-08-29T20:46:47.506-04:00"}
 ---
+
 
 
 ## Mini-Blog Capsule Pantry- A minimalist meal plan
@@ -15,3 +16,10 @@ I already had meal templates, [which I've talked about before](https://nerdishmo
 We were dealing with the classic situation of looking at a fridge/pantry full to bursting of food and not being able to find anything to eat.
 
 But what I realized is that there are a few core things we all like and that we tend to have on hand: chicken, broccoli, eggs, cheese (and MANY more as you can see in the photo, but it is a fairly limited list compared to what we have now) so I thought....What if I designed a meal plan around that list - and ONLY that list? 
+
+
+
+
+
+
+*[Backlink](https://unsplash.com/photos/0b8NaL2CMaQ) | Photo by [Muradi](https://unsplash.com/@simuradi?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*
