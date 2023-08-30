@@ -17,11 +17,13 @@
 | August 28, 2023 13:12 | unstarted | ![Cover]()                                                                                                                                                                                                                 | [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 3 - Recipes\|Capsule Pantry 3 - Recipes]]                             | Capsule pantry part 3: choosing your common meal categories               |
 | August 28, 2023 13:12 | unstarted | ![Cover]()                                                                                                                                                                                                                 | [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 4 - Variety\|Capsule Pantry 4 - Variety]]                             | Capsule pantry part 4: adding in sufficient variety                       |
 | August 28, 2023 13:13 | unstarted | ![Cover]()                                                                                                                                                                                                                 | [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 5 - Tying it all together\|Capsule Pantry 5 - Tying it all together]] | Capsule pantry part 5: making it all work                                 |
+| August 29, 2023 20:26 | \-        | ![Cover]()                                                                                                                                                                                                                 | [[Getting around\|Getting around]]                                                                                 | \-                                                                        |
 
 { .block-language-dataview}
 
 ## Recently Updated
 - [[30-39 ♨️ Teaghlach/32 Meals/Recipes/Red Beans and Rice\|Red Beans and Rice]]
+- [[Getting around\|Getting around]]
 - [[30-39 ♨️ Teaghlach/32 Meals/5-week meal plan\|5-week meal plan]]
 - [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 2 - Ingredients\|Capsule Pantry 2 - Ingredients]]
 - [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 3 - Recipes\|Capsule Pantry 3 - Recipes]]
