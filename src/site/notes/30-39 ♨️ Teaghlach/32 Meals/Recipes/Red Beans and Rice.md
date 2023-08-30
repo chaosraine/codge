@@ -44,5 +44,5 @@ The number of servings indicated is for eating as a main dish. As a side, it wil
 ## Nutrition Facts
 Per Serving: 436 calories; protein 20g; carbohydrates 76g; fat 6.5g; sodium 64.7mg.
 
-![[IMG_9656.jpeg]]
+![IMG_9656.jpeg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/IMG_9656.jpeg)
 *nutrition data from allrecipes*
