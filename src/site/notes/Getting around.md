@@ -4,6 +4,8 @@
 
 ![](https://images.unsplash.com/photo-1621755313473-b9d6703e3291?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw5fHxjb21wYXNzfGVufDB8MHx8fDE2OTMzNTU1ODd8MA&ixlib=rb-4.0.3&h=200)
 ## Maps of Content
+- [[10-19 💢 Bardacht/15 Blog/15 Blog\|15 Blog]]
+- [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|16 Podcast]]
 - [[30-39 ♨️ Teaghlach/32 Meals/Meal Planning\|Meal Planning]]
 - [[Getting around\|Getting around]]
 
