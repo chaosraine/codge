@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"navigation","permalink":"/navigation/","contentClasses":"cards-1-1","noteIcon":"","created":"2023-08-29T20:26:26","updated":"2023-08-29T20:38:03.795-04:00"}
+{"dg-publish":true,"dg-permalink":"navigation","permalink":"/navigation/","title":"Navigation","contentClasses":"cards-1-1 cards","noteIcon":"","created":"2023-08-29T20:26:26","updated":"2023-08-29T20:41:42.668-04:00"}
 ---
 
 ![](https://images.unsplash.com/photo-1621755313473-b9d6703e3291?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw5fHxjb21wYXNzfGVufDB8MHx8fDE2OTMzNTU1ODd8MA&ixlib=rb-4.0.3&h=200)
@@ -8,7 +8,7 @@
 - [[Getting around\|Getting around]]
 
 { .block-language-dataview}
-
+These are Tables of Contents on assorted topics. I will add more as I build out the library of content.
 
 ## What's new
 
@@ -25,7 +25,7 @@ Find all the new changes this week in the current [[60-69 〰️ Dialann/60 Roun
 | August 28, 2023 13:12 | unstarted | ![Cover]()                                                                                                                                                                                                                 | [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 3 - Recipes\|Capsule Pantry 3 - Recipes]]                             | Capsule pantry part 3: choosing your common meal categories               |
 | August 28, 2023 13:12 | unstarted | ![Cover]()                                                                                                                                                                                                                 | [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 4 - Variety\|Capsule Pantry 4 - Variety]]                             | Capsule pantry part 4: adding in sufficient variety                       |
 | August 28, 2023 13:13 | unstarted | ![Cover]()                                                                                                                                                                                                                 | [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 5 - Tying it all together\|Capsule Pantry 5 - Tying it all together]] | Capsule pantry part 5: making it all work                                 |
-| August 29, 2023 20:26 | \-        | ![Cover](https://images.unsplash.com/photo-1621755313473-b9d6703e3291?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw5fHxjb21wYXNzfGVufDB8MHx8fDE2OTMzNTU1ODd8MA&ixlib=rb-4.0.3&q=80&w=400)       | [[Getting around\|Getting around]]                                                                                 | \-                                                                        |
+| August 29, 2023 20:26 | \-        | ![Cover](https://images.unsplash.com/photo-1621755313473-b9d6703e3291?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw5fHxjb21wYXNzfGVufDB8MHx8fDE2OTMzNTU1ODd8MA&ixlib=rb-4.0.3&q=80&w=400)       | [[Getting around\|Navigation]]                                                                                     | \-                                                                        |
 
 { .block-language-dataview}
 ## Graph View
