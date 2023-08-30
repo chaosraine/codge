@@ -27,6 +27,8 @@
 { .block-language-dataview}
 
 ### Recently Updated
+- [[10-19 💢 Bardacht/15 Blog/15 Blog\|15 Blog]]: 📌 Blog
+- [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|16 Podcast]]: 📌 Ex-Gifted Podcast
 - [[30-39 ♨️ Teaghlach/32 Meals/Recipes/Red Beans and Rice\|Red Beans and Rice]]: 
 - [[Getting around\|Getting around]]: Navigation
 - [[30-39 ♨️ Teaghlach/32 Meals/5-week meal plan\|5-week meal plan]]: 
