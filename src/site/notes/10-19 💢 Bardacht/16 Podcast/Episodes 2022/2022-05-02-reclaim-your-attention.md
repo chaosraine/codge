@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-05-02-reclaim-your-attention.md","permalink":"/ex-gifted/episodes-2022/2022-05-02-reclaim-your-attention/","title":"Reclaim your Attention","tags":["self-coaching","health/mental-health"],"noteIcon":"","created":"","updated":"2023-08-21T09:30:17.000-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-05-02-reclaim-your-attention.md","permalink":"/ex-gifted/episodes-2022/2022-05-02-reclaim-your-attention/","title":"Reclaim your Attention","tags":["self-coaching","health/mental-health"],"noteIcon":"","created":"","updated":"2023-08-21T09:30:17.132-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-04-15-moving-through-molasses-april-doldrums\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-05-09-how-to-do-stuff-you-dont-want-to-do\|NEXT>>]]
