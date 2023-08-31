@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-12-03-prevent-burnout-by-going-dormant.md","dg-permalink":"ex-gifted-going-dormant","permalink":"/ex-gifted-going-dormant/","title":"Prevent Burnout by Going Dormant","tags":["health/mental-health"],"noteIcon":"","created":"","updated":"2023-08-21T09:27:52.000-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-12-03-prevent-burnout-by-going-dormant.md","dg-permalink":"ex-gifted-going-dormant","permalink":"/ex-gifted-going-dormant/","title":"Prevent Burnout by Going Dormant","tags":["health/mental-health"],"noteIcon":"","created":"","updated":"2023-08-21T09:27:52.309-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-11-19-actually-you-can-meditate\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-12-17-your-self-choose-your-own-adventure\|NEXT>>]]
