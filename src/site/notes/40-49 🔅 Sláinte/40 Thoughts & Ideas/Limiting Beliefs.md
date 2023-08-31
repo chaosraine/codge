@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"40-49 🔅 Health/40 Thoughts & Ideas/Limiting Beliefs.md","permalink":"/40-49-health/40-thoughts-and-ideas/limiting-beliefs/","title":"limiting beliefs","noteIcon":"","created":"2023-07-10T13:24:34","updated":"2023-07-27T21:20:14.715-04:00"}
+{"dg-publish":true,"dg-path":"40-49 🔅 Health/40 Thoughts & Ideas/Limiting Beliefs.md","permalink":"/40-49-health/40-thoughts-and-ideas/limiting-beliefs/","title":"limiting beliefs","noteIcon":"","created":"2023-07-10T13:24:34","updated":"2023-07-27T21:20:14.000-04:00"}
 ---
 
 
