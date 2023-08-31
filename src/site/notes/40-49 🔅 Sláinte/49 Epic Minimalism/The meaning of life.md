@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"40-49 🔅 Health/49 Epic Minimalism/The meaning of life.md","dg-permalink":"meaning","permalink":"/meaning/","noteIcon":"","created":"2023-08-25T08:25:29","updated":"2023-08-25T08:26:57.882-04:00"}
+{"dg-publish":true,"dg-path":"40-49 🔅 Health/49 Epic Minimalism/The meaning of life.md","dg-permalink":"meaning","permalink":"/meaning/","noteIcon":"","created":"2023-08-25T08:25:29","updated":"2023-08-25T08:26:57.000-04:00"}
 ---
 
 
