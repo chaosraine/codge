@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"30-39 ♨️ Household/32 Meals/Capsule Pantry 2 - Ingredients.md","dg-permalink":"capsule-pantry-2","permalink":"/capsule-pantry-2/","noteIcon":"","created":"2023-08-28T13:11:21","updated":"2023-08-28T22:20:47.000-04:00"}
+{"dg-publish":true,"dg-path":"30-39 ♨️ Household/32 Meals/Capsule Pantry 2 - Ingredients.md","dg-permalink":"capsule-pantry-2","permalink":"/capsule-pantry-2/","noteIcon":"","created":"2023-08-28T13:11:21","updated":"2023-08-31T14:14:23.869-04:00"}
 ---
 
 
