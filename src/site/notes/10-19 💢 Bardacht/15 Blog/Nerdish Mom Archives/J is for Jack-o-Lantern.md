@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/J is for Jack-o-Lantern.md","permalink":"/blog/nerdish-mom-archives/j-is-for-jack-o-lantern/","title":"J is for Jack-o-Lantern ~and~ the Problem with Printers","tags":["homeschool"],"noteIcon":"","created":"","updated":"2023-07-12T21:58:33.711-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/J is for Jack-o-Lantern.md","permalink":"/blog/nerdish-mom-archives/j-is-for-jack-o-lantern/","title":"J is for Jack-o-Lantern ~and~ the Problem with Printers","tags":["homeschool"],"noteIcon":"","created":"","updated":"2023-07-12T21:58:33.000-04:00"}
 ---
 
 
