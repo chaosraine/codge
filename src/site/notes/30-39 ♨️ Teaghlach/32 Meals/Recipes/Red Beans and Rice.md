@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"30-39 ♨️ Household/32 Meals/Recipes/Red Beans and Rice.md","dg-permalink":"red-beans-rice","permalink":"/red-beans-rice/","noteIcon":"","created":"2023-08-28T12:23:56","updated":"2023-08-29T10:51:29.000-04:00"}
+{"dg-publish":true,"dg-path":"30-39 ♨️ Household/32 Meals/Recipes/Red Beans and Rice.md","dg-permalink":"red-beans-rice","permalink":"/red-beans-rice/","noteIcon":"","created":"2023-08-28T12:23:56","updated":"2023-08-31T14:13:14.492-04:00"}
 ---
 
 
