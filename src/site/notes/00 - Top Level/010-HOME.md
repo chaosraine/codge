@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"010-HOME.md","permalink":"/010-home/","title":"🏠 HOME","pinned":true,"contentClasses":"cards cards-1-1 dashboard","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-08-16T23:23:34.735-04:00"}
+{"dg-publish":true,"dg-path":"010-HOME.md","permalink":"/010-home/","title":"🏠 HOME","pinned":true,"contentClasses":"cards cards-1-1 dashboard","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-08-16T23:23:34.000-04:00"}
 ---
 
 # 🏠 HOME
@@ -27,19 +27,19 @@
 { .block-language-dataview}
 
 ### Recently Updated
-- [[10-19 💢 Bardacht/15 Blog/15 Blog\|15 Blog]]: 📌 Blog
-- [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|16 Podcast]]: 📌 Ex-Gifted Podcast
 - [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry- A minimalist meal plan\|Capsule Pantry- A minimalist meal plan]]: Capsule Pantry
 - [[30-39 ♨️ Teaghlach/32 Meals/Recipes/Red Beans and Rice\|Red Beans and Rice]]: 
 - [[Getting around\|Getting around]]: Navigation
-- [[30-39 ♨️ Teaghlach/32 Meals/5-week meal plan\|5-week meal plan]]: 
-- [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 2 - Ingredients\|Capsule Pantry 2 - Ingredients]]: 
+- [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|16 Podcast]]: 📌 Ex-Gifted Podcast
+- [[10-19 💢 Bardacht/15 Blog/15 Blog\|15 Blog]]: 📌 Blog
 - [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 3 - Recipes\|Capsule Pantry 3 - Recipes]]: 
-- [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 5 - Tying it all together\|Capsule Pantry 5 - Tying it all together]]: 
-- [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 4 - Variety\|Capsule Pantry 4 - Variety]]: 
 - [[30-39 ♨️ Teaghlach/32 Meals/Meal Planning\|Meal Planning]]: Meal Planning
-- [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|60 Round-ups]]: What's new this week
+- [[30-39 ♨️ Teaghlach/32 Meals/5-week meal plan\|5-week meal plan]]: 
+- [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 4 - Variety\|Capsule Pantry 4 - Variety]]: 
+- [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 2 - Ingredients\|Capsule Pantry 2 - Ingredients]]: 
+- [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 5 - Tying it all together\|Capsule Pantry 5 - Tying it all together]]: 
 - [[60-69 〰️ Dialann/67 Website/My life in threads\|My life in threads]]: 
+- [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|60 Round-ups]]: What's new this week
 
 { .block-language-dataview}
 
