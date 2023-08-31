@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/Q is for Quark.md","permalink":"/blog/nerdish-mom-archives/q-is-for-quark/","title":"Q is for Quark","tags":["Halloween","television"],"noteIcon":"","created":"","updated":"2023-08-22T13:34:34.520-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/Q is for Quark.md","permalink":"/blog/nerdish-mom-archives/q-is-for-quark/","title":"Q is for Quark","tags":["Halloween","television"],"noteIcon":"","created":"","updated":"2023-08-22T13:34:34.000-04:00"}
 ---
 
 
