@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"the-move","permalink":"/the-move/","title":"Moving Sucks","tags":["themove","themove/planning"],"noteIcon":"","created":"2023-08-17T15:20:59","updated":"2023-08-23T20:00:30.000-04:00"}
+{"dg-publish":true,"dg-permalink":"the-move","permalink":"/the-move/","title":"Moving Sucks","tags":["themove","themove/planning"],"noteIcon":"","created":"2023-08-17T15:20:59","updated":"2023-08-23T20:00:30.215-04:00"}
 ---
 
 
