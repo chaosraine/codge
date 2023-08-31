@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Blog 2022/2022-01-31-how-to-keep-a-setback-from-becoming-a-reset.md","permalink":"/blog/blog-2022/2022-01-31-how-to-keep-a-setback-from-becoming-a-reset/","title":"How to Keep a Setback from becoming a Reset","tags":["organization","self-care","productivity","executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-08-22T16:04:13.554-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Blog 2022/2022-01-31-how-to-keep-a-setback-from-becoming-a-reset.md","permalink":"/blog/blog-2022/2022-01-31-how-to-keep-a-setback-from-becoming-a-reset/","title":"How to Keep a Setback from becoming a Reset","tags":["organization","self-care","productivity","executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-08-22T16:04:13.000-04:00"}
 ---
 
 
