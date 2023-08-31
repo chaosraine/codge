@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"60-69 〰️ Admin/60 Round-ups/Round-up 2023-W32.md","dg-permalink":"2023-W32-roundup","permalink":"/2023-W32-roundup/","title":"Round-up for 2023 W32","contentClasses":"cards cards-1-1","noteIcon":"","created":"2023-08-13T09:35:43","updated":"2023-08-13T09:37:05.576-04:00"}
+{"dg-publish":true,"dg-path":"60-69 〰️ Admin/60 Round-ups/Round-up 2023-W32.md","dg-permalink":"2023-W32-roundup","permalink":"/2023-W32-roundup/","title":"Round-up for 2023 W32","contentClasses":"cards cards-1-1","noteIcon":"","created":"2023-08-13T09:35:43","updated":"2023-08-13T09:37:05.000-04:00"}
 ---
 
 
@@ -13,15 +13,15 @@ Final launch is next week
 { .block-language-dataview}
 
 ## Recently Updated
-- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W32\|Round-up for 2023 W32]]
-- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W27\|Round-up for 2023 W27]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/linking your thinking\|linking your thinking]]
+- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W27\|Round-up for 2023 W27]]
+- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W32\|Round-up for 2023 W32]]
 - [[60-69 〰️ Dialann/67 Website/001 - help\|HELP]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W31\|Round-up for 2023 W31]]
-- [[10-19 💢 Bardacht/15 Blog/Blog 2020/2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core\|How-to Make a Custom Planner with Rocketbook Core]]
-- [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner\|Frankenplanner: How to Make the Perfect Rocketbook Planner by Cutting the Coil]]
-- [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-26-waste-in-the-kitchen\|Waste in the kitchen - a mindset shift]]
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/clarification\|Clarification]]
+- [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-26-waste-in-the-kitchen\|Waste in the kitchen - a mindset shift]]
+- [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-12-frankenplanner-is-the-perfect-rocketbook-planner\|Frankenplanner: How to Make the Perfect Rocketbook Planner by Cutting the Coil]]
+- [[10-19 💢 Bardacht/15 Blog/Blog 2020/2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core\|How-to Make a Custom Planner with Rocketbook Core]]
 
 { .block-language-dataview}
 
