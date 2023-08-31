@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-11-19-actually-you-can-meditate.md","dg-permalink":"you-can-meditate","permalink":"/you-can-meditate/","title":"Actually, You CAN Meditate","tags":["health/mental-health","growth"],"noteIcon":"","created":"","updated":"2023-08-21T09:27:46.000-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-11-19-actually-you-can-meditate.md","dg-permalink":"you-can-meditate","permalink":"/you-can-meditate/","title":"Actually, You CAN Meditate","tags":["health/mental-health","growth"],"noteIcon":"","created":"","updated":"2023-08-21T09:27:46.427-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-29-203-grow-your-own-woo\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-12-03-prevent-burnout-by-going-dormant\|NEXT>>]]
