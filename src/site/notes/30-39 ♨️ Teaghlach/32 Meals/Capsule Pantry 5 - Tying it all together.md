@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"30-39 ♨️ Household/32 Meals/Capsule Pantry 5 - Tying it all together.md","dg-permalink":"capsule-pantry-5","permalink":"/capsule-pantry-5/","noteIcon":"","created":"2023-08-28T13:13:34","updated":"2023-08-28T22:24:29.000-04:00"}
+{"dg-publish":true,"dg-path":"30-39 ♨️ Household/32 Meals/Capsule Pantry 5 - Tying it all together.md","dg-permalink":"capsule-pantry-5","permalink":"/capsule-pantry-5/","noteIcon":"","created":"2023-08-28T13:13:34","updated":"2023-08-31T14:15:04.006-04:00"}
 ---
 
 
