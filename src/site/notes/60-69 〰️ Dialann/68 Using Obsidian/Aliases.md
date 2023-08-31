@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"60-69 〰️ Admin/68 Using Obsidian/Aliases.md","permalink":"/60-69-admin/68-using-obsidian/aliases/","title":"Aliases","noteIcon":"","created":"2023-07-08","updated":"2023-07-27T19:59:30.906-04:00"}
+{"dg-publish":true,"dg-path":"60-69 〰️ Admin/68 Using Obsidian/Aliases.md","permalink":"/60-69-admin/68-using-obsidian/aliases/","title":"Aliases","noteIcon":"","created":"2023-07-08","updated":"2023-07-27T19:59:30.000-04:00"}
 ---
 
 
