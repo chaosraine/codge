@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-10-01-201-what-is-growth-mindset.md","permalink":"/ex-gifted/episodes-2021/2021-10-01-201-what-is-growth-mindset/","title":"201 What is Growth Mindset?","tags":["growth","self-coaching"],"noteIcon":"","created":"","updated":"2023-08-21T09:27:19.000-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-10-01-201-what-is-growth-mindset.md","permalink":"/ex-gifted/episodes-2021/2021-10-01-201-what-is-growth-mindset/","title":"201 What is Growth Mindset?","tags":["growth","self-coaching"],"noteIcon":"","created":"","updated":"2023-08-21T09:27:19.859-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-08-13-structure-your-mind\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-15-202-growth-mindset-is-bs\|NEXT>>]]
