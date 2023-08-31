@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"60-69 〰️ Admin/66 Supplies & Strategies/Hobonichi.md","permalink":"/60-69-admin/66-supplies-and-strategies/hobonichi/","title":"Hobonichi Techo","noteIcon":"","created":"2023-07-24T21:25:56","updated":"2023-07-27T21:19:09.535-04:00"}
+{"dg-publish":true,"dg-path":"60-69 〰️ Admin/66 Supplies & Strategies/Hobonichi.md","permalink":"/60-69-admin/66-supplies-and-strategies/hobonichi/","title":"Hobonichi Techo","noteIcon":"","created":"2023-07-24T21:25:56","updated":"2023-07-27T21:19:09.000-04:00"}
 ---
 
 
