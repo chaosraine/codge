@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Blog 2020/2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core.md","permalink":"/blog/blog-2020/2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core/","title":"How-to Make a Custom Planner with Rocketbook Core","noteIcon":"","created":"","updated":"2023-08-08T14:02:37.991-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Blog 2020/2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core.md","permalink":"/blog/blog-2020/2020-08-29-how-to-make-a-custom-planner-with-rocketbook-core/","title":"How-to Make a Custom Planner with Rocketbook Core","noteIcon":"","created":"","updated":"2023-08-08T14:02:37.000-04:00"}
 ---
 
 
