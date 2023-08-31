@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"40-49 🔅 Health/49 Epic Minimalism/Moderation as a virtue.md","permalink":"/40-49-health/49-epic-minimalism/moderation-as-a-virtue/","title":"Moderation as a Virtue","tags":["epicminimalism"],"noteIcon":"","created":"2023-07-17T15:06:07","updated":"2023-08-16T13:39:06.000-04:00"}
+{"dg-publish":true,"dg-path":"40-49 🔅 Health/49 Epic Minimalism/Moderation as a virtue.md","permalink":"/40-49-health/49-epic-minimalism/moderation-as-a-virtue/","title":"Moderation as a Virtue","tags":["epicminimalism"],"noteIcon":"","created":"2023-07-17T15:06:07","updated":"2023-08-16T13:39:06.560-04:00"}
 ---
 
 
