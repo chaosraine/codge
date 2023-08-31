@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-03-04-accept-it-is.md","permalink":"/ex-gifted/episodes-2022/2022-03-04-accept-it-is/","title":"Accept it.","tags":["growth","health/mental-health","self-coaching"],"noteIcon":"","created":"","updated":"2023-08-21T09:28:15.000-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-03-04-accept-it-is.md","permalink":"/ex-gifted/episodes-2022/2022-03-04-accept-it-is/","title":"Accept it.","tags":["growth","health/mental-health","self-coaching"],"noteIcon":"","created":"","updated":"2023-08-21T09:28:15.722-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-02-25-Ex-Gifted - Summiting Mt Everest On Unlimiting\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-03-11-210-power-of-yet\|NEXT>>]]
