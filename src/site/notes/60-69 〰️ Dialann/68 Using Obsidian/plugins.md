@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"60-69 〰️ Admin/68 Using Obsidian/plugins.md","permalink":"/60-69-admin/68-using-obsidian/plugins/","title":"plugins","noteIcon":"","created":"2023-07-08","updated":"2023-07-27T19:50:37.000-04:00"}
+{"dg-publish":true,"dg-path":"60-69 〰️ Admin/68 Using Obsidian/plugins.md","permalink":"/60-69-admin/68-using-obsidian/plugins/","title":"plugins","noteIcon":"","created":"2023-07-08","updated":"2023-07-27T19:50:37.464-04:00"}
 ---
 
 Will update on more details, but for now here's some screenshots showing the plugins I currently have installed and enabled
