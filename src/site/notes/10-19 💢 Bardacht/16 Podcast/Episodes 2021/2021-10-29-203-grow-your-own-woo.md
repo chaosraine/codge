@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-10-29-203-grow-your-own-woo.md","dg-permalink":"exg-203-grow-your-own-woo","permalink":"/exg-203-grow-your-own-woo/","title":"203 Grow Your Own Woo","tags":["witchcraft"],"noteIcon":"","created":"","updated":"2023-08-21T09:27:40.829-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-10-29-203-grow-your-own-woo.md","dg-permalink":"exg-203-grow-your-own-woo","permalink":"/exg-203-grow-your-own-woo/","title":"203 Grow Your Own Woo","tags":["witchcraft"],"noteIcon":"","created":"","updated":"2023-08-21T09:27:40.000-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-15-202-growth-mindset-is-bs\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-11-19-actually-you-can-meditate\|NEXT>>]]
