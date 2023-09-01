@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/G is for the Great Pumpkin.md","permalink":"/blog/nerdish-mom-archives/g-is-for-the-great-pumpkin/","title":"G is for the Great Pumpkin","tags":["books","halloween","movies"],"noteIcon":"","created":"","updated":"2023-07-28T17:14:08.000-04:00"}
+{"dg-publish":true,"dg-path":"Blog/Nerdish Mom Archives/G is for the Great Pumpkin.md","permalink":"/blog/nerdish-mom-archives/g-is-for-the-great-pumpkin/","title":"G is for the Great Pumpkin","tags":["books","halloween","movies"],"noteIcon":"","created":"","updated":"2023-07-28T17:14:08.478-04:00"}
 ---
 
 
