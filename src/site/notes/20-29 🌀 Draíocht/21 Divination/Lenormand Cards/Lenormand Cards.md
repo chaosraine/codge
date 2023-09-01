@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"20-29 🌀 Magic/21 Divination/Lenormand Cards/Lenormand Cards.md","dg-permalink":"lenormand","permalink":"/lenormand/","title":"Lenormand Cards","tags":["learninpublic"],"noteIcon":"","created":"2023-08-22T17:01:12","updated":"2023-08-24T22:42:39.000-04:00"}
+{"dg-publish":true,"dg-path":"20-29 🌀 Magic/21 Divination/Lenormand Cards/Lenormand Cards.md","dg-permalink":"lenormand","permalink":"/lenormand/","title":"Lenormand Cards","tags":["learninpublic"],"noteIcon":"","created":"2023-08-22T17:01:12","updated":"2023-08-24T22:42:39.545-04:00"}
 ---
 
 
