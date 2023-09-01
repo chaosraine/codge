@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"30-39 ♨️ Household/32 Meals/5-week meal plan.md","dg-permalink":"5-week-meal-plan","permalink":"/5-week-meal-plan/","noteIcon":"","created":"2023-08-28T12:21:12","updated":"2023-08-31T14:18:29.270-04:00"}
+{"dg-publish":true,"dg-path":"30-39 ♨️ Household/32 Meals/5-week meal plan.md","dg-permalink":"5-week-meal-plan","permalink":"/5-week-meal-plan/","noteIcon":"","created":"2023-08-28T12:21:12","updated":"2023-08-31T14:18:29.000-04:00"}
 ---
 
 
