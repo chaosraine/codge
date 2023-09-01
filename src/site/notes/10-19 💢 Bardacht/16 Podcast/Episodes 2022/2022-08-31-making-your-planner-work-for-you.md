@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-08-31-making-your-planner-work-for-you.md","permalink":"/ex-gifted/episodes-2022/2022-08-31-making-your-planner-work-for-you/","title":"Making your planner work FOR YOU","tags":["time-and-planners","productivity"],"noteIcon":"","created":"","updated":"2023-08-21T09:49:47.620-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-08-31-making-your-planner-work-for-you.md","permalink":"/ex-gifted/episodes-2022/2022-08-31-making-your-planner-work-for-you/","title":"Making your planner work FOR YOU","tags":["time-and-planners","productivity"],"noteIcon":"","created":"","updated":"2023-08-21T09:49:47.000-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-08-12-being-comfortable-with-being-uncomfortable\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-09-20-the-autumn-equinox-and-time-agnosia\|NEXT>>]]
