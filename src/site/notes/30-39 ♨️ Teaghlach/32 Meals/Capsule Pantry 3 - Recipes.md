@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"30-39 ♨️ Household/32 Meals/Capsule Pantry 3 - Recipes.md","dg-permalink":"capsule-pantry-3","permalink":"/capsule-pantry-3/","noteIcon":"","created":"2023-08-28T13:12:00","updated":"2023-08-31T14:13:43.997-04:00"}
+{"dg-publish":true,"dg-path":"30-39 ♨️ Household/32 Meals/Capsule Pantry 3 - Recipes.md","dg-permalink":"capsule-pantry-3","permalink":"/capsule-pantry-3/","noteIcon":"","created":"2023-08-28T13:12:00","updated":"2023-08-31T14:13:43.000-04:00"}
 ---
 
 
