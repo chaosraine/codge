@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"60-69 〰️ Admin/60 Round-ups/Round-up 2023-W35.md","dg-permalink":"2023-W35-roundup","permalink":"/2023-W35-roundup/","title":"Round-up for 2023 W35","contentClasses":"cards cards-1-1","noteIcon":"","created":"2023-08-31T14:16:49","updated":"2023-08-31T14:16:54.114-04:00"}
+{"dg-publish":true,"dg-path":"60-69 〰️ Admin/60 Round-ups/Round-up 2023-W35.md","dg-permalink":"2023-W35-roundup","permalink":"/2023-W35-roundup/","title":"Round-up for 2023 W35","contentClasses":"cards cards-1-1","noteIcon":"","created":"2023-08-31T14:16:49","updated":"2023-08-31T14:16:54.000-04:00"}
 ---
 
  
@@ -20,20 +20,20 @@ Lots of food this week, and plans for how to deal with regular cooking and groce
 { .block-language-dataview}
 
 ## Recently Updated
-- [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 3 - Recipes\|Capsule Pantry 3 - Recipes]]
 - [[30-39 ♨️ Teaghlach/32 Meals/5-week meal plan\|5-week meal plan]]
-- [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 4 - Variety\|Capsule Pantry 4 - Variety]]
 - [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 2 - Ingredients\|Capsule Pantry 2 - Ingredients]]
-- [[30-39 ♨️ Teaghlach/32 Meals/Recipes/Red Beans and Rice\|Red Beans and Rice]]
+- [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 3 - Recipes\|Capsule Pantry 3 - Recipes]]
 - [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 5 - Tying it all together\|Capsule Pantry 5 - Tying it all together]]
-- [[Getting around\|Navigation]]
+- [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 4 - Variety\|Capsule Pantry 4 - Variety]]
+- [[30-39 ♨️ Teaghlach/32 Meals/Recipes/Red Beans and Rice\|Red Beans and Rice]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W35\|Round-up for 2023 W35]]
-- [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry- A minimalist meal plan\|Capsule Pantry]]
-- [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|📌 Ex-Gifted Podcast]]
+- [[Getting around\|Navigation]]
 - [[10-19 💢 Bardacht/15 Blog/15 Blog\|📌 Blog]]
+- [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|📌 Ex-Gifted Podcast]]
+- [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry- A minimalist meal plan\|Capsule Pantry]]
 - [[30-39 ♨️ Teaghlach/32 Meals/Meal Planning\|Meal Planning]]
-- [[60-69 〰️ Dialann/67 Website/My life in threads\|My life in threads]]
 - [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|What's new this week]]
+- [[60-69 〰️ Dialann/67 Website/My life in threads\|My life in threads]]
 
 { .block-language-dataview}
 
