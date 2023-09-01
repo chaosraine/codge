@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"30-39 ♨️ Household/32 Meals/Meal Planning.md","dg-permalink":"meals-moc","permalink":"/meals-moc/","title":"Meal Planning","pinned":true,"tags":["executive-dysfunction","kitchen"],"noteIcon":"","created":"2023-08-28T11:58:08","updated":"2023-08-28T22:16:38.000-04:00"}
+{"dg-publish":true,"dg-path":"30-39 ♨️ Household/32 Meals/Meal Planning.md","dg-permalink":"meals-moc","permalink":"/meals-moc/","title":"Meal Planning","pinned":true,"tags":["executive-dysfunction","kitchen"],"noteIcon":"","created":"2023-08-28T11:58:08","updated":"2023-08-28T22:16:38.147-04:00"}
 ---
 
 
