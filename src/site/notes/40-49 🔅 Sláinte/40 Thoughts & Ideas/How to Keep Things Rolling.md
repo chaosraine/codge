@@ -3,7 +3,7 @@
 ---
 
 
-There's a whole host of reasons I haven't updated the site or the podcast for a bit, but one of the biggest things is that I've been feeling a lot of [[mental friction\|mental friction]]. That's not a bad thing necessarily, but given the privileged position I'm in where my work doesn't directly correlate to whether my family eats or not, friction can bring the whole thing to a standstill.
+There's a whole host of reasons I haven't updated the site or the podcast for a bit, but one of the biggest things is that I've been feeling a lot of [[40-49 🔅 Sláinte/41 Mind/mental friction\|mental friction]]. That's not a bad thing necessarily, but given the privileged position I'm in where my work doesn't directly correlate to whether my family eats or not, friction can bring the whole thing to a standstill.
 
 ## How can *I* keep things rolling? 
 
@@ -15,7 +15,7 @@ Podcasting requires a certain amount of friction. There's no getting around it. 
 
 But writing really doesn't need to be that complicated. I'm already writing out my thoughts. That's one of the main things I do. I just need to make it easier to get those thoughts online.
 
-### Enter the [[Digital Garden\|Digital Garden]]. 
+### Enter the [[60-69 〰️ Dialann/68 Using Obsidian/Digital Garden\|Digital Garden]]. 
 
 This is something I've wanted to do for a while, and it will allow me to get notes *I'm already writing anyway* online in just a few clicks.
 
@@ -30,8 +30,8 @@ Here's a few ideas:
 - Routines - routines are basically manual automation (let me finish...) The process itself may be done manually, but if you write down your routine, then the *thinking is automated* by the list. Offloading that ever-repeating "what do I do now?" question to a piece of paper, or an app checklist, can make it a lot smoother to keep rolling along
 - Minimize - pare the job back to the essentials. Just like I'm doing with the website, making a project smaller makes it easier to finish.
 - Set a timer - I've [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-01-time-management-for-executive-dysfunction\|said it before]], but one way to make something feel less daunting is to commit to doing only a tiny amount of it. Work for 5-10 minutes and then STOP
-- [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-05-14-embrace-imperfection\|Practice imperfection]] - if you go into it assuming your work will be mediocre at best, it takes some of the pressure off. Not everything is meant to be your best work all the time. Building some [[discomfort tolerance\|discomfort tolerance]] helps with this too!
-- Take a break. Not everything is meant to continue forever. If the project in question isn't supporting your livelihood, or otherwise something absolutely necessary (like the [[the move outline\|the move]] I'm preparing for), really think about [[10-19 💢 Bardacht/15 Blog/Blog 2022/2022-05-10-motivation-vs-inspiration\|why you're doing it]] and ask if it's time to [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-03-04-accept-it-is\|accept]] that it's just not a priority for you and decide to [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-05-28-quit-on-purpose\|quit on purpose]]. (Do I really talk about giving up that much? Good! I don't want to waste time on things that don't matter)
+- [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-05-14-embrace-imperfection\|Practice imperfection]] - if you go into it assuming your work will be mediocre at best, it takes some of the pressure off. Not everything is meant to be your best work all the time. Building some [[40-49 🔅 Sláinte/41 Mind/discomfort tolerance\|discomfort tolerance]] helps with this too!
+- Take a break. Not everything is meant to continue forever. If the project in question isn't supporting your livelihood, or otherwise something absolutely necessary (like the [[70-79 Projects/72 The Move/the move outline\|the move]] I'm preparing for), really think about [[10-19 💢 Bardacht/15 Blog/Blog 2022/2022-05-10-motivation-vs-inspiration\|why you're doing it]] and ask if it's time to [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-03-04-accept-it-is\|accept]] that it's just not a priority for you and decide to [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-05-28-quit-on-purpose\|quit on purpose]]. (Do I really talk about giving up that much? Good! I don't want to waste time on things that don't matter)
 
 What do you do to keep that forward momentum going?
 
