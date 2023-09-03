@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"60-69 〰️ Admin/60 Round-ups/Round-up 2023-W29.md","dg-permalink":"2023-W29-roundup","permalink":"/2023-W29-roundup/","title":"Round-up for 2023 W29","contentClasses":"cards cards-1-1","noteIcon":"","created":"2023-07-24T22:20:20","updated":"2023-08-03T16:56:30.457-04:00"}
+{"dg-publish":true,"dg-path":"Round-ups/Round-up 2023-W29.md","dg-permalink":"2023-W29-roundup","permalink":"/2023-W29-roundup/","title":"Round-up for 2023 W29","contentClasses":"cards cards-1-1","noteIcon":"","created":"2023-07-24T22:20:20","updated":"2023-08-03T16:56:30.457-04:00"}
 ---
 
 
