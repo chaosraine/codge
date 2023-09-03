@@ -56,7 +56,7 @@ Let people see your mediocrity and let people see your failures. Don’t just si
 What you see as imperfect, others may see as gorgeous.
 
 > [!example] Update
-> This new website format is going to be a place to practice [[Learning in Public\|Learning in Public]] which is an example of this. Let people see your flaws, even as they happen.
+> This new website format is going to be a place to practice [[60-69 〰️ Dialann/68 Using Obsidian/Learning in Public\|Learning in Public]] which is an example of this. Let people see your flaws, even as they happen.
 
 
 Make bad art, play bad music, do things badly. 
