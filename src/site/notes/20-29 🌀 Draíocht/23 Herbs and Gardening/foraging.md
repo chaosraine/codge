@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"20-29 🌀 Magic/23 Herbs and Gardening/foraging.md","dg-permalink":"foraging","permalink":"/foraging/","noteIcon":"","created":"2023-09-02T20:16:45","updated":"2023-09-02T20:17:13.222-04:00"}
+{"dg-publish":true,"dg-path":"20-29 🌀 Magic/23 Herbs and Gardening/foraging.md","dg-permalink":"foraging","permalink":"/foraging/","title":"Foraging","noteIcon":"","created":"2023-09-04T20:16","updated":"2023-09-03T10:55:26.165-04:00"}
 ---
 
 
@@ -22,3 +22,8 @@ This is what I saw:
 For those not in the know, this is a photo of purslane, edible and full of omega 3s on the left, and spurge, toxic and yucky on the right.
 
 Although embarrassing, this is actually an ideal outcome for a forager. I lucked into a situation where an edible plant, and its toxic look-alike are *right* next to each other. I wish it were always this easy!
+
+
+
+
+*I never purport to offer any kind of medical advice, but when it comes to herbal remedies always educate yourself beyond the information on this site. I’m learning as I go and nothing on this page should be taken as expertise. Especially when it comes to foraging, be careful when identifying unfamiliar plants.*
