@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"20-29 🌀 Magic/23 Herbs and Gardening/foraging.md","dg-permalink":"foraging","permalink":"/foraging/","title":"Foraging","noteIcon":"","created":"2023-09-04T20:16","updated":"2023-09-03T10:55:26.165-04:00"}
+{"dg-publish":true,"dg-path":"20-29 🌀 Magic/23 Herbs and Gardening/foraging.md","dg-permalink":"foraging","permalink":"/foraging/","title":"Foraging","noteIcon":"","created":"2023-09-04T20:16","updated":"2023-09-03T10:57:07.370-04:00"}
 ---
+
 
 
 ## Suburban foraging
@@ -27,3 +28,5 @@ Although embarrassing, this is actually an ideal outcome for a forager. I lucked
 
 
 *I never purport to offer any kind of medical advice, but when it comes to herbal remedies always educate yourself beyond the information on this site. I’m learning as I go and nothing on this page should be taken as expertise. Especially when it comes to foraging, be careful when identifying unfamiliar plants.*
+
+*[Backlink](https://unsplash.com/photos/RqmOfDUt6-0) | Photo by [Annie Spratt](https://unsplash.com/@anniespratt?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)* I didn't even take this picture and do not endorse the safety of eating any of these mushrooms. 
