@@ -4,8 +4,8 @@
 
 # This Week
 
-An introduction to the system I've been using to organize all the different types of things in my life: [[60-69 〰️ Dialann/67 Website/My life in threads\|Threads.]]
-Plus a little bit of getting started [[Learning in Public\|Learning in Public]] when it comes to [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]].
+An introduction to the system I've been using to organize all the different types of things in my life: [[60-69 〰️ Dialann/66 Supplies & Strategies/My life in threads\|Threads.]]
+Plus a little bit of getting started [[60-69 〰️ Dialann/68 Using Obsidian/Learning in Public\|Learning in Public]] when it comes to [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]].
 ## Events
 - Coworking Thursday August 24 at 12:30 EDT [Join in on Discord](https://discord.com/events/619256988303622144/1144235838742474762)
 ## New this week
@@ -13,7 +13,7 @@ Plus a little bit of getting started [[Learning in Public\|Learning in Public]] 
 | Date                 | Status    | Cover                                | Title                                                                                   | Summary                                                                   |
 | -------------------- | --------- | ------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | August 22, 2023 17:1 | sprout    | ![](https://i.imgur.com/oalw6MG.jpg) | [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]] | A brief introduction to what Lenormand is and how it's used               |
-| August 24, 2023 13:2 | sapling   | ![](https://i.imgur.com/7JdhQxj.jpg) | [[60-69 〰️ Dialann/67 Website/My life in threads\|My life in threads]]               | The pieces that weave together to form everything that matters in my life |
+| August 24, 2023 13:2 | sapling   | ![](https://i.imgur.com/7JdhQxj.jpg) | [[60-69 〰️ Dialann/66 Supplies & Strategies/My life in threads\|My life in threads]] | The pieces that weave together to form everything that matters in my life |
 | August 25, 2023 8:25 | unstarted | ![]()                                | [[40-49 🔅 Sláinte/49 Epic Minimalism/The meaning of life\|The meaning of life]]     | \-                                                                        |
 
 { .block-language-dataview}
@@ -22,7 +22,6 @@ Plus a little bit of getting started [[Learning in Public\|Learning in Public]] 
 - [[40-49 🔅 Sláinte/49 Epic Minimalism/The meaning of life\|The meaning of life]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W34\|Round-up for 2023 W34]]
 - [[20-29 🌀 Draíocht/21 Divination/Lenormand Cards/Lenormand Cards\|Lenormand Cards]]
-- [[the move outline\|Moving Sucks]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-08-what-is-executive-dysfunction\|What is Executive Dysfunction? Learn 20+ ways it can wreak havoc on your life]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-19-emotional-dysregulation\|Emotional Dysregulation - Another Struggle of Executive Dysfunction]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-04-09-2-ways-to-clean-with-executive-dysfunction\|2 ways to clean with executive dysfunction]]
