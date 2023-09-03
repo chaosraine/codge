@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"20-29 🌀 Magic/23 Herbs and Gardening/Elder.md","dg-permalink":"elder","permalink":"/elder/","noteIcon":"","created":"2023-09-02T19:48:12","updated":"2023-09-02T19:55:18.716-04:00"}
+{"dg-publish":true,"dg-path":"20-29 🌀 Magic/23 Herbs and Gardening/Elder.md","dg-permalink":"elder","permalink":"/elder/","title":"Elder","tags":["learninpublic","🌀draíocht/herbalism"],"noteIcon":"","created":"2023-09-04T19:48","updated":"2023-09-03T10:45:51.125-04:00"}
 ---
 
 ## Elderflower
@@ -18,7 +18,7 @@ I have some elder at home but it’s pretty young and hasn’t flowered so far. 
 
 No flowers, no berries. In the new house I intend to plant plenty of it. 
 
-Be careful with identifying Elder, as there are different varieties and only some are safe to consume. In general, elderberries should be cooked before consuming and the seeds strained out. *Sambucus nigra* or European elderberry is the best known species, though the subspecies [*S nigra canadensis*](https://plants.ces.ncsu.edu/plants/sambucus-canadensis/) and *[S nigra caerulea](https://landscapeplants.oregonstate.edu/plants/sambucus-nigra-subsp-cerulea)* aka *S mexicana* are native to North America. Sidenote that the blue berries on the latter are *beautiful.*
+Be careful with identifying Elder, as there are different varieties and only some are safe to consume. In general, elderberries should be cooked before consuming and the seeds strained out. *Sambucus nigra* or European elderberry is the best known species, though the subspecies [*S nigra canadensis*](https://plants.ces.ncsu.edu/plants/sambucus-canadensis/) and *[S nigra caerulea](https://landscapeplants.oregonstate.edu/plants/sambucus-nigra-subsp-cerulea)* aka *S mexicana* are native to North America. Sidenote that the blue berries on the latter are *stunning.*
 
 ![Picture of an Elder bush with a mostly empty cluster of berries in the foreground|400](https://i.imgur.com/UggpMuf.jpg)
 
