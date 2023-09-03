@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"20-29 🌀 Magic/23 Herbs and Gardening/Elder.md","dg-permalink":"elder","permalink":"/elder/","title":"Elder","tags":["learninpublic","🌀draíocht/herbalism"],"noteIcon":"","created":"2023-09-04T19:48","updated":"2023-09-03T10:45:51.125-04:00"}
+{"dg-publish":true,"dg-path":"20-29 🌀 Magic/23 Herbs and Gardening/Elder.md","dg-permalink":"elder","permalink":"/elder/","title":"Elder","tags":["learninpublic","🌀draíocht/herbalism"],"noteIcon":"","created":"2023-09-04T19:48","updated":"2023-09-03T11:03:15.676-04:00"}
 ---
 
+*Note: most parts of most elder plants are at least mildly toxic, as is the case with most medicinal herbs (and indeed, most conventional medication as well). Use with caution, and inform yourself beyond this site.*
 ## Elderflower
 ![An elder bush with clusters of flowers|400](https://i.imgur.com/7To8lAK.jpg)
 
@@ -14,7 +15,7 @@ First elderberry harvest! Not bad for [[20-29 🌀 Draíocht/23 Herbs and Garden
 
 I have some elder at home but it’s pretty young and hasn’t flowered so far. It's an ornamental and is supposed to be beautiful if it ever actually flowers for me...
 
-![My baby elder bush|400](/img/user/80-89 Assets/82 - Photo Attachments/Pasted image 20230902194212.png)
+![My baby elder bush with dark green lace leaves|400](https://i.imgur.com/tKYGPpI.png)
 
 No flowers, no berries. In the new house I intend to plant plenty of it. 
 
