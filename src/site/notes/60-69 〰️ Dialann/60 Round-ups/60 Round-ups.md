@@ -19,11 +19,13 @@
 | September 02, 2023 19:48 | sprout  | ![Cover](https://i.imgur.com/7To8lAK.jpg)                                                                                                                                                                                  | [[20-29 🌀 Draíocht/23 Herbs and Gardening/Elder\|Elder]]                                                          | \-                                                                      |
 | September 02, 2023 19:57 | seed    | ![Cover]()                                                                                                                                                                                                                 | [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/Litha\|Litha]]                                                    | Litha dates and traditions                                              |
 | September 02, 2023 20:1  | seed    | ![Cover]()                                                                                                                                                                                                                 | [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/24 Celebrations and the WOTY\|Wheel of the Year]]                 | dates and MOC for the wheel of the year                                 |
+| September 02, 2023 20:16 | sprout  | ![Cover]()                                                                                                                                                                                                                 | [[20-29 🌀 Draíocht/23 Herbs and Gardening/foraging\|foraging]]                                                    | Notes on my adventures in local foraging                                |
 
 { .block-language-dataview}
 
 ## Recently Updated
 - [[20-29 🌀 Draíocht/23 Herbs and Gardening/Elder\|Elder]]
+- [[20-29 🌀 Draíocht/23 Herbs and Gardening/foraging\|foraging]]
 - [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/Litha\|Litha]]
 - [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/24 Celebrations and the WOTY\|Wheel of the Year]]
 - [[30-39 ♨️ Teaghlach/32 Meals/5-week meal plan\|5-week meal plan]]
