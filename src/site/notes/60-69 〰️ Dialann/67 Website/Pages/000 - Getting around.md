@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"60-69 〰️ Admin/Pages/000 - Getting around.md","dg-permalink":"navigation","permalink":"/navigation/","title":"Navigation","contentClasses":"cards dashboard","noteIcon":"","created":"2023-08-29T20:26:26","updated":"2023-09-04T16:31:22.520-04:00"}
+{"dg-publish":true,"dg-path":"60-69 〰️ Admin/Pages/000 - Getting around.md","dg-permalink":"navigation","permalink":"/navigation/","title":"Navigation","contentClasses":"cards dashboard","noteIcon":"","created":"2023-08-29T20:26:26","updated":"2023-09-04T16:33:50.324-04:00"}
 ---
 
-![](https://images.unsplash.com/photo-1621755313473-b9d6703e3291?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw5fHxjb21wYXNzfGVufDB8MHx8fDE2OTMzNTU1ODd8MA&ixlib=rb-4.0.3&w=400)
 ## Maps of Content
 - [[10-19 💢 Bardacht/15 Blog/15 Blog\|📌 Blog]]: <br>Longer blog posts including those originally posted to nerdishmom.com<p>
 - [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|📌 Ex-Gifted Podcast]]: <br>Ex-gifted homepage with table of episodes<p>
