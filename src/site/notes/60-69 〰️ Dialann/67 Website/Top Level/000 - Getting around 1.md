@@ -8,9 +8,9 @@
 - [[10-19 💢 Bardacht/15 Blog/15 Blog\|📌 Blog]]: <br>Longer blog posts including those originally posted to nerdishmom.com<p>
 - [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|📌 Ex-Gifted Podcast]]: <br>Ex-gifted homepage with table of episodes<p>
 - [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/24 Celebrations and the WOTY\|Wheel of the Year]]: <br>dates and MOC for the wheel of the year<p>
-- [[60-69 〰️ Dialann/67 Website/Top Level/000 - Getting around\|Navigation]]: <br>How to use the site and Maps of Content to navigate your way<p>
-- [[60-69 〰️ Dialann/67 Website/Top Level/000 - Getting around 1\|Navigation]]: <br>How to use the site and Maps of Content to navigate your way<p>
 - [[30-39 ♨️ Teaghlach/32 Meals/Meal Planning\|Meal Planning]]: <br>Navigate around meal planning topics<p>
+- [[60-69 〰️ Dialann/67 Website/Top Level/000 - Getting around 1\|Navigation]]: <br>How to use the site and Maps of Content to navigate your way<p>
+- [[60-69 〰️ Dialann/67 Website/Top Level/000 - Getting around\|Navigation]]: <br>How to use the site and Maps of Content to navigate your way<p>
 
 { .block-language-dataview}
 These are Tables of Contents on assorted topics. I will add more as I build out the library of content.
