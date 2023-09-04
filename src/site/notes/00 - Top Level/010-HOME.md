@@ -25,10 +25,10 @@
 - [[00 - Top Level/010-HOME\|010-HOME]]: 🏠 HOME
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-15-202-growth-mindset-is-bs\|2021-10-15-202-growth-mindset-is-bs]]: 202 Growth Mindset is BS
 - [[20-29 🌀 Draíocht/23 Herbs and Gardening/Elder\|Elder]]: Elder
-- [[60-69 〰️ Dialann/67 Website/Top Level/009 - help\|009 - help]]: HELP
-- [[60-69 〰️ Dialann/67 Website/Top Level/000 - Getting around 1\|000 - Getting around 1]]: Navigation
-- [[60-69 〰️ Dialann/68 Using Obsidian/Digital Garden\|Digital Garden]]: 
 - [[70-79 Projects/72 The Move/the move outline\|the move outline]]: Moving Sucks
+- [[60-69 〰️ Dialann/67 Website/Top Level/000 - Getting around 1\|000 - Getting around 1]]: Navigation
+- [[60-69 〰️ Dialann/67 Website/Top Level/009 - help\|009 - help]]: HELP
+- [[60-69 〰️ Dialann/68 Using Obsidian/Digital Garden\|Digital Garden]]: 
 
 { .block-language-dataview}
 
