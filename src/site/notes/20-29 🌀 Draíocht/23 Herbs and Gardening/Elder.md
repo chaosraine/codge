@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"20-29 🌀 Magic/23 Herbs and Gardening/Elder.md","dg-permalink":"elder","permalink":"/elder/","title":"Elder","tags":["learninpublic","🌀draíocht/herbalism"],"noteIcon":"","created":"2023-09-04T19:48","updated":"2023-09-03T11:03:15.676-04:00"}
+{"dg-publish":true,"dg-path":"20-29 🌀 Magic/23 Herbs and Gardening/Elder.md","dg-permalink":"elder","permalink":"/elder/","title":"Elder","tags":["learninpublic","🌀draíocht/herbalism"],"noteIcon":"","created":"2023-09-04T19:48","updated":"2023-09-04T16:39:28.119-04:00"}
 ---
 
 *Note: most parts of most elder plants are at least mildly toxic, as is the case with most medicinal herbs (and indeed, most conventional medication as well). Use with caution, and inform yourself beyond this site.*
