@@ -20,7 +20,6 @@ Lots of food this week, and plans for how to deal with regular cooking and groce
 { .block-language-dataview}
 
 ## Recently Updated
-- [[20-29 🌀 Draíocht/23 Herbs and Gardening/Elder\|Elder]]
 - [[20-29 🌀 Draíocht/23 Herbs and Gardening/foraging\|Foraging]]
 - [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/Litha\|Litha]]
 - [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/24 Celebrations and the WOTY\|Wheel of the Year]]
