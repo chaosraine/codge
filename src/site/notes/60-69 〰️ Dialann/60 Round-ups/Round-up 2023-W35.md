@@ -21,21 +21,21 @@ Lots of food this week, and plans for how to deal with regular cooking and groce
 
 ## Recently Updated
 - [[20-29 🌀 Draíocht/23 Herbs and Gardening/foraging\|Foraging]]
-- [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/Litha\|Litha]]
 - [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/24 Celebrations and the WOTY\|Wheel of the Year]]
+- [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/Litha\|Litha]]
 - [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|What's new this week]]
-- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W35\|Round-up for 2023 W35]]
 - [[30-39 ♨️ Teaghlach/32 Meals/5-week meal plan\|5-week meal plan]]
 - [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 2 - Ingredients\|Capsule Pantry 2 - Ingredients]]
-- [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 5 - Tying it all together\|Capsule Pantry 5 - Tying it all together]]
-- [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 4 - Variety\|Capsule Pantry 4 - Variety]]
 - [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 3 - Recipes\|Capsule Pantry 3 - Recipes]]
+- [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 4 - Variety\|Capsule Pantry 4 - Variety]]
+- [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 5 - Tying it all together\|Capsule Pantry 5 - Tying it all together]]
 - [[30-39 ♨️ Teaghlach/32 Meals/Recipes/Red Beans and Rice\|Red Beans and Rice]]
+- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W35\|Round-up for 2023 W35]]
 - [[10-19 💢 Bardacht/15 Blog/15 Blog\|📌 Blog]]
 - [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|📌 Ex-Gifted Podcast]]
 - [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry- A minimalist meal plan\|Capsule Pantry]]
-- [[60-69 〰️ Dialann/66 Supplies & Strategies/My life in threads\|My life in threads]]
 - [[30-39 ♨️ Teaghlach/32 Meals/Meal Planning\|Meal Planning]]
+- [[60-69 〰️ Dialann/66 Supplies & Strategies/My life in threads\|My life in threads]]
 
 { .block-language-dataview}
 
