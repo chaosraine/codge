@@ -25,8 +25,6 @@ Lots of food this week, and plans for how to deal with regular cooking and groce
 - [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/Litha\|Litha]]
 - [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/24 Celebrations and the WOTY\|Wheel of the Year]]
 - [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|What's new this week]]
-- [[60-69 〰️ Dialann/67 Website/Pages/Getting around\|Navigation]]
-- [[70-79 Projects/72 The Move/the move outline\|Moving Sucks]]
 - [[30-39 ♨️ Teaghlach/32 Meals/5-week meal plan\|5-week meal plan]]
 - [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 2 - Ingredients\|Capsule Pantry 2 - Ingredients]]
 - [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 3 - Recipes\|Capsule Pantry 3 - Recipes]]
