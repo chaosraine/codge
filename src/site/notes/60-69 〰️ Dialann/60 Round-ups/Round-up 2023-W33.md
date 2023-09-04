@@ -37,9 +37,9 @@ One reason I wanted to switch to this [[60-69 〰️ Dialann/68 Using Obsidian/D
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/31 Spooky and Fun Halloween Homeschool Ideas\|31 Spooky and Fun Halloween Homeschool Ideas Roundup]]
 - [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/A is For All Hallows Eve\|A is For All Hallows Eve]]
 - [[40-49 🔅 Sláinte/43 Spirit/Minimalism and Abundance\|minimalism and abundance]]
-- [[60-69 〰️ Dialann/67 Website/2021-07-23-time-sign-up\|Sign up for the Newsletter]]
 - [[60-69 〰️ Dialann/67 Website/Pages/009 - thoughts\|Thought Ladder]]
 - [[60-69 〰️ Dialann/67 Website/Pages/011 - nanowrimo\|NaNoWriMo]]
+- [[60-69 〰️ Dialann/67 Website/Pages/2021-07-23-time-sign-up\|Sign up for the Newsletter]]
 
 { .block-language-dataview}
 
