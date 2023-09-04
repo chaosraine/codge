@@ -8,7 +8,7 @@
 | Date                     | Status | Cover                                                                                                                                                                                                                  | Title                                                                                                 | Description                                                  |
 | ------------------------ | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | August 29, 2023 20:26    | sprout | ![Cover](https://images.unsplash.com/photo-1621755313473-b9d6703e3291?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw5fHxjb21wYXNzfGVufDB8MHx8fDE2OTMzNTU1ODd8MA&ixlib=rb-4.0.3&q=80&w=400)   | [[60-69 〰️ Dialann/67 Website/Pages/000 - Getting around\|Navigation]]                             | How to use the site and Maps of Content to navigate your way |
-| September 04, 2023 19:48 | sprout | ![Cover](https://i.imgur.com/7To8lAK.jpg)                                                                                                                                                                              | [[20-29 🌀 Draíocht/23 Herbs and Gardening/Elder\|Elder]]                                          | \-                                                           |
+| September 04, 2023 19:48 | sprout | ![Cover](https://i.imgur.com/7To8lAK.jpg)                                                                                                                                                                              | [[20-29 🌀 Draíocht/23 Herbs and Gardening/Elder\|Elder]]                                          | Details about Elder and my own experiences with it           |
 | September 04, 2023 19:57 | seed   | ![Cover](https://images.unsplash.com/photo-1621958443248-2c23ead72f22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwyfHxtaWRzdW1tZXJ8ZW58MHwwfHx8MTY5Mzc1MjYyOXww&ixlib=rb-4.0.3&q=80&w=400) | [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/Litha\|Litha]]                                    | Litha dates and traditions                                   |
 | September 04, 2023 20:1  | seed   | ![Cover](https://i.imgur.com/U65inkn.jpg)                                                                                                                                                                              | [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/24 Celebrations and the WOTY\|Wheel of the Year]] | dates and MOC for the wheel of the year                      |
 | September 04, 2023 20:16 | sprout | ![Cover](https://images.unsplash.com/photo-1602166659170-92818fa8af19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxN3x8Zm9yYWdlfGVufDB8MHx8fDE2OTM3NTI5MzJ8MA&ixlib=rb-4.0.3&q=80&w=400)   | [[20-29 🌀 Draíocht/23 Herbs and Gardening/foraging\|Foraging]]                                    | Notes on my adventures in local foraging                     |
@@ -18,10 +18,10 @@
 ## Recently Updated
 - [[00 - Top Level/010-HOME\|🏠 HOME]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-15-202-growth-mindset-is-bs\|202 Growth Mindset is BS]]
+- [[20-29 🌀 Draíocht/23 Herbs and Gardening/Elder\|Elder]]
 - [[60-69 〰️ Dialann/67 Website/Pages/000 - Getting around\|Navigation]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/Digital Garden\|Digital Garden]]
 - [[70-79 Projects/72 The Move/the move outline\|Moving Sucks]]
-- [[20-29 🌀 Draíocht/23 Herbs and Gardening/Elder\|Elder]]
 - [[20-29 🌀 Draíocht/23 Herbs and Gardening/foraging\|Foraging]]
 - [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/Litha\|Litha]]
 - [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/24 Celebrations and the WOTY\|Wheel of the Year]]
