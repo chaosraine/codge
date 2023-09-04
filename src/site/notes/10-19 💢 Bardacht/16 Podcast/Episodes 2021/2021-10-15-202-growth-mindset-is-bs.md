@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-10-15-202-growth-mindset-is-bs.md","permalink":"/ex-gifted/episodes-2021/2021-10-15-202-growth-mindset-is-bs/","title":"202 Growth Mindset is BS","tags":["growth"],"noteIcon":"","created":"","updated":"2023-08-21T09:27:33.000-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-10-15-202-growth-mindset-is-bs.md","permalink":"/ex-gifted/episodes-2021/2021-10-15-202-growth-mindset-is-bs/","title":"202 Growth Mindset is BS","tags":["growth"],"noteIcon":"","created":"","updated":"2023-09-04T15:28:29.719-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-01-201-what-is-growth-mindset\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-29-203-grow-your-own-woo\|NEXT>>]]
@@ -17,7 +17,7 @@
 
 Growth mindset is bullshit when it’s presented as a catch-22. Here’s how you can learn to develop a growth mindset even if you don’t already have a growth mindset.
 
-Download the [[60-69 〰️ Dialann/67 Website/Pages/2021-10-14-thoughts\|thought ladder]] 
+Download the [[60-69 〰️ Dialann/67 Website/Pages/009 - thoughts\|thought ladder]] 
 
 Find the Unfuck Your Brain podcast by Kara Lowenthiel at [unfuckyourbrain.com](http://unfuckyourbrain.com/) or anywhere you listen to podcasts.
 
