@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"60-69 〰️ Admin/Pages/000 - Getting around.md","dg-permalink":"navigation","permalink":"/navigation/","title":"Navigation","contentClasses":"cards cards-1-1","noteIcon":"","created":"2023-08-29T20:26:26","updated":"2023-09-04T16:35:19.991-04:00"}
+{"dg-publish":true,"dg-path":"60-69 〰️ Admin/Pages/000 - Getting around.md","dg-permalink":"navigation","permalink":"/navigation/","title":"Navigation","contentClasses":"","noteIcon":"","created":"2023-08-29T20:26:26","updated":"2023-09-04T16:36:11.121-04:00"}
 ---
 
 ![](https://images.unsplash.com/photo-1621755313473-b9d6703e3291?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw5fHxjb21wYXNzfGVufDB8MHx8fDE2OTMzNTU1ODd8MA&ixlib=rb-4.0.3&w=400)
