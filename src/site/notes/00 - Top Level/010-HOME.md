@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"010-HOME.md","permalink":"/010-home/","title":"🏠 HOME","pinned":true,"contentClasses":"cards cards-1-1 dashboard","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-08-16T23:23:34.735-04:00"}
+{"dg-publish":true,"dg-path":"010-HOME.md","permalink":"/010-home/","title":"🏠 HOME","pinned":true,"contentClasses":"cards cards-1-1 dashboard","tags":["gardenEntry"],"noteIcon":"","created":"2021-10-13","updated":"2023-09-04T15:27:38.808-04:00"}
 ---
 
 # 🏠 HOME
@@ -22,7 +22,10 @@
 { .block-language-dataview}
 
 ### Recently Updated
-- [[60-69 〰️ Dialann/67 Website/Pages/Getting around\|Getting around]]: Navigation
+- [[00 - Top Level/010-HOME\|010-HOME]]: 🏠 HOME
+- [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-15-202-growth-mindset-is-bs\|2021-10-15-202-growth-mindset-is-bs]]: 202 Growth Mindset is BS
+- [[60-69 〰️ Dialann/67 Website/Pages/000 - Getting around\|000 - Getting around]]: Navigation
+- [[60-69 〰️ Dialann/68 Using Obsidian/Digital Garden\|Digital Garden]]: 
 - [[70-79 Projects/72 The Move/the move outline\|the move outline]]: Moving Sucks
 
 { .block-language-dataview}
