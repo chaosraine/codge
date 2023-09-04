@@ -58,6 +58,13 @@ I'd love to see if there was some way to see the tasks grouped by room, by month
 
 # \-
 
+    - [ ] #themove/remodel paint house
+    - [ ] #themove/remodel/landscaping  landscaping
+    - [ ] #themove/remodel/landscaping japanese maple
+    - [ ] #themove/remodel/landscaping put down ground cloth
+    - [ ] #themove/remodel/landscaping build compost bin
+    - [x] ✅ 2023-08-11
+    - [ ] "paying attention to things is how we show love" TLOU #quotes/shows
     - [ ] clean out garage for packing
     - [ ] throw out old guys' stuff
     - [ ] start collecting newspaper
@@ -86,13 +93,6 @@ I'd love to see if there was some way to see the tasks grouped by room, by month
         - [ ] Dawn
         - [ ] Noon
         - [ ] Dusk
-    - [ ] #themove/remodel paint house
-    - [ ] #themove/remodel/landscaping  landscaping
-    - [ ] #themove/remodel/landscaping japanese maple
-    - [ ] #themove/remodel/landscaping put down ground cloth
-    - [ ] #themove/remodel/landscaping build compost bin
-    - [x] ✅ 2023-08-11
-    - [ ] "paying attention to things is how we show love" TLOU #quotes/shows
 # August 09, 2023
 
     - [x] Make a list of some daily things to do (dishes, laundry, etc...) before getting started on other things each morning 📅 2023-08-09 ✅ 2023-08-15
