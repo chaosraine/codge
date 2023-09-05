@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"60-69 〰️ Admin/Pages/009 - thoughts.md","dg-permalink":"exgifted/thoughts","permalink":"/exgifted/thoughts/","title":"Thought Ladder","noteIcon":"","created":"","updated":"2023-08-15T22:55:37.240-04:00"}
+{"dg-publish":true,"dg-path":"60-69 〰️ Admin/009 - thoughts.md","dg-permalink":"exgifted/thoughts","permalink":"/exgifted/thoughts/","title":"Thought Ladder","noteIcon":"","created":"","updated":"2023-08-15T22:55:37.240-04:00"}
 ---
 
 
