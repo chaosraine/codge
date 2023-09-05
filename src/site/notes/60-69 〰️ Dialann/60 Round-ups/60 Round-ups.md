@@ -7,7 +7,7 @@
 
 | Date                     | Status | Cover                                                                                                                                                                                                                  | Title                                                                                                 | Description                                                  |
 | ------------------------ | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| August 29, 2023 20:26    | sprout | ![Cover](https://images.unsplash.com/photo-1621755313473-b9d6703e3291?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw5fHxjb21wYXNzfGVufDB8MHx8fDE2OTMzNTU1ODd8MA&ixlib=rb-4.0.3&q=80&w=400)   | [[60-69 〰️ Dialann/67 Website/Top Level/Untitled\|Navigation]]                                     | How to use the site and Maps of Content to navigate your way |
+| August 29, 2023 20:26    | sprout | ![Cover](https://images.unsplash.com/photo-1621755313473-b9d6703e3291?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw5fHxjb21wYXNzfGVufDB8MHx8fDE2OTMzNTU1ODd8MA&ixlib=rb-4.0.3&q=80&w=400)   | [[60-69 〰️ Dialann/67 Website/Top Level/Untitled 1\|Navigation test]]                              | How to use the site and Maps of Content to navigate your way |
 | September 04, 2023 19:48 | sprout | ![Cover](https://i.imgur.com/7To8lAK.jpg)                                                                                                                                                                              | [[20-29 🌀 Draíocht/23 Herbs and Gardening/Elder\|Elder]]                                          | Details about Elder and my own experiences with it           |
 | September 04, 2023 19:57 | seed   | ![Cover](https://images.unsplash.com/photo-1621958443248-2c23ead72f22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwyfHxtaWRzdW1tZXJ8ZW58MHwwfHx8MTY5Mzc1MjYyOXww&ixlib=rb-4.0.3&q=80&w=400) | [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/Litha\|Litha]]                                    | Litha dates and traditions                                   |
 | September 04, 2023 20:1  | seed   | ![Cover](https://i.imgur.com/U65inkn.jpg)                                                                                                                                                                              | [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/24 Celebrations and the WOTY\|Wheel of the Year]] | dates and MOC for the wheel of the year                      |
@@ -21,7 +21,7 @@
 - [[20-29 🌀 Draíocht/23 Herbs and Gardening/Elder\|Elder]]
 - [[70-79 Projects/72 The Move/the move outline\|Moving Sucks]]
 - [[60-69 〰️ Dialann/67 Website/Top Level/009 - help\|HELP]]
-- [[60-69 〰️ Dialann/67 Website/Top Level/Untitled\|Navigation]]
+- [[60-69 〰️ Dialann/67 Website/Top Level/Untitled 1\|Navigation test]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/Digital Garden\|Digital Garden]]
 - [[20-29 🌀 Draíocht/23 Herbs and Gardening/foraging\|Foraging]]
 - [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/24 Celebrations and the WOTY\|Wheel of the Year]]
