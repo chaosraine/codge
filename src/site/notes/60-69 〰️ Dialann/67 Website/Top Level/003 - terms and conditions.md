@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"60-69 〰️ Admin/Top Level/003 - terms and conditions.md","dg-permalink":"Terms-conditions","permalink":"/Terms-conditions/","title":"Terms & Conditions","noteIcon":"","created":"2023-08-01T13:16:04","updated":"2023-08-03T17:08:26.000-04:00"}
+{"dg-publish":true,"dg-path":"Legal003 - terms and conditions.md","dg-permalink":"Terms-conditions","permalink":"/Terms-conditions/","title":"Terms & Conditions","noteIcon":"","created":"2023-08-01T13:16:04","updated":"2023-08-03T17:08:26.000-04:00"}
 ---
 
 
