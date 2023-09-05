@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"60-69 〰️ Admin/Top Level/Untitled 1.md","dg-permalink":"navigation","permalink":"/navigation/","title":"Navigation test","contentClasses":"","noteIcon":"","created":"2023-08-29T20:26:26","updated":"2023-09-04T20:26:23.759-04:00"}
+{"dg-publish":true,"dg-path":"LegalUntitled 1.md","dg-permalink":"navigation","permalink":"/navigation/","title":"Navigation test","contentClasses":"","noteIcon":"","created":"2023-08-29T20:26:26","updated":"2023-09-04T20:26:23.759-04:00"}
 ---
 
 
