@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"60-69 〰️ Admin/Top Level/007 - work-with-me.md","dg-permalink":"work-with-me","permalink":"/work-with-me/","title":"Work with me","tags":["website"],"noteIcon":"","created":"","updated":"2023-08-16T20:19:30.374-04:00"}
+{"dg-publish":true,"dg-path":"Legal007 - work-with-me.md","dg-permalink":"work-with-me","permalink":"/work-with-me/","title":"Work with me","tags":["website"],"noteIcon":"","created":"","updated":"2023-08-16T20:19:30.374-04:00"}
 ---
 
 
