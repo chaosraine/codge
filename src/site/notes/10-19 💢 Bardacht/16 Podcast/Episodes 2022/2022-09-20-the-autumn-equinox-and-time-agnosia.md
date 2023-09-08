@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-09-20-the-autumn-equinox-and-time-agnosia.md","permalink":"/ex-gifted/episodes-2022/2022-09-20-the-autumn-equinox-and-time-agnosia/","title":"The Autumn Equinox and Time Agnosia","tags":["witchcraft","executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-08-17T01:22:42.170-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2022/2022-09-20-the-autumn-equinox-and-time-agnosia.md","permalink":"/ex-gifted/episodes-2022/2022-09-20-the-autumn-equinox-and-time-agnosia/","title":"The Autumn Equinox and Time Agnosia","tags":["witchcraft","executive-dysfunction"],"noteIcon":"","created":"","updated":"2023-09-08T13:25:53.542-04:00"}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-08-31-making-your-planner-work-for-you\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-12-30-new-year-2023\|NEXT>>]]
@@ -15,7 +15,7 @@
 
 ## Synopsis & Links
 
-I discuss some reasons I like to celebrate the Wheel of the Year and how it can be helpful to anyone with Executive Dysfunction, witch or not.
+I discuss some reasons I like to celebrate the [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/24 Celebrations and the WOTY\|Wheel of the Year]] and how it can be helpful to anyone with Executive Dysfunction, witch or not.
 
 ## Problem: 
 
@@ -23,7 +23,7 @@ It's hard to remember that June and December have different struggles when it co
 
 ## What we can do about it: 
 
-Celebrating the two solstices and two equinoxes is a great way to welcome a new season and actually tangibly remind yourself that things are about to get different. For the upcoming autumn equinox, try some autumnal decor and recipes, but also don't forget about cleaning and decluttering to prepare your home for the winter months when you likely spend more time indoors.
+Celebrating the two solstices and two equinoxes is a great way to welcome a new season and actually tangibly remind yourself that things are about to get different. For the upcoming [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/Mabon\|autumn equinox]], try some autumnal decor and recipes, but also don't forget about cleaning and decluttering to prepare your home for the winter months when you likely spend more time indoors.
 
 ---
 
