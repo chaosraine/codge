@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"the-move","permalink":"/the-move/","title":"Moving Sucks","tags":["themove","themove/planning",null],"noteIcon":"","created":"2023-08-17T15:20:59","updated":"2023-09-04T21:53:48.000-04:00"}
+{"dg-publish":true,"dg-permalink":"the-move","permalink":"/the-move/","title":"Moving Sucks","tags":["themove","themove/planning",null],"noteIcon":"","created":"2023-08-17T15:20:59","updated":"2023-09-08T13:48:39.929-04:00"}
 ---
 
 
@@ -55,78 +55,6 @@ I'd love to see if there was some way to see the tasks grouped by room, by month
 ### move - June
 
 
-
-# \-
-
-    - [ ] #themove/remodel paint house
-    - [ ] #themove/remodel/landscaping  landscaping
-    - [ ] #themove/remodel/landscaping japanese maple
-    - [ ] #themove/remodel/landscaping put down ground cloth
-    - [ ] #themove/remodel/landscaping build compost bin
-    - [x] ✅ 2023-08-11
-    - [ ] "paying attention to things is how we show love" TLOU #quotes/shows
-    - [ ] clean out garage for packing
-    - [ ] throw out old guys' stuff
-    - [ ] start collecting newspaper
-    - [ ] UNIFORM boxes
-    - [ ] Shrink wrap
-    - [ ] Dawn
-    - [ ] Noon
-    - [ ] Dusk
-    - [ ] Fall
-        - [ ] Dawn
-        - [ ] Noon
-        - [ ] Dusk
-    - [ ] tape dispenser
-    - [ ] packing paper
-    - [ ] scissors
-    - [ ] post-its
-    - [ ] marker
-    - [ ] QR code labels
-    - [ ] appliance manuals
-    - [ ] records of renovations and updates
-    - [ ] Winter
-        - [ ] Dawn
-        - [ ] Noon
-        - [ ] Dusk
-    - [ ] Spring
-        - [ ] Dawn
-        - [ ] Noon
-        - [ ] Dusk
-# August 09, 2023
-
-    - [x] Make a list of some daily things to do (dishes, laundry, etc...) before getting started on other things each morning 📅 2023-08-09 ✅ 2023-08-15
-# August 10, 2023
-
-    - [x] Make Freyja Protein pancakes 📅 2023-08-10 ✅ 2023-08-14
-# August 11, 2023
-
-    - [x] Cookiebot (or similar) 📅 2023-08-11 ✅ 2023-08-22
-# August 31, 2023
-
-    - [ ] take pictures
-    - [ ] maintenance/cleaning
-    - [ ] take down wallpaper in entry and paint
-    - [ ] start collecting packing materials
-    - [ ] take leftover supplies to hazardous waste disposal
-    - [ ] paint siding
-    - [ ] repair shutter
-    - [ ] paint garage door
-    - [ ] replace AC?
-    - [ ] install window boxes
-    - [ ] clean gutters
-    - [ ] wash walls
-    - [ ] declutter electronics
-    - [ ] pack electronics
-    - [ ] 
-# September 30, 2023
-
-    - [ ] Woodchipping 📅 2023-09-30
-# 9 months out
-
-    - [ ] [room:: garage] top priority so I can move other things in here as I go [due:: 9 months out]  []
-
-{ .block-language-dataview}
 
 
 
