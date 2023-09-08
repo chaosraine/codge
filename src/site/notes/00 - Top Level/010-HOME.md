@@ -22,9 +22,11 @@
 { .block-language-dataview}
 
 ### Recently Updated
+- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W36\|Round-up 2023-W36]]: Round-up for 2023 W36
 - [[00 - Top Level/010-HOME\|010-HOME]]: 🏠 HOME
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-15-202-growth-mindset-is-bs\|2021-10-15-202-growth-mindset-is-bs]]: 202 Growth Mindset is BS
 - [[20-29 🌀 Draíocht/23 Herbs and Gardening/Elder\|Elder]]: Elder
+- [[40-49 🔅 Sláinte/49 Epic Minimalism/Moderation as a virtue\|Moderation as a virtue]]: Moderation as a Virtue
 - [[70-79 Projects/72 The Move/the move outline\|the move outline]]: Moving Sucks
 - [[60-69 〰️ Dialann/67 Website/Top Level/000 - Getting around\|000 - Getting around]]: Navigation
 - [[60-69 〰️ Dialann/67 Website/Top Level/009 - help\|009 - help]]: HELP
