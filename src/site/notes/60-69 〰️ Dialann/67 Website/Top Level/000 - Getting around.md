@@ -26,7 +26,7 @@ Find all the new changes this week in the current [[60-69 〰️ Dialann/60 Roun
 | [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/Litha\|Litha]]                                    | September 04, 2023 19:57 | seed   | Litha dates and traditions                         |
 | [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/24 Celebrations and the WOTY\|Wheel of the Year]] | September 04, 2023 20:1  | seed   | dates and MOC for the wheel of the year            |
 | [[20-29 🌀 Draíocht/23 Herbs and Gardening/foraging\|Foraging]]                                    | September 04, 2023 20:16 | sprout | Notes on my adventures in local foraging           |
-| [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/Mabon\|Litha]]                                    | September 08, 2023 13:7  | seed   | Mabon dates and traditions                         |
+| [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/Mabon\|Mabon]]                                    | September 08, 2023 13:7  | seed   | Mabon dates and traditions                         |
 
 { .block-language-dataview}
 ## Graph View
