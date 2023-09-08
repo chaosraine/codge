@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"20-29 🌀 Magic/24 Celebrations and the WOTY/24 Celebrations and the WOTY.md","dg-permalink":"woty","permalink":"/woty/","title":"Wheel of the Year","noteIcon":"","created":"2023-09-04T20:01:52","updated":"2023-09-03T11:29:42.508-04:00"}
+{"dg-publish":true,"dg-path":"20-29 🌀 Magic/24 Celebrations and the WOTY/24 Celebrations and the WOTY.md","dg-permalink":"woty","permalink":"/woty/","title":"Wheel of the Year","tags":["🌀draíocht","🌀draíocht/woty"],"noteIcon":"","created":"2023-09-04T20:01:52","updated":"2023-09-08T13:17:34.996-04:00"}
 ---
 
 
@@ -12,6 +12,6 @@
 - Beltane: May 1-2
 - [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/Litha\|Litha]]: June 21-24
 - Lammas: August 1-2
-- [[Mabon\|Mabon]]: September 20-24
+- [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/Mabon\|Mabon]]: September 20-24
 - Samhain: October 31-November 1
 - Yule: December 21-24
