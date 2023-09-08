@@ -21,7 +21,6 @@ Lots of food this week, and plans for how to deal with regular cooking and groce
 
 ## Recently Updated
 - [[20-29 🌀 Draíocht/23 Herbs and Gardening/foraging\|Foraging]]
-- [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/24 Celebrations and the WOTY\|Wheel of the Year]]
 - [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/Litha\|Litha]]
 - [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|What's new this week]]
 - [[30-39 ♨️ Teaghlach/32 Meals/5-week meal plan\|5-week meal plan]]
