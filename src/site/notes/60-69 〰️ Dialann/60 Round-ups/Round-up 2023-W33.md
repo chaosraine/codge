@@ -24,7 +24,6 @@ One reason I wanted to switch to this [[60-69 〰️ Dialann/68 Using Obsidian/D
 - [[60-69 〰️ Dialann/68 Using Obsidian/Learning in Public\|Learning in Public]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/broken links\|broken links]]
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/How to Keep Things Rolling\|How to Keep Things Rolling]]
-- [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-09-20-the-autumn-equinox-and-time-agnosia\|The Autumn Equinox and Time Agnosia]]
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/Automation\|Automation]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W33\|Round-up for 2023 W33]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method\|Best Practices: Using Rocketbook for the Medium Method]]
