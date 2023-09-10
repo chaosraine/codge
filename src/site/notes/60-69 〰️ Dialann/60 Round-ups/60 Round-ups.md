@@ -22,7 +22,6 @@
 - [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/Mabon\|Mabon]]
 - [[70-79 Projects/72 The Move/the move outline\|Moving Sucks]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-09-20-the-autumn-equinox-and-time-agnosia\|The Autumn Equinox and Time Agnosia]]
-- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W36\|Round-up for 2023 W36]]
 - [[40-49 🔅 Sláinte/49 Epic Minimalism/Moderation as a virtue\|Moderation as a Virtue]]
 - [[20-29 🌀 Draíocht/23 Herbs and Gardening/Elder\|Elder]]
 - [[00 - Top Level/010-HOME\|🏠 HOME]]
