@@ -30,9 +30,6 @@
 - [[60-69 〰️ Dialann/67 Website/Top Level/000 - Getting around\|Navigation]]
 - [[60-69 〰️ Dialann/67 Website/Top Level/009 - help\|HELP]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/Digital Garden\|Digital Garden]]
-- [[20-29 🌀 Draíocht/23 Herbs and Gardening/foraging\|Foraging]]
-- [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/Litha\|Litha]]
-- [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|What's new this week]]
 
 { .block-language-dataview}
 
