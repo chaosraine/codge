@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"20-29 🌀 Magic/23 Herbs and Gardening/Lemon balm.md","dg-permalink":"lemon-balm","permalink":"/lemon-balm/","title":"Lemon balm","tags":["learninpublic","🌀draíocht/herbalism"],"noteIcon":"","created":"2023-09-09T11:18","updated":"2023-09-09T11:33:26.000-04:00"}
+{"dg-publish":true,"dg-path":"20-29 🌀 Magic/23 Herbs and Gardening/Lemon balm.md","dg-permalink":"lemon-balm","permalink":"/lemon-balm/","title":"Lemon balm","tags":["learninpublic","🌀draíocht/herbalism"],"noteIcon":"","created":"2023-09-09T11:18","updated":"2023-09-10T01:30:05.291-04:00"}
 ---
 
 ## In the Garden
@@ -16,7 +16,7 @@ It smells lovely though, and in particular it has a scent reminiscent of somethi
 Apparently lemon balm has some effect on thyroid hormone behavior and may act as a mild sedative, so it is **NOT** recommended as a supplement for people on thyroid medications, or who are on sedatives. Of course, consult your physician before taking any supplements. [Mount Sinai on lemon balm](https://www.mountsinai.org/health-library/herb/lemon-balm)
 ## Recipes
 - [Lemon Balm Cleaning Spray](https://gardentherapy.ca/natural-cleaning-spray-with-lemon-balm/)
-- [Lemon Balm Room Spray]()
+- [Lemon Balm Room Spray](https://www.thejoyofplants.co.uk/diy-essential-oil-botanical-room-spray)
 
 
 
