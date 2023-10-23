@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"20-29 🌀 Magic/24 Celebrations and the WOTY/Mabon.md","dg-permalink":"woty-mabon","permalink":"/woty-mabon/","title":"Mabon","noteIcon":"","created":"2023-09-08T13:07","updated":"2023-09-11T11:15:27.000-04:00"}
+{"dg-publish":true,"dg-path":"20-29 🌀 Magic/24 Celebrations and the WOTY/Mabon.md","dg-permalink":"woty-mabon","permalink":"/woty-mabon/","title":"Mabon","noteIcon":"","created":"2023-09-08T13:07"}
 ---
 
 
