@@ -22,7 +22,7 @@ Find all the new changes this week in the current [[60-69 〰️ Dialann/60 Roun
 
 | Title                                                     | Date                  | Status | Description |
 | --------------------------------------------------------- | --------------------- | ------ | ----------- |
-| [[Obsidian and square pegs\|Obsidian and square pegs]] | October 23, 2023 11:6 | \-     | \-          |
+| [[Obsidian for square pegs\|Obsidian for square pegs]] | October 23, 2023 11:6 | tree   | \-          |
 
 { .block-language-dataview}
 ## Graph View
