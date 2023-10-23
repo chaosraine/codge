@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Round-ups/Round-up 2023-W36.md","dg-permalink":"2023-W36-roundup","permalink":"/2023-W36-roundup/","title":"Round-up for 2023 W36","contentClasses":"cards cards-1-1","noteIcon":"","created":"2023-09-08T08:26:45","updated":"2023-09-10T01:46:53.255-04:00"}
+{"dg-publish":true,"dg-path":"Round-ups/Round-up 2023-W36.md","dg-permalink":"2023-W36-roundup","permalink":"/2023-W36-roundup/","title":"Round-up for 2023 W36","contentClasses":"cards cards-1-1","noteIcon":"","created":"2023-09-08T08:26:45"}
 ---
 
 
@@ -19,14 +19,14 @@ I did some foraging last weekend and this is my first year working with elderber
 ## Recently Updated
 - [[20-29 🌀 Draíocht/23 Herbs and Gardening/380 - Lemon balm\|Lemon balm]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W36\|Round-up for 2023 W36]]
-- [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-09-20-the-autumn-equinox-and-time-agnosia\|The Autumn Equinox and Time Agnosia]]
-- [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/24 Celebrations and the WOTY\|Wheel of the Year]]
 - [[70-79 Projects/72 The Move/the move outline\|Moving Sucks]]
+- [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/24 Celebrations and the WOTY\|Wheel of the Year]]
+- [[10-19 💢 Bardacht/16 Podcast/Episodes 2022/2022-09-20-the-autumn-equinox-and-time-agnosia\|The Autumn Equinox and Time Agnosia]]
+- [[40-49 🔅 Sláinte/49 Epic Minimalism/Moderation as a virtue\|Moderation as a Virtue]]
 - [[00 - Top Level/010-HOME\|🏠 HOME]]
 - [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-15-202-growth-mindset-is-bs\|202 Growth Mindset is BS]]
-- [[40-49 🔅 Sláinte/49 Epic Minimalism/Moderation as a virtue\|Moderation as a Virtue]]
-- [[60-69 〰️ Dialann/67 Website/Top Level/000 - Getting around\|Navigation]]
 - [[60-69 〰️ Dialann/67 Website/Top Level/009 - help\|HELP]]
+- [[60-69 〰️ Dialann/67 Website/Top Level/000 - Getting around\|Navigation]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/Digital Garden\|Digital Garden]]
 
 { .block-language-dataview}
