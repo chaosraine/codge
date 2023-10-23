@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Legal001 - disclaimers.md","dg-permalink":"disclaimers","permalink":"/disclaimers/","title":"Disclaimers","noteIcon":"","created":"","updated":"2023-08-03T17:08:26.000-04:00"}
+{"dg-publish":true,"dg-path":"Legal001 - disclaimers.md","dg-permalink":"disclaimers","permalink":"/disclaimers/","title":"Disclaimers","noteIcon":""}
 ---
 
 
