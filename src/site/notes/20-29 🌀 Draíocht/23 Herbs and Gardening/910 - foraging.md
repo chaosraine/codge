@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"20-29 🌀 Magic/23 Herbs and Gardening/910 - foraging.md","dg-permalink":"foraging","permalink":"/foraging/","title":"Foraging","noteIcon":"","created":"2023-09-04T20:16","updated":"2023-09-11T12:48:48.000-04:00"}
+{"dg-publish":true,"dg-path":"20-29 🌀 Magic/23 Herbs and Gardening/910 - foraging.md","dg-permalink":"foraging","permalink":"/foraging/","title":"Foraging","noteIcon":"","created":"2023-09-04T20:16"}
 ---
 
 
