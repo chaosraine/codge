@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"20-29 🌀 Magic/24 Celebrations and the WOTY/24 Celebrations and the WOTY.md","dg-permalink":"woty","permalink":"/woty/","title":"Wheel of the Year","tags":["🌀draíocht","🌀draíocht/woty"],"noteIcon":"","created":"2023-09-04T20:01:52","updated":"2023-09-08T13:17:34.996-04:00"}
+{"dg-publish":true,"dg-path":"20-29 🌀 Magic/24 Celebrations and the WOTY/24 Celebrations and the WOTY.md","dg-permalink":"woty","permalink":"/woty/","title":"Wheel of the Year","tags":["🌀draíocht","🌀draíocht/woty"],"noteIcon":"","created":"2023-09-04T20:01:52"}
 ---
 
 
