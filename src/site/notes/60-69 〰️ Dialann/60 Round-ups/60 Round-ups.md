@@ -5,15 +5,15 @@
 
 ## New this week
 
-| Date                  | Status | Cover      | Title                                                     | Description |
-| --------------------- | ------ | ---------- | --------------------------------------------------------- | ----------- |
-| October 23, 2023 11:6 | tree   | ![Cover]() | [[Obsidian for square pegs\|Obsidian for square pegs]] | \-          |
+| Date                  | Status | Cover      | Title                                                                                        | Description |
+| --------------------- | ------ | ---------- | -------------------------------------------------------------------------------------------- | ----------- |
+| October 23, 2023 11:6 | tree   | ![Cover]() | [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian for square pegs\|Obsidian for square pegs]] | \-          |
 
 { .block-language-dataview}
 
 ## Recently Updated
 - [[60-69 〰️ Dialann/68 Using Obsidian/plugins\|plugins]]
-- [[Obsidian for square pegs\|Obsidian for square pegs]]
+- [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian for square pegs\|Obsidian for square pegs]]
 
 { .block-language-dataview}
 
