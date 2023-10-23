@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"60-69 〰️ Admin/68 Using Obsidian/Digital Garden.md","dg-permalink":"digital-garden","permalink":"/digital-garden/","noteIcon":"","created":"2023-08-17T13:45:42","updated":"2023-09-04T15:28:42.425-04:00"}
+{"dg-publish":true,"dg-path":"60-69 〰️ Admin/68 Using Obsidian/Digital Garden.md","dg-permalink":"digital-garden","permalink":"/digital-garden/","noteIcon":"","created":"2023-08-17T13:45:42"}
 ---
 
 
