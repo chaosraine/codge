@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Round-ups/Round-up 2023-W35.md","dg-permalink":"2023-W35-roundup","permalink":"/2023-W35-roundup/","title":"Round-up for 2023 W35","contentClasses":"cards cards-1-1","noteIcon":"","created":"2023-08-31T14:16:49","updated":"2023-08-31T14:16:54.000-04:00"}
+{"dg-publish":true,"dg-path":"Round-ups/Round-up 2023-W35.md","dg-permalink":"2023-W35-roundup","permalink":"/2023-W35-roundup/","title":"Round-up for 2023 W35","contentClasses":"cards cards-1-1","noteIcon":"","created":"2023-08-31T14:16:49"}
 ---
 
  
@@ -24,13 +24,13 @@ Lots of food this week, and plans for how to deal with regular cooking and groce
 - [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|What's new this week]]
 - [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 3 - Recipes\|Capsule Pantry 3 - Recipes]]
 - [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 4 - Variety\|Capsule Pantry 4 - Variety]]
-- [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 5 - Tying it all together\|Capsule Pantry 5 - Tying it all together]]
-- [[30-39 ♨️ Teaghlach/32 Meals/Recipes/Red Beans and Rice\|Red Beans and Rice]]
 - [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 2 - Ingredients\|Capsule Pantry 2 - Ingredients]]
+- [[30-39 ♨️ Teaghlach/32 Meals/Recipes/Red Beans and Rice\|Red Beans and Rice]]
+- [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry 5 - Tying it all together\|Capsule Pantry 5 - Tying it all together]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W35\|Round-up for 2023 W35]]
-- [[10-19 💢 Bardacht/15 Blog/15 Blog\|📌 Blog]]
-- [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|📌 Ex-Gifted Podcast]]
 - [[30-39 ♨️ Teaghlach/32 Meals/Capsule Pantry- A minimalist meal plan\|Capsule Pantry]]
+- [[10-19 💢 Bardacht/16 Podcast/16 Podcast\|📌 Ex-Gifted Podcast]]
+- [[10-19 💢 Bardacht/15 Blog/15 Blog\|📌 Blog]]
 - [[30-39 ♨️ Teaghlach/32 Meals/Meal Planning\|Meal Planning]]
 - [[60-69 〰️ Dialann/66 Supplies & Strategies/My life in threads\|My life in threads]]
 
