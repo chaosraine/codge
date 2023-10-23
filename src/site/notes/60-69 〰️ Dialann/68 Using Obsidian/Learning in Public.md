@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"60-69 〰️ Admin/68 Using Obsidian/Learning in Public.md","permalink":"/60-69-admin/68-using-obsidian/learning-in-public/","noteIcon":"","created":"2023-08-17T13:57:22","updated":"2023-08-20T12:41:02.640-04:00"}
+{"dg-publish":true,"dg-path":"60-69 〰️ Admin/68 Using Obsidian/Learning in Public.md","permalink":"/60-69-admin/68-using-obsidian/learning-in-public/","noteIcon":"","created":"2023-08-17T13:57:22"}
 ---
 
 
