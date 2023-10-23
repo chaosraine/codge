@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"20-29 🌀 Magic/24 Celebrations and the WOTY/Litha.md","dg-permalink":"woty-litha","permalink":"/woty-litha/","title":"Litha","noteIcon":"","created":"2023-09-04T19:57","updated":"2023-09-03T10:50:54.577-04:00"}
+{"dg-publish":true,"dg-path":"20-29 🌀 Magic/24 Celebrations and the WOTY/Litha.md","dg-permalink":"woty-litha","permalink":"/woty-litha/","title":"Litha","noteIcon":"","created":"2023-09-04T19:57"}
 ---
 
 
