@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Round-ups/Round-up 2023-W33.md","dg-permalink":"2023-W33-roundup","permalink":"/2023-W33-roundup/","title":"Round-up for 2023 W33","contentClasses":"cards cards-1-1","noteIcon":"","created":"2023-08-17T00:58:11","updated":"2023-08-17T01:01:38.488-04:00"}
+{"dg-publish":true,"dg-path":"Round-ups/Round-up 2023-W33.md","dg-permalink":"2023-W33-roundup","permalink":"/2023-W33-roundup/","title":"Round-up for 2023 W33","contentClasses":"cards cards-1-1","noteIcon":"","created":"2023-08-17T00:58:11"}
 ---
 
 
@@ -21,23 +21,23 @@ One reason I wanted to switch to this [[60-69 〰️ Dialann/68 Using Obsidian/D
 ## Recently Updated
 - [[40-49 🔅 Sláinte/41 Mind/discomfort tolerance\|discomfort tolerance]]
 - [[40-49 🔅 Sláinte/41 Mind/mental friction\|mental friction]]
-- [[60-69 〰️ Dialann/68 Using Obsidian/Learning in Public\|Learning in Public]]
 - [[60-69 〰️ Dialann/68 Using Obsidian/broken links\|broken links]]
+- [[60-69 〰️ Dialann/68 Using Obsidian/Learning in Public\|Learning in Public]]
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/How to Keep Things Rolling\|How to Keep Things Rolling]]
 - [[40-49 🔅 Sláinte/40 Thoughts & Ideas/Automation\|Automation]]
 - [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W33\|Round-up for 2023 W33]]
 - [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-01-14-how-to-use-rocketbook-for-the-medium-method\|Best Practices: Using Rocketbook for the Medium Method]]
 - [[60-69 〰️ Dialann/67 Website/Top Level/002 - privacy\|Privacy Policy]]
 - [[60-69 〰️ Dialann/67 Website/Top Level/007 - work-with-me\|Work with me]]
-- [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-01-time-management-for-executive-dysfunction\|Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction]]
-- [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-09-14-enough-a-socratic-dialog\|Enough: A Socratic Dialog]]
-- [[10-19 💢 Bardacht/15 Blog/Blog 2022/2022-05-10-motivation-vs-inspiration\|Motivation vs. Inspiration]]
-- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/31 Spooky and Fun Halloween Homeschool Ideas\|31 Spooky and Fun Halloween Homeschool Ideas Roundup]]
-- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/A is For All Hallows Eve\|A is For All Hallows Eve]]
 - [[40-49 🔅 Sláinte/43 Spirit/Minimalism and Abundance\|minimalism and abundance]]
-- [[60-69 〰️ Dialann/67 Website/Pages/009 - thoughts\|Thought Ladder]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/A is For All Hallows Eve\|A is For All Hallows Eve]]
+- [[10-19 💢 Bardacht/15 Blog/Nerdish Mom Archives/31 Spooky and Fun Halloween Homeschool Ideas\|31 Spooky and Fun Halloween Homeschool Ideas Roundup]]
+- [[10-19 💢 Bardacht/15 Blog/Blog 2022/2022-05-10-motivation-vs-inspiration\|Motivation vs. Inspiration]]
+- [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-09-14-enough-a-socratic-dialog\|Enough: A Socratic Dialog]]
+- [[10-19 💢 Bardacht/15 Blog/Blog 2021/2021-03-01-time-management-for-executive-dysfunction\|Take Back Your Time: The Ultimate Guide to Time Management for Adults with Executive Dysfunction]]
 - [[60-69 〰️ Dialann/67 Website/Pages/011 - nanowrimo\|NaNoWriMo]]
 - [[60-69 〰️ Dialann/67 Website/Pages/2021-07-23-time-sign-up\|Sign up for the Newsletter]]
+- [[60-69 〰️ Dialann/67 Website/Pages/009 - thoughts\|Thought Ladder]]
 
 { .block-language-dataview}
 
