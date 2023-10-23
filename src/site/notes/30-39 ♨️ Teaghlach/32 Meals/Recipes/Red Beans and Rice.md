@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"30-39 ♨️ Household/32 Meals/Recipes/Red Beans and Rice.md","dg-permalink":"red-beans-rice","permalink":"/red-beans-rice/","noteIcon":"","created":"2023-08-28T12:23:56","updated":"2023-08-31T14:13:14.000-04:00"}
+{"dg-publish":true,"dg-path":"30-39 ♨️ Household/32 Meals/Recipes/Red Beans and Rice.md","dg-permalink":"red-beans-rice","permalink":"/red-beans-rice/","noteIcon":"","created":"2023-08-28T12:23:56"}
 ---
 
 
@@ -44,5 +44,5 @@ The number of servings indicated is for eating as a main dish. As a side, it wil
 ## Nutrition Facts
 Per Serving: 436 calories; protein 20g; carbohydrates 76g; fat 6.5g; sodium 64.7mg.
 
-![IMG_9656.jpeg](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/IMG_9656.jpeg)
+![IMG_9656.jpeg|undefined](/img/user/80-89%20Assets/82%20-%20Photo%20Attachments/IMG_9656.jpeg)
 *nutrition data from allrecipes*
