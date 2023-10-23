@@ -20,9 +20,9 @@ These are Tables of Contents on assorted topics. I will add more as I build out 
 
 Find all the new changes this week in the current [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|roundup]].
 
-| Title                                                     | Date                  | Status | Description |
-| --------------------------------------------------------- | --------------------- | ------ | ----------- |
-| [[Obsidian for square pegs\|Obsidian for square pegs]] | October 23, 2023 11:6 | tree   | \-          |
+| Title                                                                                        | Date                  | Status | Description |
+| -------------------------------------------------------------------------------------------- | --------------------- | ------ | ----------- |
+| [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian for square pegs\|Obsidian for square pegs]] | October 23, 2023 11:6 | tree   | \-          |
 
 { .block-language-dataview}
 ## Graph View
