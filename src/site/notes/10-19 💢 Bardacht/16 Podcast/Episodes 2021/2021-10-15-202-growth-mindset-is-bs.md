@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-10-15-202-growth-mindset-is-bs.md","permalink":"/ex-gifted/episodes-2021/2021-10-15-202-growth-mindset-is-bs/","title":"202 Growth Mindset is BS","tags":["growth"],"noteIcon":"","created":"","updated":"2023-09-04T15:28:29.719-04:00"}
+{"dg-publish":true,"dg-path":"ExGifted/Episodes 2021/2021-10-15-202-growth-mindset-is-bs.md","permalink":"/ex-gifted/episodes-2021/2021-10-15-202-growth-mindset-is-bs/","title":"202 Growth Mindset is BS","tags":["growth"],"noteIcon":"","created":20211015}
 ---
 
 [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-01-201-what-is-growth-mindset\|<<PREV]]                          [[10-19 💢 Bardacht/16 Podcast/Episodes 2021/2021-10-29-203-grow-your-own-woo\|NEXT>>]]
