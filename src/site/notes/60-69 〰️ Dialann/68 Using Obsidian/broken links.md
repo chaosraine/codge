@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"60-69 〰️ Admin/68 Using Obsidian/broken links.md","dg-permalink":"broken-links","permalink":"/broken-links/","noteIcon":"","created":"2023-08-20T12:15:24","updated":"2023-08-20T12:41:42.340-04:00"}
+{"dg-publish":true,"dg-path":"60-69 〰️ Admin/68 Using Obsidian/broken links.md","dg-permalink":"broken-links","permalink":"/broken-links/","noteIcon":"","created":"2023-08-20T12:15:24"}
 ---
 
 
