@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Legal002 - privacy.md","dg-permalink":"privacy","permalink":"/privacy/","title":"Privacy Policy","noteIcon":"","created":"","updated":"2023-08-16T20:53:40.656-04:00"}
+{"dg-publish":true,"dg-path":"Legal002 - privacy.md","dg-permalink":"privacy","permalink":"/privacy/","title":"Privacy Policy","noteIcon":""}
 ---
 
 
