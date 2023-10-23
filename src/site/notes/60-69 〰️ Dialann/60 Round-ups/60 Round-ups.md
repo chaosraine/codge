@@ -1,21 +1,19 @@
 ---
-{"dg-publish":true,"dg-path":"Round-ups/60 Round-ups.md","dg-permalink":"roundup","permalink":"/roundup/","title":"What's new this week","pinned":true,"contentClasses":"cards cards-1-1","noteIcon":"","created":"","updated":"2023-09-03T10:52:52.214-04:00"}
+{"dg-publish":true,"dg-path":"Round-ups/60 Round-ups.md","dg-permalink":"roundup","permalink":"/roundup/","title":"What's new this week","pinned":true,"contentClasses":"cards cards-1-1","noteIcon":""}
 ---
 
 
 ## New this week
 
-| Date | Status | Cover | Title | Description |
-| ---- | ------ | ----- | ----- | ----------- |
+| Date                  | Status | Cover      | Title                                                     | Description |
+| --------------------- | ------ | ---------- | --------------------------------------------------------- | ----------- |
+| October 23, 2023 11:6 | \-     | ![Cover]() | [[Obsidian and square pegs\|Obsidian and square pegs]] | \-          |
 
 { .block-language-dataview}
 
 ## Recently Updated
-- [[60-69 〰️ Dialann/60 Round-ups/Round-up 2023-W37\|Round-up for 2023 W37]]
-- [[30-39 ♨️ Teaghlach/32 Meals/5-week meal plan\|5-week meal plan]]
-- [[20-29 🌀 Draíocht/23 Herbs and Gardening/210 - elder\|Elder]]
-- [[20-29 🌀 Draíocht/23 Herbs and Gardening/910 - foraging\|Foraging]]
-- [[20-29 🌀 Draíocht/24 Celebrations and the WOTY/Mabon\|Mabon]]
+- [[60-69 〰️ Dialann/68 Using Obsidian/plugins\|plugins]]
+- [[Obsidian and square pegs\|Obsidian and square pegs]]
 
 { .block-language-dataview}
 
