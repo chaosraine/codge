@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"20-29 🌀 Magic/23 Herbs and Gardening/380 - Lemon balm.md","dg-permalink":"lemon-balm","permalink":"/lemon-balm/","title":"Lemon balm","tags":["learninpublic","🌀draíocht/herbalism"],"noteIcon":"","created":"2023-09-09T11:18","updated":"2023-09-10T01:30:05.291-04:00"}
+{"dg-publish":true,"dg-path":"20-29 🌀 Magic/23 Herbs and Gardening/380 - Lemon balm.md","dg-permalink":"lemon-balm","permalink":"/lemon-balm/","title":"Lemon balm","tags":["learninpublic","🌀draíocht/herbalism"],"noteIcon":"","created":"2023-09-09T11:18"}
 ---
 
 ## In the Garden
