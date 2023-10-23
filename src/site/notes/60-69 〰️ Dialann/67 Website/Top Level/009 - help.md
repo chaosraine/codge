@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Legal009 - help.md","dg-permalink":"help","permalink":"/help/","title":"HELP","noteIcon":"","created":"2023-08-08T13:56:11","updated":"2023-09-04T16:41:45.479-04:00"}
+{"dg-publish":true,"dg-path":"Legal009 - help.md","dg-permalink":"help","permalink":"/help/","title":"HELP","noteIcon":"","created":"2023-08-08T13:56:11"}
 ---
 
 
