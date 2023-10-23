@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"40-49 🔅 Health/41 Mind/discomfort tolerance.md","dg-permalink":"discomfort-tolerance","permalink":"/discomfort-tolerance/","noteIcon":"","created":"2023-08-17T15:16:38","updated":"2023-08-20T12:17:29.256-04:00"}
+{"dg-publish":true,"dg-path":"40-49 🔅 Health/41 Mind/discomfort tolerance.md","dg-permalink":"discomfort-tolerance","permalink":"/discomfort-tolerance/","noteIcon":"","created":"2023-08-17T15:16:38"}
 ---
 
 
