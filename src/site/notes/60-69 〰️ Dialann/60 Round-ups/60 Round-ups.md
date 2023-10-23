@@ -7,13 +7,13 @@
 
 | Date                  | Status | Cover      | Title                                                     | Description |
 | --------------------- | ------ | ---------- | --------------------------------------------------------- | ----------- |
-| October 23, 2023 11:6 | \-     | ![Cover]() | [[Obsidian and square pegs\|Obsidian and square pegs]] | \-          |
+| October 23, 2023 11:6 | tree   | ![Cover]() | [[Obsidian for square pegs\|Obsidian for square pegs]] | \-          |
 
 { .block-language-dataview}
 
 ## Recently Updated
 - [[60-69 〰️ Dialann/68 Using Obsidian/plugins\|plugins]]
-- [[Obsidian and square pegs\|Obsidian and square pegs]]
+- [[Obsidian for square pegs\|Obsidian for square pegs]]
 
 { .block-language-dataview}
 
