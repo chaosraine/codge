@@ -12,15 +12,13 @@
   Find general advice about building systems to keep your mind, time, and space organized, but in a way that works for your chaotic brain.
 
 ## [[60-69 〰️ Dialann/60 Round-ups/60 Round-ups\|New This Week]]
-| Date                  | Status | Cover      | Title                                                                                        | Description |
-| --------------------- | ------ | ---------- | -------------------------------------------------------------------------------------------- | ----------- |
-| October 23, 2023 11:6 | tree   | ![Cover]() | [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian for square pegs\|Obsidian for square pegs]] | \-          |
+| Date | Status | Cover | Title | Description |
+| ---- | ------ | ----- | ----- | ----------- |
 
 { .block-language-dataview}
 
 ### Recently Updated
-- [[60-69 〰️ Dialann/68 Using Obsidian/plugins\|plugins]]: plugins
-- [[60-69 〰️ Dialann/68 Using Obsidian/Obsidian for square pegs\|Obsidian for square pegs]]: Obsidian for square pegs
+- [[30-39 ♨️ Teaghlach/32 Meals/5-week meal plan\|5-week meal plan]]: 
 
 { .block-language-dataview}
 
